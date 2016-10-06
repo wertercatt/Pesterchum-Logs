@@ -1,0 +1,54 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  crash lands in a crouch outside the HQ --</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is in an old room at the end of a hallway on the 2nd floor... a converted broom closet. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is still on the couch from yesterday... but doesn't know what to do about this --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  teleports up into the closet using FL as an Anchor --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jams the door shut --</span><br />
+<span style="color:#a80000">CFA: (\ Got yyou /)</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  looks at FA and blinks. --</span><br />
+<span style="color:#0080ff">CFL: Please go away.</span><br />
+<span style="color:#a80000">CFA: (\ No /)</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#a80000">CFA: (\ Do yyou even understand the shit yyou're getting into /)</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns away and goes back to his shades. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  crouches down and forces him to look at her --</span><br />
+<span style="color:#a80000">CFA: (\ Look at me motherfucker /)</span><br />
+<span style="color:#a80000">CFA: (\ do yyou even have anyy idea? /)</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: *goes back τo sleep*</span><br />
+<span style="color:#6507ff">CTT: *Is so glad τhaτ she's asleep*</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: *heads τo her room so nobody will boτher her while she's sleeping*</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CWD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#7e0041">CURRENT childMeenah [CCM]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7e0041">CCM: ( ͡° ͜ʖ ͡°)</span><br />
+<span style="color:#646464"><span style="color:#000000">CCM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  lays down next to a bottle. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  heads into the BaCafe, sighing. --</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

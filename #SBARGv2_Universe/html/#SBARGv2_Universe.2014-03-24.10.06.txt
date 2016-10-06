@@ -1,0 +1,173 @@
+[10:06] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 UNIVERSE.</span><br />
+[10:06] <span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[10:06] <span style="color:#646464">[#SBARGv2_Universe] ENTRYMSG V2 Aftermath IC memo. <a href='#SBARGv2_General'>#SBARGv2_General</a> (PLEASE REPOPULATE THIS) for OOC. <a href='http://kapowcreations.com/sbarginfo'>http://kapowcreations.com/sbarginfo</a> for info.</span><br />
+[10:06] <span style="color:#000000">CCC</span> took away <span style="color:#ee1e00">CP</span>'s OP powers.<br />
+[03:12] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[03:13] <span style="color:#646464"><span style="color:#000000">CVS</span> ceased responding to memo.</span><br />
+[03:15] <span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[03:19] <span style="color:#646464"><span style="color:#005500">CURRENT neuroticVagabond [CNV]</span> RIGHT NOW responded to memo.</span><br />
+[03:19] <span style="color:#005500">CNV: { Sup }</span><br />
+[03:19] <span style="color:#646464"><span style="color:#225604">CURRENT crazedPyrotechnic [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:19] <span style="color:#225604">CCP: ((Oh, hi))</span><br />
+[03:20] <span style="color:#005500">CNV: { Oh fudge OOC is my auto quirk }</span><br />
+[03:20] <span style="color:#005500">CNV: { I always forget that }</span><br />
+[03:20] <span style="color:#005500">CNV: S'up!</span><br />
+[03:20] <span style="color:#225604">CCP: oh hi</span><br />
+[03:21] <span style="color:#ee1e00">CCP: hey.</span><br />
+[03:34] <span style="color:#005500">CNV: Anything going on?</span><br />
+[03:34] <span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[03:34] <span style="color:#cb7de6">CSJ: I doubt it. ➜</span><br />
+[03:34] <span style="color:#225604">CCP: this guy is a card game wizard</span><br />
+[03:35] <span style="color:#ee1e00">CCP: Adal's friend is turning yugioh cards into living creatures. it's surreal.</span><br />
+[03:36] <span style="color:#005500">CNV: Nothing new there.</span><br />
+[03:40] <span style="color:#005500">CNV: You get your webcam back safely Nik?</span><br />
+[03:40] <span style="color:#cb7de6">CSJ: yeah ➜</span><br />
+[03:42] <span style="color:#005500">CNV: Awesome. Anything new with you?</span><br />
+[03:43] <span style="color:#cb7de6">CSJ: not much, mostly just trying out some new recipies from a cookbook I downloaded the other day. ➜</span><br />
+[03:45] <span style="color:#ee1e00">CCP: ooh, recipes for what?</span><br />
+[03:45] <span style="color:#cb7de6">CSJ: just a bunch of generic entrees and stuff, I haven't really skimmed the entire thing yet. ➜</span><br />
+[03:46] <span style="color:#005500">CNV: Gonna make us an Easter dinner? Or...whatever food related holiday is coming up?</span><br />
+[03:47] <span style="color:#cb7de6">CSJ: maybe. ➜</span><br />
+[04:04] <span style="color:#ee1e00">CCP: ((afk feeding the horse))</span><br />
+[04:13] <span style="color:#646464"><span style="color:#67009a">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[04:13] <span style="color:#67009a">CAS: hellooo</span><br />
+[04:18] <span style="color:#005500">CNV: Hey.</span><br />
+[04:18] <span style="color:#67009a">CAS: hi</span><br />
+[04:18] <span style="color:#225604">CCP: oh hi</span><br />
+[04:18] <span style="color:#67009a">CAS: isaac</span><br />
+[04:18] <span style="color:#67009a">CAS: &gt;&gt;</span><br />
+[04:18] <span style="color:#225604">CCP: you weren't here on saturday were you</span><br />
+[04:19] <span style="color:#67009a">CAS: i think I peeked on...i'd have to check</span><br />
+[04:20] <span style="color:#67009a">CAS: yea i was on</span><br />
+[04:20] <span style="color:#67009a">CAS: only thing you said the entire time i was there was that you were past curfew</span><br />
+[04:20] <span style="color:#225604">CCP: oh</span><br />
+[04:20] <span style="color:#225604">CCP: that must have been really late, i apologize</span><br />
+[04:21] <span style="color:#67009a">CAS: *shrug*</span><br />
+[04:22] <span style="color:#67009a">CAS: with the universe being threatened, I guess I can hardly blame someone for pushing other things aside</span><br />
+[04:23] <span style="color:#225604">CCP: i found cal's weakness, by the by</span><br />
+[04:23] <span style="color:#67009a">CAS: oh?</span><br />
+[04:23] <span style="color:#67009a">CAS: does she happen to be human?</span><br />
+[04:25] <span style="color:#225604">CCP: yup</span><br />
+[04:25] <span style="color:#225604">CCP: but that's not a weakness</span><br />
+[04:25] <span style="color:#67009a">CAS: oh well, se that's quite the weakness by itself v.v;</span><br />
+[04:30] <span style="color:#67009a">CAS: but ok, what's the weakness?</span><br />
+[04:31] <span style="color:#225604">CCP: there's a certain weakness in her psyche i think i can exploit</span><br />
+[04:32] <span style="color:#67009a">CAS: ah, mind diging is dangerous but so is universe exploding :/</span><br />
+[04:43] <span style="color:#005500">CNV: How do we know she stayed with the same weakness through a whole session?</span><br />
+[04:43] <span style="color:#005500">CNV: And how do we know your idea isn't total psychobabble</span><br />
+[04:44] <span style="color:#ee1e00">CCP: ((back))</span><br />
+[04:44] <span style="color:#67009a">CAS: I can look into it when he comes and visits me</span><br />
+[04:46] <span style="color:#005500">CNV: Eh fair enough.</span><br />
+[04:46] <span style="color:#005500">CNV: I just hope it's better than the last one.</span><br />
+[04:46] <span style="color:#67009a">CAS: ?</span><br />
+[04:47] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[04:47] <span style="color:#005500">CNV: The Milk aspect</span><br />
+[04:47] <span style="color:#67009a">CAS: ?</span><br />
+[04:48] <span style="color:#ee1e00">CCP: oh yeah, how did that work out?</span><br />
+[04:48] <span style="color:#225604">CCP: we haven't tried yet</span><br />
+[04:48] <span style="color:#225604">CCP: that's still in the plan if the psychology thing doesn't work</span><br />
+[04:49] <span style="color:#67009a">CAS: in the meantime</span><br />
+[04:49] <span style="color:#67009a">CAS: isaac</span><br />
+[04:49] <span style="color:#67009a">CAS: &gt;&gt;</span><br />
+[04:49] <span style="color:#005500">CNV: We haven't even seen her so our best preparation is fake aspects and psych 101 against 6 enemies</span><br />
+[04:49] <span style="color:#005500">CNV: ...I'm hopeful!</span><br />
+[04:49] <span style="color:#225604">CCP: mmmyeeeees?</span><br />
+[04:50] <span style="color:#67009a">CAS: get your ass over here</span><br />
+[04:50] <span style="color:#67009a">CAS: &gt;&gt;</span><br />
+[04:51] <span style="color:#225604">CCP: me or just my ass</span><br />
+[04:51] <span style="color:#67009a">CAS: ...well...I never really got a loook at your ass...</span><br />
+[04:51] <span style="color:#67009a">CAS: but &gt;.&lt; I meant all of you</span><br />
+[04:52] <span style="color:#ee1e00">CCP: you're doing what now?</span><br />
+[04:52] <span style="color:#67009a">CAS: we are going to kick each other's asses</span><br />
+[04:53] <span style="color:#ee1e00">CCP: here or on Augataur?</span><br />
+[04:53] <span style="color:#005500">CNV: Wha</span><br />
+[04:53] <span style="color:#67009a">CAS: Augataur</span><br />
+[04:53] <span style="color:#005500">CNV: Why</span><br />
+[04:54] <span style="color:#67009a">CAS: it's a little thing called sparring</span><br />
+[04:54] <span style="color:#67009a">CAS: you should try it</span><br />
+[04:54] <span style="color:#67009a">CAS: v.v</span><br />
+[04:55] <span style="color:#005500">CNV: Can the pretentious I've challenged people like PO to a fight confident I could win.</span><br />
+[04:55] <span style="color:#67009a">CAS: gunna pretend that makes sence</span><br />
+[04:55] <span style="color:#005500">CNV: And his trainer was batman Willis sprite.</span><br />
+[04:55] <span style="color:#67009a">CAS: mk</span><br />
+[04:56] <span style="color:#005500">CNV: Wait no...Batman Lee not Willis</span><br />
+[04:56] <span style="color:#67009a">CAS: mk</span><br />
+[04:56] <span style="color:#ee1e00">CCP: Brucebatsprite?</span><br />
+[04:56] <span style="color:#005500">CNV: Yes</span><br />
+[04:56] <span style="color:#67009a">CAS: mk</span><br />
+[04:56] <span style="color:#005500">CNV: It was batman and Bruce Lee in a sprite</span><br />
+[04:56] <span style="color:#67009a">CAS: mk</span><br />
+[04:57] <span style="color:#005500">CNV: Now granted my trump card was a dance off but still.</span><br />
+[04:57] <span style="color:#67009a">CAS: ...isaac...when should i expect you</span><br />
+[05:00] <span style="color:#225604">CCP: some time in the next week</span><br />
+[05:01] <span style="color:#67009a">CAS: mmmmk</span><br />
+[05:01] <span style="color:#67009a">CAS: expect a pie/pillow to the face then</span><br />
+[05:03] <span style="color:#005500">CNV: So we don't all have to come right.</span><br />
+[05:04] <span style="color:#67009a">CAS: wha? i'm just reminding isaand iac of a plan between him </span><br />
+[05:04] <span style="color:#67009a">CAS: ...</span><br />
+[05:04] <span style="color:#67009a">CAS: *isaac of a plan between him and i</span><br />
+[05:05] <span style="color:#005500">CNV: Oh you said 'All of you' and I think Kim and I figured that to mean 'Everybody' for a spar</span><br />
+[05:05] <span style="color:#005500">CNV: Whoops, my bad.</span><br />
+[05:06] <span style="color:#67009a">CAS: :p</span><br />
+[05:06] <span style="color:#67009a">CAS: is fine</span><br />
+[05:07] <span style="color:#ee1e00">CCP: I might come watch the spar though, if that's okay ;)</span><br />
+[05:07] <span style="color:#67009a">CAS: it's fine</span><br />
+[05:07] <span style="color:#67009a">CAS: but don't expect me to win v.v</span><br />
+[05:27] <span style="color:#646464"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+[05:28] <span style="color:#646464"><span style="color:#000000">CPA</span> ceased responding to memo.</span><br />
+[05:28] <span style="color:#67009a">CAS: and apparently it's not gunna be tnight so</span><br />
+[05:28] <span style="color:#67009a">CAS: *shrug*</span><br />
+[05:41] <span style="color:#67009a">CAS: ...</span><br />
+[05:52] <span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+[06:13] <span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[06:46] <span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[06:46] <span style="color:#cb7de6">CSJ: hi there! ➜</span><br />
+[06:46] <span style="color:#646464"><span style="color:#020c32">CURRENT paramountWaterloo [CPW]</span> RIGHT NOW responded to memo.</span><br />
+[06:46] <span style="color:#020c32">CPW: .....hi.</span><br />
+[07:16] <span style="color:#646464"><span style="color:#67009a">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[07:16] <span style="color:#67009a">CAS: and hi</span><br />
+[07:18] <span style="color:#ee1e00">CCP: sup x3 combo</span><br />
+[07:18] <span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+[07:18] <span style="color:#67009a">CAS: :P</span><br />
+[07:18] <span style="color:#67009a">CAS: not much</span><br />
+[07:18] <span style="color:#67009a">CAS: had to go do work</span><br />
+[07:30] <span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+[07:40] <span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+[07:45] <span style="color:#646464"><span style="color:#41dd11">CURRENT courteousCalamity [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[07:45] <span style="color:#41dd11">CCC: ....</span><br />
+[07:46] <span style="color:#67009a">CAS: ?</span><br />
+[07:47] <span style="color:#41dd11">CCC: Chaos. chaos is happening.</span><br />
+[07:47] <span style="color:#67009a">CAS: Your mentor, or just chaos in general..?</span><br />
+[07:47] <span style="color:#41dd11">CCC: chaos in general.</span><br />
+[07:49] <span style="color:#646464"><span style="color:#716604">CURRENT nemeanLier [CNL]</span> RIGHT NOW responded to memo.</span><br />
+[07:49] <span style="color:#716604">CNL: what is on fire this time</span><br />
+[07:49] <span style="color:#41dd11">CCC: Tempers</span><br />
+[07:49] <span style="color:#716604">CNL: oy</span><br />
+[07:49] <span style="color:#716604">CNL: who vs who?</span><br />
+[07:51] <span style="color:#41dd11">CCC: I think Isaac vs fire woman vs king stag</span><br />
+[07:51] <span style="color:#716604">CNL: okay im placing bets on the fire person</span><br />
+[07:52] <span style="color:#ee1e00">CCP: and earlier, it was PW vs Isaac vs PA/VS, which was broken up by the aforementioned king stag...</span><br />
+[07:54] <span style="color:#716604">CNL: can someone just light the area they are all in on fire and call it a day for me</span><br />
+[07:55] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  states for the record that the aforementioned fire person is in the memo and you shouldn't be giving her ideas --</span><br />
+[08:00] <span style="color:#646464"><span style="color:#000000">CPA</span> ceased responding to memo.</span><br />
+[08:52] <span style="color:#646464"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+[08:52] <span style="color:#000000">CFI: when the fuck is VS going to come online?</span><br />
+[08:53] <span style="color:#225604">CCP: she's in the bar. an argument has begun.</span><br />
+[09:43] <span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[10:31] <span style="color:#646464"><span style="color:#000000">CNL</span> ceased responding to memo.</span><br />
+[10:41] <span style="color:#646464"><span style="color:#000000">CWD</span> ceased responding to memo.</span><br />
+[10:59] <span style="color:#41dd11">CCC: so...what's going on now?</span><br />
+[10:59] <span style="color:#41dd11">CCC: ((make that AS))</span><br />
+[10:59] <span style="color:#646464"><span style="color:#000000">CCC</span> ceased responding to memo.</span><br />
+[11:00] <span style="color:#cb7de6">CSJ: no idea, nobody's said anthing here for hours. ➜</span><br />
+[11:00] <span style="color:#cb7de6">CSJ: *anything ➜</span><br />
+[11:00] <span style="color:#67009a">CAS: v.v</span><br />
+[11:01] <span style="color:#ee1e00">CCP: there was a further argument outside the bar, but it's over now...</span><br />
+[11:02] <span style="color:#67009a">CAS: mk</span><br />
+[11:07] <span style="color:#67009a">CAS: anything important?</span><br />
+[11:07] <span style="color:#67009a">CAS: or just stupidity</span><br />
+[11:07] <span style="color:#67009a">CAS: ?</span><br />
+[11:08] <span style="color:#000000">CFI: seemed pretty stupid to me</span><br />
+[11:08] <span style="color:#ee1e00">CCP: yeah, pretty much...</span><br />
+[11:30] <span style="color:#646464"><span style="color:#000000">CFI</span> ceased responding to memo.</span><br />
+[12:03] <span style="color:#ee1e00">CCP: gnight everybody</span><br />

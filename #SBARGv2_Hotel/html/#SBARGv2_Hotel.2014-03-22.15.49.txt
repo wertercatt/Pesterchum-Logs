@@ -1,0 +1,339 @@
+[03:49] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 HOTEL.</span><br />
+[03:50] <span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+[03:50] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Recap: The hotel is trapped in a barrier thats preventing teleportation outside, including planar. And Edward is stuck in the laundry chute. --</span><br />
+[03:51] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //Take is likely still asleep [[((and will remain so until I help push the car to the garage))]] --</span><br />
+[03:52] <span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[03:52] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops over the counter --</span><br />
+[03:52] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  makes her way to the fridge --</span><br />
+[03:52] <span style="color:#cb7de6">CSJ: hmm.... ➜</span><br />
+[03:53] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the fridge barely has anything, just a jar of pickles --</span><br />
+[03:53] <span style="color:#cb7de6">CSJ: ...darn it. ➜</span><br />
+[03:53] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // and some expired milk --</span><br />
+[03:53] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // if thats okay --</span><br />
+[03:53] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //yeah, that too --</span><br />
+[03:54] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  closes the fridge and checks the cupboards --</span><br />
+[03:54] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Oh look, a can of nonstick spray! --</span><br />
+[03:54] <span style="color:#cb7de6">CSJ: man, they use this stuff? laaaame. ➜</span><br />
+[03:54] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  actually yeah, waking up and heading downstairs to see what's going on --</span><br />
+[03:55] <span style="color:#646464"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+[03:55] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  is standing around in the lobby like a badass --</span><br />
+[03:55] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  grabs the nonstick spray --</span><br />
+[03:55] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops back over the cafe counter --</span><br />
+[03:56] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // FI, I think thats missing a space :P --</span><br />
+[03:56] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //fu --</span><br />
+[03:56] <span style="color:#ee1e00">CCP: [[((whoops afk))]]</span><br />
+[03:57] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // You aren't my type. --</span><br />
+[03:57] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  makes her way back to the laundry chute thing --</span><br />
+[03:57] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //stfu charles --</span><br />
+[03:57] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Typing, not talking. --</span><br />
+[03:58] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //tumut --</span><br />
+[03:58] <span style="color:#cb7de6">CSJ: okay, I got something! ➜</span><br />
+[03:58] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  shakes the nonstick can --</span><br />
+[03:58] <span style="color:#0080ff">CFL: Alright, could you hurry up, the blood is going to my head!</span><br />
+[03:59] <span style="color:#cb7de6">CSJ: okay, not sure if this is gonna work or not... ➜</span><br />
+[03:59] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sprays the nonstick spray in the laundry chute --</span><br />
+[03:59] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  thunks down the chute --</span><br />
+[04:00] <span style="color:#0080ff">CFL: OWOWOWOWowowowow........</span><br />
+[04:00] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the chute ends in the laundry room --</span><br />
+[04:00] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops into the chute weeeeeee! --</span><br />
+[04:00] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  lands in a bunch of laundry, not moving yet --</span><br />
+[04:00] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // uhoh. --</span><br />
+[04:01] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // CRASH --</span><br />
+[04:01] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  lands, doof --</span><br />
+[04:01] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets of of FL, flopping onto the floor --</span><br />
+[04:01] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // FL can't be seen. --</span><br />
+[04:02] <span style="color:#cb7de6">CSJ: *off ➜</span><br />
+[04:02] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  okay, gets out of the pile shrug --</span><br />
+[04:02] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  stands back up shakily --</span><br />
+[04:02] <span style="color:#646464">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  foot is sticking out of the pile. --</span><br />
+[04:03] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  decides to try and tickle the foot --</span><br />
+[04:03] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A shoe is on, thankfully --</span><br />
+[04:03] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  not very effective --</span><br />
+[04:04] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks towards the basement hall --</span><br />
+[04:04] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  crawls out. --</span><br />
+[04:05] <span style="color:#0080ff">CFL: Ow...</span><br />
+[04:05] <span style="color:#cb7de6">CSJ: let's find that barrier off switch. ➜</span><br />
+[04:06] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A crystal of sorts can be found in the middle of the basement hallway, floating. --</span><br />
+[04:07] <span style="color:#cb7de6">CSJ: ...when did they stick that here? ➜</span><br />
+[04:07] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Its pretty big, and red. --</span><br />
+[04:09] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is still holding the non-stick spray can for some reason? --</span><br />
+[04:09] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // It seems rather... warm near the crystal. --</span><br />
+[04:10] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  attempts to spray the crystal with non-stick spray --</span><br />
+[04:10] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The spray seems to be vanishing before it can make it to the crystal... --</span><br />
+[04:11] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  runs out of spray --</span><br />
+[04:11] <span style="color:#cb7de6">CSJ: ...darn it. ➜</span><br />
+[04:11] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  throws the can at the crystal --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The can breaks up near the crystal, vanishing right before impact. --</span><br />
+[04:12] <span style="color:#cb7de6">CSJ: .... ➜</span><br />
+[04:12] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  steps way the heck back --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The hotel shakes slightly. --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  has likely caught up with the others at this point --</span><br />
+[04:12] <span style="color:#ee1e00">CCP: yawn... hey guys, what's going on?</span><br />
+[04:13] <span style="color:#cb7de6">CSJ: wait, when did you get down here? ➜</span><br />
+[04:13] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hears something from the elevator shaft. --</span><br />
+[04:13] <span style="color:#0080ff">CFL: ...what was that?</span><br />
+[04:13] <span style="color:#ee1e00">CCP: huh?</span><br />
+[04:13] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls open the door, seeing an elevator cable falling loose. --</span><br />
+[04:14] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[04:14] <span style="color:#ee1e00">CCP: I have no idea, and what.</span><br />
+[04:15] <span style="color:#0080ff">CFL: ...</span><br />
+[04:15] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  climbs up the emergency ladder. --</span><br />
+[04:16] <span style="color:#ee1e00">CCP: ...</span><br />
+[04:17] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks up the shaft from the basement opening --</span><br />
+[04:18] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is yanking the door open. --</span><br />
+[04:18] <span style="color:#ee1e00">CCP: ...now what.</span><br />
+[04:19] <span style="color:#cb7de6">CSJ: I guess we wait? ➜</span><br />
+[04:20] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A knotted rope is tossed down the laundry chute. --</span><br />
+[04:21] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs down the stairs nearby. --</span><br />
+[04:21] <span style="color:#0080ff">CFL: Found an extra staircase.</span><br />
+[04:21] <span style="color:#ee1e00">CCP: ...oh good.</span><br />
+[04:22] <span style="color:#0080ff">CFL: after wasting time with the rope.</span><br />
+[04:22] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //hey you forgot a couple details --</span><br />
+[04:22] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // ...woops --</span><br />
+[04:22] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs and begins walking upstairs...? --</span><br />
+[04:23] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  was up on the 1st floor and you didn't even mention that fl even made it out of the elevator --</span><br />
+[04:23] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // FI, is the grass outside getting taller? --</span><br />
+[04:23] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // DISTRACTING GRASS IS DISTRACTING --</span><br />
+[04:23] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //do you think i'm gonna get distracted by grass? --</span><br />
+[04:24] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Well when it has gotten a foot tall yeah --</span><br />
+[04:24] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  assumes the stairs still exist, and continues upstairs --</span><br />
+[04:26] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gets up the stairs after /somehow/ managing to evade Seth and blinks at the grass outside. --</span><br />
+[04:26] <span style="color:#0080ff">CFL: Is it me, or is the grass outside really tall?</span><br />
+[04:26] <span style="color:#ee1e00">CCP: it's what?</span><br />
+[04:27] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares out the window --</span><br />
+[04:27] <span style="color:#0080ff">CFL: ...Must be some sort of... time shit.</span><br />
+[04:27] <span style="color:#ee1e00">CCP: ...whoa.</span><br />
+[04:27] <span style="color:#0080ff">CFL: ...wouldn't more people have come though?</span><br />
+[04:28] <span style="color:#ee1e00">CCP: come from where?</span><br />
+[04:29] <span style="color:#0080ff">CFL: ...wait, where is slim?</span><br />
+[04:30] <span style="color:#0080ff">CFL: ...Wait no, the grass is growing, but the sun is staying still...</span><br />
+[04:30] <span style="color:#ee1e00">CCP: ...Edward, do you think I should try to cut the grass down? or would that do something weird?</span><br />
+[04:31] <span style="color:#0080ff">CFL: Well, we can't get out of the barrier... I tried, so you know...</span><br />
+[04:38] <span style="color:#646464"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+[04:43] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  blinks at the tall grass. --</span><br />
+[04:43] <span style="color:#0080ff">CFL: ...Okay, uh, any idea whats going on?</span><br />
+[04:43] <span style="color:#ee1e00">CCP: nope. I woke up 15 minutes ago and somehow ended up in the basement, remember?</span><br />
+[04:44] <span style="color:#0080ff">CFL: ...Back to the crystal?</span><br />
+[04:45] <span style="color:#ee1e00">CCP: if that's the cause of the barrier thing, sure.</span><br />
+[04:46] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the foot tall grass. --</span><br />
+[04:46] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  catches up with FL and CP --</span><br />
+[04:47] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  casually draws a powerslash through some of the grass to see what happens --</span><br />
+[04:48] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A massive blast comes off the barrier. --</span><br />
+[04:49] <span style="color:#cb7de6">CSJ: dude! ➜</span><br />
+[04:50] <span style="color:#ee1e00">CCP: ...okaynotdoingthatagain</span><br />
+[04:50] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //wait, is the Tall Grass inside or outside the barrier? I was assuming inside... --</span><br />
+[04:51] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Outside. --</span><br />
+[04:51] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //welp. *tosses visual headcanon of situation out the window* --</span><br />
+[04:52] <span style="color:#ee1e00">CCP: to be honest I don't even know why I thought to try that.</span><br />
+[04:55] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The grass is getting taller... faster. --</span><br />
+[04:55] <span style="color:#cb7de6">CSJ: oh crud... ➜</span><br />
+[04:55] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks up at it --</span><br />
+[04:56] <span style="color:#ee1e00">CCP: that's... not a good sign.</span><br />
+[04:57] <span style="color:#0080ff">CFL: ...We need to get to the crystal.</span><br />
+[04:57] <span style="color:#0080ff">CFL: If its causing this, we need to blow it up.</span><br />
+[04:57] <span style="color:#cb7de6">CSJ: how are we gonna do that? it ate the spray can! ➜</span><br />
+[04:58] <span style="color:#cb7de6">CSJ: it /ate it/ ➜</span><br />
+[04:58] <span style="color:#0080ff">CFL: Um... I don't know, magic?</span><br />
+[04:58] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // This would be a perfect time for Slim to show up --</span><br />
+[05:02] <span style="color:#646464"><span style="color:#2b2420">CURRENT zoruaMaidoutfit [CZM]</span> RIGHT NOW responded to memo.</span><br />
+[05:02] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  muffled ambulance siren in the distance --</span><br />
+[05:04] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  the ambulance stops somewhere closeby outside --</span><br />
+[05:05] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  hops out the window, landing on the ground --</span><br />
+[05:05] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  looks around --</span><br />
+[05:05] <span style="color:#2b2420">CZM: hmmm...</span><br />
+[05:05] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the MASSIVE Slim. --</span><br />
+[05:05] <span style="color:#0080ff">CFL: ...what.</span><br />
+[05:05] <span style="color:#0080ff">CFL: the.</span><br />
+[05:05] <span style="color:#0080ff">CFL: fuck.</span><br />
+[05:05] <span style="color:#cb7de6">CSJ: .... ➜</span><br />
+[05:06] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is just confused, no one ever mentioned the hotel was shrinking and has been going this whole time that the grass was just hyper-accelerated --</span><br />
+[05:06] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Well, what else would you use as a reference point? --</span><br />
+[05:06] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  notices the red bubble thing in the grass --</span><br />
+[05:07] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  lightly extends his paw towards the forcefield --</span><br />
+[05:07] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // ZAP. --</span><br />
+[05:07] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //the mountains or something, either way what --</span><br />
+[05:08] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  is zapped back --</span><br />
+[05:08] <span style="color:#2b2420">CZM: owwie!</span><br />
+[05:08] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  licks his paw --</span><br />
+[05:08] <span style="color:#0080ff">CFL: ...Alright, lets see if blowing up the crystal helps things.</span><br />
+[05:08] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs down the stairs. --</span><br />
+[05:08] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  screams, looking at the crystal. --</span><br />
+[05:09] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs and follows far behind, how fast are you going FL? --</span><br />
+[05:09] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // GOTTA GO FAST --</span><br />
+[05:09] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows, finally understanding what this plot is a reference to --</span><br />
+[05:09] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  finally catches up --</span><br />
+[05:09] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  blinks at the crystal, which is now big enough to be eating into the hallway. --</span><br />
+[05:10] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[05:10] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  follows after the group downstairs out of curiosity --</span><br />
+[05:10] <span style="color:#ee1e00">CCP: ...oh crap.</span><br />
+[05:11] <span style="color:#000000">CFI: whαt the fuck</span><br />
+[05:11] <span style="color:#0080ff">CFL: ...Its about the size of that grass outside...</span><br />
+[05:11] <span style="color:#0080ff">CFL: ...Well that settles it, its connected.</span><br />
+[05:11] <span style="color:#cb7de6">CSJ: how do we get rid of this thing? ➜</span><br />
+[05:11] <span style="color:#ee1e00">CCP: okay, I still don't know what's going on, but let's just fix it already.</span><br />
+[05:12] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  grabs a fire axe, swinging it at the crystal. --</span><br />
+[05:12] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls back, only holding a stick. --</span><br />
+[05:12] <span style="color:#0080ff">CFL: ...Shit.</span><br />
+[05:12] <span style="color:#0080ff">CFL: It seems to be eating all the matter around it...</span><br />
+[05:14] <span style="color:#ee1e00">CCP: what about blowing it up?</span><br />
+[05:15] <span style="color:#cb7de6">CSJ: do we have any explosives? ➜</span><br />
+[05:15] <span style="color:#0080ff">CFL: We would need to attach said explosive to it...</span><br />
+[05:15] <span style="color:#0080ff">CFL: So unless we could blow it up by putting the explosives near it, but not /too near/, its a no go.</span><br />
+[05:15] <span style="color:#cb7de6">CSJ: darn it... ➜</span><br />
+[05:16] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  wanders back towards the ambulance --</span><br />
+[05:16] <span style="color:#ee1e00">CCP: ...I could draw a couple cherry bombs "close enough" to it...</span><br />
+[05:16] <span style="color:#0080ff">CFL: Do you have anything that could destroy it with magic</span><br />
+[05:16] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  hops up to the back door handle --</span><br />
+[05:16] <span style="color:#0080ff">CFL: Without giving it matter to eat at?</span><br />
+[05:17] <span style="color:#ee1e00">CCP: hmm... would a thunderbolt count as "matter to eat at"?</span><br />
+[05:17] <span style="color:#0080ff">CFL: No, thats just pure energy...</span><br />
+[05:17] <span style="color:#0080ff">CFL: ...Oh.</span><br />
+[05:17] <span style="color:#0080ff">CFL: I see your idea now.</span><br />
+[05:17] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  backs up a fuckton. --</span><br />
+[05:18] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks back up the stairs --</span><br />
+[05:19] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  casually steps back a little --</span><br />
+[05:19] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also backs away a distance, and then when everyone's clear, draws as big a Thunderbolt as he can on the crystal --</span><br />
+[05:21] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  waits --</span><br />
+[05:21] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The crystal explodes... and the /size/ of the hotel also explodes outwards, returning everything to normal. --</span><br />
+[05:21] <span style="color:#ee1e00">CCP: ...feels like something happened.</span><br />
+[05:22] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Well, Slim might have been knocked away. --</span><br />
+[05:22] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  and the ambulance get launched back --</span><br />
+[05:22] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //Hotel used Maximize! It's super effective! Slim was sent flying! --</span><br />
+[05:23] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  the amblance crashes into...... --</span><br />
+[05:23] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // sploosh? --</span><br />
+[05:24] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  the creek in the nearby forest --</span><br />
+[05:24] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  not quite as splooshy, but that ambulance is probably going to need an ambulance --</span><br />
+[05:24] <span style="color:#646464">-- CURRENT zoruaMaidoutfit:b <span style="color:#2b2420">[CZM:B]</span>  --</span><br />
+[05:26] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  gets up from the shockwave with messy charged hair --</span><br />
+[05:26] <span style="color:#000000">CFI: holy shit</span><br />
+[05:27] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  runs down the stairs, tripping halfway --</span><br />
+[05:28] <span style="color:#cb7de6">CSJ: hey guys-slkhflkjhwdlfhkahjdsgf ➜</span><br />
+[05:28] <span style="color:#cb7de6">CSJ: ...ow. ➜</span><br />
+[05:28] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Yeah the barrier is gone. --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows SJ to the lobby --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is at the bottom of the basement stairs --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  &gt;_&gt; --</span><br />
+[05:30] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at SJ. --</span><br />
+[05:30] <span style="color:#0080ff">CFL: ...So, everythings back to normal?</span><br />
+[05:30] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //........ok nvm, Take-mun is a moron again. --</span><br />
+[05:31] <span style="color:#cb7de6">CSJ: ...I think so. ➜</span><br />
+[05:31] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets up off the floor --</span><br />
+[05:31] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  dusts her pants off --</span><br />
+[05:33] <span style="color:#cb7de6">CSJ: let's go back upstairs or something. ➜</span><br />
+[05:33] <span style="color:#ee1e00">CCP: yeah...</span><br />
+[05:33] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks up the stairs slowly --</span><br />
+[05:33] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  NOW follows SJ... hopefully this time he's got it right --</span><br />
+[05:34] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads up the stairs, looking down the elevator shaft at what looks like a fire. --</span><br />
+[05:34] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A /slight/ fire. --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks, sees the fire, and draws Galestorm to blow it out --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  waits for the others to go up before going upstairs to the 1st floor --</span><br />
+[05:38] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The gale goes /way/ down the elevator shaft, blowing out the fire at the bottom. --</span><br />
+[05:40] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks down there standing close to the group --</span><br />
+[05:41] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  digs his way out from underneath the turned-over ambulance --</span><br />
+[05:41] <span style="color:#2b2420">CZM: children...</span><br />
+[05:41] <span style="color:#2b2420">CZM: always up to something...</span><br />
+[05:42] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  leaps into the open window of the ambulance to fetch groceries --</span><br />
+[05:42] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  chucks the bags out one by one --</span><br />
+[05:43] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  yeah, those eggs are definately cracked and the bread is definately smooshed --</span><br />
+[05:43] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  hops out of the overturned ambulance --</span><br />
+[05:43] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Those papers are totally torn. --</span><br />
+[05:44] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  makes his way out of the forest back on the path, leaving the grocery bags behind at the moment --</span><br />
+[05:45] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  walks towards the hotel --</span><br />
+[05:45] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  makes it to the front door --</span><br />
+[05:45] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  enters the lobby and hops onto a bell-hop --</span><br />
+[05:46] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  begins pushing it outside --</span><br />
+[05:46] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a piece of paper and sticks it on the elevator doors. --</span><br />
+[05:46] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // "out of order" --</span><br />
+[05:46] <span style="color:#cb7de6">CSJ: ...welp ➜</span><br />
+[05:46] <span style="color:#ee1e00">CCP: ...well that's an understatement.</span><br />
+[05:49] <span style="color:#646464"><span style="color:#000000">CFI</span> ceased responding to memo.</span><br />
+[05:50] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  rides the bell-hop down the pathway weeeeee --</span><br />
+[05:51] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  hops off of it --</span><br />
+[05:51] <span style="color:#2b2420">CZM: ...! get back here!</span><br />
+[05:51] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  chases after the still rolling bell-hop --</span><br />
+[05:52] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  it bumps into a tree, leaving a dent in the cheap metal --</span><br />
+[05:53] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  flops onto the ground to rest for a moment --</span><br />
+[05:54] <span style="color:#cb7de6">CSJ: so... what now? ➜</span><br />
+[05:54] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[05:55] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //** now I go look for dinner probably --</span><br />
+[05:56] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  because I'm tired of typing his actions, eventually he gets the groceries onto the bellhop and gets them to the hotel lobby --</span><br />
+[05:58] <span style="color:#2b2420">CZM: ...</span><br />
+[05:59] <span style="color:#2b2420">CZM: would anyone mind explaining what happened here?</span><br />
+[06:00] <span style="color:#0080ff">CFL: Um... stuff.</span><br />
+[06:00] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at ZM, then at the others, then points a paw at Edward --</span><br />
+[06:00] <span style="color:#0080ff">CFL: There was this red gem in the basement... that was shrinking the hotel.</span><br />
+[06:02] <span style="color:#2b2420">CZM: it doesn't matter if it was a red gem, purple gem, or a seafoam green gem, you're going to have to get me a new ambulance!</span><br />
+[06:02] <span style="color:#0080ff">CFL: ...But I didn't cause it.</span><br />
+[06:03] <span style="color:#0080ff">CFL: Don't you have a mind reading spell or something?</span><br />
+[06:03] <span style="color:#2b2420">CZM: maybe </span><br />
+[06:03] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  //totally doesn't --</span><br />
+[06:03] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  stares mysteriously anyways --</span><br />
+[06:04] <span style="color:#2b2420">CZM: anyways,</span><br />
+[06:05] <span style="color:#2b2420">CZM: that ambulance isn't going to replace itself!</span><br />
+[06:05] <span style="color:#0080ff">CFL: ...And neither would have the hotel.</span><br />
+[06:06] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  walks towards the elevator while pushing the bell-hop, only to notice the out of order sign --</span><br />
+[06:06] <span style="color:#2b2420">CZM: ...may I ask why the elevator is out of order?</span><br />
+[06:07] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  despite the stern expression, still looks incredibly cute in that muddy maid outfit --</span><br />
+[06:07] <span style="color:#0080ff">CFL: Um, the cable snapped.</span><br />
+[06:07] <span style="color:#0080ff">CFL: I think due to it clipping the edge of the barrier.</span><br />
+[06:08] <span style="color:#2b2420">CZM: right.</span><br />
+[06:08] <span style="color:#2b2420">CZM: the groceries still need to get upstairs.</span><br />
+[06:09] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  grabs a grocery bag and begins dragging it up the stairs, hitting the steps every time --</span><br />
+[06:09] <span style="color:#cb7de6">CSJ: we should probably grab some of these. ➜</span><br />
+[06:10] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  picks up two grocery bags --</span><br />
+[06:10] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins walking towards the stairs --</span><br />
+[06:10] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  there's still like, 5 more grocery bags remaining --</span><br />
+[06:11] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  are the bags plastic-with-handles or paper-without-handles? --</span><br />
+[06:11] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  plastic with handles, double-bagged --</span><br />
+[06:12] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  picks up a bag by the handles with his mouth, and follows --</span><br />
+[06:13] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  helps carry them in. --</span><br />
+[06:14] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  carries his bag to the kitchen in the cafe --</span><br />
+[06:16] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  follows behind --</span><br />
+[06:17] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  puts some stuff away --</span><br />
+[06:21] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks in his bad. --</span><br />
+[06:21] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // bag* --</span><br />
+[06:22] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  there's a bunch of dented bagels --</span><br />
+[06:22] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sets his bag down, and looks inside, smelling something interesting --</span><br />
+[06:23] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  it's smashed bananas --</span><br />
+[06:24] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  goes back for the last bags --</span><br />
+[06:24] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sets her bags onto the counter --</span><br />
+[06:26] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the rest of the bags --</span><br />
+[06:26] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // after bringing them up --</span><br />
+[06:26] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  mostly typical groceries --</span><br />
+[06:27] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  continues putting groceries away --</span><br />
+[06:28] <span style="color:#2b2420">CZM: (((gotta walk the dog))))</span><br />
+[06:41] <span style="color:#2b2420">CZM: (((dog didn't want to walk with me)))</span><br />
+[06:46] <span style="color:#646464">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  finishes with groceries and disappears behind something --</span><br />
+[06:46] <span style="color:#646464"><span style="color:#000000">CZM</span> ceased responding to memo.</span><br />
+[06:50] <span style="color:#0080ff">CFL: ...sooo</span><br />
+[06:53] <span style="color:#cb7de6">CSJ: how are we gonna get slim a working ambulance? ➜</span><br />
+[06:53] <span style="color:#0080ff">CFL: ...</span><br />
+[06:54] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flips his bag inside out. --</span><br />
+[06:54] <span style="color:#ee1e00">CCP: ...I have no idea. anyone know how to fix it?</span><br />
+[06:54] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking at the other bags. --</span><br />
+[06:54] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  dumps out a large amount of coins out of one bag. --</span><br />
+[06:54] <span style="color:#0080ff">CFL: ...wait, doesn't he have insurance?</span><br />
+[06:54] <span style="color:#0080ff">CFL: ...</span><br />
+[06:55] <span style="color:#cb7de6">CSJ: I have no idea. ➜</span><br />
+[06:56] <span style="color:#cb7de6">CSJ: we'll probably need to hire a mechanic either way. ➜</span><br />
+[06:56] <span style="color:#cb7de6">CSJ: or something like that. ➜</span><br />
+[06:56] <span style="color:#0080ff">CFL: ...oh, oh, I know!</span><br />
+[06:56] <span style="color:#0080ff">CFL: Summon Ambulence!</span><br />
+[06:56] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[06:56] <span style="color:#ee1e00">CCP: ...</span><br />
+[06:56] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  waves his hands... and nothing happens. --</span><br />
+[06:57] <span style="color:#0080ff">CFL: ...welp.</span><br />
+[06:57] <span style="color:#0080ff">CFL: I was /sure/ that was gonna work.</span><br />
+[06:58] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs --</span><br />
+[06:58] <span style="color:#cb7de6">CSJ: I'm gonna get some rest for a while. ➜</span><br />
+[06:59] <span style="color:#cb7de6">CSJ: seeya guys. ➜</span><br />
+[06:59] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins walking towards her room --</span><br />
+[06:59] <span style="color:#ee1e00">CCP: later Niki.</span><br />
+[07:00] <span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  closes her door, goes to bed and falls asleep --</span><br />
+[07:00] <span style="color:#ee1e00">CCP: ...I suppose I'll do the same.</span><br />
+[07:01] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads upstairs to his room and jumps into bed --</span><br />
+[07:01] <span style="color:#0080ff">CFL: (( alright, so... thats a wrap? ))</span><br />
+[07:02] <span style="color:#cb7de6">CSJ: ((yep))</span><br />
+[07:02] <span style="color:#0080ff">CFL: (( ...its just not the same. ))</span><br />
+[07:02] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[07:02] <span style="color:#ee1e00">CCP: ((...yeah...))</span><br />

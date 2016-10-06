@@ -1,0 +1,128 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 TOOTTOOTMODLAND.</span><br />
+<span style="color:#000000">CPK</span> made <span style="color:#ee1e00">CP</span> an OP.<br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ;ballyards; ➜</span><br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">SJ</span> an OP.<br />
+<span style="color:#646464"><span style="color:#555500">CURRENT powerKitten [CPK]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#555500">CPK: alright</span><br />
+<span style="color:#555500">CPK: everyone needs to bring (1) backpack</span><br />
+<span style="color:#cb7de6">CSJ: um, what for? ➜</span><br />
+<span style="color:#555500">CPK: carrying diamonds</span><br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">AE</span> an OP.<br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">AC</span> an OP.<br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">FS</span> an OP.<br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">FA</span> an OP.<br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a80000">CFA: (\ WHYY'RE WE ALL WEARING SHADES /)</span><br />
+<span style="color:#cb7de6">CSJ: um, what do we need diamonds for? ➜</span><br />
+<span style="color:#646464"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ceca54">CFS: such sh<span style="color:#730e8f">ades @ _ @</span></span><br />
+<span style="color:#ee1e00">CCP: SHADES PARTY</span><br />
+<span style="color:#cb7de6">CSJ:  <img src='smilies/pccool.png' alt=':smooth:' title=':smooth:' /> ➜</span><br />
+<span style="color:#646464"><span style="color:#b5b500">CURRENT atomicEagle [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#b5b500">CAE: ThEsE ArEn't EvEn my trAdEmArk shAdEs.</span><br />
+<span style="color:#646464"><span style="color:#00e100">CURRENT avidCurator [CAC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#00e100">CAC: so... no server?</span><br />
+<span style="color:#b5b500">CAE: Bullshit.</span><br />
+<span style="color:#a80000">CFA: (\ veryy shades /)</span><br />
+<span style="color:#ee1e00">CCP: :shades:</span><br />
+<span style="color:#a80000">CFA: (\ much moderator /)</span><br />
+<span style="color:#555500">CPK: i would suspect</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#555500">CPK: crafting</span><br />
+<span style="color:#555500">CPK: will be a thing that is needed</span><br />
+<span style="color:#ee1e00">CCP: AC, I'll be trying to do a MC server later this week, just not today...</span><br />
+<span style="color:#00e100">CAC: oh</span><br />
+<span style="color:#00e100">CAC: okay</span><br />
+<span style="color:#00e100">CAC: I want to hug all the creepers</span><br />
+<span style="color:#555500">CPK: MCswagDD is code for MC diamond btw</span><br />
+<span style="color:#00e100">CAC: all of them</span><br />
+<span style="color:#000000">CPK</span> made <span style="color:#000000">FF</span> an OP.<br />
+<span style="color:#ee1e00">CCP: (still gotta find out how to minecraft_server.jar and all that :P)</span><br />
+<span style="color:#555500">CPK: (clickify)</span><br />
+<span style="color:#646464"><span style="color:#830000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#830000">CNK: ((btw anyone who wants to do a server thing: <a href='http://adventurelobbies.com/'>http://adventurelobbies.com/</a> is super easy to use ))</span><br />
+<span style="color:#555500">CPK: (port forward)</span><br />
+<span style="color:#555500">CPK: (give out link)</span><br />
+<span style="color:#555500">CPK: (*ip)</span><br />
+<span style="color:#ee1e00">CCP: (plus track down 1.6.4 versions of everything since optifine isn't 1.7.2 yet)</span><br />
+<span style="color:#cb7de6">CSJ: okay, I'm bringing a backpack, just so I don't have to type that code. ➜</span><br />
+<span style="color:#555500">CPK: alright</span><br />
+<span style="color:#ee1e00">CCP: ((thanks Nak, but I'm making it a /locally hosted/ server))</span><br />
+<span style="color:#555500">CPK: also im going to recalibrate some dungeoner cards</span><br />
+<span style="color:#ee1e00">CCP: ((mostly since it'll be a short-term thing probably))</span><br />
+<span style="color:#555500">CPK: please bring a self inditifying object</span><br />
+<span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a2a280">CFF: ((fun fact- I don't have minecraft *cries*))</span><br />
+<span style="color:#b5b500">CAE: ((#same))</span><br />
+<span style="color:#555500">CPK: like a sprit amulet or something else that is exclusivly yours</span><br />
+<span style="color:#830000">CNK: (( The adventure lobbies are just an easier thing to do than portforward it yourself :P))</span><br />
+<span style="color:#ceca54">CFS: ((same here FF -_-))</span><br />
+<span style="color:#ee1e00">CCP: ((and besides, an easy way to protect a server is to make it so you have to be on it for it to be up))</span><br />
+<span style="color:#830000">CNK: bring spritefriend neck hat</span><br />
+<span style="color:#555500">CPK: yep</span><br />
+<span style="color:#ee1e00">CCP: ((nah, I know how to forwarding the ports))</span><br />
+<span style="color:#ee1e00">CCP: ...I think I'm still one of the only players that never got a sprite pendant, because of self-protoing before she could give me it...</span><br />
+<span style="color:#a80000">CFA: (\ Still got mine.... /)</span><br />
+<span style="color:#555500">CPK: your hat would do probally</span><br />
+<span style="color:#555500">CPK: :P</span><br />
+<span style="color:#830000">CNK: self protonak rude</span><br />
+<span style="color:#cb7de6">CSJ: I recieved mine after my sprite left. ➜</span><br />
+<span style="color:#ceca54">CFS: yeah, got <span style="color:#730e8f">mine too...</span></span><br />
+<span style="color:#555500">CPK: alright, second order of business</span><br />
+<span style="color:#555500">CPK: loot spreedout</span><br />
+<span style="color:#555500">CPK: how are we going to do loot?</span><br />
+<span style="color:#cb7de6">CSJ: no idea.  ➜</span><br />
+<span style="color:#ee1e00">CCP: shrug</span><br />
+<span style="color:#a80000">CFA: (\ YYa find it its yyours /)</span><br />
+<span style="color:#a80000">CFA: (\ Unless yyou want to give it out or share it /)</span><br />
+<span style="color:#555500">CPK: alright i have an idea</span><br />
+<span style="color:#555500">CPK: if you find something you dont want</span><br />
+<span style="color:#555500">CPK: everyone else can roll for it</span><br />
+<span style="color:#555500">CPK: whoever rolls highest gets it</span><br />
+<span style="color:#555500">CPK: all in favor say aye</span><br />
+<span style="color:#830000">CNK: nak</span><br />
+<span style="color:#555500">CPK: ...</span><br />
+<span style="color:#cb7de6">CSJ: um, who's dice are we using? ➜</span><br />
+<span style="color:#555500">CPK: generic d20s</span><br />
+<span style="color:#cb7de6">CSJ: do you have the captchacode for one of those? All I have are 7xd8's ➜</span><br />
+<span style="color:#555500">CPK: I have a stack of them</span><br />
+<span style="color:#555500">CPK: i'll pass'em out as we enter</span><br />
+<span style="color:#cb7de6">CSJ: okay. ➜</span><br />
+<span style="color:#555500">CPK: (( going afktier ))</span><br />
+<span style="color:#00e100">CAC: sorry</span><br />
+<span style="color:#00e100">CAC: went AFK</span><br />
+<span style="color:#00e100">CAC: what's going on?</span><br />
+<span style="color:#cb7de6">CSJ: planning loot distrobution stuff. ➜</span><br />
+<span style="color:#a80000">CFA: (\ ....or yyou could just give it out oh myy god /)</span><br />
+<span style="color:#830000">CNK: ?????????</span><br />
+<span style="color:#ee1e00">CCP: simple is better, and rolling d20s is AUGH FUCKING AUTOPLAY</span><br />
+<span style="color:#ee1e00">CCP: *is not simple</span><br />
+<span style="color:#ceca54">CFS: not to mention things will likely be settled exa<span style="color:#730e8f">ctly as they would likely normally be</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CCP</span> made <span style="color:#000000">NK</span> an OP.<br />
+<span style="color:#646464"><span style="color:#830000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#830000">CNK: nzk</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((PK, are you back yet?))</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((hellooooo???))</span><br />
+<span style="color:#830000">CNK: nk</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  idly hums Greenflower Zone Act 1 theme --</span><br />
+<span style="color:#830000">CNK: nak</span><br />
+<span style="color:#cb7de6">CSJ: :b ➜</span><br />
+<span style="color:#830000">CNK: naka</span><br />
+<span style="color:#555500">CPK: (( back ))</span><br />
+<span style="color:#cb7de6">CSJ: ((finally.))</span><br />
+<span style="color:#cb7de6">CSJ: so, are we gonna get going there soon? ➜</span><br />
+<span style="color:#555500">CPK: yeah</span><br />
+<span style="color:#646464">-- CURRENT powerKitten <span style="color:#555500">[CPK]</span>  posted coords to memo: ((use your fucking imaginations)) --</span><br />
+<span style="color:#555500">CPK: (( <a href='#SBARGv2_LoCaL'>#SBARGv2_LoCaL</a></span><br />
+<span style="color:#cb7de6">CSJ: ((you usually put the memo link right there))</span><br />
+<span style="color:#cb7de6">CSJ: ((:b))</span><br />
+<span style="color:#646464">-- CURRENT powerKitten <span style="color:#555500">[CPK]</span>  posted coords to memo: <a href='#SBARGv2_LoCaL'>#SBARGv2_LoCaL</a> --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPK</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />

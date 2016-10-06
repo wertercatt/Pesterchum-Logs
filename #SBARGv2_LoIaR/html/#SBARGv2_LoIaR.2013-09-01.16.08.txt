@@ -1,0 +1,635 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hops out of an Ink Portal. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  inhales the air in the BaCafe. --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is so happy to be back in the Bacafe now. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  opens the beefhoney jar a bit, takes a quick sniff... then gags and puts that thing back in his sylladex --</span><br />
+<span style="color:#646464"><span style="color:#fe6a27">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  walks through a brushportal --</span><br />
+<span style="color:#fe6a27">CPO: How are you enjoying that beef honey?</span><br />
+<span style="color:#ee1e00">CCP: urp...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  suddenly remembers something, and draws a small portal to LoSaCrystal --</span><br />
+<span style="color:#646464"><span style="color:#bfbfbf">CURRENT kutoNe [CKN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  falls out of the aforementioned portal onto the couch --</span><br />
+<span style="color:#fe6a27">CPO: You going:-) </span><br />
+<span style="color:#fe6a27">CPO: ?</span><br />
+<span style="color:#ee1e00">CCP: no, actually I had to bring someone here</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "yeah, because you keep leaving me at home and not bringing me on adventures!" --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "sigh... I already told you, I don't feel safe bringing you on a dungeon dive until you're at least Level 90." --</span><br />
+<span style="color:#fe6a27">CPO: Heheh, I've been brushing up on my animal. "Hey, Kutone, how are you?"</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "meh, doing okay I guess..." --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  internal fistpuuuump! --</span><br />
+<span style="color:#fe6a27">CPO: "I'm glad you can understand me better now."</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "I'm glad you don't have that huge monkey-accent anymore. seriously, it was harder for me to understand you than it is to understand CP's consorts!" --</span><br />
+<span style="color:#0080ff">CFL: ...260hp.</span><br />
+<span style="color:#ee1e00">CCP: hm?</span><br />
+<span style="color:#0080ff">CFL: Oh, just my current health.</span><br />
+<span style="color:#fe6a27">CPO: "How do they even talk, anyway? Aren't they bombs?"</span><br />
+<span style="color:#0080ff">CFL: Its going up as we speak.</span><br />
+<span style="color:#0080ff">CFL: (( <a href='http://pastebin.com/wFfni8zT'>http://pastebin.com/wFfni8zT</a> ))</span><br />
+<span style="color:#2806ea">CEQ: Hm</span><br />
+<span style="color:#0080ff">CFL: (( Written in SMILEBasic ))</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "game logic, you shouldn't question it." --</span><br />
+<span style="color:#fe6a27">CPO: "I guess that's the answer to a lot of things, heheh."</span><br />
+<span style="color:#0080ff">CFL: 297...</span><br />
+<span style="color:#0080ff">CFL: 298...</span><br />
+<span style="color:#0080ff">CFL: 299...</span><br />
+<span style="color:#0080ff">CFL: 300.</span><br />
+<span style="color:#0080ff">CFL: Now its gonna take... 5 seconds to restore 1 hp.</span><br />
+<span style="color:#fe6a27">CPO: Heheheh.</span><br />
+<span style="color:#0080ff">CFL: (( Note that its a frame every 1/60 of a second. ))</span><br />
+<span style="color:#fe6a27">CPO: How about that guitar hero?</span><br />
+<span style="color:#0080ff">CFL: ...Sure.</span><br />
+<span style="color:#fe6a27">CPO: Are we playing 2 or 3?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  presses some buttons on the UGC, and two guitar controllers slide out... except those /shouldn't/ have fit inside. --</span><br />
+<span style="color:#0080ff">CFL: 3.</span><br />
+<span style="color:#fe6a27">CPO: Sweet.</span><br />
+<span style="color:#ee1e00">CCP: guitar hero?</span><br />
+<span style="color:#ee1e00">CCP: ...oh frogs right, paws aren't compatible :P I'll just watch.</span><br />
+<span style="color:#fe6a27">CPO: I'm better with an actual controller,  but I'll still slay you.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  grins --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  grabs the black Gibson --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is playing... coop. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  hops up on the couch to watch --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is the base... he picks normal mode. --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  goes hard, on guitar of course. Man, it's been a while...hopefuly he doesn't suck. --</span><br />
+<span style="color:#fe6a27">CPO: What song are we doing?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  decides to watch from her seat. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  picks a custom song due to patch. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // <a href='http://www.youtube.com/watch?v=XVAsupiz1X8'>http://www.youtube.com/watch?v=XVAsupiz1X8</a> --</span><br />
+<span style="color:#fe6a27">CPO: Uh oh, never played this one before.</span><br />
+<span style="color:#ee1e00">CCP: ((I've only ever played this kind of game once... it was the last meeting of japanese club for the school year, we did Rock Band. and somehow I got a higher score than SuperJeenius despite me being a first-timer...))</span><br />
+<span style="color:#fe6a27">CPO: FL, you beautiful bastard.</span><br />
+<span style="color:#fe6a27">CPO: ((Like a boss))</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is keeping up. --</span><br />
+<span style="color:#2806ea">CEQ: ... heh.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  is slaying, perhaps fueled by spiral power. --</span><br />
+<span style="color:#fe6a27">CPO: MY GUITAR IS THE GUITAR THAT WILL MELT THE FACE OF THE HEAVENS!!</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  lifts up the guitar. --</span><br />
+<span style="color:#0080ff">CFL: SPIRAL POWER</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  does the same --</span><br />
+<span style="color:#fe6a27">CPO: MANLY COMBINING</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // "Spiral" Power has been activated. --</span><br />
+<span style="color:#0080ff">CFL: GURREN LAGANN!</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  // what proceeded was the most epic GH session in the history of paradox space. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  activates star power a second time --</span><br />
+<span style="color:#fe6a27">CPO: DAI-GURREN LAGANN!</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  does the same --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // And... its over. (( Youtube froze for me )) --</span><br />
+<span style="color:#0080ff">CFL: (( wait no ))</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  WAIT IT ISN'T OVER --</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  stares at them, wondering what is even --</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // And its over... --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // 100%. --</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: I don't /fucking/ believe it.</span><br />
+<span style="color:#fe6a27">CPO: ....we did it.</span><br />
+<span style="color:#ee1e00">CCP: hm?</span><br />
+<span style="color:#0080ff">CFL: ONE HUNDRED PERCENT.</span><br />
+<span style="color:#fe6a27">CPO: JUST WHO THE HELL DO THINK WE ARE?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  fist pumps. --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  fist pumps --</span><br />
+<span style="color:#fe6a27">CPO: Just goes to show...</span><br />
+<span style="color:#fe6a27">CPO: When TTGL is involved, things get real epic, real fast.</span><br />
+<span style="color:#0080ff">CFL: Agreed.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slides the Guitar back into the console, its bag of holding propertys functioning. --</span><br />
+<span style="color:#fe6a27">CPO: That's it. We're attacking Chronos with a Tengen Toppa.</span><br />
+<span style="color:#0080ff">CFL: ...Wouldn't that turn him into the Anti Spiral?</span><br />
+<span style="color:#0080ff">CFL: ohwait he already is.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  laughs. --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  laughs --</span><br />
+<span style="color:#ee1e00">CCP: then he becomes the Anti Anti Spiral?</span><br />
+<span style="color:#fe6a27">CPO: And then we get out of our mechs and punch the living shit of each other.</span><br />
+<span style="color:#ee1e00">CCP: gonna have to wait for Gambit to track down Crump and steal Magnus von Grapple then...</span><br />
+<span style="color:#fe6a27">CPO: ....doesn't Hope sort of count as Spiral Power?</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT acceleratedEspionage [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">CAG: (( *is totally going to do it, too* ))</span><br />
+<span style="color:#0080ff">CFL: ...Maybe?</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goe5 back to laying on the (cold hard) ground ((*goat noi5e5*)) --</span><br />
+<span style="color:#0080ff">CFL: It defys logic the same way...</span><br />
+<span style="color:#fe6a27">CPO: Does that make me.....Simon?</span><br />
+<span style="color:#0080ff">CFL: ...If you are Simon then that makes me... Kittan.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gulps. --</span><br />
+<span style="color:#fe6a27">CPO: Uh oh.</span><br />
+<span style="color:#ee1e00">CCP: ((well spoiler warning then: we won't find him in Part 2, but there will be a rematch in Part 3 and you'll be able to gank the mecha :D))</span><br />
+<span style="color:#0080ff">CFL: Or Kamina.</span><br />
+<span style="color:#fe6a27">CPO: I think Rob's more Kamina.</span><br />
+<span style="color:#0080ff">CFL: ...I don't wanna be Rosseu.</span><br />
+<span style="color:#0080ff">CFL: Except thats who I totally am.</span><br />
+<span style="color:#0080ff">CFL: Rosseu.</span><br />
+<span style="color:#fe6a27">CPO: .....mother of gog.</span><br />
+<span style="color:#0080ff">CFL: ...wait shit who am I anyway?</span><br />
+<span style="color:#fe6a27">CPO: Viral?</span><br />
+<span style="color:#0080ff">CFL: No, thats obviously Gender Shifted Gambit.</span><br />
+<span style="color:#fe6a27">CPO: Oh yeah.... Boota?</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#2806ea">CEQ: pfft</span><br />
+<span style="color:#fe6a27">CPO: Heheheheh.</span><br />
+<span style="color:#fe6a27">CPO: I think you're either Kittan or Rossiu.</span><br />
+<span style="color:#fe6a27">CPO: I get to punch the living shite out of you!</span><br />
+<span style="color:#0080ff">CFL: yeah, I'm a mother fucking pigmole.</span><br />
+<span style="color:#ee1e00">CCP: I wish I understood what any of this stuff you are saying even means...</span><br />
+<span style="color:#fe6a27">CPO: Not before Rob smashes me, though....</span><br />
+<span style="color:#0080ff">CFL: ...actually Rob already socked me in the jaw.</span><br />
+<span style="color:#fe6a27">CPO: Kimura's like Spiral Boota.</span><br />
+<span style="color:#0080ff">CFL: ...Okay I'm normal Boota then.</span><br />
+<span style="color:#7ccfb2">CAG: (( *has researched Viral* o.o ))</span><br />
+<span style="color:#2806ea">CEQ: heh</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // BROS 4 LIFE --</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#fe6a27">CPO: yeah, I remember that. He had the biggest grin on his face before he did it. Hehe</span><br />
+<span style="color:#fe6a27">CPO: You can sit on my shoulder...</span><br />
+<span style="color:#fe6a27">CPO: Or between Yoko's boobs.</span><br />
+<span style="color:#ee1e00">CCP: ((also fml, toasts once again are not working today for this pesterclient, though they ALWAYS seem to work for KN...))</span><br />
+<span style="color:#0080ff">CFL: ...kill me now.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns red. --</span><br />
+<span style="color:#2806ea">CEQ: pfffffffft!</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#bfbfbf">CKN: ...</span><br />
+<span style="color:#fe6a27">CPO: Heheheheheheh!</span><br />
+<span style="color:#fe6a27">CPO: It seems you're a lucky guy!</span><br />
+<span style="color:#fe6a27">CPO: You sly dog, you.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  cannot stop laughing.)) --</span><br />
+<span style="color:#ee1e00">CCP: .</span><br />
+<span style="color:#bfbfbf">CKN: ..</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  is grinning like a Cheshire))) --</span><br />
+<span style="color:#0080ff">CFL: ...No, I'm gonna be Gimmy.</span><br />
+<span style="color:#fe6a27">CPO: Next gen, huh?</span><br />
+<span style="color:#fe6a27">CPO: By then I'll be Hobo Simon.</span><br />
+<span style="color:#7ccfb2">CAG: (( *no no no PO-- /he's/ grinning like a Cheshire, you're grinning like a wannabe* ))</span><br />
+<span style="color:#fe6a27">CPO: Who is still awesome.</span><br />
+<span style="color:#0080ff">CFL: True.</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#fe6a27">CPO: ((Fine, grinning like a Monkey)) </span><br />
+<span style="color:#fe6a27">CPO: ((:P))</span><br />
+<span style="color:#fe6a27">CPO: ...I'm gonna go alchemize a drill-on-a-stick.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  leaves, and returns with that, and a Gimmy outfit FL's size. --</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  double face palms --</span><br />
+<span style="color:#ee1e00">CCP: I don't get it...</span><br />
+<span style="color:#0080ff">CFL: lets just agree to be ourselves.</span><br />
+<span style="color:#fe6a27">CPO: Watch TTGL, and you will.</span><br />
+<span style="color:#fe6a27">CPO: Come on, FL, wear it!</span><br />
+<span style="color:#0080ff">CFL: what did I do to deserve this</span><br />
+<span style="color:#2806ea">CEQ: You decided on that song for GH. It spiraled down to this.</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: Quick what is a character which appears once, doesn't die, and /never shows up again/.</span><br />
+<span style="color:#2806ea">CEQ: um...</span><br />
+<span style="color:#2806ea">CEQ: ... None come to mind at the moment. Um.</span><br />
+<span style="color:#2806ea">CEQ: ... Welp. Sucks to be you.</span><br />
+<span style="color:#0080ff">CFL: Uh... Village Chief,.</span><br />
+Hahahahaha… xD<br />
+<span style="color:#0080ff">CFL: THERE</span><br />
+<span style="color:#0080ff">CFL: HAHAHAHAHA</span><br />
+<span style="color:#2806ea">CEQ: pffffft</span><br />
+<span style="color:#646464"><span style="color:#820635">CURRENT sharkBelligerant [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  warps in --</span><br />
+<span style="color:#820635">CSB: yo guys</span><br />
+<span style="color:#2806ea">CEQ: heya</span><br />
+<span style="color:#820635">CSB: how are you?</span><br />
+<span style="color:#2806ea">CEQ: meh</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  shrugs and turns to a book of hers. --</span><br />
+<span style="color:#820635">CSB: same</span><br />
+<span style="color:#820635">CSB: i just tiere/)</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  wakes up, looking over at SB --</span><br />
+<span style="color:#2806ea">CEQ: hm..?</span><br />
+<span style="color:#fe6a27">CPO: Heheheh</span><br />
+<span style="color:#fe6a27">CPO: Hey, V. Nice job. You're a....mage of Time?</span><br />
+<span style="color:#820635">CSB: Witch</span><br />
+<span style="color:#fe6a27">CPO: EQ, it....SPIRALED? :P</span><br />
+<span style="color:#fe6a27">CPO: Wow, Witch, nice!</span><br />
+<span style="color:#2806ea">CEQ: Huh..? What?</span><br />
+<span style="color:#820635">CSB: yeah</span><br />
+<span style="color:#fe6a27">CPO: You said it /spiraled/ down to this. Heheheheh</span><br />
+<span style="color:#fe6a27">CPO: How's it feel to be a God?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  rolls her eyes --</span><br />
+<span style="color:#820635">CSB: powerfu/</span><br />
+<span style="color:#fe6a27">CPO: I can't tier just yet.</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  smiles --</span><br />
+<span style="color:#820635">CSB: why?</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  grins back --</span><br />
+<span style="color:#646464"><span style="color:#000000">CMA</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "hey... I know you're not sleeping Kimura, wake up already" --</span><br />
+<span style="color:#fe6a27">CPO: My  Denizen's making me do this insane training stuff. I'm on 7/12 tests. The last four are the hardest.</span><br />
+<span style="color:#2806ea">CEQ: huh...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "bluh... fine." --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is staring off into space --</span><br />
+<span style="color:#fe6a27">CPO: They're called the disciplines of martial arts, Prerequisites to Immortality. </span><br />
+<span style="color:#820635">CSB: ahm ok</span><br />
+<span style="color:#820635">CSB: my /)enizen just nee/)e/) a spi/)er to eat </span><br />
+<span style="color:#fe6a27">CPO: A spider? Who's your Denizen?</span><br />
+<span style="color:#2806ea">CEQ: huh... fairly simple task, for a denizen.</span><br />
+<span style="color:#ee1e00">CCP: yeah... I don't think I've heard of a denizen test being that simple before.</span><br />
+<span style="color:#820635">CSB: Scy//a</span><br />
+<span style="color:#fe6a27">CPO: Oh, crap. How was Scylla so easy?</span><br />
+<span style="color:#820635">CSB: i/)k she was hungry i suppose</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#2806ea">CEQ: shrug</span><br />
+<span style="color:#820635">CSB: we// ive been he/ping her for months</span><br />
+<span style="color:#ee1e00">CCP: mine's apparently disappeared into a part of my land called The Underwhere... and I have to find her before I can tier.</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  snickers at the name of the place --</span><br />
+<span style="color:#820635">CSB: oh ok</span><br />
+<span style="color:#fe6a27">CPO: ...you know, I said I made a choice, but I think the real test is yet to come, and I have to fight him withnhis own skills-</span><br />
+<span style="color:#2806ea">CEQ: hm...</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: YOUR DENIZEN WENT TO HELL?!</span><br />
+<span style="color:#fe6a27">CPO: Pfft. Underwhere.</span><br />
+<span style="color:#646464">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  jaw drops --</span><br />
+<span style="color:#2806ea">CEQ: ... well.</span><br />
+<span style="color:#820635">CSB: ...</span><br />
+<span style="color:#820635">CSB: wow</span><br />
+<span style="color:#ee1e00">CCP: I dunno, that's just what Crump said after the battle on thursday...</span><br />
+<span style="color:#fe6a27">CPO: Huh. Aren't we gonna go beat up Crump again?</span><br />
+<span style="color:#820635">CSB: i won/)er what my awesome powers are</span><br />
+<span style="color:#2806ea">CEQ: Hmph... wait, crump?</span><br />
+<span style="color:#7ccfb2">CAG: (( Crump: definition: guy who if you beat him like a pinata will give you a robot ))</span><br />
+<span style="color:#ee1e00">CCP: at some point, PO. the point of the quest was finding Cetus, so we follow that lead first, and THEN go hunt down Crump and steal Magnus von Grapple :D</span><br />
+<span style="color:#fe6a27">CPO: Witchs usually bend the rules. Jade, with her disreguard for logic, and Feferi, with her messing with mortalitu.</span><br />
+<span style="color:#fe6a27">CPO: Okay!</span><br />
+<span style="color:#820635">CSB: i can change time without ru/es?</span><br />
+<span style="color:#0080ff">CFL: DON'T YOU TRY</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  sighs --</span><br />
+<span style="color:#2806ea">CEQ: hm...</span><br />
+<span style="color:#ee1e00">CCP: uh, no.</span><br />
+<span style="color:#0080ff">CFL: More like you can /manipulate/ time.</span><br />
+<span style="color:#820635">CSB: so i cou//) make you say okay in a /oop for /)eca/)es hehe</span><br />
+<span style="color:#ee1e00">CCP: my understanding of the Witch class is that it's literal manipulation of their aspect.</span><br />
+<span style="color:#820635">CSB: (/)ont mess with the witch</span><br />
+<span style="color:#0080ff">CFL: Like, imagine a bubble... not gonna say okay.</span><br />
+<span style="color:#820635">CSB: )*</span><br />
+<span style="color:#0080ff">CFL: OH SHIT</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  covers his mouth --</span><br />
+<span style="color:#820635">CSB: hehehe</span><br />
+<span style="color:#fe6a27">CPO: Oh craaaaap.</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  chuckles --</span><br />
+<span style="color:#2806ea">CEQ: pfft</span><br />
+<span style="color:#0080ff">CFL: ...please don't make seperate parts of me move in different directions in time.</span><br />
+<span style="color:#fe6a27">CPO: Hahah, I'd have to pull a Superboy-Prime on that one.</span><br />
+<span style="color:#820635">CSB: thats /)isgusting char/es</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "why does everyone keep tempting fate? :(" --</span><br />
+<span style="color:#2806ea">CEQ: I don't think time witches have control over living people... </span><br />
+<span style="color:#6507ff">CTT: ((thi5 doe5 not mean you be overpowered a5 fuck))</span><br />
+<span style="color:#6507ff">CTT: ((*you can be))</span><br />
+<span style="color:#9d001f">CRS: ((Witches apparently excel at manipulating their Aspect. Or something.))</span><br />
+<span style="color:#2806ea">CEQ: ((Something like that, yeah))</span><br />
+<span style="color:#0080ff">CFL: ...Actually, couldn't you slow down time around you inorder to boost your relativistic speed inorder to say, throw a punch a 90 percent the speed of light?</span><br />
+<span style="color:#0080ff">CFL: DON'T DO IT</span><br />
+<span style="color:#9d001f">CRS: ((But yeah it's not a hall pass to be broken as hell. This stuff about breaking the rules is iffy and just begging for something bad))</span><br />
+<span style="color:#0080ff">CFL: I'm just asking for future reference.</span><br />
+<span style="color:#fe6a27">CPO: Falcon Punch of the Ages?</span><br />
+<span style="color:#2806ea">CEQ: Hm... In theory, i guess that could be a thing, yeah...</span><br />
+<span style="color:#0080ff">CFL: ...FYI throwing a punch at that speed would cause nuclear  fusion on the surface of the skin.</span><br />
+<span style="color:#ee1e00">CCP: FL, this game makes physics cry. I don't think you have to do something so complex just to hit lightspeed.</span><br />
+<span style="color:#0080ff">CFL: and cause a nuclear explosion.</span><br />
+<span style="color:#2806ea">CEQ: yeah...</span><br />
+<span style="color:#0080ff">CFL: ...Oh, like make a big rig!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws --</span><br />
+<span style="color:#fe6a27">CPO: Falcon Boom?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  shrugs --</span><br />
+<span style="color:#820635">CSB: yup</span><br />
+<span style="color:#fe6a27">CPO: Awesome.</span><br />
+<span style="color:#820635">CSB: i can /)o matrix shit</span><br />
+<span style="color:#820635">CSB: PO be Morfeo </span><br />
+<span style="color:#820635">CSB: im Neo</span><br />
+<span style="color:#fe6a27">CPO: FL's Trinity</span><br />
+<span style="color:#0080ff">CFL: :&lt;</span><br />
+<span style="color:#820635">CSB: yeah</span><br />
+<span style="color:#fe6a27">CPO: hehehej</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks to the transportalizer and warps out. --</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  warps to the Basement. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: and I'm the mission control guy staring at a screen full of raining code.</span><br />
+<span style="color:#fe6a27">CPO: Course you are.</span><br />
+<span style="color:#fe6a27">CPO: Heheheh</span><br />
+<span style="color:#ee1e00">CCP: except it's actually a holographic map of the area, because why not mix Code Lyoko with this Matrix reference? <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+<span style="color:#2806ea">CEQ: Woooo</span><br />
+<span style="color:#fe6a27">CPO: I'm Ulrich!</span><br />
+<span style="color:#fe6a27">CPO: Heheh</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets into the Cruxite fort and closes the door on it. --</span><br />
+<span style="color:#2806ea">CEQ: Gah, its been forever since I've seen code lyoko...</span><br />
+<span style="color:#fe6a27">CPO: I guess that makes FI William...</span><br />
+<span style="color:#fe6a27">CPO: Code Lyoko's the shiznizzle.</span><br />
+<span style="color:#ee1e00">CCP: I'm surprised there isn't an abridged series of it yet... I mean, ReBoot Abridged is already done with three of the four seasons.</span><br />
+<span style="color:#2806ea">CEQ: I know, right? It was such a good show...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  5neak5 in the cafe --</span><br />
+<span style="color:#fe6a27">CPO: There would probably be a lot of big head jokes.</span><br />
+<span style="color:#0080ff">CFL: What would be the Abridged Plot?</span><br />
+<span style="color:#2806ea">CEQ: oh yeah, no question</span><br />
+<span style="color:#0080ff">CFL: (( wagreuioshoiep ))</span><br />
+<span style="color:#0080ff">CFL: (( FORGOT SORRY ))</span><br />
+<span style="color:#2806ea">CEQ: ((pfffft))</span><br />
+<span style="color:#0080ff">CFL: (( DISREGARD ME ))</span><br />
+<span style="color:#fe6a27">CPO: Xana just wanted his DVD player back?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is sitting in his Cruxite Fort of Awesome. --</span><br />
+<span style="color:#fe6a27">CPO: ((Lol nevermind))</span><br />
+<span style="color:#646464"><span style="color:#820635">CURRENT sharkBelligerant [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#820635">CSB: /me</span><br />
+<span style="color:#820635">CSB: w</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  w --</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  waits with hand up for PO --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  what? --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  high five! --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  woddles back up the stairs. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  storms into the Room --</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#820635">[CSB]</span>  super s --</span><br />
+<span style="color:#0080ff">CFL: MY ABRIDGED SENSE IS TINGLING.</span><br />
+<span style="color:#820635">CSB: /</span><br />
+<span style="color:#820635">CSB: /me</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#820635">CSB:  /m</span><br />
+<span style="color:#fe6a27">CPO: I can imagine a conversarion now....</span><br />
+<span style="color:#2806ea">CEQ: Um..?</span><br />
+<span style="color:#820635">CSB: ((fuck my keyboar/)</span><br />
+<span style="color:#fe6a27">CPO: "I'm a genius, my head is huge!" "All our heads are huge." "....shut up."</span><br />
+<span style="color:#820635">CSB: ((i can f</span><br />
+<span style="color:#820635">CSB: /y t</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  quietly raid5 the fridge and leave5 --</span><br />
+<span style="color:#2806ea">CEQ: pffft!</span><br />
+<span style="color:#820635">CSB: ((i can f/y too?</span><br />
+<span style="color:#ee1e00">CCP: ((broken enter key keeps happening?))</span><br />
+<span style="color:#fe6a27">CPO: Or when Jim tells a story...</span><br />
+<span style="color:#0080ff">CFL: ...So, what abridged series are you talking about?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  and 5he took everything in the fridge 5o if you had anything in there tough luck --</span><br />
+<span style="color:#820635">CSB: ((it /)oes</span><br />
+<span style="color:#2806ea">CEQ: Code Lyoko.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  my cabbages! you monster! wait, I don't eat those... --</span><br />
+<span style="color:#2806ea">CEQ: -what it would be like, i mean.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  heheheh --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: ...Okay needs a better plot.</span><br />
+<span style="color:#0080ff">CFL: ...Lets see, what do most people use the internet for...</span><br />
+<span style="color:#fe6a27">CPO: Porn?</span><br />
+<span style="color:#0080ff">CFL: back in the beginning of the internet.</span><br />
+<span style="color:#0080ff">CFL: Admit it- oh.</span><br />
+<span style="color:#0080ff">CFL: Yeah.</span><br />
+<span style="color:#fe6a27">CPO: Maybe Xana just wanted his DVD back?</span><br />
+<span style="color:#0080ff">CFL: No, Xana is... Joshua from Wargames, and Jeremy... put his porn stash in lyoko.</span><br />
+<span style="color:#0080ff">CFL: IT MAKES PERFECT SENSE</span><br />
+<span style="color:#fe6a27">CPO: HAHAHAHAHAH</span><br />
+<span style="color:#fe6a27">CPO: They have to get to the towers before Xana gets to them!</span><br />
+<span style="color:#fe6a27">CPO: Aelita is is virtual porn girl</span><br />
+<span style="color:#646464"><span style="color:#750058">CURRENT sharkBelligerant [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#750058">CSB: ((haha /o/</span><br />
+<span style="color:#0080ff">CFL: and that would explain why the towers are... phallic.</span><br />
+<span style="color:#fe6a27">CPO: All the lyoko warriors are just porn enthusiasts.</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#750058">[CSB]</span>  throws a dice up and paralyses it --</span><br />
+<span style="color:#750058">CSB: ...oh</span><br />
+<span style="color:#fe6a27">CPO: William gets jealous of Jeremy's porn</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  facetables. --</span><br />
+<span style="color:#fe6a27">CPO: All the teachers would teach something outrageous</span><br />
+<span style="color:#fe6a27">CPO: The principal's just in it for the young girls</span><br />
+<span style="color:#0080ff">CFL: Science teacher teaches Quantum Mechanics?</span><br />
+<span style="color:#0080ff">CFL: NO</span><br />
+<span style="color:#750058">CSB: i came here because you nee/) to stop</span><br />
+<span style="color:#0080ff">CFL: we need the principal to be a /reasonable authority figure/.</span><br />
+<span style="color:#0080ff">CFL: actually no</span><br />
+<span style="color:#0080ff">CFL: cloud coocoo lander.</span><br />
+<span style="color:#fe6a27">CPO: No, the Nurse is a reasonable figure.</span><br />
+<span style="color:#0080ff">CFL: No</span><br />
+<span style="color:#750058">CSB: i ship Ae/ita-Jeremy a /)amn /ot</span><br />
+<span style="color:#0080ff">CFL: reasonable figure needs to stay the gym teacher</span><br />
+<span style="color:#0080ff">CFL: or is he a janitor?</span><br />
+<span style="color:#0080ff">CFL: :?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  shrugs --</span><br />
+<span style="color:#fe6a27">CPO: No, Jim's just dumb lol</span><br />
+<span style="color:#0080ff">CFL: No</span><br />
+<span style="color:#0080ff">CFL: Jim needs to be the smartest person</span><br />
+<span style="color:#0080ff">CFL: and Genre Savvy.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: Kimura, what do you think?</span><br />
+<span style="color:#0080ff">CFL: (( Paging KN cause glitch I assume ))</span><br />
+<span style="color:#ee1e00">CCP: ((yeah, glitch because pesterbutt won't toast me for some reason))</span><br />
+<span style="color:#ee1e00">CCP: eh, I guess it sounds okay</span><br />
+<span style="color:#0080ff">CFL: We need some /creative input/</span><br />
+<span style="color:#ee1e00">CCP: can't really think of anything right now, I don't watch enough abridged series to know what makes them tick...</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: DODGE</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  throws a ball at kimura --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ducks --</span><br />
+<span style="color:#0080ff">CFL: ...Okay, not Gohan.</span><br />
+<span style="color:#0080ff">CFL: Good to know.</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  catches the ball and spits it back --</span><br />
+<span style="color:#ee1e00">CCP: again, "&gt;:?".</span><br />
+<span style="color:#2806ea">CEQ: um?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  catches the ball and puts it away. --</span><br />
+<span style="color:#0080ff">CFL: You need to watch Dragon Ball Z Abridged.</span><br />
+<span style="color:#fe6a27">CPO: Heheheh</span><br />
+<span style="color:#ee1e00">CCP: yeah, probably.</span><br />
+<span style="color:#2806ea">CEQ: hmph...</span><br />
+<span style="color:#ee1e00">CCP: I saw the first few episodes, but got kinda busy with, well, /this game/...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  flips on the BaCafe TV. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  <a href='http://synchtube.6irc.net/r/BaCafe_TV'>http://synchtube.6irc.net/r/BaCafe_TV</a> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //this is the best use of synchtube 5ever. --</span><br />
+<span style="color:#2806ea">CEQ: ((oh gosh))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at the TV --</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  follows suit --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  does the same --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  this is great --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#fe6a27">CPO: Krillin got owned.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#802000">CURRENT cruX [CCX]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  comes up to watch the Abridged Series. --</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  waves Crux over --</span><br />
+<span style="color:#646464">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  sits next to Kutone. --</span><br />
+<span style="color:#646464"><span style="color:#fe6a27">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  walks around the Bacafe --</span><br />
+<span style="color:#fe6a27">CPO: Anyone wanna go in the VR with me?</span><br />
+<span style="color:#2806ea">CEQ: Eh... why not?</span><br />
+<span style="color:#2806ea">CEQ: I still need to practice with plushie kind...</span><br />
+<span style="color:#ee1e00">CCP: nah, maybe later</span><br />
+<span style="color:#fe6a27">CPO: Sure.</span><br />
+<span style="color:#2806ea">CEQ: hmph</span><br />
+<span style="color:#fe6a27">CPO: Well, come on</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  waves her over, smiling --</span><br />
+<span style="color:#ee1e00">CCP: ((synchtube died entirely.))</span><br />
+<span style="color:#2806ea">CEQ: Alrighty!</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  hops up from her seat, and heads over to the transportalizer. --</span><br />
+<span style="color:#ee1e00">CCP: have fun with that then :P</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  watches the TV lock up. --</span><br />
+<span style="color:#0080ff">CFL: GOG DAMMIT</span><br />
+<span style="color:#bfbfbf">CKN: ...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns it off. --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  heads on over --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  transportalizes up to the dojo, and then heads over to the VR room. --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  is now in the dojo --</span><br />
+<span style="color:#2806ea">CEQ: Soo... You can pick the setting, if you wanna. I'm fine with whatever.</span><br />
+<span style="color:#fe6a27">CPO: Wanna do a sim against each other, or against dudes?</span><br />
+<span style="color:#fe6a27">CPO: Let's do a zombie thing.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  sets up the condition --</span><br />
+<span style="color:#2806ea">CEQ: Eh.</span><br />
+<span style="color:#fe6a27">CPO: Eh?</span><br />
+<span style="color:#2806ea">CEQ: So, we fighting a couple waves of zombos or just fighting eachother in a zombie-ish area?</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  walks back in the dojo --</span><br />
+<span style="color:#fe6a27">CPO: We're fighting zom's.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  opens up an actual laptop. --</span><br />
+<span style="color:#2806ea">CEQ: Alrighty! Lets hop to it then!</span><br />
+<span style="color:#2806ea">CEQ: ((... PERFECT TIMING, PARENTS. PERFECT 5/5))</span><br />
+<span style="color:#fe6a27">CPO: ((Uh oh))</span><br />
+<span style="color:#2806ea">CEQ: ((I'm being dragged away for food shopping and dinner. :&lt; ))</span><br />
+<span style="color:#fe6a27">CPO: ((Awww :-(  it's okay :-). See you later))</span><br />
+<span style="color:#2806ea">CEQ: ((Fine then, later, and I'm soooo sorry! :&lt; ))</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  after murder-killing some zombies, he comes back down --</span><br />
+<span style="color:#fe6a27">CPO: Anyone eeelse wanna come up?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is working on something --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#fe6a27">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#fe6a27">CPO: I'm actually just gonna go home.</span><br />
+<span style="color:#fe6a27">CPO: §!</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  the golden cloud flies in the window --</span><br />
+<span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe6a27">[CPO]</span>  he mounts it, and waves to everyone before flying out with a woooooooosh! --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  yawns, curling up next to CP --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  switched back to his 3DS to finish off the code... --</span><br />
+<span style="color:#646464"><span style="color:#0dc7ca">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  descends down to HQ with a guest strapped to his back --</span><br />
+<span style="color:#0dc7ca">CPE: Here we are</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  and co transportalize up to the Bacafe --</span><br />
+<span style="color:#646464"><span style="color:#00006c">CURRENT paramountWaterloo [CPW]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#00006c">CPW: ......this is nice.</span><br />
+<span style="color:#0dc7ca">CPE: just have a seat somewhere. We can leave whenever oyu want</span><br />
+<span style="color:#0dc7ca">CPE: *you</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is laying on the couch, watching EEnE YTPs on his scrolltop --</span><br />
+<span style="color:#0dc7ca">CPE: here we go, go chat with CP</span><br />
+<span style="color:#00006c">CPW: ......okay.</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  walks over to CP --</span><br />
+<span style="color:#00006c">CPW: ......hello.</span><br />
+<span style="color:#ee1e00">CCP: sup</span><br />
+<span style="color:#00006c">CPW: ......what are you doing?.</span><br />
+<span style="color:#ee1e00">CCP: watching stuff on youtube</span><br />
+<span style="color:#ee1e00">CCP: new player, I assume?</span><br />
+<span style="color:#00006c">CPW: ......yeah.</span><br />
+<span style="color:#00006c">CPW: ......luckily i had a server player.</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  glances at PE --</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  grabs a root beer and drinks it --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //ok just to clarify, this is me: <a href='https://dl.dropboxusercontent.com/u/52541782/mspa/kimurasprite.png'>https://dl.dropboxusercontent.com/u/52541782/mspa/kimurasprite.png</a> (kind of an old pic but) --</span><br />
+<span style="color:#00006c">CPW: ......is this what everyone does around here?.</span><br />
+<span style="color:#ee1e00">CCP: nah, it's just a slow night right now</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  throws away trash --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#0dc7ca">CPE: here PW, ill show you my room, you can stay there whenever you want</span><br />
+<span style="color:#0dc7ca">CPE: my room here</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  transportalizes up to the 3rd floor --</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  follows --</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  shows PW his room, it's this one. Feel free to add anything decorative if you wish --</span><br />
+<span style="color:#0dc7ca">CPE: Feel free to add anything decorative</span><br />
+<span style="color:#0dc7ca">CPE: if you want</span><br />
+<span style="color:#00006c">CPW: ......cool.</span><br />
+<span style="color:#00006c">CPW: ......i guess im ready to go.</span><br />
+<span style="color:#00006c">CPW: ......i'll meet you outside.</span><br />
+<span style="color:#0dc7ca">CPE: alright, cool</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  transportalizes to the lobby and waits --</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  warps down to the bacafe --</span><br />
+<span style="color:#00006c">CPW: ......It was nice meeting you CP.</span><br />
+<span style="color:#00006c">CPW: ......maybe later, you can come visit me.</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  warps to the lobby --</span><br />
+<span style="color:#ee1e00">CCP: yeah, later</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  straps PW to his back with the Tow Rope and flies off --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#887000">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  [MUFFLED BLUE DANUBE IN THE DISTANCE] --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  the Lunar Whale lands near the bacafe, still covered in dents and burn marks from the attack on the battleship. --</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">now landing on the land of ink and roses</span></span><br />
+<span style="color:#646464"><span style="color:#ff00ff">CURRENT amySpider [CAS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT amySpider <span style="color:#ff00ff">[CAS]</span>  hops off the ship --</span><br />
+<span style="color:#ff00ff">CAS: Thank you, Mr. Radd!</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  looks outside --</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">no problem, kiddo</span></span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  the actual SL hops out after her --</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  wakes up --</span><br />
+<span style="color:#bfbfbf">CKN: &gt;:?</span><br />
+<span style="color:#887000">CSL: thanks again for not coating me in neurotoxins or something</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">no problem</span></span><br />
+<span style="color:#0080ff">CFL:  <span style="color:#20b0e0">I have to state that neurotoxins is a bit... lazy of torture.</span></span><br />
+<span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Read a terrible fan fiction to them... that can break someone.</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">hence why the inferior specimen came up with it</span></span><br />
+<span style="color:#646464">-- CURRENT amySpider <span style="color:#ff00ff">[CAS]</span>  sees Kutone --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  oh dear frogs, that fanfic. --</span><br />
+<span style="color:#646464">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is next to Kutone. --</span><br />
+<span style="color:#ff00ff">CAS: Puppy!</span><br />
+<span style="color:#887000">CSL: oh shit amy no-</span><br />
+<span style="color:#bfbfbf">CKN: ...</span><br />
+<span style="color:#646464"><span style="color:#39b873">CURRENT issunJar [CIJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#39b873">CIJ: ...</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#887000">CSL: ...try not to get webbing on them</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  flees to the transportalizer. --</span><br />
+<span style="color:#646464">-- CURRENT amySpider <span style="color:#ff00ff">[CAS]</span>  has selected PET DOGE --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  warps to the Basement and hides in his Cruxite Fort. --</span><br />
+<span style="color:#887000">CSL: so, uh... sorry about trying to deliberately handicap your brain</span><br />
+<span style="color:#0080ff">CFL: OnO</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">it seemed like a good idea at the time</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526"> i should know, i was there</span></span><br />
+<span style="color:#887000">CSL: so this is the <span style="color:#bacafe">bacafe</span> ive been hearing so much about</span><br />
+<span style="color:#39b873">CIJ: Oh, is this your first time here?</span><br />
+<span style="color:#887000">CSL: not really? ive shown up a few times but i never stay long</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is rocking back and forth in his cruxite fort... made out of giant lego cruxite. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Giant Lego that is made out of cruxite, not Giant Cruxite that is made out of Lego. --</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  yawns --</span><br />
+<span style="color:#887000">CSL: ((INTERNET))</span><br />
+<span style="color:#646464">-- CURRENT amySpider <span style="color:#ff00ff">[CAS]</span>  is pretty much petting the dogs endlessly --</span><br />
+<span style="color:#646464">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is getting all the pettings, four ears flopping backwards. --</span><br />
+<span style="color:#646464">-- CURRENT amySpider <span style="color:#ff00ff">[CAS]</span>  has six arms and can pet every ear --</span><br />
+<span style="color:#802000">CCX: :&gt;</span><br />
+<span style="color:#887000">CSL: ((i gotta go for several reasons, bye from all 3 of us))</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  just sort of stares at the spider --</span><br />
+<span style="color:#802000">CCX: "Can you under stand me? I know that PO had this horrible accent going on..."</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "I'm... not sure if it works like that, Crux." --</span><br />
+<span style="color:#646464"><span style="color:#0dc7ca">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  flies back down to LoIaR --</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  goes into bacafe --</span><br />
+<span style="color:#0dc7ca">CPE: sup fellas</span><br />
+<span style="color:#802000">CCX: "I can try!"</span><br />
+<span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  aaand there they went. the SL and spiderdaughter HASS the absconds. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls asleep in the basement. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCX</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#0dc7ca">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0dc7ca">CPE: ((psst, CP))</span><br />
+<span style="color:#ee1e00">CCP: ((pesterbutt doesn't let toasts work on this nick half the time. what?))</span><br />
+<span style="color:#0dc7ca">CPE: ((I found a good picture for PW))</span><br />
+<span style="color:#0dc7ca">CPE: (( <a href='http://i.imgur.com/xHQm3fK.jpg'>http://i.imgur.com/xHQm3fK.jpg</a> ))</span><br />
+<span style="color:#ee1e00">CCP: ((huh. cool.))</span><br />
+<span style="color:#0dc7ca">CPE: ((a personal friend drew is for me))</span><br />
+<span style="color:#0dc7ca">CPE: ((She drew me one for PE as well, but I have lost it since then. Ill show you it tomorrow))</span><br />
+<span style="color:#646464"><span style="color:#000000">CIJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  transportalizes upstairs and walks to his room --</span><br />
+<span style="color:#0dc7ca">CPE: i guess I have to use this room at some point</span><br />
+<span style="color:#ee1e00">CCP: ((yeah. SV drew a Team Momentum badge for everyone on the team, but STILL hasn't sent me mine yet despite Ash and I both reminding him repeatedly...))</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  goes to sleep --</span><br />
+<span style="color:#0dc7ca">CPE: ((maybe make a new team? I am pretty good at drawing as well))</span><br />
+<span style="color:#ee1e00">CCP: ((nah. just a random comment, I'm night-memoing two hours early tonight &gt;_&gt;))</span><br />
+<span style="color:#646464">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  falls asleep on CP --</span><br />
+<span style="color:#646464"><span style="color:#000000">CKN</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ((thank you for proving my point, Kutone :P))</span><br />
+<span style="color:#0dc7ca">CPE: ((Ill just hang out in the general memo then))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs and also falls asleep on the couch --</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />

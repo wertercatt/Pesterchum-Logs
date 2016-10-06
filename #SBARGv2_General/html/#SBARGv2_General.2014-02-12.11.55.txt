@@ -1,0 +1,1504 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">[#SBARGv2_General] <a href='#SBARGv2_Universe'>#SBARGv2_Universe</a> for IC. <a href='http://kapowcreations.com/sbarginfo'>http://kapowcreations.com/sbarginfo</a> for info.</span><br />
+<span style="color:#646464"><span style="color:#55007f">CURRENT skIttles [CSI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> ~!!GOODMORNING!!~ <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> :D <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: hi skittles! ➜</span><br />
+<span style="color:#ee1e00">CCP: sup</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> ^_^ <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> Sorry about last night. <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> I was super tired and upset. <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#cb7de6">CSJ: it's alright, it happens sometimes. ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> brb <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#000000">CSI</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#55007f">CURRENT skIttles [CSI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> :P My antivirus upderped.  <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#cb7de6">CSJ: weird. ➜</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> It was clashing with the debugger on my ide. I hope the upderp fixed it. <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> landed on a moon in kerbal :D</span><br />
+<span style="color:#cb7de6">CSJ: yay ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">fuNNy</span> story</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">both</span> of the flags I have placed on places</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">are</span> dedicated to dead kerbals</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> died trying to get there.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">...</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">my</span> rocket ran out of batteries so my kerbal had to get out and push it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> the solar panel kind of</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">broke</span></span><br />
+<span style="color:#cb7de6">CSJ: :b ➜</span><br />
+<span style="color:#ee1e00">CCP: lol</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">now</span> I have to wait for the rocket to slowly spin over to where I can do my burn back home</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">12560.3</span> m/s</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> faster than...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">something</span> I'm sure.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">YES</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">he's</span> making it home</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> that was close</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> he didn't turn in time he'd be kind of</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">orbiting</span> the sun forever.</span><br />
+<span style="color:#cb7de6">CSJ: aaaa, why does the npc do the helicopter dance when she hits the door? ➜</span><br />
+<span style="color:#cb7de6">CSJ: oh gog I made her stretch and rotate ➜</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is going to have so many glitchy npc behavior variants by the time this is all fixed --</span><br />
+<span style="color:#cb7de6">CSJ: I can't even shoot it because it's classified as an NPC and not an enemy ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">pfft</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"The</span> screen displaying temperature information is continously showing bad temperature puns. You note this strange behavior and hope it's not something serious."</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">-</span> kerbal</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">apparently</span> there's an IRIS ebay store</span><br />
+<span style="color:#646464"><span style="color:#722881">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#722881">CAS: iris?</span><br />
+<span style="color:#722881">CAS: like...the flower?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#cb7de6">CSJ: different kinda IRIS. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">like</span> the tumblr ARG</span><br />
+<span style="color:#646464"><span style="color:#d40e00">CURRENT masterMoridin [CMM]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d40e00">CMM: well, techinically the account is zodiak10</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">right</span></span><br />
+<span style="color:#722881">CAS: oh</span><br />
+<span style="color:#722881">CAS: only one i'm aware of is sbarg</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> screw you MM <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+<span style="color:#722881">CAS: XD</span><br />
+<span style="color:#d40e00">CMM: which appears to be an earlier "iteration" of whatever freaky AI experiments are going on</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">here</span> AS</span><br />
+<span style="color:#41742f">CNN:   <a href='http://iris-ar.tumblr.com/post/76191757664/zdk-12-masterpost'>http://iris-ar.tumblr.com/post/76191757664/zdk-12-masterpost</a></span><br />
+<span style="color:#722881">CAS: eh...later</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">k</span></span><br />
+<span style="color:#d40e00">CMM: It's getting interesting</span><br />
+<span style="color:#d40e00">CMM: IRIS has actually stated she's growing faster than even she anticipated</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> o.o <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#d40e00">CMM: So I wonder what effect that'll have within the context of the arg</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  is fighting with sburb's gui again ... she's such a sassy black lady who don't need no text to display right --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  needs to finish imPPlementation --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  has it mostly covered, just needs a dialog tree and some alpha testing --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  needs to prevent continuous spriteflipping caused by changing the xscale too soon --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">why</span> are 3 separate people here making games</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> is silly</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(and</span> cool)</span><br />
+<span style="color:#722881">CAS: fate</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Sbarg</span> Games, Inc.</span><br />
+<span style="color:#d40e00">CMM: I'm also making a game</span><br />
+<span style="color:#d40e00">CMM: and im a dev on another person's project</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wow</span></span><br />
+<span style="color:#d40e00">CMM: I'm /technically/ making like...3 games?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">show-off</span></span><br />
+<span style="color:#d40e00">CMM: but two of them are table top</span><br />
+<span style="color:#722881">CAS: making me jealous guys</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">my</span> moirail is attempting to write a novella</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> technically supposed to be working on a language</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> I haven't gotten back into that groove yet</span><br />
+<span style="color:#cb7de6">CSJ: names of objects in the npc behavior folder: ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> I am programming sburb. <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> :I <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> spartacus!</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  finds the most difficult convoluted game ever ... I THINK I'LL MAKE THIS --</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> *I think I'll make this with no prior gamemaking experience <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> :D <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#cb7de6">CSJ: obj_brokenmom, obj_stillbrokenmom, obj_pleaseworkmom, obj_sheeshlady, obj_nak ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">skittles</span> no offense but you are screeeewed</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> whiteRabbit.obj <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> Anybody know that one¿ <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> Nedry's backdoor in Jurrasic Park <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> *Jurassic <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  speellllllliinngngggngng --</span><br />
+<span style="color:#cb7de6">CSJ: huh, interesting. ➜</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> I love that book <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> So much <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> I rarely reread books and my copy looks like it's going to fall to pieces <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> If you look at it too hard. <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> &lt;3 <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> Gui. Just stop. You are not a sassy black lady. <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> Boolean sassyBlackLady = true; <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> The Boolean that triggers the game to end is theSwitchIsOFF <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  has Kerbal running in the background --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  named a rocket the KAM Microwave Mk II --</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  makes random references all over in her code --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  the first one kind of. had a parachute rip off and the astronaut died. --</span><br />
+<span style="color:#d40e00">CMM: huh</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> Okay. The gui is staying broken for a while <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> &gt;:I <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#d40e00">CMM: apparently DayZ takes your account name from your computer's name</span><br />
+<span style="color:#cb7de6">CSJ: AAAGH! THIS LADY...  ➜</span><br />
+<span style="color:#cb7de6">CSJ: there's gotta be an easy way to prevent helicoptering due to collisions. ➜</span><br />
+<span style="color:#cb7de6">CSJ: okay, this npc is scaring me now. ➜</span><br />
+<span style="color:#d40e00">CMM: hmmmm.  should i go driving on the iced over roads to get taco bell, or to get a pizza</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> Helicoptering. Hehehee <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> Order a pizza delivery. <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> ==&gt; Let Pizza guy drive on icy roads instead <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  has a mental image of the character just spinning off the screen every time you try to talk to it. --</span><br />
+<span style="color:#d40e00">CMM: don't get delivery here</span><br />
+<span style="color:#d40e00">CMM: unless i order by phone, and i don't have a phone</span><br />
+<span style="color:#d40e00">CMM: also, i may not be able to go anywhere anyways</span><br />
+<span style="color:#d40e00">CMM: my new insurance papers came in the otherday and i never put them in the car cause i haven't had to drive</span><br />
+<span style="color:#d40e00">CMM: and now i can't find them</span><br />
+<span style="color:#d40e00">CMM: i am really really afraid i accidentally threw them away when i was cleaning my room the other day</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: so pokemon amie helped me discover a thing</span><br />
+<span style="color:#2d8a18">CSL: unown</span><br />
+<span style="color:#2d8a18">CSL: eats with its eye</span><br />
+<span style="color:#2d8a18">CSL: somehow</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: It breaks food down with psychic power, down into raw energy.</span><br />
+<span style="color:#9d001f">CRS: Which it then absorbs</span><br />
+<span style="color:#2d8a18">CSL: but only if food is held directly in front of its eye?</span><br />
+<span style="color:#9d001f">CRS: Yes.</span><br />
+<span style="color:#2d8a18">CSL: also yanmega is kawaii as fuck but you knew that already</span><br />
+<span style="color:#9d001f">CRS: That's the focal point it can focus its psychic power through</span><br />
+<span style="color:#2d8a18">CSL: he makes the same faces as vivillion or however its spelled</span><br />
+<span style="color:#2d8a18">CSL: you hold out food and he gets all :D</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> Daww <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#d40e00">CMM: YES.  I FOUND MY INSURANCE</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">hey</span> MM</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">want</span> to buy insurance for our insurance?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*your</span></span><br />
+<span style="color:#d40e00">CMM: knowing me that'd actually be helpful...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">just</span> don't lose the insurance for your insurance</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">otherwise</span> you're screwed bro</span><br />
+<span style="color:#9d001f">CRS: lol</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">RS</span> want to buy insurance for your lols?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wouldn't</span> want something to</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  gets a baseball bat --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"happen"</span> to them</span><br />
+<span style="color:#9d001f">CRS: Nah I'm pretty sure my lols are safe</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#2d8a18">CSL: ys is very fun</span><br />
+<span style="color:#2d8a18">CSL: it takes a battle system that can be accurately summarized as "run into the other guy" and makes it deep and interesting</span><br />
+<span style="color:#2d8a18">CSL: also <a href='http://www.youtube.com/watch?v=HplgXxaKu5c'>http://www.youtube.com/watch?v=HplgXxaKu5c</a></span><br />
+<span style="color:#d40e00">CMM: it would appear i can't go get food</span><br />
+<span style="color:#d40e00">CMM: there's a good 1/2 inch thing of ice frozen on to my windshield</span><br />
+<span style="color:#cb7de6">CSJ: oh crud ➜</span><br />
+<span style="color:#d40e00">CMM: and since this is louisiana, no one has an ice scraper</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> I am hating burger king today. <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> So many people snotting everywhere and wearing too much perfume. <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> bbiab ... relocating to a bookstore. <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL: life goal</span><br />
+<span style="color:#646464"><span style="color:#000000">CSI</span> ceased responding to memo.</span><br />
+<span style="color:#2d8a18">CSL: learn to do that russian squatty dance</span><br />
+<span style="color:#d40e00">CMM: does anyone know the price of a burger at sonic?</span><br />
+<span style="color:#d40e00">CMM: their website doesn't list prices</span><br />
+<span style="color:#2d8a18">CSL: $fast</span><br />
+<span style="color:#646464"><span style="color:#55007f">CURRENT skIttles [CSI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> Hastings &gt; Burger King <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#cb7de6">CSJ: welcome back ➜</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://asstlevania.tumblr.com/post/76439762944/stylinsmut-the-first-smut-i-ever-read-was-about'>http://asstlevania.tumblr.com/post/76439762944/stylinsmut-the-first-smut-i-ever-read-was-about</a></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> Cafe lady messed up my coffee. D: <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> I am alergic to all the things ... all of them ... <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> So I get soy, decafe, lattes. :P <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> And she didn't hear the decafe part. <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL: ys is so absurdly japanese</span><br />
+<span style="color:#2d8a18">CSL: the title of the battle theme</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  wonders what ys is --</span><br />
+<span style="color:#2d8a18">CSL: "first step towards wars"</span><br />
+<span style="color:#2d8a18">CSL: its a jrpg</span><br />
+<span style="color:#2d8a18">CSL: it has a really cool battle system but is otherwise the most generic jrpg imaginable</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=e6X2UCKnGrM'>http://www.youtube.com/watch?v=e6X2UCKnGrM</a></span><br />
+<span style="color:#2d8a18">CSL: also the music is kickass</span><br />
+<span style="color:#41742f">CNN:   <a href='https://dl.dropboxusercontent.com/u/59894637/Kerbal.pdf'>https://dl.dropboxusercontent.com/u/59894637/Kerbal.pdf</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> think I'm too into kerbal.</span><br />
+<span style="color:#2d8a18">CSL: biggest flaw of ys</span><br />
+<span style="color:#2d8a18">CSL: /no fucking autosave/</span><br />
+<span style="color:#9d001f">CRS: Isn't it an RPG?</span><br />
+<span style="color:#ee1e00">CCP: yeah, Tron 2.0 has that same problem, only autosaving at level start. that messed up my stream the other day because BLUH BLUH PLATFORMING</span><br />
+<span style="color:#2d8a18">CSL: its uh</span><br />
+<span style="color:#2d8a18">CSL: sort of a jrpg?</span><br />
+<span style="color:#2d8a18">CSL: more of a zelda-style adventure game</span><br />
+<span style="color:#9d001f">CRS: Huh</span><br />
+<span style="color:#9d001f">CRS: And spots to save are in short supply?</span><br />
+<span style="color:#2d8a18">CSL: no you can save anywhere except during boss battles</span><br />
+<span style="color:#2d8a18">CSL: but it doesnt autosave</span><br />
+<span style="color:#9d001f">CRS: :\</span><br />
+<span style="color:#2d8a18">CSL: which gets annoying</span><br />
+<span style="color:#2d8a18">CSL: when you die and you last saved 20 sidequests ago</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#21c8ba">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#21c8ba">CPE: ~ heyo</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: yo</span><br />
+<span style="color:#21c8ba">CPE: ~ is there something happening?</span><br />
+<span style="color:#2d8a18">CSL: ic yes</span><br />
+<span style="color:#2d8a18">CSL: ooc not really</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> ooc <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#21c8ba">CPE: ~ alright, on my way to IC ten</span><br />
+<span style="color:#21c8ba">CPE: ~ then*</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> Sburb is being a sassy black lady <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> :P <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=ZF238BCdMts'>http://www.youtube.com/watch?v=ZF238BCdMts</a></span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#21c8ba">CPE: ~ i also see SL isnt dead anymore</span><br />
+<span style="color:#2d8a18">CSL: yep</span><br />
+<span style="color:#21c8ba">CPE: ~ or whatever had happened to him</span><br />
+<span style="color:#2d8a18">CSL: there was a revival scene</span><br />
+<span style="color:#21c8ba">CPE: ~ mkay</span><br />
+<span style="color:#2d8a18">CSL: it was very emotional and sl/sj was teased</span><br />
+<span style="color:#21c8ba">CPE: ~ hehehhe</span><br />
+<span style="color:#21c8ba">CPE: ~ HAHAHHA</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#21c8ba">[CPE]</span>  shipping intensifies --</span><br />
+<span style="color:#21c8ba">CPE: ~ make sure you turn the ship flatways</span><br />
+<span style="color:#21c8ba">CPE:  ~  <a href='http://vimeo.com/84824358'>http://vimeo.com/84824358</a></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> ... <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> wants to test incomplete version 4 of my text adventure</span><br />
+<span style="color:#21c8ba">CPE: ~ skittles, did you watch that video?</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> What video <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> Also I just realized I only ate once today. <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI:  <span style="color:#ff0000">◎  </span><a href='@_'>@_</a>@ <span style="color:#ff00ff">ⓢ</span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> Programming sburb &gt; food <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#21c8ba">CPE:  ~  <a href='http://vimeo.com/84824358'>http://vimeo.com/84824358</a></span><br />
+<span style="color:#21c8ba">CPE: ~ this ideo</span><br />
+<span style="color:#21c8ba">CPE: ~ video*</span><br />
+<span style="color:#41742f">CNN:   <a href='https://dl.dropboxusercontent.com/u/59894637/Release/index.html'>https://dl.dropboxusercontent.com/u/59894637/Release/index.html</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">pls</span> try to break PP NPC</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> look for things I need to highlight in green that aren't already highlighted</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">PP</span> NPC currently does not have dialog</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">as</span> in, a dialog tree</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> you can ask them to do things</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">verbs</span> that work:</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">paige,</span> follow</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">paige,</span> stay</span><br />
+<span style="color:#2d8a18">CSL: paige confirmed for doge</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">play</span> [instrument] and paige, play [instrument]</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">summon</span> paige</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> then whatever verbs you can think of</span><br />
+<span style="color:#41742f">CNN:   <a href='http://piratepad.net/logamquest'>http://piratepad.net/logamquest</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">list</span> the problems here</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">try</span> as many verbs as possible.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> tell me things I should let you ask her to do</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">rn</span> her persuasion rules are:</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">allow</span> "paige, kiss [noun]" to get a response</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"paige,</span> hug [noun]" to get a massage</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> "paige, rub [noun]" to get a response</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">uh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">response</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">not</span> massage</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can't words</span><br />
+<span style="color:#2d8a18">CSL: how can you get ;3</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  is exploding from writing so much interactive fiction --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> no SL you can't.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">moirails.</span></span><br />
+<span style="color:#2d8a18">CSL: then what is the point even</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">see</span> above message.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">basically</span> partymember</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> you unlock later that helps with 2peoplepuzzles</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> What am I watching PE <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> Get back here <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah pls pre-alpha test version 4 of my text adventure guys</span><br />
+<span style="color:#41742f">CNN:   <a href='https://dl.dropboxusercontent.com/u/59894637/Release/play.html'>https://dl.dropboxusercontent.com/u/59894637/Release/play.html</a></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> Idek what I'm watching <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> NN, I'm not going to be able to do it right now. <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ok</span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> I'm neck deep in my own stuffs. <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> Trying to completely rework planet generation. <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> let's see I need to add</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">PPdialogtree</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">unlocking</span> PP as character rather than having her be there by default</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">make</span> sure all the things are color coded that should be</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> fix violence against the ogre</span><br />
+<span style="color:#646464"><span style="color:#000000">CIM</span> ceased responding to memo.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> Okay. Altitude is done ... for the player planet <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> Now for items, and leave, and consorts, and names, and everything and ... ;sdlfk;ldasjf;lkjdfsa;lfjs;l <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">why</span> aren't you using the same generation for all the planets</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> I am <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">seemed</span> like an odd phrasing</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> I just condensed all of map generation to one class <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  really needs to rework their source code. --</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> So all maps are the same <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  it all works and the logic is all okay --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  but it's a MESS because it's all scrambled randomly. --</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> Right now house is handled entirely different from planets and everything else <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> So I have this map builder that builds maps based on which map it is asked to build <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> And now I just need to implement it. <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL: nn when will you work through the v2ooc queue</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">uhh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">on</span> a scale of probability</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">where</span> 1 is "no chance" and 100 is "definitely in a minute"</span><br />
+<span style="color:#ee1e00">CCP: yeah, you have a fair amount of queue to flush</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">probably</span> after diNNer there will be a chance of</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">50%</span> doing it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">50%</span> something distracting me from being able to do it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> I'll probably do it later if I don't get distracted in trying to get people to pre-alpha test PP-char</span><br />
+<span style="color:#646464"><span style="color:#ffffff">CURRENT zZ [CZZ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ffffff">CZZ: and thats how you troll :p</span><br />
+<span style="color:#646464"><span style="color:#000000">CZZ</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:|</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">afk</span> food</span><br />
+<span style="color:#646464"><span style="color:#8c7ea1">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#8c7ea1">CIM: interneeeeet</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">back</span> ate food</span><br />
+<span style="color:#646464"><span style="color:#c641ff">CURRENT chiakiNanami [CCN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#c641ff">CCN: help</span><br />
+<span style="color:#2d8a18">CSL: what</span><br />
+<span style="color:#ee1e00">CCP: TT, you're still IM in this memo too. you glitched big time.</span><br />
+<span style="color:#c641ff">CCN: helpme</span><br />
+<span style="color:#c641ff">CCN: icanttypeinspacesitkeepsopening</span><br />
+<span style="color:#c641ff">CCN: sidemenuthing</span><br />
+<span style="color:#c641ff">CCN: youknowthemenuwithoptionslike""clolse</span><br />
+<span style="color:#c641ff">CCN: pressarrowkepsaeither</span><br />
+<span style="color:#8c7ea1">CIM: I'm supposed to be IM?</span><br />
+<span style="color:#c641ff">CCN: keys</span><br />
+<span style="color:#8c7ea1">CIM: but it says I'm TT? o-o</span><br />
+<span style="color:#c641ff">CCN: nnhelpmeyouregoodwithcomputerswhatdoido</span><br />
+<span style="color:#ee1e00">CCP: "CURRENT timeTravlur [CTT] RIGHT NOW responded to memo."</span><br />
+<span style="color:#ee1e00">CCP: and your handle in the userlist is still TT</span><br />
+<span style="color:#8c7ea1">CIM: JFC</span><br />
+<span style="color:#ee1e00">CCP: ...though not in the chumlist, for some reason.</span><br />
+<span style="color:#ee1e00">CCP: um, what's the IM handle spelled out?</span><br />
+<span style="color:#c641ff">CCN: nn</span><br />
+<span style="color:#cb7de6">CSJ: try logging in as lolichronos or some other handle. ➜</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ff00">ⓢ</span> ... <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#c641ff">CCN: helpme</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> Are you on irc IM/TT <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#c641ff">CCN: thisisseriousiknowyourehere</span><br />
+<span style="color:#8c7ea1">CIM: no I'm not</span><br />
+<span style="color:#8c7ea1">CIM: I'm on pesterchum</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> wow <span style="color:#ff00ff">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL: ...huh</span><br />
+<span style="color:#2d8a18">CSL: thats</span><br />
+<span style="color:#2d8a18">CSL: strange</span><br />
+<span style="color:#ee1e00">CCP: IM/TT, what is IM's handle spelled out? gonna add to chumlist and see if it shows</span><br />
+<span style="color:#8c7ea1">CIM: immaterialMagus</span><br />
+<span style="color:#ee1e00">CCP: neither that nor timeTravlur is on the global online list right now... is your mood set to Hidden?</span><br />
+<span style="color:#c641ff">CCN: nnisafakefriend</span><br />
+<span style="color:#2d8a18">CSL: NN</span><br />
+<span style="color:#c641ff">CCN: throwschalkintheground</span><br />
+<span style="color:#8c7ea1">CIM: UHHH</span><br />
+<span style="color:#c641ff">CCN: icantstaylikethisforeverimgoingtorestartmycomputerbrb</span><br />
+<span style="color:#8c7ea1">CIM: i don't even know</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  gets a Mage of Rage on sburb again. --</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  still thinks that sounds like a wrestler --</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> His consorts are orange mice. (✿◠u◠) <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#2d8a18">CSL: how are you learning this</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> because she's programming sburb</span><br />
+<span style="color:#2d8a18">CSL: oh right</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> sl</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CSL:</span> NN</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CN</span> </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> the heck did you do</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  ate dinner and suddenly everyone's computers break --</span><br />
+<span style="color:#c641ff">CCN: help</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> "Slide menu"</span><br />
+<span style="color:#c641ff">CCN: i think my control key got stuck</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> mean uh</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#c641ff">CCN: it's fixed now</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">can</span> you remove the offending key</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> Suddenly <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ah</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'd</span> try ripping out all the ctrl keys</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  has been breaking things all day --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">then</span> blowing air on them</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">then</span> pushing them back in</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#00ffff">ⓢ</span> For some reason things keep having a mean of 0 <span style="color:#ff0000">ⓢ</span></span></span><br />
+<span style="color:#c641ff">CCN: i thought i got a virus bc it kept downloading the .htm files for all links that i clicked.... rip</span><br />
+<span style="color:#c641ff">CCN: actually i think alt was stuck not</span><br />
+<span style="color:#c641ff">CCN: control</span><br />
+<span style="color:#c641ff">CCN: right alt that is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span> alt</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">rip</span> out alt keys</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  begins long work on v2ooc --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">how</span> do I add</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">tags</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> submissions</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">like</span></span><br />
+<span style="color:#2d8a18">CSL: I HAVE NOOOOOOOO IDEA!</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">letting</span> people pick tags</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">nvm</span> found</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">v2ooc</span> now has some tags you can tag things with</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> Altlock on phones is obnoxious <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">suggest</span> more</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> /late <span style="color:#00ff00">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN:   <a href='http://sbargv2outofcontext.tumblr.com/submit'>http://sbargv2outofcontext.tumblr.com/submit</a></span><br />
+<span style="color:#ee1e00">CCP: ...why doesn't it let you just set arbitrary tags like normal posts on your own blog?</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#800080">ⓢ</span> Wait <span style="color:#ffa500">ⓢ</span></span></span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffa500">ⓢ</span> The mage of rage <span style="color:#ffff00">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CP</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> submissions.</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> Was Seth <span style="color:#800080">ⓢ</span></span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[9:30:28</span> PM] Ratzuki Kiryuin: I don't actually think kitkats are all that good </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> was this</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[9:30:39</span> PM] *** 魔法鉄人 removed Ratzuki Kiryuin from this conversation. ***</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> was this</span><br />
+<span style="color:#cb7de6">CSJ: that was RS ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> presuming</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">TT?</span></span><br />
+<span style="color:#cb7de6">CSJ: and SL ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">on</span> the second</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#ee1e00">CCP: RS and SL I think</span><br />
+<span style="color:#ee1e00">CCP: yeah</span><br />
+<span style="color:#2d8a18">CSL: i am the magical robot</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">adding</span> RS to submissiontags</span><br />
+<span style="color:#ee1e00">CCP: Kat, Ben, and AEntity all have kanji handles on skype</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> frozenLake</span><br />
+<span style="color:#2d8a18">CSL: kat doesnt anymore</span><br />
+<span style="color:#2d8a18">CSL: shes clockwork magus now</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah I just</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">based</span> that tagpage off of the current page of V2OOC queue I'm on</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> it might be inaccurate</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">added</span> EQ</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[1:06:07</span> PM] 魔法コマンドー: v2 duck dynasty au </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> this AE or SL</span><br />
+<span style="color:#2d8a18">CSL: sl</span><br />
+<span style="color:#2d8a18">CSL: it me</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span> (SL)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">vriska</span> (vriska)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FI</span> is IB right</span><br />
+<span style="color:#2d8a18">CSL: yes</span><br />
+<span style="color:#cb7de6">CSJ: the fluffy FI yeah ➜</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://sbargv2outofcontext.tumblr.com/post/76475160163/cnk-cds-cnk-cds-cnk-cds-cnk'>http://sbargv2outofcontext.tumblr.com/post/76475160163/cnk-cds-cnk-cds-cnk-cds-cnk</a> jESUS</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> was doctorSpace right</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> didn't pull a stupid</span><br />
+<span style="color:#ee1e00">CCP: I think so</span><br />
+<span style="color:#cb7de6">CSJ: yeah, that was dspace ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ok</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">did</span> we ever identify barack obama</span><br />
+<span style="color:#2d8a18">CSL: that</span><br />
+<span style="color:#2d8a18">CSL: is the best question</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> going to tag him specially then</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">charles</span> is FL right</span><br />
+<span style="color:#cb7de6">CSJ: yeah ➜</span><br />
+<span style="color:#ee1e00">CCP: yup</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> TY for testing that SL</span><br />
+<span style="color:#2d8a18">CSL: testing what</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">submission</span> tags</span><br />
+<span style="color:#2d8a18">CSL: oh</span><br />
+<span style="color:#2d8a18">CSL: all i did was make a submission yo</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">noodles</span> added</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SB's</span> handle was what</span><br />
+<span style="color:#cb7de6">CSJ: sharkBelligrant I think? ➜</span><br />
+<span style="color:#cb7de6">CSJ: maybe? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wrong</span> SB</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> one's more recent</span><br />
+<span style="color:#646464"><span style="color:#941894">CURRENT moroseTerminator [CMT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#941894">CMT: submissiveBehemoth?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">maybe</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> sounds more right</span><br />
+<span style="color:#ee1e00">CCP: yup</span><br />
+<span style="color:#2d8a18">CSL: yeah that would be it</span><br />
+<span style="color:#941894">CMT: only other SB i've seen.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[10:45:16</span> PM] Judah the Hammer: things i care about: NOT FUCKING WHICH FICTIONAL ROLEPLAY CHARACTERS BONED AND WHEN </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span></span><br />
+<span style="color:#cb7de6">CSJ: SL ➜</span><br />
+<span style="color:#2d8a18">CSL: wow thats old</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yea</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[8:40:26</span> PM] Eternal Angus: I am the kong of egg puns bow down </span><br />
+<span style="color:#2d8a18">CSL: thats like</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span></span><br />
+<span style="color:#2d8a18">CSL: christmas 2013</span><br />
+<span style="color:#2d8a18">CSL: and that is also sl</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CAE:</span> Someone direct me to the nearest whorehouse.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">not</span> AEntity but I don't remember the other AE handle</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">of</span> the other AE</span><br />
+<span style="color:#2d8a18">CSL: atomicEagle</span><br />
+<span style="color:#cb7de6">CSJ: I dunno, could be either. ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> I know it's eagleAE</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">from</span> who submitted it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CFS:</span> that or smack into the glass repeatedly to go forward  CST: RAD</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> and who</span><br />
+<span style="color:#2d8a18">CSL: st is me</span><br />
+<span style="color:#cb7de6">CSJ: I'm guessing fortuitousSleuth? ➜</span><br />
+<span style="color:#2d8a18">CSL: not sure on fs off the top of my head...</span><br />
+<span style="color:#2d8a18">CSL: no this was from pmdrp</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=oOOUHiYo788'>http://www.youtube.com/watch?v=oOOUHiYo788</a> also</span><br />
+<span style="color:#2d8a18">CSL: kat this is important reference if you ever decide to make a dontrel gijinka</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> surprised I haven't hit the post limit yet</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: i am afraid τo click τhaτ link</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">did</span> I somehow uh</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">break</span> the post limit</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CAG:</span> Where do I put the code?  CAG: lol  CAG: I’m so 8ad at this….  CNK: china</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who?</span></span><br />
+<span style="color:#ee1e00">CCP: NN, post limit is 250/24hrs.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span> wow wait</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">250</span> posts now?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> used to hit it after like</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">20</span> posts on v2ooc for some reason</span><br />
+<span style="color:#ee1e00">CCP: apparently it's /always/ been that.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> for some reason</span><br />
+<span style="color:#2d8a18">CSL: kat, they made a new dontrel game</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">v2</span> always only had 20 posts on its limit</span><br />
+<span style="color:#2d8a18">CSL: and then lowtax and shmorky lped it</span><br />
+<span style="color:#ee1e00">CCP: unless Submissions are counted differently...</span><br />
+<span style="color:#ee1e00">CCP: I know you can only send ten Asks an hour, only five of which can be anon</span><br />
+<span style="color:#2d8a18">CSL: and it features a voice for dontrel</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">billiardHounds</span> died </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> was that</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">was</span> that their handle</span><br />
+<span style="color:#ee1e00">CCP: AC alt</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">or</span></span><br />
+<span style="color:#2d8a18">CSL: ac</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ah,</span> the sAClene triangle</span><br />
+<span style="color:#ee1e00">CCP: dude had a baker's dozen of them</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CPK:</span> dogfield</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">powerKitten?</span></span><br />
+<span style="color:#2d8a18">CSL: powerKitten most likely</span><br />
+<span style="color:#ee1e00">CCP: assuming so</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CPO:</span> Yes, Nak, and his Title was the Governator of Florida </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ringabel</span> but I don't know who</span><br />
+<span style="color:#ee1e00">CCP: perpetuallyOptimistic? not sure, he hasn't been around in forever</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'll</span> file them as unknown</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">QUEUE</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CLEARED</span></span><br />
+<span style="color:#cb7de6">CSJ: :D ➜</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  applauds --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">took</span> forever</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> now it should be easier because submissions are taggable by the submittor</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*submitter</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">from</span> now on</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">now</span> my dash is a mess</span><br />
+<span style="color:#2d8a18">CSL: everything about the 3d sections of dontrel 3 are amazing</span><br />
+<span style="color:#2d8a18">CSL: /especially/ the ending</span><br />
+<span style="color:#41742f">CNN:   <a href='https://31.media.tumblr.com/87866611a0c4cf313d3d08e8c716e731/tumblr_n0vbk6ZvqI1tsaeqso7_1280.png'>https://31.media.tumblr.com/87866611a0c4cf313d3d08e8c716e731/tumblr_n0vbk6ZvqI1tsaeqso7_1280.png</a></span><br />
+<span style="color:#2d8a18">CSL: well i have to send that to somebody</span><br />
+<span style="color:#d40e00">CMM:  <a href='http://theworangetraveler.tumblr.com/post/76475000703'>http://theworangetraveler.tumblr.com/post/76475000703</a></span><br />
+<span style="color:#2d8a18">CSL: heads-up that i may lose power soon</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  feels funny about eating a muffin with a fork --</span><br />
+<span style="color:#646464">-- CURRENT skIttles <span style="color:#55007f">[CSI]</span>  is in public with Skittles on her head --</span><br />
+<span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff00ff">ⓢ</span> &lt;_&gt; <span style="color:#00ffff">ⓢ</span></span></span><br />
+<span style="color:#646464"><span style="color:#000000">CSI</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAD</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ:  <a href='#SBARGv2_RuinedCastle'>#SBARGv2_RuinedCastle</a> ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CAD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span></span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: yes</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">can</span> you PM me</span><br />
+<span style="color:#2d8a18">CSL: uh okay</span><br />
+<span style="color:#2d8a18">CSL: nn is mentioning that apparently people other than ash are feeling harassed?</span><br />
+<span style="color:#646464"><span style="color:#000000">CMT</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ??? ➜</span><br />
+<span style="color:#2d8a18">CSL: if so let me know in pm or whatever im genuinely not clear on that</span><br />
+<span style="color:#2d8a18">CSL: so</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT sbargv2Gamemaster [CSG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT sbargv2Gamemaster <span style="color:#000000">[CSG]</span>  yawns --</span><br />
+<span style="color:#000000">CSG: There doesn't have to be anyone else.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#000000">CSG: Harassment will not be tolerated.</span><br />
+<span style="color:#cb7de6">CSJ: I am so confused ➜</span><br />
+<span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a2a280">CFF: Was SG said.</span><br />
+<span style="color:#2d8a18">CSL: oh for fucks sake</span><br />
+<span style="color:#000000">CSG: Ash is considering killing off her character due to the actions of SL.</span><br />
+<span style="color:#2d8a18">CSL: im not gonna fucking deal with this</span><br />
+<span style="color:#cb7de6">CSJ: wait, seriously? ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CCC</span> made <span style="color:#000000">NN</span> an OP.<br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  claps --</span><br />
+<span style="color:#0000aa">Noodles: 5 fucking seconds and everything's shit</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:\</span></span><br />
+<span style="color:#cb7de6">CSJ: -_-; ➜</span><br />
+<span style="color:#000000">CSG: :I</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">&gt;this</span> happens to coincide with something therefore I'm going to say it's because of it and therefore sbargv2 is awful lel</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span> no this has actually. gone on for a while and I was waiting a few days to see if it continued, which it has.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> adding SL to the permalist</span><br />
+<span style="color:#000000">CSG: Thank you.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">done</span></span><br />
+<span style="color:#9d001f">CRS: what.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">RS:</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span> kept harrassing FA for apologies after doing tons of shitty things and after she had already apologized repeatedly.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ergo,</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">we</span> waited a few days to see if it'd continue</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> it did</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> AKICK <a href='#SBARG2_General'>#SBARG2_General</a> ADD.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: NN WHAT DID YOU DO</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> just explained this</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CNN:</span> SL kept harrassing FA for apologies after doing tons of shitty things and after she had already apologized repeatedly. CNN: ergo, CNN: we waited a few days to see if it'd continue CNN: and it did CNN: so AKICK <a href='#SBARG2_General'>#SBARG2_General</a> ADD.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> I typo'd that memo thing but</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">w/e</span></span><br />
+<span style="color:#000000">CSG: It was not just NN's decision, it was mine as well.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">right,</span> this was consulted upon</span><br />
+<span style="color:#0080ff">CFL: Fine</span><br />
+<span style="color:#0080ff">CFL: then ban Ash as well</span><br />
+<span style="color:#0080ff">CFL: otherwise its just favortism</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Ash</span> wasn't the one continuing the harrassment</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">?</span></span><br />
+<span style="color:#6507ff">CTT: whaτ makes you so sure?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> were having IC spats yeah but SL was the one OOCly grubbing for apologies?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">harrassingly</span> so?</span><br />
+<span style="color:#ee1e00">CCP: (only problem is, now the Space Roadtrip plot is trashed /again/ because SL's the only one captaining the ship)</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  points at SGskype. --</span><br />
+<span style="color:#6507ff">CTT: wasn'τ τhe ooc τhing compleτely differenτ from τhe IC τhing since τhe ΘΘC τhing was yesτerday?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span></span><br />
+<span style="color:#0080ff">CFL: ...Niki, what is your thought?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">isn't</span> about the IC thing.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> is about the OOC thing that /kept continuing/</span><br />
+<span style="color:#0080ff">CFL: Since you are the head GM and all</span><br />
+<span style="color:#6507ff">CTT: is τhere any proof?</span><br />
+<span style="color:#000000">CSG: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">after</span> given so long to see if it would stop.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yes.</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SG</span> has skype logs.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:|</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">we're</span> not going to ban over a rumor.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:|</span></span><br />
+<span style="color:#6507ff">CTT: does F▲ have sype logs?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">we</span> can get them if needed yes</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> it even possible to clear skype logs</span><br />
+<span style="color:#6507ff">CTT: I don'τ τhink so</span><br />
+<span style="color:#000000">CSG: I'm asking Ash for logs.</span><br />
+<span style="color:#9d001f">CRS: sigh</span><br />
+<span style="color:#9d001f">CRS: Why can't we all just get along</span><br />
+<span style="color:#41742f">CNN:  [8:31:01 PM] fromAshes [FA]: he keeps coming to me OOCly too and Demanding I apologize for the things I already apologized Multiple times for previously </span><br />
+<span style="color:#646464"><span style="color:#aa5500">CURRENT dubiousSwain [CDS]</span> RIGHT NOW responded to memo.</span><br />
+yo<br />
+<span style="color:#000000">CSG: We tried.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yo,</span> frankenstein</span><br />
+i need hella date ideas<br />
+<span style="color:#000000">CSG: We gave him multiple chances.</span><br />
+<span style="color:#6507ff">CTT: yes buτ we need acτual proof of τhe conversaτion</span><br />
+<span style="color:#6507ff">CTT: preferrebly screenshoτs</span><br />
+<span style="color:#cb7de6">CSJ: I'm currently confused and unafiliated with this incident. I feel like a complete loser for not knowing what to do. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span> it's kinda a bad idea to push it on GMs uninvolved with it.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  sigh --</span><br />
+<span style="color:#41742f">CNN:   <a href='http://pastebin.com/UWejPMr5'>http://pastebin.com/UWejPMr5</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">pastebin</span> proof</span><br />
+<span style="color:#9d001f">CRS: Alright yeah he basically admitted to asking for an apology multiple times. For what it counts he says he's going back to his policy of not talking to her.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">waiting</span> for screenshot edition</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> know he's PMed me</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but.</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">1:</span> said policy was already broken;</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">2:</span> he has violated many rules in the past;</span><br />
+<span style="color:#6507ff">CTT: τhen why menτion iτ was an IC reason?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">3:</span> he still committed the rule breakage</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> never said it was an IC reason?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> was saying the IC stuff wasn't the poit</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*point</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> was the OOC stuff that was continuing</span><br />
+<span style="color:#6507ff">CTT: "CSG: ▲sh is considering killing off her characτer due τo τhe acτions of SL."</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">actions</span> of SL OOCly.</span><br />
+<span style="color:#6507ff">CTT: ok τhaτ would have been much clearer.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">when</span> you're kind of. getting harrassed enough that you want to quit a fun outlet because of the harrassment rather than an amusement reason. there is an issue.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> that's toxic to the community that is supposed to be a fun thing rather than a toxic thing that has harrassment spread out everywhere</span><br />
+<span style="color:#0080ff">CFL: so why not ban both of the causes</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> FA wasn't the one being /repeatedly harrassed/</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">by</span> SL</span><br />
+<span style="color:#000000">CSG: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FA</span> had stopped and apologized</span><br />
+<span style="color:#000000">CSG: You mean</span><br />
+<span style="color:#000000">CSG: The other way around.</span><br />
+<span style="color:#000000">CSG: FA wasn't doing the harassing</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">meanwhile</span> SL was</span><br />
+<span style="color:#6507ff">CTT: when did τhis sτarτ again?</span><br />
+<span style="color:#6507ff">CTT: I mean τhe firsτ τime</span><br />
+i heard from some sources that she was<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">harrassing</span> FA even after she had apologized</span><br />
+<span style="color:#000000">CSG:  <a href='https://www.dropbox.com/s/qbfhs2i1qfs2xi8/Screenshot%202014-02-12%2021.48.04.png'>https://www.dropbox.com/s/qbfhs2i1qfs2xi8/Screenshot%202014-02-12%2021.48.04.png</a></span><br />
+just saying<br />
+<span style="color:#000000">CSG: This all started</span><br />
+<span style="color:#000000">CSG: When SL decided to disrespect me</span><br />
+<span style="color:#6507ff">CTT: is τhaτ all of τhe convo?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS:</span> give citation</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> TT no.</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://pastebin.com/n6jAKMp7'>http://pastebin.com/n6jAKMp7</a></span><br />
+<span style="color:#0080ff">CFL: Part 2</span><br />
+im not looking through 3 weeks of skype logs<br />
+so, no, i dont have sources<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span></span><br />
+due to me being lazy as fuck<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">given</span> part 1</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> basically what I'd call ah</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> "contextually justified" rebuttal.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">due</span> to the stress of SL basically still calling her abusive and such and trying to guilttrip her repeatedly she snapped at the time.</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">morallly</span> wrong</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span></span><br />
+<span style="color:#0080ff">CFL: And you don't bother reading it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> fact that it's in context of that</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> /am reading it/</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> have read it.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> read 1500 wpm</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yes basically</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">have</span></span><br />
+<span style="color:#41742f">CNN:   <a href='https://www.dropbox.com/s/qbfhs2i1qfs2xi8/Screenshot%202014-02-12%2021.48.04.png'>https://www.dropbox.com/s/qbfhs2i1qfs2xi8/Screenshot%202014-02-12%2021.48.04.png</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">crap</span> maybe I posted that one already</span><br />
+<span style="color:#41742f">CNN:   <a href='https://www.dropbox.com/s/k1op6woj4iexwth/Screenshot%202014-02-12%2021.47.38.png'>https://www.dropbox.com/s/k1op6woj4iexwth/Screenshot%202014-02-12%2021.47.38.png</a> </span><br />
+<span style="color:#41742f">CNN:   <a href='https://www.dropbox.com/s/05gobd1nttcmxwf/Screenshot%202014-02-12%2021.48.09.png'>https://www.dropbox.com/s/05gobd1nttcmxwf/Screenshot%202014-02-12%2021.48.09.png</a> </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[8:52:23</span> PM] fromAshes [FA]: <a href='https://www.dropbox.com/s/9666kn2ny5s0xh4/Screenshot%202014-02-12%2021.48.21.png'>https://www.dropbox.com/s/9666kn2ny5s0xh4/Screenshot%202014-02-12%2021.48.21.png</a> </span><br />
+<span style="color:#41742f">CNN:   <a href='https://www.dropbox.com/s/y0dcw4lkrl7jk2m/Screenshot%202014-02-12%2021.48.37.png'>https://www.dropbox.com/s/y0dcw4lkrl7jk2m/Screenshot%202014-02-12%2021.48.37.png</a> </span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah basically</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">repeatedly</span> bringing up something to guilttrip them will eventually end up with them snapping back at the other person during one of the guilttrips.</span><br />
+<span style="color:#646464"><span style="color:#008282">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#008282">CCA: Which SL then used to act like the injured party.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yep</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> why the part 1 and screenshot proof are /relevant/</span><br />
+<span style="color:#008282">CCA: Honestly this has gone on long enough.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> can't pull out a part 2 and say "well because of this without the context before it, SL is the person in trouble"</span><br />
+<span style="color:#0080ff">CFL: thats not...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> what it seemed like you were trying to do there.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"ban</span> both of the causes"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">then</span> link a part 2 saying that FA is a cause because of her snapping from part 1</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[2/11/2014</span> 11:31:29 PM] 魔法鉄人: Power trip? I doubt that, because I'm certainly not exerting any power here. [2/11/2014 11:31:49 PM] 魔法鉄人: You STILL have all the power, but you think because you apologized it's okay.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">&gt;"I</span> don't have any power"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">&gt;just</span> brought her to snapping point by guilttripping her over it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">[huehuehuhue</span> laugh]</span><br />
+<a href='#SBARGv2_IMTIREDOFTHISBS'>#SBARGv2_IMTIREDOFTHISBS</a><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> no DS it's</span><br />
+<span style="color:#41742f">CNN:   <a href='#SBARGv2_KiddyTable'>#SBARGv2_KiddyTable</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that's</span> the correct memo for BS tiredofness</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah anyway.</span><br />
+<span style="color:#ee1e00">CCP: (technically it was when Incipi was GM-muted but yeah)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(it's</span> same difference)</span><br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000aa">Noodles: So saying that we're tired of drama, we are being immature?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> noodles</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's</span> because it's an old joke</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> happened when Incipisphere was muted a few times</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can't remember who made it the first time</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">might</span> have been SJ</span><br />
+<span style="color:#cb7de6">CSJ: it's called the kiddy table so only those who don't care about being at a kiddy table (usually the more mature ones) ➜</span><br />
+<a href='http://xkcd.com/1124/'>http://xkcd.com/1124/</a><br />
+relevant<br />
+<span style="color:#cb7de6">CSJ: so in a sense, it's a self-filtering memo name. ➜</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://pastebin.com/tdGYUkL4'>http://pastebin.com/tdGYUkL4</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">being</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">guilttripped</span></span><br />
+<a href='http://pastebin.com/n6jAKMp7'>http://pastebin.com/n6jAKMp7</a><br />
+<span style="color:#000000">CSG: You know what</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> different from being guilty for being called out on once and realizing the error of your wys</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah basically: this is all stressing out everyone (very much so FA); this is a thing that has plenty of documented proof in screenshots; the logs show that FA tries to be nice as possible until SL starts the blatant guilttripping in lines such as "[2/11/2014 10:33:57 PM] 魔法鉄人: if you were actually sorry youd be willing to listen when i occasionally. /occasionally</span><br />
+<span style="color:#000000">CSG: The more SL makes a shitstorm out of this</span><br />
+<span style="color:#000000">CSG: The less inclined I feel to add him back.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> was already linked</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> it has a crucial context before that</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">point</span> is you're all harrassing someone who is being guilttripped repeatedly</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(I</span> won't point fingers)</span><br />
+<span style="color:#9d001f">CRS: The reason he's making a shitstorm about it is because he's been banned.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> snapped once.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">he's</span> been baNNed for /repetitive harrassment/</span><br />
+<span style="color:#000000">CSG: And rightfully so.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">as</span> shown by the fact that he's guilttripped her frequently</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">has</span> been screenshotted</span><br />
+YOU'RE THE ONE WHO BROUGHT IT UP IN FRONT OF EVERYONE<br />
+10:03<br />
+YOU DENSE MOTHERFUCKER<br />
+that was posted in teh me-mo<br />
+i wont tell who said it tho<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">uh</span></span><br />
+<span style="color:#9d001f">CRS: I don't know who that is ._.</span><br />
+<span style="color:#9d001f">CRS: DS?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS</span> tell me</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">or</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">anyway</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> made her snap a few times and is trying to paint her as the bad guy for having snapped.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so.</span></span><br />
+<span style="color:#000000">CSG: Not to mention that huge upset involving myself.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> too</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> fact that he repeatedly insulted the GM multiple times</span><br />
+<span style="color:#a2a280">CFF: Hello, FA.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">despite</span> being told to stop.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> /certain people/ here are being very against this /despite/ all the proof</span><br />
+<span style="color:#000000">CSG: He's been given chances.</span><br />
+sup ash<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> being his /fourth or fifth/ chance</span><br />
+<span style="color:#a2a280">CFF: And who is against this?</span><br />
+<span style="color:#000000">CSG: The people insinuating that Ash should be punished as well.</span><br />
+<span style="color:#000000">CNN</span> banned <span style="color:#000000">CFL</span> from responding to memo: <span style="color:#000000">[Kickbanning.]</span>.<br />
+<span style="color:#a2a280">CFF: And WHO are they?</span><br />
+<span style="color:#000000">CNN</span> banned <span style="color:#000000">CTT</span> from responding to memo: <span style="color:#000000">[Kickbanning.]</span>.<br />
+<span style="color:#9d001f">CRS: what the hell</span><br />
+<span style="color:#a2a280">CFF: ...what.</span><br />
+<span style="color:#9d001f">CRS: NN.</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#9d001f">CRS: What the hell.</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: waτ</span><br />
+<span style="color:#000000">CSG: I'm sure it's quite obvious now.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">RS:</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">did</span> you not catch my</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">subtext</span> for like</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">5</span> lines</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">involving</span> /certain people/ and such terms.</span><br />
+<span style="color:#a2a280">CFF: ...guessing FL and TT?</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  gives FF a gold star --</span><br />
+<span style="color:#6507ff">CTT: you know whaτ</span><br />
+<span style="color:#9d001f">CRS: Oh I actually did but</span><br />
+<span style="color:#a2a280">CFF: ...I am not surpised at FL.</span><br />
+<span style="color:#9d001f">CRS: TT hadn't said anything for a while and FL likewise unless it was in private pester.</span><br />
+<span style="color:#a2a280">CFF: ...Was that serious, or not?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">skype</span> as well.</span><br />
+<span style="color:#6507ff">CTT: fuck τhis</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> it was sarcasm, gold stars are silly.</span><br />
+<span style="color:#6507ff">CTT: f u c k τ h i s</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CSG: Sigh.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">But</span> yes, this verdict is /confirmed/ and shall not be shifting, due to the /mounds/ of evidence and chances given.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Agreed,</span> SG?</span><br />
+<span style="color:#000000">CSG: Mhm.</span><br />
+<span style="color:#000000">CSG: Agreed.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">So</span> if you have a problem with it: no offense but too bad we've been dealing with this for so long and he's been doing so much crap</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> you'll just have to</span><br />
+<span style="color:#008282">CCA: I feel that there was no need to alienate FL and TT over this though.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CA:</span> skype group stuff they've been doing.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">+</span> it was just a kickban.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah.</span><br />
+<span style="color:#41742f">CNN:   <a href='http://operachic.typepad.com/.a/6a00d83451c83e69e2017d3cdfb82b970c'>http://operachic.typepad.com/.a/6a00d83451c83e69e2017d3cdfb82b970c</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Now</span> onwards, to victory</span><br />
+<span style="color:#0000aa">Noodles: "This is the endgame" -me-mo 2014</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">...</span> noodles the endgame already happened.</span><br />
+<span style="color:#000000">CSG: :\</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> is the denounement.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:/</span></span><br />
+it was like<br />
+30 lines ago<br />
+he just posted it tho<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS</span> would you mind if I asked for a me-mo log</span><br />
+um yes<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yes</span> as in you'll give one or yes as in you won't due to minding</span><br />
+because id have to handcompile it<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ahh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">/pats</span></span><br />
+<span style="color:#646464"><span style="color:#005500">CURRENT wackoMcgoose [CWM]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#005500">CWM: (additional me-mo logging)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">could</span> you just copypaste the entire thing</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> let me filter through it?</span><br />
+the entire chat?<br />
+hmm<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> used to putting up with</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">PESTERCHUM;TIME&gt;i</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">all</span> the time.</span><br />
+but ill pm you the link<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">mmk</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">makes</span> sense, no one else really needs to know aside from adminreasons</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: CTT: ((someone say τhaτ I'm noτ gonna go back inτo general indefiniτely</span><br />
+<span style="color:#000000">CSG: That's fine.</span><br />
+<span style="color:#9d001f">CRS: good fucking dammit</span><br />
+<span style="color:#9d001f">CRS: *god</span><br />
+<span style="color:#000000">CSG: Hm?</span><br />
+<span style="color:#9d001f">CRS: Oh hey guys don't mind me just did some dishes wondered where exactly I went wrong and shouted the most violent rap I could think of on short notice</span><br />
+<span style="color:#0080ff">CFL: Kaylen, are you willing to admit you are biased against SL?</span><br />
+<span style="color:#000000">CSG: Damn straight I am.</span><br />
+<span style="color:#000000">CSG: I hate him.</span><br />
+<span style="color:#a2a280">CFF: I am as well, but for good reason.</span><br />
+<span style="color:#000000">CSG: And I'm justified in my feelings for him after how he treated me.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">um</span> noodles</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> was /SL/ who brought it up in front of everyone.</span><br />
+<span style="color:#0080ff">CFL: Personally, I feel that Other GM's should be asked.</span><br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000aa">Noodles: He left like more than 30 minutes ago.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL.</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">we</span> did.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> has been done over /months/ of him breaking rules.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">/months/,</span> with /lots/ of people being asked repeatedly due to all his different infractions.</span><br />
+<span style="color:#a2a280">CFF: They did, FL. And Also what she/he said.</span><br />
+<span style="color:#000000">CSG: Like who, SJ? She doesn't know what's happening. The other main GM is Ash, who you seem to have a personal vendetta against.</span><br />
+<span style="color:#000000">CSG: That only leaves NN</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yep,</span> the only active GMs:</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">me,</span> SG, FA, SJ</span><br />
+<span style="color:#0080ff">CFL: Rob.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SJ</span> is clueless and we have a 75% majority</span><br />
+<span style="color:#000000">CSG: Who has been given the appropriate evidence</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> /all this evidence is out here/.</span><br />
+<span style="color:#000000">CSG: RS?</span><br />
+<span style="color:#9d001f">CRS: Yo.</span><br />
+<span style="color:#000000">CSG: He was a GM during the game.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">why</span> should we /ask more GMs/ when we have /all these screenshots, lots of people agreeing, and only a small vocal minority/</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> RS yeah kind of dropped off nowadays.</span><br />
+<span style="color:#9d001f">CRS: In the memo yeah but to be fair I still kind of do stuff behind the scenes.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">right.</span></span><br />
+<span style="color:#9d001f">CRS: Or I'd like to think I do.</span><br />
+<span style="color:#0080ff">CFL: Because said minority is only a minority because of the fact that everyone is too scared to speak up.</span><br />
+<span style="color:#cb7de6">CSJ: am I really clueless though? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you're</span> a behind the scenes thing</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a80000">CFA: (\ Just add SL back i dont want anyy more hate to be slung myy wayy because "I got him banned" /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">not</span> a real face GM</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">RS</span> is like</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#000000">CSG: RS was Chronos</span><br />
+<span style="color:#a80000">CFA: (\ I'll just quit and kill off Ash /)</span><br />
+<span style="color:#a80000">CFA: (\ it'll be fine /)</span><br />
+<span style="color:#ee1e00">CCP: NO</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> upper intestines that somehow used to be a face</span><br />
+<span style="color:#a80000">CFA: (\ everyyone will be happyy /)</span><br />
+<span style="color:#0080ff">CFL: httijlusihgusighsiughsluighrslgi</span><br />
+<span style="color:#9d001f">CRS: Wow that's extreme</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">he</span> makes energy nowadays and he used to be chronos's face</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">somehow</span></span><br />
+<span style="color:#41742f">CNN:   <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah FA no</span><br />
+<span style="color:#000000">CSG: NN you made that interesting</span><br />
+<span style="color:#9d001f">CRS: Are you making this an ultimatium, wherein if SL comes back you kill of FA? Because that kind of sucks.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> honestly this is freaking stupid and its been months and wow</span><br />
+<span style="color:#9d001f">CRS: Alright look I'm gonna level with you guys here.</span><br />
+<span style="color:#a80000">CFA: (\ I cant do anyything when He's here because IClyy and OOClyy /)</span><br />
+<span style="color:#a80000">CFA: (\ He'll shoot me down at everyy turn /)</span><br />
+<span style="color:#a80000">CFA: (\ And I cant do anyything if he's banned /)</span><br />
+<span style="color:#a80000">CFA: (\ Because more then likelyy people will be targeting me specificallyy /)</span><br />
+<span style="color:#9d001f">CRS: No one's targeting you specifically?</span><br />
+<span style="color:#9d001f">CRS: I just wanna</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  coughs at the two kickbanned for doing that. --</span><br />
+<span style="color:#9d001f">CRS: If anyone really suggested FA be banned too wow could you not.</span><br />
+<span style="color:#0080ff">CFL: Right now I just want everyone to calm down</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">RS:</span></span><br />
+<span style="color:#9d001f">CRS: Sorry guys but that's. Not a good way to go about this?</span><br />
+<span style="color:#a80000">CFA: (\ I dont know what I did wrong I just /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span> said that FA should be baNNed because it'd be "favoritism" and that she's being a "cause". which is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> exact opposite</span><br />
+<span style="color:#0080ff">CFL: Maybe I shouldn't have suggested it.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">of</span> the entire situation</span><br />
+<span style="color:#a80000">CFA: (\ stood up for myyself /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">thank</span> you for admitting that FL, implied apology accepted</span><br />
+<span style="color:#a80000">CFA: (\ Im so fucking sorryy /)</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  pats FA on the back and hugs her --</span><br />
+i dont see a good way to resolve this<br />
+<span style="color:#9d001f">CRS: I might.</span><br />
+<span style="color:#0080ff">CFL: What I see from all of this, is you two are both standing up to eachother and it just keeps getting worse.</span><br />
+except banning the two people that made a scene<br />
+<span style="color:#000000">CSG: RS keep in mind everything SL has done already.</span><br />
+thats just mho<br />
+<span style="color:#a80000">CFA: (\ FL no it /)</span><br />
+<span style="color:#a80000">CFA: (\ Thats /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS.</span></span><br />
+<span style="color:#a80000">CFA: (\ the farthest thing /)</span><br />
+<span style="color:#000000">CSG: FL, if you go by that logic, I should be banned too.</span><br />
+<span style="color:#a2a280">CFF: ...FL.</span><br />
+<span style="color:#a80000">CFA: (\ from it /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span> was theo nly one making the scene.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL.</span></span><br />
+<span style="color:#a2a280">CFF: Just... Shut up.</span><br />
+<span style="color:#a80000">CFA: (\ SL kept coming to me and demanding /)</span><br />
+<span style="color:#a80000">CFA: (\ I apologize /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> is ridiculous because FA was reporting a rule infraction.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:|</span></span><br />
+<span style="color:#a80000">CFA: (\ for all the wrongs he thinks I've commited against him /)</span><br />
+<span style="color:#a80000">CFA: (\ And I had /)</span><br />
+<span style="color:#a80000">CFA: (\ alreadyy /)</span><br />
+<span style="color:#a80000">CFA: (\ apologized /)</span><br />
+<span style="color:#a80000">CFA: (\ Severla times /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> wasn't even demanding an apology</span><br />
+<span style="color:#9d001f">CRS: Look, he kind of fucked up, more then once, I'll be the first to admit this as a friend. But the dude's dealing with a bunch of shit himself and I swear to you despite the stuff he cares /tons/ about this RP. FA is just a person he's never gonna mesh with and trying again and/or trying to get anything more from her was a bad move.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> was just guilttripping</span><br />
+<span style="color:#9d001f">CRS: So.</span><br />
+<span style="color:#a80000">CFA: (\ That too /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"if</span> you were /really/ sorry you'd be okay when I brought up that thing that makes you feel very guilty and feel awful"</span><br />
+<span style="color:#a80000">CFA: (\ I didnt know what else to do I /)</span><br />
+<span style="color:#a80000">CFA: (\ im sorryy... /)</span><br />
+<span style="color:#0080ff">CFL: SL might be stupid, but this... is just driving me up the wall</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  pats FA --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span></span><br />
+<span style="color:#000000">CSG: You have nothing to be sorry for darling.</span><br />
+<span style="color:#0080ff">CFL: because either way, I lose a friend.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span> has</span><br />
+<span style="color:#9d001f">CRS: Does he deserve to be banned for this? Maybe. Would it crush him? Definitely. And I know in light of the chances he's alredy been given its a long shot but. Just one more. One more for the guy, one more I can get on his ass and make sure he doesn't squander, one more to just. Leave FA be, for her and for himself.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">1:</span> insulted the GM /multiple times/.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">after</span> being punished with kicks and told to stop /multiple times/</span><br />
+<span style="color:#9d001f">CRS: Has he apologized?</span><br />
+<span style="color:#cb7de6">CSJ: is it bad that I'm too weak to say anything because I don't want to be responsable for the consequenses of any actions? ➜</span><br />
+<span style="color:#a80000">CFA: (\ Rob he's gotten 5 fucking chances to Redeem himself /)</span><br />
+<span style="color:#0080ff">CFL: How can I be both SL and FA's friend at the same time?</span><br />
+<span style="color:#a80000">CFA: (\ ... /)</span><br />
+<span style="color:#a80000">CFA: (\ YYou just /)</span><br />
+<span style="color:#a80000">CFA: (\ can /)</span><br />
+<span style="color:#a80000">CFA: (\ Its not that hard /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">2:</span> reblogged horror gifs with the /intent/ to make FA have a panic attack, which worked</span><br />
+<span style="color:#0080ff">CFL: It just seems impossible at this point.</span><br />
+<span style="color:#a80000">CFA: (\ I have friends in real life that hate eachother /)</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">3:</span> was previously baNNed for causing FA drama and unbaNNed for good behavior,</span><br />
+<span style="color:#a80000">CFA: (\ And im still friends with them /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">4:</span> was given /5 chances/ to make up for all his drama</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">5:</span> has /not/ apologized, has just said "hey I did this so now it's all better you can unban me now"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">6:</span> has repeatedly guilttripped FA until her braeking point</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">7:</span> we have /screenshotted and pastebiNNed proof/ of all this, no doctoring done.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">8:</span> this has been ongoing for /months/.</span><br />
+<span style="color:#a2a280">CFF: You Can, FL. It's not a either/or situation.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">9:</span> memo rule 1. "do not flame"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">10:</span> most of the still relevant GMs agree</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#9d001f">CRS: Well ow that hurts.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> believe 10 bullet points and 4/5 chances.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">should</span> be enough.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">for.</span> this.</span><br />
+<span style="color:#000000">CSG: Raz.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> yes, it does, especially for the GMs who have had to put up with it for months.</span><br />
+<span style="color:#a2a280">CFF: So... are we cool here?</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Yes,</span> because I /will/ kick for any further metnions of this.</span><br />
+<span style="color:#a2a280">CFF: Thank you, NN</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  bearhugs --</span><br />
+<span style="color:#a80000">CFA: (\ Im sorryy, again /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FA,</span> no need to be sorry</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  hugs. --</span><br />
+<span style="color:#0080ff">CFL: Kat, Raz, and Niki.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  doesnt deserve hugs because she's a horrible person but thanks anyway --</span><br />
+<span style="color:#9d001f">CRS: Gotta jet</span><br />
+<span style="color:#cb7de6">CSJ: at leat this time I know that "this" is now instead of being informed vaguely while away. ➜</span><br />
+<span style="color:#ee1e00">CCP: Ash, it's not your fault you and Ben are just entirely incompatible...</span><br />
+<span style="color:#a2a280">CFF: It's not your fault. In fact, You held up quite well for so long.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">TT</span> isn't in memo and had no idea what was happening; RS agreed that he should be baNNed; SJ had no idea as well.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Now</span> then.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FA</span> you aren't a horrible person at all</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  hugs --</span><br />
+<span style="color:#ee1e00">CCP: (and yeah SJ, good point about the last gag order being deliberately vague &gt;_&gt;)</span><br />
+<span style="color:#0080ff">CFL: "Just one more. One more for the guy, one more I can get on his ass and make sure he doesn't squander, one more to just. Leave FA be, for her and for himself."</span><br />
+<span style="color:#a2a280">CFF: ...last gag order?</span><br />
+<span style="color:#0080ff">CFL: That was something Rob said</span><br />
+<span style="color:#0080ff">CFL: if you scroll up.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Oh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> didn't see that</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">But.</span></span><br />
+<span style="color:#a80000">CFA: (\ No /)</span><br />
+<span style="color:#a80000">CFA: (\ No more chances /)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">We</span> still have the majority here, out of the actual participants 75% agree.</span><br />
+<span style="color:#cb7de6">CSJ: I feel like I have too much bias to be of any use. ➜</span><br />
+<span style="color:#a2a280">CFF: What FA Said. No more chances.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Not</span> counting SJ and TT who abstain from voting due to ignorance.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Now</span> then, a /less vague/ gag order.</span><br />
+<span style="color:#ee1e00">CCP: FF: last time there was a Ben Incident, NN specifically left it vague about whether or not "mention and instakick" was about SL or EP.</span><br />
+<span style="color:#a2a280">CFF: ...okay?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">No</span> mention of the SL + FA issues under this line made of standard ASCII hyphens. This is about the /SL and FA/ incident, no one else. If FA feels bad she is able to be consoled and vent, which does not count. Only drama over the ban itself and whether or not SL should be punished is part of the gag order.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">-------------------------------------------------------------</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Happy?</span></span><br />
+<span style="color:#a2a280">CFF: Thats good, I think.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Also</span> Noodles this is the denounement, not the endgame.</span><br />
+<span style="color:#a80000">CFA: (\ Good call /)</span><br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000aa">Noodles: ...</span><br />
+<span style="color:#0000aa">Noodles: sure feels like it to me.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#a2a280">CFF: So... can everyone please promise to have no drama until saterday? Been too much of it, lately.</span><br />
+<span style="color:#000000">CSG: And I wouldn't say ignorant. Just misinformed.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">noodles</span> the denounement is where the game slowly tapers down, the endgame is the climax.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Yeah</span> terminology fialure</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*failure</span></span><br />
+<span style="color:#a2a280">CFF: Actual, that sounds jerkish so nevermind</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">But</span> whatever.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FF</span> I promise that if I have drama I won't mention it :U</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> only mention it to my moirail because she's helpful with it without causing other drama :U</span><br />
+<span style="color:#a2a280">CFF: Nah- do so.</span><br />
+<span style="color:#0000aa">Noodles: Not what I meant, but whatever</span><br />
+<span style="color:#cb7de6">CSJ: anyways, I'm being called to dinner. AFK ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">AFK</span> time is what</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> iiit</span><br />
+<span style="color:#a2a280">CFF: You CAN have drama. Just please, don't overblow it or cause a memowar.</span><br />
+<span style="color:#cb7de6">CSJ: probably soup ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">quarter</span> till microwave?</span><br />
+<span style="color:#000000">CSG: Now I'm going to go eat a box of twinkies and hopefully feel better.</span><br />
+<span style="color:#000000">CSG: om nom nom</span><br />
+<span style="color:#a2a280">CFF: Well, see you folks!</span><br />
+<span style="color:#a2a280">CFF: I need food.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSG</span> ceased responding to memo.</span><br />
+<span style="color:#0000aa">Noodles: remind me to kill DS later.</span><br />
+<span style="color:#0080ff">CFL: I believe what Noodles was refering to with Endgame was the OOC side of this.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wasn't</span> DS.</span><br />
+<span style="color:#0000aa">Noodles: wasn't DS what?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can tell what you're attempting to refer to</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">unless</span> you mean the date ideas thing</span><br />
+<span style="color:#ee1e00">CCP: date ideas?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">in</span> which case yeah it waas.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CP:</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">DS</span> randomly mentioned wanting date ideas during the drama</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">remember</span></span><br />
+<span style="color:#005500">CWM: oh right, in the kiddy memo</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">nah</span> also in the reg</span><br />
+<span style="color:#005500">CWM: ...wrong window, why is this still open</span><br />
+<span style="color:#646464">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  sighs --</span><br />
+<span style="color:#0080ff">CFL:  <a href='https://www.youtube.com/watch?v=Da5xCkAjc3o'>https://www.youtube.com/watch?v=Da5xCkAjc3o</a></span><br />
+<span style="color:#0000aa">Noodles: can't even form any competent things to say now.</span><br />
+<span style="color:#0000aa">Noodles: test</span><br />
+<span style="color:#0080ff">CFL: ...tea set...</span><br />
+<span style="color:#646464"><span style="color:#860000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#860000">CNK: ooh pirate pad</span><br />
+<span style="color:#005500">CWM: sup Nak</span><br />
+<span style="color:#005500">CWM: ........alright, closing this.</span><br />
+<span style="color:#860000">CNK: :?</span><br />
+<span style="color:#646464">-- CURRENT wackoMcgoose <span style="color:#005500">[CWM]</span>  doesn't need to be spying on the me-mo anymore --</span><br />
+<span style="color:#646464"><span style="color:#000000">CWM</span> ceased responding to memo.</span><br />
+<span style="color:#860000">CNK: Welp, ok</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  that was my xchat handle --</span><br />
+<span style="color:#860000">CNK: Huh, the dungeon pad isn't loading very well</span><br />
+<span style="color:#0000aa">Noodles: oh so it was you and not DS that...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> noodles</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  is amateur programmer --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  remember? --</span><br />
+<span style="color:#cb7de6">CSJ: back ➜</span><br />
+<span style="color:#0000aa">Noodles: What does that have to do with anything?</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  is implying using a program to check the me-mo. --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> SJ:</span><br />
+<span style="color:#860000">CNK: Can anyone else connect to the pirate pad for dungeons ?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">sorry</span> for calling you and TT ignorant, I forgot the word "misinformed" :U</span><br />
+<span style="color:#860000">CNK: :U</span><br />
+<span style="color:#cb7de6">CSJ: we're not supposed to talk about an hour ago, remember? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> gag order was anything about the ban itself, not casual conversation</span><br />
+<span style="color:#0080ff">CFL: yeah NN now you need to kick yourself</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> specifically mentioned it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"Only</span> drama over the ban itself and whether or not SL should be punished is part of the gag order."</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> quoth the gag order that must not be mentioned</span><br />
+<span style="color:#860000">CNK: uh</span><br />
+<span style="color:#0000aa">Noodles: We're just going to drop it and ill be the person bringing it up and being told to just forget about it</span><br />
+<span style="color:#0000aa">Noodles: again</span><br />
+<span style="color:#cb7de6">CSJ: okay. Thank you for the explanation. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> tbh noodles the fact that you uh.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">said</span> I've "lost it"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">isn't</span> exactly helping you any.</span><br />
+<span style="color:#0000aa">Noodles: goodbye.</span><br />
+<span style="color:#860000">CNK: Could someone fill me in on this privately :?</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NK</span> sure</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">...</span></span><br />
+<span style="color:#cb7de6">CSJ: anyways, next thing of business, who's character can fly a spaceship? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> SJ</span><br />
+<span style="color:#860000">CNK: nak can totally fly a space ship</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ask</span> CP's char to play KSP ICly to learn to fly</span><br />
+<span style="color:#0080ff">CFL: FL can fly</span><br />
+<span style="color:#0080ff">CFL: sorta</span><br />
+<span style="color:#0080ff">CFL: He can avoid crashing into the ground at least</span><br />
+<span style="color:#ee1e00">CCP: but would FL come on the trip to do so?</span><br />
+<span style="color:#860000">CNK: (He totally can't and it would be the crane thing again)</span><br />
+<span style="color:#0080ff">CFL: if there is enough fuel</span><br />
+<span style="color:#ee1e00">CCP: the captain has to be on the ship the whole time it's flying, after all</span><br />
+<span style="color:#0080ff">CFL: If not then the parachutes are gonna rip off.</span><br />
+<span style="color:#0080ff">CFL: and the ship will plummet</span><br />
+<span style="color:#0080ff">CFL: into the ocean</span><br />
+<span style="color:#cb7de6">CSJ: I doubt anyone would let FL fly a spaceship, consiering his track record. ➜</span><br />
+<span style="color:#0080ff">CFL: Hey, his first spaceship was meant to crash, and his second made it both ways.</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  should make an alien crash into starter planet --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  that knows how to drive --</span><br />
+<span style="color:#0080ff">CFL: already did that NN</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FI?</span></span><br />
+<span style="color:#ee1e00">CCP: yup</span><br />
+<span style="color:#0080ff">CFL: yes</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">speaking</span> of which</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> need to know the worldbuilding FI gave for the new universe</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> that I can finish my alien in progress</span><br />
+<span style="color:#0080ff">CFL: and TB sorta</span><br />
+<span style="color:#0080ff">CFL: sorta in the sense he can't see</span><br />
+<span style="color:#0080ff">CFL: so someone needs to be his eyes</span><br />
+<span style="color:#0080ff">CFL: kinda literally</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: and TB has his own ship so yeah</span><br />
+<span style="color:#860000">CNK: Ships</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">my</span> alien wouldn't have a ship</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they'd</span> just crash into starter planet and water would flood it</span><br />
+<span style="color:#860000">CNK: waterworld</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">causing</span> great havoc as most of his siblings die of</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*off</span></span><br />
+<span style="color:#0080ff">CFL: TB's ship is... rather fucked up.</span><br />
+<span style="color:#cb7de6">CSJ: well, apparently IB used his/her time powers to manipulate the right things at the right time to influence a galaxy to very closely resemble the milky way. He's currently ruling ripoff-earth while making sure it has a fairly low tech level. Meanwhile, apparently somehow humans have achieved space travel, there is some sort of space government which is most likely corrupt, considering the lawbook is </span><br />
+<span style="color:#cb7de6">immensely huge, and... did I forget anything?  ➜</span><br />
+<span style="color:#0080ff">CFL: it crashed into the side of a mountain after all</span><br />
+<span style="color:#860000">CNK: is obama in the space government</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NK</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">of</span> course he is.</span><br />
+<span style="color:#0080ff">CFL: FL is planning to send him in.</span><br />
+<span style="color:#0080ff">CFL: if he isn't already</span><br />
+<span style="color:#cb7de6">CSJ: Obama was from the session according to him ➜</span><br />
+<span style="color:#860000">CNK: High counselor Obama</span><br />
+<span style="color:#0080ff">CFL: Let your country control your soul</span><br />
+<span style="color:#cb7de6">CSJ: I'm just glad we got the Quinn Prime into orbit at least. ➜</span><br />
+<span style="color:#0080ff">CFL:  <span style="color:#0060e0">Let your country control your soul</span></span><br />
+<span style="color:#0080ff">CFL:  <span style="color:#0040c0">Let your country control your soul</span></span><br />
+<span style="color:#0080ff">CFL:  <span style="color:#0020a0">Let your country control your soul</span></span><br />
+<span style="color:#0080ff">CFL: okay stopping that</span><br />
+<span style="color:#ee1e00">CCP: yeah, any wannabe captains should have less trouble with it already in orbit...</span><br />
+<span style="color:#0080ff">CFL: seriously that song is strangly catching.</span><br />
+<span style="color:#860000">CNK: Give in to the chaos emeralds</span><br />
+<span style="color:#0080ff">CFL: have you listened to the lyrics of this yet?</span><br />
+<span style="color:#0080ff">CFL:  <a href='https://www.youtube.com/watch?v=Da5xCkAjc3o'>https://www.youtube.com/watch?v=Da5xCkAjc3o</a></span><br />
+<span style="color:#0080ff">CFL: its... huh.</span><br />
+<span style="color:#0080ff">CFL: not sure why I'm obsessed with the song right now</span><br />
+<span style="color:#860000">CNK: Obama controls the metal gears</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT dswain [CD]</span> RIGHT NOW responded to memo.</span><br />
+Is the drama llama still out of the cage<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> drama llama has been gagordered</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> are clear for takeoff</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  throws dswain into a plane --</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  throws the plane into space --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span></span><br />
+Alright nn<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span> you made alien or did anyone else</span><br />
+ /me is ded<br />
+<span style="color:#0080ff">CFL: TB is my alien</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ok</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can't remember did I have you critique mine</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> not</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">would</span> you be willing to</span><br />
+<span style="color:#0080ff">CFL: is it bipedal</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's...</span></span><br />
+<span style="color:#860000">CNK: :o</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> doesn't have legs but it can wear a suit that makes it...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"lotspedal"</span></span><br />
+<span style="color:#0080ff">CFL: ...is it an egg</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#0080ff">CFL: Jimmy Neutron?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#0080ff">CFL: can I eat it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> NK no I can't see the piratepad</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">uh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yes</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> you take it out of its pressure suit</span><br />
+<span style="color:#41742f">CNN:   <a href='https://dl.dropboxusercontent.com/u/59894637/html5/files/aenen.jpg'>https://dl.dropboxusercontent.com/u/59894637/html5/files/aenen.jpg</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> looks like this</span><br />
+<span style="color:#860000">CNK: Yeah i think the pad is broken, i did see a little of it through the export function after s10 minutes of loading</span><br />
+<span style="color:#0080ff">CFL: can it breathe oxygen</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">kinda</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's</span> aquatic</span><br />
+<span style="color:#860000">CNK: :o</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">omnivorous</span> scavenger</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"A</span> long, blue snakelike creature, with long gel 'whiskers' that it uses to sense water temperatures and obstacles. It has many small fins across it, that alternate with small "arms". Its horns on its head can emit yellow sparks of light, which it uses for both illumination and alarm signals. It has a clattering bug-like mouth it uses to grab its prey, and it uses its biolumin</span><br />
+<span style="color:#41742f">of "blink code" (it caNNot sustain its sparks) to communicate."</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">"Aenen</span> are about 16 inches long on average. They consist mostly of meat, but are coated in gel. Their armlet-fins and arms have some hollow sections in them used to store eggs in the armlet-fins in the mating season, and to help with bouyancy with the arms. "</span><br />
+<span style="color:#0080ff">CFL: so how did the water kill its family</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> no no</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> happens is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> don't have spaceships invented yet</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> they have bioengineered</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> special kind of coral</span><br />
+<span style="color:#0080ff">CFL: ...cyrogenic transport?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> launches itself into space using geothermal energy</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">more</span> like</span><br />
+<span style="color:#860000">CNK: does it become a crime fighting avenger that attacks water</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">generational</span> transport.</span><br />
+<span style="color:#0080ff">CFL: oh</span><br />
+<span style="color:#0080ff">CFL: okay</span><br />
+<span style="color:#860000">CNK: :o</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> just put some aenen in and they make the bbs with the coral recycling the energy</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> only lets them get so far because laws of physics and entropy and all that</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> basically</span><br />
+<span style="color:#0080ff">CFL: unless you get into quantum mechanics</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">my</span> alien's great great great grandpa</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">was</span> put on the ship</span><br />
+<span style="color:#0080ff">CFL: to cheat physics</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> using the Power of --Cest</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> not really</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">using</span> the power of bringing enough aenen that it doesn't descend /too/ far into ince--</span><br />
+<span style="color:#0080ff">CFL: does that alien species even have a concept of incest</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">maybe</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> don't know</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> mean</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> kind of just</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">store</span> eggs in their fins</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'm</span> not sure if they should spit them out</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> let them be ertilized by another's dangly bit</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">instead</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">or</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's</span> confusing.</span><br />
+<span style="color:#646464"><span style="color:#000000">CD</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">point</span> of matter is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">omnivorous</span> scavenger that looks like <a href='https://dl.dropboxusercontent.com/u/59894637/html5/files/aenen.jpg'>https://dl.dropboxusercontent.com/u/59894637/html5/files/aenen.jpg</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">with</span> gel horns</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> light up as language</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">for</span> convenience</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I'd</span> have the pressure suits designed for attempting to navigate other worlds have a "universal translator" that he specifically had because they found one that fell on their planet</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> he inherited from his great great great great great [etc]</span><br />
+<span style="color:#0080ff">CFL: what is the blinking like</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">uhh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">think</span> less "morse"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> more</span><br />
+<span style="color:#41742f">CNN:   <a href='http://en.wikipedia.org/wiki/Tap_code'>http://en.wikipedia.org/wiki/Tap_code</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's</span> also yellow</span><br />
+<span style="color:#0080ff">CFL: I was thinking it flashed 16 different lights on each one</span><br />
+<span style="color:#000000">CNN</span> banned <span style="color:#000000"></span> from responding to memo.<br />
+<span style="color:#0080ff">CFL: like an "A" would be-</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(he</span> asked me to kick him)</span><br />
+<span style="color:#0080ff">CFL: ...okay then</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(in</span> a PM)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(not</span> sure either)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> the thing is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it's</span> not exactly</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> human language</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> it wouldn't use the human alphabet</span><br />
+<span style="color:#0080ff">CFL: true</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> I actually needed to figure out a language</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">which</span> I doubt most people would care too much for</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> could figure it out</span><br />
+<span style="color:#0080ff">CFL: ...would it involve assigning values to the 1000 most commonly used words?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> I was thinking basically the horn can light up in a "spark" type thing</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> each one can light up independently</span><br />
+<span style="color:#0080ff">CFL: Right Left Right Right Right Right Right Left</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">up</span> up down down left right B A start</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> also all worship these aliens that had their spaceship land on their planet</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">which</span> is how they got metalworking</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">allowing</span> them to make pressure suits and such, though they're bulky and only really working due to</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what's</span> the word</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">bouyancy</span> of the contents?</span><br />
+<span style="color:#0080ff">CFL: If those aliens were human I am gonna choke myself or someone or /something/.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> they won't be human</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they'll</span> never be mentioned what they are</span><br />
+<span style="color:#0080ff">CFL: thank gog</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">allowing</span> for someone else to tie in what they want them to be if they ask my permission</span><br />
+<span style="color:#0080ff">CFL: noodle aliens</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they're</span> more like</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">sea</span> worm + caterpillar + eastern dragon</span><br />
+<span style="color:#0080ff">CFL: Noodle as in noodle incident</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">pfft</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah basically</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">spaceship</span> fell and broke apart</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> forge survived landing</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">since</span> it was pressure sealed</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">from</span> there they duplicated forges.</span><br />
+<span style="color:#860000">CNK: :O</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> led to their society worshipping the creators of the ship that seeded their world</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">thinking</span> that they need to "make them proud" and seed other planets with technology</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">leading</span> to them creating the bio-engineered coral spaceships</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">furthermore</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span> are unable to create better spaceships because their atmosphere is corossive</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">*corrosive</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> getting the supplies is very hard</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">especially</span> since most of their idea of "elevation" is based off of bouyancy</span><br />
+<span style="color:#860000">CNK: is that why the first ship crashed?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> first ship crashed because some other aliens were idiots</span><br />
+<span style="color:#0080ff">CFL: can we have aliens from a gas giant</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">maybe</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">mine</span> is just</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">waterworld</span></span><br />
+<span style="color:#860000">CNK: big fart aliens</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span></span><br />
+<span style="color:#0080ff">CFL: Where it slowly goes from gas to liquid to solid</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">their</span> writings are made</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">of</span> the same stuff that makes their horns glow</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">being</span> put on small metal sheets</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+<span style="color:#d40e00">CMM: Who's a great musician?  Brandon Flowers is a great musician.</span><br />
+<span style="color:#0080ff">CFL: you know who else is a great musician</span><br />
+<span style="color:#0080ff">CFL: SJ</span><br />
+<span style="color:#ee1e00">CCP: ^</span><br />
+<span style="color:#cb7de6">CSJ: I barely even play a real instrument. ➜</span><br />
+<span style="color:#cb7de6">CSJ: I'm pretty much mostly just okayish at sequencing. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">actually</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">how</span> about I juts</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">copypaste</span> the outdated wiki</span><br />
+<span style="color:#d40e00">CMM: You don't have to be able to play an instrument to be a musician.  You just have to be able to make music.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">FL</span> mention possible bad things about this</span><br />
+<span style="color:#41742f">CNN:   <a href='https://dl.dropboxusercontent.com/u/59894637/html5/MyWiki.html'>https://dl.dropboxusercontent.com/u/59894637/html5/MyWiki.html</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span> yea</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://www.shikadi.net/keenwiki/Standard_Galactic_Alphabet'>http://www.shikadi.net/keenwiki/Standard_Galactic_Alphabet</a></span><br />
+<span style="color:#d40e00">CMM: gdi giantitp, fucking LOAD</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: (( night ))</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#d40e00">CMM: hmmmmmmmmmmmmmmmmmmmmmmm</span><br />
+<span style="color:#d40e00">CMM: attribute scores are a tricky thing to pin down...</span><br />
+<span style="color:#646464"><span style="color:#000000">CAD</span> ceased responding to memo.</span><br />
+<span style="color:#d40e00">CMM: weirdness...</span><br />
+<span style="color:#d40e00">CMM: IRIS seems to be saying teh AI are cateragorized by version number</span><br />
+<span style="color:#d40e00">CMM: yet, despite being zdk12, and referring to zodiak10 and zodiak11 as 1.0 and 1.1, they don't refer to themselves as 1.2</span><br />
+<span style="color:#d40e00">CMM: they mention 1.2 as being a past version</span><br />
+<span style="color:#d40e00">CMM: Perhaps they think of themselves as like, 1.21 or something</span><br />
+<span style="color:#d40e00">CMM: Just one of my examples why it's not that funny the South is unprepared for Northern style winters:  <a href='http://i.imgur.com/s3hhYjT.jpg'>http://i.imgur.com/s3hhYjT.jpg</a></span><br />
+<span style="color:#cb7de6">CSJ: ... ➜</span><br />
+<span style="color:#d40e00">CMM: That's supposed to be a 4 lane highway i believe</span><br />
+<span style="color:#d40e00">CMM: the Speedycake Remix of Caramelldansen is oddly really really good</span><br />
+<span style="color:#646464"><span style="color:#941894">CURRENT moroseTerminator [CMT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#941894">?MT: my buddy was telling me about stuff like what happened in that image. it's pretty bad.</span><br />
+<span style="color:#d40e00">CMM: Yeah.  I haven't heard from my mom since yesterday, but pretty much all of northern and central Louisiana got covered in shit tons of ice and im worried for her cause she lives in the middle of the woods and there's a really big chance of the power going out</span><br />
+<span style="color:#cb7de6">CSJ: oh crud ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT dswain [CD]</span> RIGHT NOW responded to memo.</span><br />
+IT'S ONE O'CLOCK IN THE MORIJUNG<br />
+AND I HAVE BI SCHIOOL TOMROW<br />
+HELLO?<br />
+<span style="color:#cb7de6">CSJ: how many sleeps have you gotten? like, 3 sleep? ➜</span><br />
+UN<br />
+IN WHAT TIME PERIOD<br />
+<span style="color:#cb7de6">CSJ: the one in the very near past. ➜</span><br />
+I HAVE LOST AT LEAST 50% OF MY FINE MOTOR CONTROL<br />
+I HAVE HAD 5 HOURS IN THE PAST TWENTY FOUR HOURSE<br />
+<span style="color:#d40e00">CMM: 5 hours of sleep out of 24?</span><br />
+IF I OPEN MY EYES REALLY WIDE I CAN TYPE<br />
+YES MM<br />
+<span style="color:#d40e00">CMM: what level of schooling are you in?</span><br />
+HIGH<br />
+<span style="color:#d40e00">CMM: just wait</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">INTENSE</span> SCHOOLING?</span><br />
+FOUR TWENTY BLAZW UT<br />
+<span style="color:#d40e00">CMM: 5 out of 24 will seem like glory when you begin to get only 5 out of 48</span><br />
+MM I KNOW WHAT YOU ARE TALKING ABIU<br />
+AND I HOPE I NECER STOOP TO THAT LEVEL<br />
+ECEB I HAVE STANDARSA<br />
+INAM GOIJG TO BED IN GIVE MINUTES<br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gives you minutes --</span><br />
+FFFFFFFFIVEEE<br />
+NOT GIVE<br />
+FIVE<br />
+FIV<br />
+FI<br />
+F<br />
+<span style="color:#ee1e00">CCP:  <a href='http://terrycavanaghgames.com/maverickbird/'>http://terrycavanaghgames.com/maverickbird/</a> words. I do not have any.</span><br />
+FL<br />
+FLO<br />
+FLOB<br />
+FLOBO<br />
+FLOBOT<br />
+FLOBOTS<br />
+I DUN SEE ANYTHING KIM<br />
+<span style="color:#cb7de6">CSJ: apparently it's a flappy bird-type thing which actually  doesn't look like a mario clone. ➜</span><br />
+MAVEN<br />
+SO<br />
+WAIT NO<br />
+MAVERICK<br />
+NVM<br />
+<span style="color:#ee1e00">CCP: yeah. the Flappy Bird /concept/, but with Super Hexagon art style and difficulty.</span><br />
+I CONVINCED SOME FRESHIES AT SCHOOL THAT HAVING FLAPPY BIRD ON YOUR IPHONE IS ILLEGAL<br />
+<span style="color:#cb7de6">CSJ: pffft ➜</span><br />
+CUZ IT GOT TAKEN OFF THE APPSTORE FOR COPYRIGHT LAW<br />
+<span style="color:#ee1e00">CCP: ...except it wasn't.</span><br />
+<span style="color:#941894">CMT: ^</span><br />
+<span style="color:#ee1e00">CCP: the creator actually took it down willingly</span><br />
+<span style="color:#cb7de6">CSJ: (when really it was taken down because the dev was donetier) ➜</span><br />
+<span style="color:#941894">CMT: too much pressure</span><br />
+I KNOW<br />
+<span style="color:#ee1e00">CCP:  <a href='https://www.youtube.com/watch?v=NG_F7GK8xRY'>https://www.youtube.com/watch?v=NG_F7GK8xRY</a> jump forward to about 6:00</span><br />
+BUT THAT'S NOT WHAT I TOLD THEM<br />
+KIM<br />
+<span style="color:#941894">CMT: theeeen you're an ass</span><br />
+IS THAT GAME ON THE APPSTORE<br />
+<span style="color:#ee1e00">CCP: the one I just linked? doubt it, it's just a flash game</span><br />
+<span style="color:#941894">CMT: pretty sure it was made only a couple of days ago</span><br />
+<span style="color:#cb7de6">CSJ: at least it's fairer than "flappy doge" ➜</span><br />
+<span style="color:#941894">CMT: <a href='http://catbountry.tumblr.com/post/76502916286/canadumb-prostheticknowledge-flapmmo-flappy'>http://catbountry.tumblr.com/post/76502916286/canadumb-prostheticknowledge-flapmmo-flappy</a></span><br />
+<span style="color:#941894">CMT: related</span><br />
+<span style="color:#941894">CMT: fucking swarm</span><br />
+<span style="color:#ee1e00">CCP: yeah, Flappy Doge is nothing but fake difficulty because of shitty framerate</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPT</span> ceased responding to memo.</span><br />
+<span style="color:#941894">CMT: ...?</span><br />
+<span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: welp, night everybody. might try to get online during club, but other than that I won't be on until I get home (near evening)</span><br />
+<span style="color:#cb7de6">CSJ: okay then, goodnight CP ➜</span><br />
+<span style="color:#ee1e00">CCP: ...also why is it so hard to get the 3DS Camera app to show pictures added to the SD card? &gt;_&gt;</span><br />
+<span style="color:#cb7de6">CSJ: because it is a butt. ➜</span><br />

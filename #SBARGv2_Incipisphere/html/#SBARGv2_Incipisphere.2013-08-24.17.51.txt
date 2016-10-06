@@ -1,0 +1,376 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: ...The path I follow best is the one of Instinct.</span><br />
+<span style="color:#0080ff">CFL: That is the right path.</span><br />
+<span style="color:#ee1e00">CCP: so, other than the meeting right now, anything happened today?</span><br />
+<span style="color:#0080ff">CFL: nothing</span><br />
+<span style="color:#0080ff">CFL: Except FS has one HELL of a stutter.</span><br />
+<span style="color:#0080ff">CFL: And </span><br />
+<span style="color:#646464"><span style="color:#000000">CPP</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: that weird character, that's from Gambit's irc client glitching isn't it?</span><br />
+<span style="color:#0080ff">CFL: Yeah, and she can't see it.</span><br />
+<span style="color:#0080ff">CFL: Its apparently a backspace</span><br />
+<span style="color:#ee1e00">CCP: weird.</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJigglyexile [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: hey there Kim</span><br />
+<span style="color:#ee1e00">CCP: ((oh, so THAT'S what Pwootage was saying about "password input in Git Bash treats backspace as a character"...))</span><br />
+<span style="color:#ee1e00">CCP: sup SJ, everything ok on your end?</span><br />
+<span style="color:#0080ff">CFL: (( maybe? ))</span><br />
+<span style="color:#0080ff">CFL: Its like a block missing a circle</span><br />
+<span style="color:#cb7de6">CSJ: l'm doing okay at the moment over here.</span><br />
+<span style="color:#0080ff">CFL: To me, it looks like a Pokemon Spell Tag</span><br />
+<span style="color:#0080ff">CFL: Or a clense tag</span><br />
+<span style="color:#0080ff">CFL: cleanse*</span><br />
+<span style="color:#ee1e00">CCP: which theme do you use again? it's box-minus-circle with strifekind's font...</span><br />
+<span style="color:#0080ff">CFL: Yeah, same for me</span><br />
+<span style="color:#ee1e00">CCP: oh. then what's the spell-tag thing?</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  hasn't played pokemon up until about two weeks ago --</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: *kinda needs to look up the pic for the spell tag to remember what it looks like*</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://bulbapedia.bulbagarden.net/wiki/Spell_Tag#Spell_Tag'>http://bulbapedia.bulbagarden.net/wiki/Spell_Tag#Spell_Tag</a></span><br />
+<span style="color:#0080ff">CFL: Its apparently a O-fuda</span><br />
+<span style="color:#0080ff">CFL: sorta</span><br />
+<span style="color:#ee1e00">CCP: oh yeah, it kinda does look like that</span><br />
+<span style="color:#ee1e00">CCP: and the Psychic-type equivalent is... a twisted spoon :P</span><br />
+<span style="color:#0080ff">CFL: Well, I guess maybe the Ghost type is basically the Void Aspect?</span><br />
+<span style="color:#0080ff">CFL: or would that be the Dark type?</span><br />
+<span style="color:#cb7de6">CSJ: pokemon types don't really translate all the way with aspects.</span><br />
+<span style="color:#0080ff">CFL: Yeah</span><br />
+<span style="color:#0080ff">CFL: I mean, Light might be Fairy/Fire or something</span><br />
+<span style="color:#ee1e00">CCP: no, but I remember seeing a thing that gave types to the Beta Kids and trolls...</span><br />
+<span style="color:#ee1e00">CCP: bingo. <a href='http://creeperpuncher.tumblr.com/post/45924829058/carouselz-cubeybooby-i-dont-know-what-im'>http://creeperpuncher.tumblr.com/post/45924829058/carouselz-cubeybooby-i-dont-know-what-im</a></span><br />
+<span style="color:#0080ff">CFL: Isn't there a wooden block that looks like that?</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: darn it, signal's breaking up. going to have to log off for a while. Seeya guys</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#eab800">CURRENT chilledGecko [CCG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#eab800">CCG: My head.</span><br />
+<span style="color:#eab800">CCG: I think I blacked out.</span><br />
+<span style="color:#ee1e00">CCP: you okay, CG?</span><br />
+<span style="color:#eab800">CCG: Yeah.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#aaaa7f">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#aaaa7f">CFF: What I miss?</span><br />
+<span style="color:#eab800">CCG: Me blacking out.</span><br />
+<span style="color:#aaaa7f">CFF: Yikes.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAG</span> ceased responding to memo.</span><br />
+<span style="color:#aaaa7f">CFF: So<span style="color:#00ff00">...</span> nothings going on?</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: Meeting's happening</span><br />
+<span style="color:#9d001f">CRS: Hurry up and you'll make it chances are</span><br />
+<span style="color:#aaaa7f">CFF: Ah<span style="color:#00ff00">...</span> how it's goinh?</span><br />
+<span style="color:#9d001f">CRS: (( <a href='#SBARGv2_Arkaiser'>#SBARGv2_Arkaiser</a> , the ship probably goes to whatever planet FF is on to allow him access))</span><br />
+<span style="color:#aaaa7f">CFF: Sorry, RS.</span><br />
+<span style="color:#9d001f">CRS: It's alright.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#55aa00">CURRENT suddenlyEchoes [CSE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#55aa00">CSE: aaaaaaaaaash</span><br />
+<span style="color:#55aa00">CSE: FA</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a80000">CFA: (\ What /)</span><br />
+<span style="color:#a80000">CFA: (\ Im not doing anyything strenuous /)</span><br />
+<span style="color:#a80000">CFA: (\ I promise /)</span><br />
+<span style="color:#55aa00">CSE: okay</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ...</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
+<span style="color:#55aa00">CSE: ...</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#6507ff">CTT: I...I don'τ know anymore</span><br />
+<span style="color:#55aa00">CSE: no?</span><br />
+<span style="color:#6507ff">CTT: nope</span><br />
+<span style="color:#6507ff">CTT: I'd say someτhing else buτ τhen you'd all reacτ.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
+<span style="color:#aaaa7f">CFF: Saying that is gonna make us react anyways.</span><br />
+<span style="color:#6507ff">CTT: buτ you don'τ know whaτ I would say</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Can you please Tell us?</span><br />
+<span style="color:#55aa00">CSE: so how's the shing dig going so far?</span><br />
+<span style="color:#6507ff">CTT: noτ τelling you.</span><br />
+<span style="color:#55aa00">CSE: aw man</span><br />
+<span style="color:#55aa00">CSE: ono</span><br />
+<span style="color:#55aa00">CSE: but i wanna know how's the shing dig goin</span><br />
+<span style="color:#55aa00">CSE: D:</span><br />
+<span style="color:#6507ff">CTT: I don'τ know abouτ τhe meeτing</span><br />
+<span style="color:#6507ff">CTT: I lefτ a while back</span><br />
+<span style="color:#646464"><span style="color:#980002">CURRENT mnemonicHeartmender [CMH]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#980002">CMH: the meeting is going... okay? ♥</span><br />
+<span style="color:#646464"><span style="color:#33cccc">CURRENT pocketedParadox [CPP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#33cccc">CPP: pretty much sums it up</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>.</span><br />
+<span style="color:#eab800">CCG: Oy.</span><br />
+<span style="color:#eab800">CCG: I think I blacked out again.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>TT, I will give you the worlds best cookies if you tell us.</span><br />
+<span style="color:#6507ff">CTT: I don'τ τhink I'll be going τo any more meeτings</span><br />
+<span style="color:#6507ff">CTT: τhough I do hope everyone enjoyed my cookies.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Too depressing, too much chaos and yelling and or/to much usage of HIS name?</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Too depressing, too much chaos and yelling and or/to much usage of HIS name?</span><br />
+<span style="color:#eab800">CCG: Anyone here a doctor?</span><br />
+<span style="color:#aaaa7f">CFF: Uh<span style="color:#00ff00">...</span> not me. Sorry.</span><br />
+<span style="color:#33cccc">CPP: no but life players are pretty good at healing</span><br />
+<span style="color:#33cccc">CPP: if you can find one that it</span><br />
+<span style="color:#33cccc">CPP: *is</span><br />
+<span style="color:#eab800">CCG: Okay, who here is a life player?</span><br />
+<span style="color:#646464"><span style="color:#555500">CURRENT dreadfulDissonance [CDD]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#555500">CDD: I know that Ryan was.</span><br />
+<span style="color:#ee1e00">CCP: I never got any cookies actually since I got here late...</span><br />
+<span style="color:#555500">CDD: And his mom was a psychiatrist.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Ryan, is STILL alive, right?</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#eab800">CCG: I don't, never met the guy.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#555500">CDD: I talked to him a few times.</span><br />
+<span style="color:#555500">CDD: He's doing great, apparently.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPP</span> ceased responding to memo.</span><br />
+<span style="color:#aaaa7f">CFF: ah<span style="color:#00ff00">...</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#887000">FUTURE slothfulLunchmeat [FSL]</span> 22:22 HOURS FROM NOW responded to memo.</span><br />
+<span style="color:#887000">FSL:   <a href='http://chipandironicus.com/videos/anime/1.html'>http://chipandironicus.com/videos/anime/1.html</a> for the doges at the <span style="color:#bacafe">bacafe</span></span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: which is which</span><br />
+<span style="color:#0080ff">CFL: I see Kutone I think... but not Crux anywhere</span><br />
+<span style="color:#ee1e00">CCP: uh, Kutone, Issun and I were on my land all day doing things...</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: sigh</span><br />
+<span style="color:#6507ff">CTT: I'm almosτ ready τo jusτ...give up</span><br />
+<span style="color:#ee1e00">CCP: don't give up Kat, we're just going through a... stupid phase.</span><br />
+<span style="color:#0080ff">CFL: Potato.</span><br />
+<span style="color:#6507ff">CTT: I've been τhinking like τhis for a long τime already</span><br />
+<span style="color:#0080ff">CFL: FREEDOM</span><br />
+<span style="color:#6507ff">CTT: I'm going τo be τaking a long, long, long nap.</span><br />
+<span style="color:#646464"><span style="color:#fe6a27">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#fe6a27">CPO: Okay.</span><br />
+<span style="color:#fe6a27">CPO: Sleep well!</span><br />
+<span style="color:#ee1e00">CCP: also fyi: like today, I'm gonna be stuck doing stuff on my land most of tomorrow morning and afternoon, because SO BARKING MANY of my sidequests just have to take place in the part of my land where it snows so hard the internet cuts out!</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#ee1e00">CCP: but I'll be back tomorrow evening, and should be able to do stuff again after that.</span><br />
+<span style="color:#ee1e00">CCP: ((hey, I couldn't think of any other IC explanation for me being Seattlestuck tomorrow ;) ))</span><br />
+<span style="color:#0080ff">CFL: ...you guys coming though the portal?</span><br />
+<span style="color:#ee1e00">CCP: just as soon as I stop PO from making any more sudokucidal plans.</span><br />
+<span style="color:#0080ff">CFL: Didn't you make a bat?</span><br />
+<span style="color:#0080ff">CFL: a /certain/ bat?</span><br />
+<span style="color:#0080ff">CFL: &gt;:D</span><br />
+<span style="color:#ee1e00">CCP: nope, since I don't have a batKind base captcha code handy :P</span><br />
+<span style="color:#ee1e00">CCP: but note to future me: make a reflectorKind form of it during the upcoming alchemy binge...</span><br />
+<span style="color:#0080ff">CFL: hey uh, if anyone gets a spare appliance kind card... or even a pen kind card, let me know,</span><br />
+<span style="color:#0080ff">CFL: don't really know why I want penkind.</span><br />
+<span style="color:#fe6a27">CPO: I'm gonna make, /not use/, the bracelet.</span><br />
+<span style="color:#0080ff">CFL: NO</span><br />
+<span style="color:#ee1e00">CCP: YOU WILL NOT.</span><br />
+<span style="color:#0080ff">CFL: PO I swear to god if you do that I am going to make the <span style="color:#ff00ff">Violet Star</span>.</span><br />
+<span style="color:#fe6a27">CPO: It'll stay in the far reaches on my Sylladex, I swear.</span><br />
+<span style="color:#0080ff">CFL: DON'T.</span><br />
+<span style="color:#0080ff">CFL: YOU.</span><br />
+<span style="color:#0080ff">CFL: FUCKING.</span><br />
+<span style="color:#fe6a27">CPO: Just a failsafe-</span><br />
+<span style="color:#0080ff">CFL: DARE.</span><br />
+<span style="color:#fe6a27">CPO: What's the big deaaalll?</span><br />
+<span style="color:#0080ff">CFL: I am going to sleep</span><br />
+<span style="color:#ee1e00">CCP: you know what, I'm just gonna go leave an ask for Ornis to /remove that dangerous piece of fuck/ from the session's registry entirely, like Fake Guardian did to the rocketscythe.</span><br />
+<span style="color:#fe6a27">CPO: Whyyyyyyyyyyy?</span><br />
+<span style="color:#fe6a27">CPO: I'm the only one with the code, anyway.</span><br />
+<span style="color:#0080ff">CFL: whats the name of it?</span><br />
+<span style="color:#fe6a27">CPO: Not tellin youuuuu</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">?AG: What's the bracelet even do? I missed that :&lt;</span><br />
+<span style="color:#ee1e00">CCP: Gambit, it permanently deletes things from the face of Paradox Space.</span><br />
+<span style="color:#ee1e00">CCP: as in "can't even Doomed-Timeline the deletion" permanently.</span><br />
+<span style="color:#7ccfb2">CAG: … well damn.</span><br />
+<span style="color:#fe6a27">CPO: It RENDS THE VERY CODE from stuff.</span><br />
+<span style="color:#ee1e00">CCP: ...at least, that's how I understood it.</span><br />
+<span style="color:#fe6a27">CPO: That's it, yeah.</span><br />
+<span style="color:#fe6a27">CPO: It's amazing, right!</span><br />
+<span style="color:#0080ff">CFL: Guess what I just found an image of it on the web.</span><br />
+<span style="color:#fe6a27">CPO: *?</span><br />
+<span style="color:#fe6a27">CPO: Noooooo</span><br />
+<span style="color:#fe6a27">CPO: Heheh, whatever.</span><br />
+<span style="color:#0080ff">CFL: Now I could simply take a picture of it with the Captcharoid.</span><br />
+<span style="color:#ee1e00">CCP: and lemme guess, you still don't get why I'm literally crapping myself over the thought of you making it, PO.</span><br />
+<span style="color:#0080ff">CFL: And then I would have the code.</span><br />
+<span style="color:#0080ff">CFL: But guess what</span><br />
+<span style="color:#0080ff">CFL: CHRONOS COULD DO THE SAME THING</span><br />
+<span style="color:#fe6a27">CPO: Yeah, I'm kinda getting the feeling you don't trust me, or something.</span><br />
+<span style="color:#fe6a27">CPO: Well, he won't.</span><br />
+<span style="color:#fe6a27">CPO: I mean, if we use it on him before he had the chsnce-</span><br />
+<span style="color:#fe6a27">CPO: *chance</span><br />
+<span style="color:#0080ff">CFL: PO I will murder you in your sleep I swear to god</span><br />
+<span style="color:#ee1e00">CCP: no, I trust you. mostly. I'm just saying, if that thing even comes into existence, he'll Time Shenanigan it away from you before you can even lock it inside a nested Encryption Modus card.</span><br />
+<span style="color:#0080ff">CFL: I tried that once.</span><br />
+<span style="color:#0080ff">CFL: Item came out after I button mashed.</span><br />
+<span style="color:#fe6a27">CPO: What if Ornis makes it? Or a Time/Space player helps me?</span><br />
+<span style="color:#0080ff">CFL: I literally just button mashed.</span><br />
+<span style="color:#0080ff">CFL: It breaks the encryption faster the faster you mash.</span><br />
+<span style="color:#fe6a27">CPO: Huh.</span><br />
+<span style="color:#ee1e00">CCP: huh. so all Karkat had to do was pull a Karkat on the modus' keyboard and it would've been perfectly usable by him.</span><br />
+<span style="color:#0080ff">CFL: (( Based on use of the Encyption Modus in that little modus program. ))</span><br />
+<span style="color:#fe6a27">CPO: Hehehehehe</span><br />
+<span style="color:#0080ff">CFL: Or just break the keyboard in half.</span><br />
+<span style="color:#646464"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  is now an idle chum! --</span><br />
+<span style="color:#ee1e00">CCP: ((yeah, that's what I thought you were referencing :P))</span><br />
+<span style="color:#fe6a27">CPO: You know, you might be right.</span><br />
+<span style="color:#fe6a27">CPO: Why take the risk?</span><br />
+<span style="color:#0080ff">CFL: If I wake up and everyone is dead, I'm going to kill you.</span><br />
+<span style="color:#0080ff">CFL: Goodnight~</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#fe6a27">CPO: It could be the /perfect/ endgame weapon, though.</span><br />
+<span style="color:#7ccfb2">CAG: … If I wake up and everyone is dead I will be /extremely/ disappointed.</span><br />
+<span style="color:#7ccfb2">CAG: I want to /watch/ that shit dammit.</span><br />
+<span style="color:#fe6a27">CPO: Maybe just call it the Ender Weapon.</span><br />
+<span style="color:#fe6a27">CPO: .....time is overpowered.</span><br />
+<span style="color:#fe6a27">CPO: Adding it with Space is just insult to injury.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL, FSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#6507ff">CTT: fdvgfgvbτfghnrτdfvbgfdgbnm</span><br />
+<span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+<span style="color:#6507ff">CTT: ghjkuiugjh</span><br />
+<span style="color:#eab800">CCG: What the Hell?</span><br />
+<span style="color:#646464"><span style="color:#fe6a27">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#fe6a27">CPO: ?</span><br />
+<span style="color:#6507ff">CTT: hbbgyτyguo</span><br />
+<span style="color:#fe6a27">CPO: Kat?</span><br />
+<span style="color:#6507ff">CTT: byτuhjk</span><br />
+<span style="color:#555500">CDD: Kat, stop flipping out!</span><br />
+<span style="color:#6507ff">CTT: fdg</span><br />
+<span style="color:#ee1e00">CCP: think she fell asleep on the keyboard...</span><br />
+<span style="color:#0000ff">CBB: ...sleewp../.headhhutrt.,.reewswett...</span><br />
+<span style="color:#9d001f">CRS: ...Phil what's going on...?</span><br />
+<span style="color:#0000ff">CBB: ...overlooasd...coulsd nopt processssss...</span><br />
+<span style="color:#0000ff">CBB: ...troublee processingg...</span><br />
+<span style="color:#0000ff">CBB: ...pleasde../lte mwe restst...</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#9d001f">CRS: ...Was it the candy?</span><br />
+<span style="color:#6507ff">CTT: dfr</span><br />
+<span style="color:#0000ff">CBB: ...nnnnnnoo...</span><br />
+<span style="color:#646464"><span style="color:#29486d">CURRENT avoidantCorrespondent [CAC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#29486d">CAC: ...i think he couldn't take all the bullshit.</span><br />
+<span style="color:#9d001f">CRS: oh</span><br />
+<span style="color:#9d001f">CRS: ...uh.</span><br />
+<span style="color:#7ccfb2">CAG: Bullshit can make someone go comatose?</span><br />
+<span style="color:#7ccfb2">CAG: Guys. New battle plan against Chronos.</span><br />
+<span style="color:#ee1e00">CCP: what happened with the candy? I didn't have any since I arrived late...</span><br />
+<span style="color:#7ccfb2">CAG: &gt;:D</span><br />
+<span style="color:#ee1e00">CCP: :O</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#0000ff">CBB: ...havee troublwe someitmnes wihth procces tthings...</span><br />
+<span style="color:#ee1e00">CCP: hopy shit Gambit, you're brilliant. all we have to do is force-feed him Confusion Candy until he Hurts Himself In His Confusion to a Just death.</span><br />
+<span style="color:#7ccfb2">CAG: now how do we force-feed things to a /sentient black hole/? ;3</span><br />
+<span style="color:#7ccfb2">CAG: (we just hold it out near him)</span><br />
+<span style="color:#ee1e00">CCP: throw them at him and let gravity take its course?</span><br />
+<span style="color:#0000ff">CBB: ...I go ssleepno w...//.please/??????/...</span><br />
+<span style="color:#7ccfb2">CAG: YES.</span><br />
+<span style="color:#7ccfb2">CAG: BRILLIANT.</span><br />
+<span style="color:#7ccfb2">CAG: But first I wanna give him a chessboard.</span><br />
+<span style="color:#7ccfb2">CAG: Aaah I'm so excited about this :D</span><br />
+<span style="color:#29486d">CAC: ..sure, BB. don't let us keep you up.</span><br />
+<span style="color:#6507ff">CTT: dfrgτyhy</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#7ccfb2">CAG: :DDD</span><br />
+<span style="color:#646464">-- CURRENT blueBassist's <span style="color:#0000ff">[CBB'S]</span>  connection has been terminated. (Overload Error) --</span><br />
+<span style="color:#646464"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#eab800">CCG: What's going on?</span><br />
+<span style="color:#ee1e00">CCP: not much</span><br />
+<span style="color:#eab800">CCG: Oh.</span><br />
+<span style="color:#eab800">CCG: Who are you again?</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#eab800">CCG: Sorry i'm bad with names.</span><br />
+<span style="color:#ee1e00">CCP: Kimura...</span><br />
+<span style="color:#646464"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />
+<span style="color:#eab800">CCG: Cool name.</span><br />
+<span style="color:#fe6a27">CPO: Who are you?</span><br />
+<span style="color:#eab800">CCG: I'm Cody, the Prince.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#fe6a27">CPO: I'm Mike the Knight,</span><br />
+<span style="color:#eab800">CCG: What's your Aspect?</span><br />
+<span style="color:#fe6a27">CPO: Hope.</span><br />
+<span style="color:#eab800">CCG: Doom.</span><br />
+<span style="color:#7ccfb2">CAG: Dun dun DUUUUUN!</span><br />
+<span style="color:#fe6a27">CPO: Heheheh, what a combination!</span><br />
+<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+<span style="color:#eab800">CCG: Guess your Aspects are opposite, huh?</span><br />
+<span style="color:#eab800">CCG: *Our</span><br />
+<span style="color:#7ccfb2">CAG: I thought it was Hope/Rage and Life/Dooom...</span><br />
+<span style="color:#eab800">CCG: Eh, sounds opposite to me,</span><br />
+<span style="color:#fe6a27">CPO: Yeah, I think that's it. It's pretty opposite in our case as well, though!</span><br />
+<span style="color:#fe6a27">CPO: What does Doom.... do, again?</span><br />
+<span style="color:#eab800">CCG: I'm still not sure, I only reached my God Tier when I killed my Denizen.</span><br />
+<span style="color:#eab800">CCG: I'm still not sure of my powers.</span><br />
+<span style="color:#ee1e00">CCP: ((wiki says Gambit's right))</span><br />
+<span style="color:#eab800">CCG: (( Whatevs. ))</span><br />
+<span style="color:#fe6a27">CPO: Me neither. I've been able to amplify things...</span><br />
+<span style="color:#eab800">CCG: Amplify?</span><br />
+<span style="color:#fe6a27">CPO: Make them stronger. Punch harder, run faster, etc.</span><br />
+<span style="color:#eab800">CCG: Huh.</span><br />
+<span style="color:#eab800">CCG: That's pretty cool.</span><br />
+<span style="color:#fe6a27">CPO: Along with being able to console/reassure people really well.</span><br />
+<span style="color:#fe6a27">CPO: Not sure about it beyond that, though.</span><br />
+<span style="color:#fe6a27">CPO: Thanks :-) </span><br />
+<span style="color:#fe6a27">CPO: We should try and experiment with Doom,</span><br />
+<span style="color:#eab800">CCG: I have been meaning to figure out what I can do.</span><br />
+<span style="color:#fe6a27">CPO: Since you're a Prince, in theory, you destroy Doom.</span><br />
+<span style="color:#646464"><span style="color:#809da9">CURRENT dubiousLarcenist [CDL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#809da9">CDL: Innit obvious?</span><br />
+<span style="color:#fe6a27">CPO: ?</span><br />
+<span style="color:#809da9">CDL: 'e's 'ad it gone over with 'im.</span><br />
+<span style="color:#eab800">CCG: ... What?</span><br />
+<span style="color:#809da9">CDL: Prince destroys. Issat a bad thing? Naw.</span><br />
+<span style="color:#fe6a27">CPO: That's kinda cool, actually.</span><br />
+<span style="color:#eab800">CCG: Yeah. But i'm still not sure about what I can do as a destroyed of Doom. Or destroy WITH Doom.</span><br />
+<span style="color:#fe6a27">CPO: Should we check the MSPA wiki?</span><br />
+<span style="color:#fe6a27">CPO: ((Yes, that's a thing IC))</span><br />
+<span style="color:#eab800">CCG: Pretty sure they don't have any info.</span><br />
+<span style="color:#fe6a27">CPO: Couldn't hurt, though.</span><br />
+<span style="color:#809da9">CDL: Doomy songs of fate.</span><br />
+<span style="color:#eab800">CCG: Aright, let me look.</span><br />
+<span style="color:#809da9">CDL: Break the song, break the fate.</span><br />
+<span style="color:#fe6a27">CPO: Find anything?</span><br />
+<span style="color:#eab800">CCG: Nope.</span><br />
+<span style="color:#fe6a27">CPO: What did it say?</span><br />
+<span style="color:#eab800">CCG: Says that Doom players might ahev two dream selves, but i'm pretty sure that's not true.</span><br />
+<span style="color:#fe6a27">CPO: Sollux did.</span><br />
+<span style="color:#eab800">CCG: Yeah, 'cept he was a freak.</span><br />
+<span style="color:#809da9">CDL: That bloke's one Doom player.</span><br />
+<span style="color:#809da9">CDL: Buncha other blokes get together with one dead dreamself...</span><br />
+<span style="color:#eab800">CCG: I know, that's why I dismissed it.</span><br />
+<span style="color:#fe6a27">CPO: Can you summon an aura, at least? Tap into it?</span><br />
+<span style="color:#ee1e00">CCP: well, I probably better get back to my land for the night... see you guys tomorrow evening after I finish the thing in my land's Snowstorm Sector</span><br />
+<span style="color:#eab800">CCG: Aura?</span><br />
+<span style="color:#fe6a27">CPO: Bye Kimura!</span><br />
+<span style="color:#fe6a27">CPO: Glowy thing that surrounds you?</span><br />
+<span style="color:#eab800">CCG: I... don't know.</span><br />
+<span style="color:#809da9">CDL: 'ey, 'ere's a thought. You destroy whatsit that bloke was on about, fates and dooms and that song. If you 'ad knowledge of what the song said was gonna happen, couldn't ya act to make it not 'appen at all?</span><br />
+<span style="color:#809da9">CDL: If it was a bad ending to the story?</span><br />
+<span style="color:#809da9">CDL: Make it stop bein' th' end?</span><br />
+<span style="color:#eab800">CCG: Prevent Doom or the bad end by destroying it?</span><br />
+<span style="color:#fe6a27">CPO: Maybe. Wanna try, Cody?</span><br />
+<span style="color:#eab800">CCG: I would need a 'bad ending' or something.</span><br />
+<span style="color:#809da9">CDL: The moon of Derse is going to burn, going to burn, going to burn~ the moon of Derse is going to burn, my fair lady.</span><br />
+<span style="color:#809da9">CDL: 'ey, it's a story. Who knows what could go wrong?</span><br />
+<span style="color:#eab800">CCG: I dream on Derse.</span><br />
+<span style="color:#ee1e00">CCP: CG, just go download a visual novel and prevent it from reaching Bad End :P</span><br />
+<span style="color:#809da9">CDL: Not anymore.</span><br />
+<span style="color:#eab800">CCG: How would I do that?</span><br />
+<span style="color:#809da9">CDL: It doesn' have to be a big thing though.</span><br />
+<span style="color:#fe6a27">CPO: Just, focus on the Doom. </span><br />
+<span style="color:#fe6a27">CPO: Try and erase it?</span><br />
+<span style="color:#ee1e00">CCP: anyway, night</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />

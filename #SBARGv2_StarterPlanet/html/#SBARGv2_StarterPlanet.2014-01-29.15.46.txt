@@ -1,0 +1,42 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+<span style="color:#646464"><span style="color:#a0006c">CURRENT sharkBelligerant [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#a0006c">[CSB]</span>  exits --</span><br />
+<span style="color:#646464"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  follows her --</span><br />
+<span style="color:#a0006c">CSB: So where we sstart</span><br />
+<span style="color:#0000ff">CBB: ...Well, we need to find a place where you want to live...</span><br />
+<span style="color:#0000ff">CBB: ...Do you want to live where it's cold? Where it's warm? By the water?...</span><br />
+<span style="color:#a0006c">CSB: By the water</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //The village has several houses and other buildings, and is surrounded by forest to the east and south. A mountain is visible in the distance, and there's probably a river somewhere in there as well... --</span><br />
+<span style="color:#0000ff">CBB: ...Well, maybe we can make a house by the river?...</span><br />
+<span style="color:#a0006c">CSB: Ok</span><br />
+<span style="color:#0000ff">CBB: ...Let's go...</span><br />
+<span style="color:#646464">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  walks over towards the river --</span><br />
+<span style="color:#646464">-- CURRENT sharkBelligerant <span style="color:#a0006c">[CSB]</span>  follows --</span><br />
+<span style="color:#0000ff">CBB: ...Here seems like a good spot...</span><br />
+<span style="color:#646464">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  finds an open spot with a bit of distance from the nearest house --</span><br />
+<span style="color:#a0006c">CSB: Yes</span><br />
+<span style="color:#0000ff">CBB: ...Ok...I'm not sure if we're actually supposed to build this thing or if there's a way we can just...will things into existence...</span><br />
+<span style="color:#a0006c">CSB: Ummm</span><br />
+<span style="color:#0000ff">CBB: ...I heard through the Breeze that whatever powered the alchemiters finally petered out or something...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //It depends on your claspects. Ash and Brad Spacey-Voidy Thinged stuff in, SJ timelooped a cabin using forest lumber, CP had an ACME House-Building Kit... whatever works for you :P --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //and yeah, the alchemiters are toast. --</span><br />
+<span style="color:#0000ff">CBB: ...Hm...</span><br />
+<span style="color:#a0006c">CSB: Umm</span><br />
+<span style="color:#a0006c">CSB: No idea</span><br />
+<span style="color:#0000ff">CBB: ...I can chop wood...</span><br />
+<span style="color:#a0006c">CSB: Umm ok ill help you</span><br />
+<span style="color:#0000ff">CBB: ...How? I can just Windy Thing them down and then use my swords to just chop them up...</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#0000ff">CBB: ((?))</span><br />
+<span style="color:#646464"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000ff">CBB: ((bluh))</span><br />
+<span style="color:#0000ff">CBB: ((g2g))</span><br />
+<span style="color:#646464"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks out the window from the bar --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //There is hypothetically a partially-built new house near the river, but other than that nothing has changed outside --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />

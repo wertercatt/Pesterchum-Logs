@@ -1,0 +1,6 @@
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSV</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />

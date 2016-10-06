@@ -1,0 +1,219 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 SHUTTLECRAFT.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  lands near the house, rolling on the ground. --</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  Infront of the house you see a <a href='http://en.memory-alpha.org/wiki/Class_F_shuttlecraft'>http://en.memory-alpha.org/wiki/Class_F_shuttlecraft</a> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over from the village hangout area --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... looks at it. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  NCC-1703/6 is blasened on the side. --</span><br />
+<span style="color:#008400">CDS: USS Republic</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  USS Republic --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the shuttles name is Einstein --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  examines the impulse engines. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is inside --</span><br />
+<span style="color:#0080ff">CFL: So, this thing can travel at about a third the speed of light...</span><br />
+<span style="color:#ee1e00">CCP: huh. cool</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the door slides open and the ramp lowers. --</span><br />
+<span style="color:#008400">CDS: Hay guys</span><br />
+<span style="color:#008400">CDS: Come on in</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  steps back inside. --</span><br />
+<span style="color:#ee1e00">CCP: mmk</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows inside --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks inside. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  inside you see that the vewport shutters are up. --</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is siting at the helm. --</span><br />
+<span style="color:#008400">CDS: Just take a seat and we will depart in just a moment.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  closes the hatch. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  begins departure sequence. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  takes a seat --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the shuttles interear sounds like this as the engens start <a href='https://www.youtube.com/watch?v=0UYE9sUWAfU'>https://www.youtube.com/watch?v=0UYE9sUWAfU</a> --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  takes the shuttle up. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  quick start playing this! <a href='https://www.youtube.com/watch?v=Rev8mhy7xOE'>https://www.youtube.com/watch?v=Rev8mhy7xOE</a> --</span><br />
+<span style="color:#008400">CDS: You will see why I have the shuters up in about a minuet or two.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is pering in to one of the ball vewers an a swing arm so he can see where he is going. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  as the music crasendows DS reches down for a switch to open the shutteres reveling! --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  <a href='http://i870.photobucket.com/albums/ab269/1701Kirk/dockside_by_arcass-d3kjbgx_zps3fecab05.jpg'>http://i870.photobucket.com/albums/ab269/1701Kirk/dockside_by_arcass-d3kjbgx_zps3fecab05.jpg</a> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  epic bgm timing --</span><br />
+<span style="color:#ee1e00">CCP: whoa...</span><br />
+<span style="color:#008400">CDS: ((the shuutle in the pic is us))</span><br />
+<span style="color:#0080ff">CFL: So, if we are using the original warp calculations, does this mean we are also going with warp factors above 10?</span><br />
+<span style="color:#008400">CDS: yes</span><br />
+<span style="color:#008400">CDS: I dont by the infinaite velosety thing</span><br />
+<span style="color:#008400">CDS: that episode was stupid</span><br />
+<span style="color:#0080ff">CFL: Yeah, it doesn't make much sense.</span><br />
+<span style="color:#ee1e00">CCP: yeah. save the infinite verlocity stuff for Hitchhiker's references.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  flys the shuttle under the secandary hull then back around and abobe the sauser. --</span><br />
+<span style="color:#0080ff">CFL: I mean, if the issue of a warp field is Log Scale, then just measure it in smaller amounts each time!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  *and wow now I'm typoing --</span><br />
+<span style="color:#008400">CDS: I have always wanted to give the buty tour you know .</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  drops us down between the neasels  still going at a slow lesharly pace. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  as the music draws to a close the shuttle drops down and enters the open shuttlebay. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  DS lands us on the deck as the doors close behind us. --</span><br />
+<span style="color:#008400">CDS: So what did you gus think?</span><br />
+<span style="color:#ee1e00">CCP: wow. just... wow.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is deactivating the shuttle as the bay outside preshuises. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  wardrobefys in to his captains uniform. --</span><br />
+<span style="color:#008400">CDS: (( <a href='http://www.entertainmentearth.com/images/AUTOIMAGES/NVSTC0001lg.jpg'>http://www.entertainmentearth.com/images/AUTOIMAGES/NVSTC0001lg.jpg</a> ))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the doors open as the preshuisation compleates. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  exits the shuttle and walks to the doors in the far bulk head. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets out and follows, looking at all the things --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  there ore several shuttles of difrent configurations around the bay. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the thing that has numbers on it. --</span><br />
+<span style="color:#008400">CDS: ((?))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  as he reaches the doors they open on to a coridor and there are a few wolves dresed in blue and red uniforms waiting for him. --</span><br />
+<span style="color:#008400">CDS: (( <a href='https://www.youtube.com/watch?v=BAt6yEwshQA'>https://www.youtube.com/watch?v=BAt6yEwshQA</a> ))</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the wolves in the red uniforms, with a sad look on his face. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  knows. --</span><br />
+<span style="color:#008400">CDS: Charlie I know what yor thinking but they are not going to die</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also realizes, sadly... but hey, different universe, maybe different rules --</span><br />
+<span style="color:#0080ff">CFL: The statistical likelood of the demise of a security officer is greater that that of any other member of the ship.</span><br />
+<span style="color:#0080ff">CFL: ...So lets put a red shirt on me.</span><br />
+<span style="color:#008400">CDS: Any way Kimura Charlie this is my first officer and Chief Science Officer Looks with Knoledge.</span><br />
+<span style="color:#0080ff">CFL: Since I've already met my demise... how many times?</span><br />
+<span style="color:#ee1e00">CCP: FL, you're too well-known to be a redshirt.</span><br />
+<span style="color:#008400">CDS: and This is My Chief Enginer Hits with wrentch.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is trying to count off the times on his fingers. --</span><br />
+<span style="color:#0080ff">CFL: Then I guess it puts me in a position like Scotty.</span><br />
+<span style="color:#008400">CDS:  Looks with Knoledge: Welcome abourd the USS Republic</span><br />
+<span style="color:#0080ff">CFL: fuck, outta fingers.</span><br />
+<span style="color:#008400">CDS: ((Guys lol))</span><br />
+<span style="color:#008400">CDS: Hits with wrentch Status report please.</span><br />
+<span style="color:#0080ff">CFL: wait, didn't he get trapped in the pattern buffer for a hundred years?</span><br />
+<span style="color:#008400">CDS: Hits with wrentch: The transporters are still on the fritz  but the Warp drive will be Online in about an hour.</span><br />
+<span style="color:#008400">CDS: Yes Charlie</span><br />
+<span style="color:#008400">CDS: Thank you Commander</span><br />
+<span style="color:#008400">CDS: Commander Looks with Knoledge please report to the bridge I will join you shortly.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  they both say yes sir and walk down the hall. --</span><br />
+<span style="color:#008400">CDS: ok You tew this way.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  getsures down the coridor. --</span><br />
+<span style="color:#ee1e00">CCP: mmk.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks down the hall. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows DS --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  we enentualy end up in a terbolift. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  <a href='https://www.youtube.com/watch?v=lKriXq15odU'>https://www.youtube.com/watch?v=lKriXq15odU</a> --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  grasps one of the handles and turns it. --</span><br />
+<span style="color:#008400">CDS: Deck 4</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the terboloft sets off on its trek through the ship. --</span><br />
+<span style="color:#008400">CDS: ((Time skip to Bridge))</span><br />
+<span style="color:#0080ff">CFL: So, what now?</span><br />
+<span style="color:#0080ff">CFL: (( but they can talk on the turbolift! ))</span><br />
+<span style="color:#008400">CDS: I will show you a few of the facilitys and then we arrive at the bridge</span><br />
+<span style="color:#008400">CDS: ((yep))</span><br />
+<span style="color:#008400">CDS: Now normaly it would take around 450 crew to run a ship this size but with the latest in automation we can run on a crew of 10.</span><br />
+<span style="color:#0080ff">CFL: So, does this have any Holodecks?</span><br />
+<span style="color:#008400">CDS: theres one its in the crew longe</span><br />
+<span style="color:#ee1e00">CCP: ...wow, just a crew of 10? dang...</span><br />
+<span style="color:#0080ff">CFL: Have you tested it yet?</span><br />
+<span style="color:#008400">CDS: there are around 200 wolves on board and as you may have gesed they are consorts that wanted to come along.</span><br />
+<span style="color:#ee1e00">CCP: ...ah, was just about to ask about that last part. so I guess I'm getting to meet your consorts after all ;)</span><br />
+<span style="color:#008400">CDS: And Charlie thats a question for Hits with Wrentch.</span><br />
+<span style="color:#008400">CDS: yep</span><br />
+<span style="color:#008400">CDS: ((ok now time skip))</span><br />
+<span style="color:#0080ff">CFL: ...Okay, I'm going to need to ask him about it malfunctioning</span><br />
+<span style="color:#0080ff">CFL: (( and now to the bridge. ))</span><br />
+<span style="color:#008400">CDS: (9stand by trying to pull BGM))</span><br />
+<span style="color:#0080ff">CFL: ...Well, that was an awesome tour that I doubt anyone would have wanted to skip.</span><br />
+<span style="color:#ee1e00">CCP: FL, just because we're out of the session doesn't mean TemptFate.jar is no longer a thing...</span><br />
+<span style="color:#0080ff">CFL: (( DAMMIT FL ))</span><br />
+<span style="color:#0080ff">CFL: (( STOP BEING META ))</span><br />
+<span style="color:#008400">CDS: very true Kimura</span><br />
+<span style="color:#008400">CDS: And thank you Charlie</span><br />
+<span style="color:#ee1e00">CCP: yeah, cool stuff ya got here.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the doors wosh open reveling the bridge! <a href='https://www.youtube.com/watch?v=WKJcgelw2F4'>https://www.youtube.com/watch?v=WKJcgelw2F4</a> )) --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  there a few officers up here but it is for the most part under maned becaues in space dock and all. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //........how are there SO MANY PEOPLE with the time and internets to loop, render, and upload TEN HOUR VERSIONS OF EVERYTHING???????? --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  Looks with Knoledge is in the capatins chair and hits with wrentch has his head in a panel under the enginering console ((the one to the right of the lift in the pic.)) --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  Looks with Knoledge turns in his chair --</span><br />
+<span style="color:#008400">CDS: Looks with Knoledge: Captain</span><br />
+<span style="color:#008400">CDS: Commander</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  we both smile as if silently geeking out. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  Looks with Knoledge gets down from the chair and gos ofer to the scince station and beging working on a few things. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  I sit in the Cptains chaor --</span><br />
+<span style="color:#008400">CDS: ((Captains Chair))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues looking around at everything --</span><br />
+<span style="color:#008400">CDS: So this Is the bridge The nerve senter for the entire ship.</span><br />
+<span style="color:#008400">CDS: Infront of me is helm and navigation qhich is in the left and the right respectively.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  behind me is comunications then in counter clockwise its Library computer acsess, Science, Life scinces, The main vew screen. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the manual overide Damage control ((something I cant remember)), and Enginering. --</span><br />
+<span style="color:#008400">CDS: behind me is comunications then in counter clockwise its Library computer acsess, Science, Life scinces, The main vew screen.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  seems to be messing with a... transparent rubix cube. --</span><br />
+<span style="color:#008400">CDS: ((oops))</span><br />
+<span style="color:#008400">CDS: the manual overide Damage control ((something I cant remember)), and Enginering.</span><br />
+<span style="color:#ee1e00">CCP: ((afk))</span><br />
+<span style="color:#008400">CDS: ((FL what is that I cant remember))</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  twists it inside of itself. --</span><br />
+<span style="color:#0080ff">CFL: (( Rubix Tesseract ))</span><br />
+<span style="color:#008400">CDS: ((ah))</span><br />
+<span style="color:#008400">CDS: So what do you Think Charlie?</span><br />
+<span style="color:#0080ff">CFL: I'm thinking we should have an experiemental backup for the Warp Drive if it goes offline.</span><br />
+<span style="color:#008400">CDS: Hits with wrentch: We dont need anything like that Laddy Besides we havent got the room.</span><br />
+<span style="color:#008400">CDS: ((yes he has a Scotish acsent))</span><br />
+<span style="color:#0080ff">CFL: Even if its just the size of a shuttlecraft?</span><br />
+<span style="color:#008400">CDS: Something that sizes couldnt move this ship.</span><br />
+<span style="color:#008400">CDS: ((woops))</span><br />
+<span style="color:#0080ff">CFL: Oh, you would be amazed.</span><br />
+<span style="color:#008400">CDS: Hits with wrentch: Something that size couldnt move this ship.</span><br />
+<span style="color:#008400">CDS: Charlie I designed evrything my self I want have things like that messing up my geek trip.</span><br />
+<span style="color:#008400">CDS: ((I won't*))</span><br />
+<span style="color:#0080ff">CFL: ...fiiine</span><br />
+<span style="color:#0080ff">CFL: Looks like the big rig engine won't see the light of day...</span><br />
+<span style="color:#008400">CDS: Also yes i made shure that there arent any random crushers in a random coriddor which is dood two.</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#008400">CDS: ((good*))</span><br />
+<span style="color:#008400">CDS: big rig?</span><br />
+<span style="color:#ee1e00">CCP: FL, I thought you said you'd leave all the Dangerous Reality-Fucking Shit in the incipisphere.</span><br />
+<span style="color:#008400">CDS: Actualy why dont you offer it to SL I dont think his ship has a faster then light drive.</span><br />
+<span style="color:#0080ff">CFL: I said I wouldn't bring antimatter or nukes.</span><br />
+<span style="color:#0080ff">CFL: and I doubt this would destroy reality.</span><br />
+<span style="color:#008400">CDS: Wait what is it powered by if not antimater?</span><br />
+<span style="color:#0080ff">CFL: um...</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  uncaptchas another golden power hub --</span><br />
+<span style="color:#008400">CDS: oh</span><br />
+<span style="color:#008400">CDS: ofcorse</span><br />
+<span style="color:#0080ff">CFL: The same way this thing can create energy out of nothing.</span><br />
+<span style="color:#008400">CDS: Thinking about those things give me a headach.</span><br />
+<span style="color:#008400">CDS: also have you checked that it is not destroying paralel universes to generate power?</span><br />
+<span style="color:#0080ff">CFL: Doubt it.</span><br />
+<span style="color:#008400">CDS: I do think that you should offer it to SL</span><br />
+<span style="color:#0080ff">CFL: I think it runs off of a quirk in quantum physics.</span><br />
+<span style="color:#008400">CDS: ((I need to go soon so lets wrap up))</span><br />
+<span style="color:#ee1e00">CCP: ((mmk))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  puntches a buttion on the chairs arm. --</span><br />
+<span style="color:#008400">CDS: Bridge to shuttle bay prepare the Eisnstine for departure.</span><br />
+<span style="color:#008400">CDS: shuttlebay: aye capatin.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  clicks the comm of. --</span><br />
+<span style="color:#008400">CDS: well gentalmen shal we?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  stand up and walks to the lift. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+<span style="color:#008400">CDS: Looks with knoledge you have the con.</span><br />
+<span style="color:#0080ff">CFL: Have the external inertial dappeners been turned off?</span><br />
+<span style="color:#008400">CDS: Thats not a thing Charlie</span><br />
+<span style="color:#008400">CDS: Looks with knoledge: yes sir</span><br />
+<span style="color:#008400">CDS: even of it was we are in space dock remember?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the lift opens and I step in. --</span><br />
+<span style="color:#ee1e00">CCP: ...why would you need inertial dampening /outside/? unless it's for keeping the ship itself steady...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters lift --</span><br />
+<span style="color:#008400">CDS: My point exactly and no there are other things for that.</span><br />
+<span style="color:#0080ff">CFL: right, but I do hope we can get to warp.</span><br />
+<span style="color:#008400">CDS: Why couldent we?</span><br />
+<span style="color:#0080ff">CFL: Basically, turn off the parking break.</span><br />
+<span style="color:#008400">CDS: (( <a href='https://www.youtube.com/watch?v=lKriXq15odU'>https://www.youtube.com/watch?v=lKriXq15odU</a> ))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  turns the handal. --</span><br />
+<span style="color:#008400">CDS: Shuttlke bay.</span><br />
+<span style="color:#008400">CDS: There is no parking brake Charlie</span><br />
+<span style="color:#008400">CDS: Dont let that JJ garbage make ypu think that</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the lift slows and it conteues on horizontaly. --</span><br />
+<span style="color:#008400">CDS: any way oh I forgot to mention that the crew is on a 4 shift rotation.</span><br />
+<span style="color:#008400">CDS: there are 50 crew on duty at any given moment.</span><br />
+<span style="color:#0080ff">CFL: ...I got a bad feeling about this...</span><br />
+<span style="color:#008400">CDS: what?</span><br />
+<span style="color:#0080ff">CFL: How many decks does this ship have again?</span><br />
+<span style="color:#008400">CDS: Warp triles arnt toll after christmas.</span><br />
+<span style="color:#008400">CDS: ((trials arnt till after*))</span><br />
+<span style="color:#008400">CDS: 21 why?</span><br />
+<span style="color:#0080ff">CFL: Alright, and how many Security Officers do you have on duty at any one time?</span><br />
+<span style="color:#008400">CDS: I would have to ask the cief but I would say around 15?</span><br />
+<span style="color:#008400">CDS: posebly less</span><br />
+<span style="color:#0080ff">CFL: So, at any one time, that leaves 6 decks at /least/ un protected.</span><br />
+<span style="color:#ee1e00">CCP: ...FL, if you keep tempting fate I'm revoking your ability to activate java programs other than minecraft.</span><br />

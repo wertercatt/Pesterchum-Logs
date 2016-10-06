@@ -1,0 +1,123 @@
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEU</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAG</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEU</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#969619">CURRENT elaborateUtopianist [CEU]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#969619">CEU: Ahem</span><br />
+<span style="color:#cb7de6">CSJ: ?</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ?</span><br />
+<span style="color:#646464"><span style="color:#2c2cac">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2c2cac">CEQ: hm?</span><br />
+<span style="color:#969619">CEU: I've noticed a distinct lack of morale and good spirit in this session</span><br />
+<span style="color:#969619">CEU: I think it's time we have an uplifting song to go around</span><br />
+<span style="color:#2c2cac">CEQ: hm? what do you suggest?</span><br />
+<span style="color:#6507ff">CTT: whaτ do you mean???</span><br />
+<span style="color:#969619">CEU: Without further elaboration, a tune</span><br />
+<span style="color:#969619">CEU:  <a href='http://www.youtube.com/watch?v=frAEmhqdLFs'>http://www.youtube.com/watch?v=frAEmhqdLFs</a></span><br />
+<span style="color:#646464">-- CURRENT elaborateUtopianist <span style="color:#969619">[CEU]</span>  is now a singing chum! --</span><br />
+<span style="color:#cb7de6">CSJ: ...yay.</span><br />
+<span style="color:#969619">CEU: "When we entered this game,"</span><br />
+<span style="color:#969619">CEU: "We knew it'd never be the same"</span><br />
+<span style="color:#2c2cac">CEQ: ...</span><br />
+<span style="color:#969619">CEU: "And yet we still held to our dreams and to our hopes"</span><br />
+<span style="color:#969619">CEU: "And though I don't mean to be rude"</span><br />
+<span style="color:#969619">CEU: "We're definately screwed"</span><br />
+<span style="color:#969619">CEU: "It's safe to say we're all a bunch of dopes."</span><br />
+<span style="color:#2c2cac">CEQ: well</span><br />
+<span style="color:#969619">CEU: But...don't worry</span><br />
+<span style="color:#969619">CEU: "No more mourning, no more pain"</span><br />
+<span style="color:#969619">CEU: "Let us not grieve once again"</span><br />
+<span style="color:#969619">CEU: "For in the end we all must say goodbye"</span><br />
+<span style="color:#969619">CEU: "And should the glitches rend us..."</span><br />
+<span style="color:#969619">CEU: "Should That Bastard come and end us..."</span><br />
+<span style="color:#969619">CEU: "Then we'll all still be together when we die!"</span><br />
+<span style="color:#969619">CEU: "And we will all go together when we go"</span><br />
+<span style="color:#969619">CEU: "What a comforting fact that is to know!"</span><br />
+<span style="color:#646464"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+<span style="color:#969619">CEU: "Multiversal bereavement"</span><br />
+<span style="color:#969619">CEU: "An inspiring achievement!"</span><br />
+<span style="color:#969619">CEU: "Yes we all will go together when we go!"</span><br />
+<span style="color:#2c2cac">CEQ: ...</span><br />
+<span style="color:#969619">CEU: "And we will all go together when we go"</span><br />
+<span style="color:#29486d">CAC: .......</span><br />
+<span style="color:#969619">CEU: "There'll be nobody left to see the show"</span><br />
+<span style="color:#969619">CEU: "When the curtains hit the floor"</span><br />
+<span style="color:#969619">CEU: "There'll be no cheering, no encoure"</span><br />
+<span style="color:#969619">CEU: "Next tour stop's the afterlife, and off we go!"</span><br />
+<span style="color:#969619">CEU: "We will all go together when we go"</span><br />
+<span style="color:#969619">CEU: "There'll be no sense in trying to take it slow"</span><br />
+<span style="color:#969619">CEU: "Why prolong excruciation?"</span><br />
+<span style="color:#969619">CEU: "Or demand an explanation?"</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#2c2cac">CEQ: i.... uh....</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">?AG: Tom Lehrer. Beautiful.</span><br />
+<span style="color:#969619">CEU: "When That Bastard comes we'll know it's time to go!"</span><br />
+<span style="color:#969619">CEU: "And...when our time is done..."</span><br />
+<span style="color:#969619">CEU: "Can't we say we've had some fun?"</span><br />
+<span style="color:#969619">CEU: "And..."</span><br />
+<span style="color:#969619">CEU: "And we will all go together when we go!"</span><br />
+<span style="color:#969619">CEU: "Life and Heart and Hope and Light and Doom all know!"</span><br />
+<span style="color:#969619">CEU: "It will really be quite grand..."</span><br />
+<span style="color:#969619">CEU: "So let's all link hand in hand"</span><br />
+<span style="color:#6507ff">CTT: i don'τ even</span><br />
+<span style="color:#969619">CEU: "Yes we all will go together"</span><br />
+<span style="color:#2c2cac">CEQ: I-</span><br />
+<span style="color:#969619">CEU: "When we all go together"</span><br />
+<span style="color:#969619">CEU: "Yes we all will go together when we go!"</span><br />
+<span style="color:#646464">-- CURRENT elaborateUtopianist <span style="color:#969619">[CEU]</span>  smashes piano with Lehrer Imp and bows --</span><br />
+<span style="color:#cb7de6">CSJ: ...</span><br />
+<span style="color:#29486d">CAC: ...i..</span><br />
+<span style="color:#ee1e00">CCP: ................................................................</span><br />
+<span style="color:#7ccfb2">CAG: *applauds*</span><br />
+<span style="color:#29486d">CAC: i'm gonna bow out for tonight.....</span><br />
+<span style="color:#2c2cac">CEQ: I'm concerned</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  slowclaps --</span><br />
+<span style="color:#ee1e00">CCP: that was... wow.</span><br />
+<span style="color:#29486d">CAC: ...see you guys tommorrow..</span><br />
+<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+<span style="color:#7ccfb2">CAG: That was an excellent rendition.</span><br />
+<span style="color:#55aa00">CSE: well that was nice</span><br />
+<span style="color:#cb7de6">CSJ: so... how is everyone today?</span><br />
+<span style="color:#55aa00">CSE: uh</span><br />
+<span style="color:#55aa00">CSE: pretty good</span><br />
+<span style="color:#7ccfb2">CAG: Not dead! :D</span><br />
+<span style="color:#cb7de6">CSJ: yet</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sad but true aslfjalgjlsodjkgflkj --</span><br />
+<span style="color:#55aa00">CSE: or ever</span><br />
+<span style="color:#55aa00">CSE: while you may be of the opinion that we will all die</span><br />
+<span style="color:#55aa00">CSE: i happen to believe that while some may die some will live for ever</span><br />
+<span style="color:#cb7de6">CSJ: well, think of it this way</span><br />
+<span style="color:#cb7de6">CSJ: statistics mostly</span><br />
+<span style="color:#55aa00">CSE: just so happens im calling dibs on living forever</span><br />
+<span style="color:#2c2cac">CEQ: hm</span><br />
+<span style="color:#6507ff">CTT: I'd raτher noτ τhink abouτ dying righτ now</span><br />
+<span style="color:#55aa00">CSE: there are three kinds of lies sj</span><br />
+<span style="color:#2c2cac">CEQ: agreed</span><br />
+<span style="color:#55aa00">CSE: lies</span><br />
+<span style="color:#55aa00">CSE: damned lies</span><br />
+<span style="color:#6507ff">CTT: I have oτher feelings I can'τ describeee aaa fuuuuck!!</span><br />
+<span style="color:#55aa00">CSE: and statistics</span><br />
+<span style="color:#55aa00">CSE: mark twain said that</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  was going to recite some dumb infoigraphic that she saw at the beginning of a final destination movie but bluh --</span><br />
+<span style="color:#55aa00">CSE: pft</span><br />
+<span style="color:#2c2cac">CEQ: pff</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls into the green sun --</span><br />
+<span style="color:#cb7de6">CSJ: ((back))</span><br />
+<span style="color:#2c2cac">CEQ: hey</span><br />
+<span style="color:#6507ff">CTT: wuh</span><br />
+<span style="color:#2c2cac">CEQ: oh, nothing. nvm.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEU</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((test))</span><br />
+<span style="color:#ee1e00">CCP: ((/pong))</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is a sleeping chum. --</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />

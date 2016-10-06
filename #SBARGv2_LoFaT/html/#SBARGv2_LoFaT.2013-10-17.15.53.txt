@@ -1,0 +1,640 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOFAT.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  [MUFFLED C64 CHIPTUNES IN THE DISTANCE] --</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  standing in the stands of the collosseum --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  swings out of ship and onto stands --</span><br />
+<span style="color:#2d8a18">CSL: sup</span><br />
+<span style="color:#646464"><span style="color:#a8a87e">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  lands next to FA. --</span><br />
+<span style="color:#a8a87e">CFF: Sup!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  portals in near the others --</span><br />
+<span style="color:#ee1e00">CCP: hey</span><br />
+<span style="color:#646464"><span style="color:#505050">CURRENT risingGuardian [CRG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  casually strolls in, boots clacking against the stone floor --</span><br />
+<span style="color:#2d8a18">CSL: hiya doge</span><br />
+<span style="color:#a80000">CFA: (\ Ah, good, Ayydens here /)</span><br />
+<span style="color:#a80000">CFA: (\ YYou'll be fighting CP, Ayyden /)</span><br />
+<span style="color:#505050">CRG: ....I have to fight the mutt?</span><br />
+<span style="color:#2d8a18">CSL: holy shit</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#505050">CRG: That's a bit unfair to him, dont you think?</span><br />
+<span style="color:#2d8a18">CSL: hahaha</span><br />
+<span style="color:#646464"><span style="color:#55aa00">CURRENT suddenlyEchoes [CSE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#55aa00">CSE: i guess he does deserve to fight something worth his while.</span><br />
+<span style="color:#2d8a18">CSL: oh this is gonna be a fun one to watch</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glares at RG --</span><br />
+<span style="color:#a80000">CFA: (\ ooohhhh /)</span><br />
+<span style="color:#55aa00">CSE: i mean. what's the pint in fighting a biiiiiiiiig loser</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  levels CP with a rather uninterested gaze --</span><br />
+<span style="color:#505050">CRG: I knew that muzzle would come in handy one day</span><br />
+<span style="color:#ee1e00">CCP: . . . . . . . .</span><br />
+<span style="color:#2d8a18">CSL: to be fair i mean cp is a completely incompetent fighter</span><br />
+<span style="color:#2d8a18">CSL: rg, i wouldnt bother putting in any effort at all</span><br />
+<span style="color:#a80000">CFA: (\ Not reallyy /)</span><br />
+<span style="color:#a80000">CFA: (\ Kimuras a reallyy good tactical fighter /)</span><br />
+<span style="color:#55aa00">CSE: well i was siding with CP. but throw him under a bus. sure</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  kicks Ash's shin under the bleachers --</span><br />
+<span style="color:#a80000">CFA: (\ OW- /)</span><br />
+<span style="color:#2d8a18">CSL: seriously, just put in the bare minimum effort</span><br />
+<span style="color:#2d8a18">CSL: no reason to bother with this one</span><br />
+<span style="color:#505050">CRG: ...That would go against my "Don't half-ass shit" policy</span><br />
+<span style="color:#2d8a18">CSL: id save my energy bro</span><br />
+<span style="color:#505050">CRG: You are not my concern</span><br />
+<span style="color:#2d8a18">CSL: wow</span><br />
+<span style="color:#505050">CRG: Whatever, lets get this over with</span><br />
+<span style="color:#2d8a18">CSL: i almost hope you win so i can kick your arrogant ass in a later round</span><br />
+<span style="color:#ee1e00">CCP: eh, if you really wanna /waste so much FP on flashy moves/, RG...</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  leaps over the side of the bleachers and into the ring --</span><br />
+<span style="color:#505050">CRG: I dont know what this FP is you speak of</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows him --</span><br />
+<span style="color:#505050">CRG: Course I'd like to see your face when you find all of your Hope is... Lost</span><br />
+<span style="color:#2d8a18">CSL: ((anybody got music queued up or should i go on the hunt))</span><br />
+<span style="color:#a8a87e">CFF: ..thisgonna be interesting.</span><br />
+<span style="color:#ee1e00">CCP: it's basically a kind of mana points, since you missed the jo-- /did you just aspect pun/?</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  smirks a bit, adjusting his Rogue mask --</span><br />
+<span style="color:#505050">CRG: Peraps</span><br />
+<span style="color:#ee1e00">CCP: ((shrug. I don't have anything queued up bgm-wise so...))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  equips Requiem for a Whiplash and User's Revenge Mk7, and prepares to strife --</span><br />
+<span style="color:#2d8a18">CSL: (( <a href='http://www.listenonrepeat.com/watch/?v=wJOS80d7v0o'>http://www.listenonrepeat.com/watch/?v=wJOS80d7v0o</a> ))</span><br />
+<span style="color:#2d8a18">CSL: ((ill probably queue up something else when this gets boring))</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  pulls a wand from his inventory, swishing it in the air a bit before slipping one hand in his pocket --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //so RG, dice rolls y/n? --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Yes --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gotcha. --</span><br />
+<span style="color:#2d8a18">CSL: ((bluh weird looping hang on))</span><br />
+<span style="color:#2d8a18">CSL: (( <a href='http://www.listenonrepeat.com/watch/?v=TsK71PPD70c'>http://www.listenonrepeat.com/watch/?v=TsK71PPD70c</a> ))</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  <a href='http://www.youtube.com/watch?v=s6tpHadIBMc'>http://www.youtube.com/watch?v=s6tpHadIBMc</a> --</span><br />
+<span style="color:#2d8a18">CSL: ((bluh))</span><br />
+<span style="color:#2d8a18">CSL: ((:p))</span><br />
+<span style="color:#505050">CRG: I'll let the Mutt make the first move</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  holds the spikey white wand at the ready, both it and his hand glowing a bit --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs and opens with a trio of Cherry Bombs drawn above RG's head (15) --</span><br />
+<span style="color:#2d8a18">CSL: ((gonna afk, ash, skype me when its my turn))</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Quickly raised the wand, firing off three blasts of white energy at the cherry bombs, exploding them above his head (15). he quickly turned on his heel, casting the wand down hard as another bolt of white energy shot out at CP (9) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  draws Veil of Mist and uses the increased reaction time to matrix-dodge the blast (16), then fires a pair of Discs at him (7) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Actually I much prefer this BGM <a href='http://www.listenonrepeat.com/watch/?v=1XqZFqVbtns'>http://www.listenonrepeat.com/watch/?v=1XqZFqVbtns</a> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  booyah --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Dodges the discs rather skillfully, his movements fluid, almost as if he was dancing. (15) He bolts forward, Slashing his wand in a diagnol arc, a flurry of White orbs flying at CP at a rapid pace (16) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  dodges most, but is hit bit the last two (14) and is knocked back a bit. he lands and just draws Powerslash directly (8) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //oocly hopes this isn't gonna be the same dice pattern as his and FF's strife (both players rolling high DEF and low ATK so neither of us ever actually HIT anything!) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  his eyebrow quirks, and he's gone in an instant, Flash stepping next to Kimura, stealing a little bit of his hope in order to do so (12) Taking advantage of this close range, he fires a large beam of the energy at CP, arm and wand fully extended (19) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  tries to block with Copland's energy shield but doesn't in time (12), then tries to slow RG with Icestorm (12 again) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  raises his arm and growls, his sleeve becoming frozen in the process (11) With the limited mobility, he quickly tosses his wand, catching it in his left hand and firing another couple blasts of 'wwhite science' (13) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is briefly distacted by a pester from Issun - why does he even have pesterchum open during a strife?! - and takes the full blast to the face (1), landing a bit away --</span><br />
+<span style="color:#ee1e00">CCP: oh, is that how we're doing this? Copland, Wisp Proxy Yellow!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  a voice calls out "DRILL!", and he changes form into a yellow drill-thing which burrows into the ground, coming out a few seconds later below RG (15) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  gives a loud grunt as he takes the full blunt of the attack (1) soaring into the air a bit and hitting the ground rather hard, but not hard enough that he isnt able to get back up --</span><br />
+<span style="color:#505050">CRG: Damn...</span><br />
+<span style="color:#ee1e00">CCP: ((uh... ping?))</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CURRENT creeperPuncher_ [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ee1e00">CCP: ((hello? did the memo died?))</span><br />
+<span style="color:#ee1e00">CCP: ((ok guess not, it's getting through fine))</span><br />
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#a8a87e">CFF: ((RG!))</span><br />
+<span style="color:#505050">CRG: ((You didnt see my Last message?))</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  one moment --</span><br />
+<span style="color:#ee1e00">CCP: (( -- CURRENT risingGuardian [CRG] gives a loud grunt as he takes the full blunt of the attack (1) soaring into the air a bit and hitting the ground rather hard, but not hard enough that he isnt able to get back up -- CRG: Damn... CCP: ((uh... ping?))))</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  I was expecting you to respond, im sorry --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  oh. *shrug* --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  snaps out of the apparent time-hiccup and draws Icestorm while RG is still down (14) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Quickly jumps off the ground, Casting his wand into the sky, stealing the hope from the area as well, The blast seems to vanish for a moment As he steals the Hope for the icestorm to hit (19) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  can't remember, are fraymotifs allowed? or at least stat-boosting ones? --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  i dont see why not --</span><br />
+<span style="color:#ee1e00">CCP: dang, that Hope-stealing is too powerful! I gotta increase my chances... /Delfino Refrain/!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  the bgm changes to <a href='http://www.youtube.com/watch?v=wjPntJGG1jE'>http://www.youtube.com/watch?v=wjPntJGG1jE</a> for a bit, and he gains +50% Luck (+5 to rolls) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  then draws Inferno on RG (12+5=17) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  blinks a bit in confusion at the fray, Then looks up as the sky suddenly starts raining bolts of Hope energy, seems like it was a delayed Manipulation (20) The Inferno, however, nicks his clothing and sets his shirt on fire (18) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uses Drill again, just barely avoiding the Hope-lightning (15+5=20), then goes for another Diglet-style attack from below (7+5=12) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  pats out the flames and widens his stance, switchin the wand between his left and right hand, growling softly --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  widening your stance was probably a Bad Idea considering where I'm attacking from... --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Dependent on your roll --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wait, how long was he drilling down there? anyway, he re-emerges and hits where it hurts! (roll from before, 7+5=12, probably with bonus pain if it hit) --</span><br />
+<span style="color:#a8a87e">CFF: ...ouch.</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  rolls to the side at just the right moment (16) Raising his wand and firing a powerful beam from his wand (10) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  easily dodges even without the fraybonus (17+5=22), and aims at RG before firing... a head-sized, flaming jawbreaker from his rosary (16+5=21) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  third turn over, fraymotif bonus ends after that jawbreaker was launched --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  gives a loud cry as he's hit and falls over, Head bleeding, but he's still up it seems --</span><br />
+<span style="color:#2d8a18">CSL: ((back))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wonders if RG's gonna be okay, then draws Galestorm to disorient him if he's charging an attack (6) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  *in case he's --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  is buffeted by the windstorm, covering his eyes with his left arm as he launched another blast of energy at CP (13) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  rolls out of the way, taking some damage in the process (11), then tosses another disc (10) --</span><br />
+<span style="color:#505050">CRG: Son of a bitch!!</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  leaps to the side and stomps down on the Disc as it flies under his foot, grounding it (16) Then blasting another volley of White hope orbs at Cp with increasing Ferocity (19) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues jumping out of the way of the blasts a bit late (11), before using reflectorKind's auto-recall function to pull the disc out from under RG, trying to trip him in the process (6) --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  He succeeds (1) RG Faceplanting on the ground --</span><br />
+<span style="color:#505050">CRG: ....Ha... I cant move...</span><br />
+<span style="color:#505050">CRG: Damn adrenaline gave out</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  applaudes. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to him --</span><br />
+<span style="color:#ee1e00">CCP: you okay there? need help up or something?</span><br />
+<span style="color:#505050">CRG: C-could use a paw if you're willing to lend one</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  helps him up --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  he looks up from his spot on the ground, white bangs stained red. He stands up slowly with CP's help --</span><br />
+<span style="color:#505050">CRG: I take back what I aid... you're a pretty ferocious wolf...</span><br />
+<span style="color:#ee1e00">CCP: bit more than you were expecting, huh? :D</span><br />
+<span style="color:#505050">CRG: Haha, Aye</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uncaptchas a Potion of Greater Healing and hands it to him --</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  takes it and smiles --</span><br />
+<span style="color:#505050">CRG: Thank you</span><br />
+<span style="color:#ee1e00">CCP: no problem</span><br />
+<span style="color:#ee1e00">CCP: phew... that was a pretty good battle actually... heck, I'd say it was harder than round one with my denizen...</span><br />
+<span style="color:#505050">CRG: Ah?</span><br />
+<span style="color:#ee1e00">CCP: then again, LoSaCrystal forces a turn-based battle style, so the comparison doesn't work as well...</span><br />
+<span style="color:#505050">CRG: Your denizen must be on the weak side</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+<span style="color:#ee1e00">CCP: think you'll be okay from here?</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  looks on from the stands... how long he's been there we will never know --</span><br />
+<span style="color:#a80000">CFA: (\ 30 minuet break before the next fight /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over and sits down in the stands --</span><br />
+<span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a2a280">CFF: ((what I miss?))</span><br />
+<span style="color:#ee1e00">CCP: ((a winner is me, and the battle was roughly on par with Round One with my denizen (even accounting for my land's turn-based combat system)...))</span><br />
+<span style="color:#a2a280">CFF: ..So...</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  flies up and plops down in thye stands --</span><br />
+<span style="color:#a80000">CFA: (\ Take a breather, we're waiting for SL /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  nods --</span><br />
+<span style="color:#a2a280">CFF: Kay...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  jsut waits. --</span><br />
+<span style="color:#a2a280">CFF: So... How ya all doing?</span><br />
+<span style="color:#a80000">CFA: (\ Fine /)</span><br />
+<span style="color:#a80000">CFA: (\ eh... dunno how else to word it /)</span><br />
+<span style="color:#a2a280">CFF: Kay...</span><br />
+<span style="color:#2d8a18">CSL: ((bluh back))</span><br />
+<span style="color:#2d8a18">CSL: ((gomen))</span><br />
+<span style="color:#2d8a18">CSL: ((but i started watching breaking bad and))</span><br />
+<span style="color:#2d8a18">CSL: ((bathtubs))</span><br />
+<span style="color:#a80000">CFA: (\ ((Paging FS)() /)</span><br />
+<span style="color:#ee1e00">CCP: ((myth busted!))</span><br />
+<span style="color:#ceca54">CFS: ((lo siento *is immune to toasting due to ancientness of his pesterchum*))</span><br />
+<span style="color:#2d8a18">CSL: so my turn right?</span><br />
+<span style="color:#a80000">CFA: (\ YYeah /)</span><br />
+<span style="color:#a80000">CFA: (\ yyou and FS /)</span><br />
+<span style="color:#a80000">CFA: (\ But on a better fight then FL, will yya? /)</span><br />
+<span style="color:#2d8a18">CSL: great, voider</span><br />
+<span style="color:#2d8a18">CSL: at least this one doesnt have summons</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  &gt;:/ --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  puts a neutral expression back on as he floats down into the arena --</span><br />
+<span style="color:#a80000">CFA: (\ Go ooon get goin /)</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  swings in and readies his Atma Giger --</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat2 [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: ((fucking lappy))</span><br />
+<span style="color:#2d8a18">CSL: ((what happened after i readied my giger))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  loosens his wrists and then adjusts the triangular brim of his hat --</span><br />
+<span style="color:#ceca54">CFS: ((nothing really))</span><br />
+<span style="color:#2d8a18">CSL: (( (also what i call my penis, /ladies/) ))</span><br />
+<span style="color:#2d8a18">CSL: ((...why do i call my penis the giger))</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#ceca54">CFS: ..<span style="color:#730e8f">..</span></span><br />
+<span style="color:#2d8a18">CSL: so, are you gonna phase out?</span><br />
+<span style="color:#2d8a18">CSL: thats all you fucking voiders do</span><br />
+<span style="color:#ceca54">CFS: I'll have you know that no<span style="color:#730e8f">t all voiders are alike... thank you</span></span><br />
+<span style="color:#ceca54">CFS: if you saw my last fight<span style="color:#730e8f"> you should know that</span></span><br />
+<span style="color:#2d8a18">CSL: you phased out a hell of a lot</span><br />
+<span style="color:#2d8a18">CSL: whatever, just get on with it</span><br />
+<span style="color:#ceca54">CFS: more lik<span style="color:#730e8f">e... once</span></span><br />
+<span style="color:#2d8a18">CSL: are you voiding out or not</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  draws a darkpurple doubleparenthesis and assumes an engarde stance --</span><br />
+<span style="color:#2d8a18">CSL: alrighty</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  pulls a pistol from his pocket and shoots, aiming for the chest (15) --</span><br />
+<span style="color:#2d8a18">CSL: fakeout, motherfucker</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  it is a regular pistol btw, no larva --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  blinks as he takes he surprisedly takes a bullet to the chest and stumbles back (1) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  looks down at the wound and then back up at him fiercely before the void symbol appears beneath him --</span><br />
+<span style="color:#ceca54">CFS: so that's ho<span style="color:#730e8f">w it is is it?</span></span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  whips FS with his bionic arm wire (16) --</span><br />
+<span style="color:#2d8a18">CSL: ((oops nm))</span><br />
+<span style="color:#2d8a18">CSL: ((TURN-BASED COMBAT WHATS THAT))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  takes a heavy breath as he activates Cacophous Aegis and becomes enshrouded in black shadows --</span><br />
+<span style="color:#2d8a18">CSL: and, there it is</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  *Cacophonous --</span><br />
+<span style="color:#2d8a18">CSL: ((was that a turn? i assume not but))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  brashly charges at SL with the indignant sound of a thunderclap emanating from his mouth as he flings his doubleparenthesis at him, quickly drawing another lavender one as he continues his rapid approach (14) --</span><br />
+<span style="color:#ceca54">CFS: ((and now you go))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  is hit by the paren, taking a bit of damage (8) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  whips his Bionic Arm wire through the shadows, taking a wide swath (16) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  the arm appears to slam into his body but he doesn't appear to be damage by it nor even knocked back by it due to the fraymotif (3) --</span><br />
+<span style="color:#2d8a18">CSL: welp</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  spins the still-extended wire around him as a makeshift shield, waiting for FS to attack (can this be like +3 on the next dodge roll? FA, it's your system...) --</span><br />
+<span style="color:#2d8a18">CSL: ((toasting FA in a way that will actually work hue))</span><br />
+<span style="color:#a80000">CFA: ((Uhhhh))</span><br />
+<span style="color:#a80000">CFA: ((Sure? cool with me))</span><br />
+<span style="color:#2d8a18">CSL: ((the one flaw in your system is the lack of modifiers tbh))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  didn't even get to do a follow up attack but whatever --</span><br />
+<span style="color:#ee1e00">CCP: ((yeah. other than Delfino Refrain being an /explicit +5 to dice rolls/, I haven't seen very many modifiers in these kinds of battles))</span><br />
+<span style="color:#2d8a18">CSL: ((well given that the arm's still extended this is presumably one fluid motion...))</span><br />
+<span style="color:#2d8a18">CSL: ((like when somebody's knocked on their ass it should be -2 to dodge right))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  grips the wire with a voidwreathed hand as he gets closer and brutally sends his doubleparenthesis crashing down on it with yet another booming thunderclap --</span><br />
+<span style="color:#2d8a18">CSL: ((gotta rooooooll for that))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  (13) --</span><br />
+<span style="color:#2d8a18">CSL: ((k))</span><br />
+<span style="color:#ceca54">CFS: ((sorry forgot))</span><br />
+<span style="color:#a2a280">CFF: Huh... interesting.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  The wire does not break, but it is halted, and the shock reels in the wire (11) --</span><br />
+<span style="color:#2d8a18">CSL: ((...wait, +3 makes that a failure))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  except he's attacking the wire and not you --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  The doubleparen misses entirely, and it is deflected by the wire (14) --</span><br />
+<span style="color:#2d8a18">CSL: ((uh... FA, can you ref?))</span><br />
+<span style="color:#2d8a18">CSL: ((sorry))</span><br />
+<span style="color:#a80000">CFA: (\ ((sure?) /)</span><br />
+<span style="color:#2d8a18">CSL: ((what just happened))</span><br />
+<span style="color:#55aa00">CSE: [[ You guys should be able to do this on your own :P ]]</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  -- CURRENT slothfulLunchmeat2 [CSL] The wire does not break, but it is halted, and the shock reels in the wire (11) -- CSL: ((...wait, +3 makes that a failure)) -- CURRENT fortuitousSleuth [CFS] except he's attacking the wire and not you -- -- CURRENT slothfulLunchmeat2 [CSL] The doubleparen misses entirely, and it is deflected by the wire (14) -- --</span><br />
+<span style="color:#2d8a18">CSL: ((so which happened))</span><br />
+<span style="color:#a80000">CFA: ((Iunno you tell me))</span><br />
+<span style="color:#ceca54">CFS: ((you were using the wire to shield yourself not the wire itself))</span><br />
+<span style="color:#2d8a18">CSL: ((alright you reeled in my wire /i guess/))</span><br />
+<span style="color:#ceca54">CFS: ((your reaction/attack then</span><br />
+<span style="color:#ceca54">CFS: ((don't think you did that yet))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  swings wildly at the shadows, with his glowing Atma Giger, hoping to dispel the shadows (19) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  takes the brunt of the blow but seems unaffected yet again (5) --</span><br />
+<span style="color:#ceca54">CFS: !<span style="color:#730e8f">!!</span></span><br />
+<span style="color:#2d8a18">CSL: ((are the shadows dispeled by the glow?))</span><br />
+<span style="color:#ceca54">CFS: ((they are not they are part of his fray))</span><br />
+<span style="color:#2d8a18">CSL: ((alrighty))</span><br />
+<span style="color:#2d8a18">CSL: ((your turn))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  just phaselurches /through/ the wire this time as his thrown doubleparenthesis passes right on through him in its attempt to return (whoops). He promptly moves to slam the bottom of the enshrouded lavendar doubleparenthesis down on his face in a pommelsmacky fashion (16) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  deflects the strike, causing it to hit his organic arm instead. He clutches it in pain and drops his sword. (13) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  redirects his arm's trajectory to try to hit FS like a whip (7) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  while he's up close and personal with you? --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  good point --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  hits FS with the handless Bionic Arm (7) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  *tries to hit --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  's shadows begin to dissipate and the metal stump smacks him across the face (1) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  pulls out the pistol again and shoots FS's chest point-blank (17) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  growls as he follows up with a haymaker of his own from his non-weapon hand (4) --</span><br />
+<span style="color:#2d8a18">CSL: ((oops))</span><br />
+<span style="color:#2d8a18">CSL: ((itkeepshappening.png))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  just barely dodges to the side (3) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  pulls out the pistol again and shoots FS's chest point-blank (13) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  you dodge it with a lower roll? --</span><br />
+<span style="color:#2d8a18">CSL: ((i forgot how numbers work))</span><br />
+<span style="color:#2d8a18">CSL: ((i am so bad at this im sorry))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  where was the haymaker aimed? --</span><br />
+<span style="color:#ceca54">CFS: ((*paps* there there we all have brainfarts))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  side of the head --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  is punched (3) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  drunkenly retracts his arm, possibly hitting FS in the process (4) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  graps a hold of that arm instead and uses its hold to lurch SL back at him (20!) and follows through with a diagonal attack from with his doubleparenthesis (5) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  successfullly blocks paren with bionic arm (15) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  finally actually shoots FS with a hidden pistol (17) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  thankfully rolled higher than a 1 on this reaction and grunts as he takes this bullet in his non-weapon shoulder and takes a stumbled step back. /damn/ (5) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  reloads and fires again while FS stumbles (17) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  sure is rolling a lot of 17s --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  the doubleparen- oh you've got to be /kidding me/ --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  itkeepshappening.png --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat2 <span style="color:#2d8a18">[CSL]</span>  is bad at rp kombat --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  the doubleparenthesis his is currently wielding is capchalogued as FS just glares at the pistol and promptly just fades from visibility --</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: fucking voiders</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  stands at the ready, waiting for FS's attack --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  the thrown darkpurple doubleparenthesis passes through where he had been moments before. wheeeeeeeeeee --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  from somewhere above --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  uses his Life powers to accelerate his reflexes (+2 to defend?) --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT yoMi [CYM]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT yoMi <span style="color:#000000">[CYM]</span>  f-f-flickers into existence over by RS. --</span><br />
+<span style="color:#ceca54">CFS: you know... I despise guns... alt<span style="color:#730e8f">hough they do have their utility... </span></span><br />
+<span style="color:#ceca54">CFS: ...doesn't really take much effo<span style="color:#730e8f">rt to pull on a trigger does it? guh...</span></span><br />
+<span style="color:#646464"><span style="color:#970025">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  yawns --</span><br />
+<span style="color:#45b822">CYM: Hello, Robert!</span><br />
+<span style="color:#970025">CRS: He's right, guns are minimal challenge.</span><br />
+<span style="color:#970025">CRS: Hey Yomi, haven't seen you around in a while. How's in hangin'?</span><br />
+<span style="color:#2d8a18">CSL: somebodys bitter</span><br />
+<span style="color:#45b822">CYM: I've been quite busy. Quite busy indeed.</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled, while he shook his head. --</span><br />
+<span style="color:#ee1e00">CCP: sup RS</span><br />
+<span style="color:#55aa00">CSE: okay Rob.</span><br />
+<span style="color:#ceca54">CFS: mm... I would be lying if I said I wasn't...</span><br />
+<span style="color:#ceca54">CFS: but there is a solu<span style="color:#730e8f">tion for everything</span></span><br />
+<span style="color:#ceca54">CFS: whether we <span style="color:#730e8f">know it or not...</span></span><br />
+<span style="color:#2d8a18">CSL: just shut up and rematerialize already</span><br />
+<span style="color:#ceca54">CFS: getting impa<span style="color:#730e8f">tient are we?</span></span><br />
+<span style="color:#2d8a18">CSL: little bit</span><br />
+<span style="color:#ceca54">CFS: heh... ts<span style="color:#730e8f">k tsk...</span></span><br />
+<span style="color:#970025">CRS: Hm.</span><br />
+<span style="color:#970025">CRS: Wonder how he's talking while intangible....</span><br />
+<span style="color:#ceca54">CFS: or perhaps you're nerv<span style="color:#730e8f">ous as to what I might do...</span></span><br />
+<span style="color:#970025">CRS: ...Or maybe he's just invisible. That would make more sense... but it would also mean he's telegraphing his location if the other guy's willing to put out enough effort to nail it down.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  intangible and invisible does not necessarily mean silent --</span><br />
+<span style="color:#2d8a18">CSL: i am high as hell on adrenaline and not really listening to anything youre saying</span><br />
+<span style="color:#2d8a18">CSL: get on with it</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  actually because of science that I'll admit to only barely understanding it shoudl be impossible to talk while intangible --</span><br />
+<span style="color:#646464">-- CURRENT yoMi <span style="color:#45b822">[CYM]</span>  it should also be impossible to see while invisible --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  it should be impossible to breath, I think. Or even see. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  all of that is true... but Game Logic overrules the "can't see or breathe" bits. --</span><br />
+<span style="color:#45b822">CYM: I decided to get outside though. Stretch my metaphorical legs. Yours was the only one I had a beacon for.</span><br />
+<span style="color:#45b822">CYM: Your location, that is.</span><br />
+<span style="color:#970025">CRS: I'm flattered</span><br />
+<span style="color:#45b822">CYM: Don't be.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  spontaneously dives down at SL with a flying tackle from behind as he grits his teeth, rematerializing as he does moves to pin his arms to the ground. The hand over his bionic arm appears to have some shadows over it as he also makes for a voidstealing maneuver on SL's lack of an organic arm in its proper place (17) --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  struggles uselessly (12) --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  does the voidsteally thing to disable the mechanical limb and also cause lots of distracting pain? --</span><br />
+<span style="color:#55aa00">CSE: [[ Wouldn't you pull the real arm out of abscence in the place of the fake arm? ]]</span><br />
+<span style="color:#55aa00">CSE: [[ Or, in the case that you have not done this before, pull a Perfectly Generic Object into the middle of it? ]]</span><br />
+<span style="color:#45b822">CYM: { bark Isn't that what he's trying to do, or am bark I not reading it correctly? }</span><br />
+<span style="color:#45b822">CYM: (( Quirk less speak hnng ))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  ...wait, are you rematerializing my arm inside my bionic arm? --</span><br />
+<span style="color:#55aa00">CSE: [[ Well yeah. So. Why ask about pain? I mean. If the latter, holy shit you have a fucking arm inside of the metal and shit, so yes pain. If the former, then no. Unless he's bothered to give it a pain receptor. ]]</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  holy shit --</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks over at the sleeping Ash --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#45b822">CYM: (( My question is...that would cause a telefrag, and the mechanical arm would simply explode. ))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  has his arms telefragged --</span><br />
+<span style="color:#2d8a18">CSL: JESUS FUCKING CHRIST</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  *arm --</span><br />
+<span style="color:#ee1e00">CCP: whoa</span><br />
+<span style="color:#2d8a18">CSL: ALRIGHT YOU WIN JESUS</span><br />
+<span style="color:#55aa00">CSE: [[ Well roll I guess. Like. 1-5, fail. 6-11 PGO in arm, up is sp- or that ]]</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  kind of wants to do something else tbh --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  Lifey Things the gaping arm wound --</span><br />
+<span style="color:#2d8a18">CSL: im gonna go make another fucking arm, you goddamn psycho</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  stumbles out of the arena, clutching the wound --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#55aa00">CSE: ...</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled. --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  gets off of him and just looks back? --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  frowns --</span><br />
+<span style="color:#45b822">CYM: That was enlightening.</span><br />
+<span style="color:#55aa00">CSE: ...</span><br />
+<span style="color:#55aa00">CSE: the explosion?</span><br />
+<span style="color:#55aa00">CSE: or the fight</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  then just clumsilly sits down at a wall and puts a hand to his chest --</span><br />
+<span style="color:#55aa00">CSE: cause i just watched a guys arm explode. </span><br />
+<span style="color:#55aa00">CSE: and another guy was the /cause/ of such a thing.</span><br />
+<span style="color:#55aa00">CSE: so.</span><br />
+<span style="color:#55aa00">CSE: both really.</span><br />
+<span style="color:#55aa00">CSE: nevermind.</span><br />
+<span style="color:#ee1e00">CCP: hello? Ash, you asleep?</span><br />
+<span style="color:#646464">-- CURRENT risingGuardian <span style="color:#505050">[CRG]</span>  Ash has absconded off somewhere, be back in a little bit --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  mmk --</span><br />
+<span style="color:#45b822">CYM: The situation in general.</span><br />
+<span style="color:#a80000">CFA: (\ Sooo /)</span><br />
+<span style="color:#a80000">CFA: (\ Who won /)</span><br />
+<span style="color:#55aa00">CSE: well.</span><br />
+<span style="color:#55aa00">CSE: if you look in the stadium.</span><br />
+<span style="color:#55aa00">CSE: you'll see</span><br />
+<span style="color:#55aa00">CSE: a blast mark.</span><br />
+<span style="color:#55aa00">CSE: some blood.</span><br />
+<span style="color:#55aa00">CSE: and FS.</span><br />
+<span style="color:#55aa00">CSE: being... broody.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  opens up his peacoat and checks the bulletwounds in his chest --</span><br />
+<span style="color:#55aa00">CSE: oh-oH!</span><br />
+<span style="color:#55aa00">CSE: nevermind.</span><br />
+<span style="color:#55aa00">CSE: new development.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  actually chest and shoulder whoops --</span><br />
+<span style="color:#55aa00">CSE: he's been shot.</span><br />
+<span style="color:#a80000">CFA: (\ S-shit! /)</span><br />
+<span style="color:#ee1e00">CCP: ouch.</span><br />
+<span style="color:#55aa00">CSE: that's old new really. that was like. round one.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jumps up the edge of the bleachers and flies over to him --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  fumbles through his inventory --</span><br />
+<span style="color:#646464"><span style="color:#00006c">CURRENT paramountWaterloo [CPW]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  floats down and finds his way to the bleachers to watch --</span><br />
+<span style="color:#a80000">CFA: (\ Alex, c'mon we gotta get yyou layying down and get those bullet wounds bpatched up /)</span><br />
+<span style="color:#a2a280">CFF: Huh...</span><br />
+<span style="color:#ee1e00">CCP: need some help down there?</span><br />
+<span style="color:#ceca54">CFS: ...what they just need some hea-</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  So for the sake of the ladder, FS won? --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  looks down at the wounds --</span><br />
+<span style="color:#ceca54">CFS: oh right... that would st<span style="color:#730e8f">ill keep them in probably...</span></span><br />
+<span style="color:#a80000">CFA: (\ ....Fuck... /)</span><br />
+<span style="color:#a80000">CFA: (\ SE, can yyou come help him, please? /)</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  looks around, who else is in the bleachers watching with him? --</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  leaned in. --</span><br />
+<span style="color:#55aa00">CSE: were you wearing a bullet vest!?</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  lets his head clunk back against the wall --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  whines and looks up at SE, frantically signalling him down to her and FS --</span><br />
+<span style="color:#ceca54">CFS: all things considered... bloody hell<span style="color:#730e8f"> that would be an excellent idea...</span></span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  sighed and rolled his eyes before he hopped down from the bleachers and jogged on other. --</span><br />
+<span style="color:#ee1e00">CCP: dang... now I /really/ wish Rejuvenation worked on living beings... :/</span><br />
+<span style="color:#55aa00">CSE: your bidding, my master?</span><br />
+<span style="color:#a80000">CFA: (\ Now's not the time for sarcastic jokes /)</span><br />
+<span style="color:#a80000">CFA: (\ Please... help him /)</span><br />
+<span style="color:#55aa00">CSE: fuck that, it's always the time.</span><br />
+<span style="color:#55aa00">CSE: well let's see.</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  got down on one knee and peered FS over. --</span><br />
+<span style="color:#55aa00">CSE: how you made it through the fight, i won't know.</span><br />
+<span style="color:#55aa00">CSE: but good on ya for it.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  has one bullet wound in his chest and another one in his right shoulder --</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hummed as he leaned in. --</span><br />
+<span style="color:#55aa00">CSE: jesus christ.</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  inspects the one on his chest. --</span><br />
+<span style="color:#a2a280">CFF: ...</span><br />
+<span style="color:#a2a280">CFF: That look like it sucked.</span><br />
+<span style="color:#55aa00">CSE: yeah, i figured that it should have been a one shot KO to me.</span><br />
+<span style="color:#a2a280">CFF: Need Someone to pull them out?</span><br />
+<span style="color:#a2a280">CFF: Or They go straight through?</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hummed as he pulled FS forwards and checked his back, seeing if it /was/ or wasn't through and through. --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  there's no exit wound on his back --</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  promptly laid FS on his back once more and pulled out some sterilizing wipes. He wriped his hands down and then the two wounds. --</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  the oddly chipper humming continued while he pushed his fingers into the wound on his chest. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CYM</span> ceased responding to memo.</span><br />
+<span style="color:#00006c">CPW: ((ouch))</span><br />
+<span style="color:#00006c">CPW: ......(that looks painful).</span><br />
+<span style="color:#ee1e00">CCP: (pretty sure it was...)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  hisses and grits his teeth letting out some pained growl or something --</span><br />
+<span style="color:#00006c">CPW: ......(you're next right).</span><br />
+<span style="color:#ee1e00">CCP: (think so, but I haven't asked about you and RS joining the tourney yet... gonna ask about that first, since the updated tree would require you two to fight first.)</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  twisted his fingers around for a short while before he retrieved his fingers, a piece of lead and copper being tossed to the side. He wiped his fingers off and then the wound, before he did the same to the shoulder wound. As he did so, he absently took out a packet of medi-gel and began to lather it over the chest wound. --</span><br />
+<span style="color:#00006c">CPW: ......(who is moving on so far?).</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  cringes and turns her head away --</span><br />
+<span style="color:#a80000">CFA: (\ D-dear god, Ah... /)</span><br />
+<span style="color:#ee1e00">CCP: (I don't know, I wasn't here to watch two of the fights on tuesday)</span><br />
+<span style="color:#a2a280">CFF: G-Gah....</span><br />
+<span style="color:#00006c">CPW: ......Psst, Fool.</span><br />
+<span style="color:#ceca54">CFS: G-GAH! <span style="color:#730e8f">DAMN!</span></span><br />
+<span style="color:#a2a280">CFF: ...Yes, PW?</span><br />
+<span style="color:#00006c">CPW: ......who did he just fight.</span><br />
+<span style="color:#a2a280">CFF: He Fought SL.</span><br />
+<span style="color:#00006c">CPW: ((who isnt here now?))</span><br />
+<span style="color:#ee1e00">CCP: ((shrug))</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  would note that the wound healed over quite quickly as his health vial recharged. He pulled out the second bullet and tossed it to the side before he began to lather the rest of the medi-gel onto the shoulder wound. --</span><br />
+<span style="color:#00006c">CPW: ......have you gone yet then?.</span><br />
+<span style="color:#ee1e00">CCP: yeah. won the first round, and I would be going next, unless Ash lets you and RS join.</span><br />
+<span style="color:#ee1e00">CCP: then you two would fight first</span><br />
+<span style="color:#a80000">CFA: (\ Nooo I have a perfect bracket right now... /)</span><br />
+<span style="color:#ee1e00">CCP: well, RS said he /was/ here on tuesday and you forgot to include him... idk.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  grits his teeth a little more as the second bullet is pulled out --</span><br />
+<span style="color:#a2a280">CFF: ...</span><br />
+<span style="color:#a80000">CFA: (\ He came after the whole thing had started /)</span><br />
+<span style="color:#ee1e00">CCP: but more importantly, FS gonna be okay?</span><br />
+<span style="color:#a80000">CFA: (\ I didnt hear him sayy he wanted in either /)</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hands FS a Tasty Health Potion. --</span><br />
+<span style="color:#a2a280">CFF: Here.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  and then the wound heals up from the medi gel --</span><br />
+<span style="color:#55aa00">CSE: next time put a fukin' ballistic's vest or something.</span><br />
+<span style="color:#ee1e00">CCP: ((brb afk briefly))</span><br />
+<span style="color:#00006c">CPW: ......i dont think RS is gonna be coming sadly.</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  stood up, wiping his hands off with the alcohol wipes. --</span><br />
+<span style="color:#a2a280">CFF: Thank you, SE.</span><br />
+<span style="color:#55aa00">CSE: hm?</span><br />
+<span style="color:#a2a280">CFF: For Helping him.</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  looked up from his hands, to FF, before he nodded. --</span><br />
+<span style="color:#55aa00">CSE: oh.</span><br />
+<span style="color:#55aa00">CSE: yeah.</span><br />
+<span style="color:#00006c">CPW: ......is SE not fighting either?.</span><br />
+<span style="color:#ee1e00">CCP: ((kback))</span><br />
+<span style="color:#ceca54">CFS: ...no<span style="color:#730e8f">ted...</span></span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  nods at SE and sighs, looking down at FS --</span><br />
+<span style="color:#a80000">CFA: (\ Think yyou can stand...? /)</span><br />
+<span style="color:#ceca54">CFS: they were just removed and healed... I'm<span style="color:#730e8f"> wondering if that's such a good idea myself...</span></span><br />
+<span style="color:#a80000">CFA: (\ Float up to the seats at least and sit... /)</span><br />
+<span style="color:#a80000">CFA: (\ SE healed them with the gel so... /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  remembers oh right he can float --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  floats up in his laying down position? goodness this feels awkward --</span><br />
+<span style="color:#00006c">CPW: ......so, im not going to be able to compete?.</span><br />
+<span style="color:#a80000">CFA: (\ Uh... Next bracket is FF and CP Semi-final /)</span><br />
+<span style="color:#00006c">CPW: ......darn.</span><br />
+<span style="color:#00006c">CPW: ......okay, ill just pass this time.</span><br />
+<span style="color:#00006c">CPW: ......goodbye everyone.</span><br />
+<span style="color:#ee1e00">CCP: sorry PW...</span><br />
+<span style="color:#00006c">CPW: ......its cool.</span><br />
+<span style="color:#ee1e00">CCP: you can still watch at least...</span><br />
+<span style="color:#646464">-- CURRENT paramountWaterloo <span style="color:#00006c">[CPW]</span>  flies off --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ...guess not.</span><br />
+<span style="color:#a2a280">CFF: Oh... Huh.</span><br />
+<span style="color:#646464"><span style="color:#000000">CWE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finishes off the last bit of popcorn and jumps down to the arena, waiting for FF --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  jumps back into arena --</span><br />
+<span style="color:#a2a280">CFF: So...</span><br />
+<span style="color:#ee1e00">CCP: let's hope we can actually manage to hit each other this time, huh? :P</span><br />
+<span style="color:#a2a280">CFF: ((just to warn you, I have to go to bed by in at about an hour and 30 minutes. Sorry.))</span><br />
+<span style="color:#ee1e00">CCP: ((10:30pm PST? understood. long as the dice cooperate we should be done before then.))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  equips Tundra Beads and User's Revenge, and waits for FF to get ready --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  cracks his knuckles, geting into battle stance, Sword-Chair at the ready. --</span><br />
+<span style="color:#ee1e00">CCP: well, as NerdCubed would say, "you ready for this jelly?"</span><br />
+<span style="color:#a2a280">CFF: Heh... Yeah. In the Wise word of Cody "It's Time to do something about my boredom".</span><br />
+<span style="color:#a2a280">CFF: Lets Do this thing.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  nods, then takes the First Strike by firing an ice wad at FF (8) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  dodges easily, charging at CP, trying to stab CP with all four swords on his sword-chair. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //rolls, FF? --</span><br />
+<span style="color:#646464">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  is over on the side with the rest of them. Bleachers. Thing. --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  15. Sorry. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ducks a bit slow and takes a bit of damage from the sword-chair (12), then uses the close range to go for a headbutt (18) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  stumbles back a bit, having aVERY hard head (12), and swings widly at CP quickly (6) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  rolls out of chairstab range (10), before trying to powerslash the chair out of his hands (16) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also since no one's suggested bgm yet, and he already did Okami music for the earlier battle, here's something different: <a href='http://www.listenonrepeat.com/watch/?v=9pUWVNrl22M'>http://www.listenonrepeat.com/watch/?v=9pUWVNrl22M</a> --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  the chair is power slashed out of his hands (6), only for him to equip the Aurora Club, which is basically a club made out of color, and charging CP, Swingign right at his chest. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ok from now on, if you forget to roll for an attack (or defense), I'll just assume it was a 10/20 because law of averages. anyway he's just barely bonked (9), and flies back a bit... --</span><br />
+<span style="color:#ee1e00">CCP: hmm, colorful things... and that bgm... Copland, Wisp Proxy Pink.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  voice from nowhere yells "SPIKES!", and he transforms into a pink spikey energy ball, and spin-dashes at FF (11) --</span><br />
+<span style="color:#a2a280">CFF: ((sorry!))</span><br />
+<span style="color:#ee1e00">CCP: ((is ok))</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  grins, taking up a batter stance and once CP gets into range, swings at him hard, trying to go for a homerun. --</span><br />
+<span style="color:#a2a280">CFF: (16!)</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  rolled a 16 --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  that is too cool an idea not to, so I was gonna say I rolled a (1) on defense anyway :P he goes flying and... sticks to the wall? --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  manages to jump off the wall and spin-dashes back at FF before the effect runs out (17) --</span><br />
+<span style="color:#a2a280">CFF: ...Huh. </span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  tries to do the same thign again, but misses the swing, getting a spindash to the chest (3), knocking him back, dropping the club and trying to doa double hammer blow to the spinny ball CP became, (13) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is golfclubbed back (5), transforming back to normal before trying to draw Icestorm on the 2xhammer (5... must be dizzy from that or something) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool... <span style="color:#a2a280">[CFF...]</span>  CP, the double hammerblow are his fists. Anyways, he dodges thee icestrom, (18), taking out the cracked moon scepture club at swinging it hard at CP's Chest (12) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  oh. derp. well, the ice missed anyway so --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is clipped by the club (11), before deciding to just draw a few cherrybombs (17) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  at the same time, the bgm changes to a rather interesting 8-bit remix <a href='http://www.listenonrepeat.com/watch/?v=_g5m4uLcGpE'>http://www.listenonrepeat.com/watch/?v=_g5m4uLcGpE</a> (dat video length) --</span><br />
+<span style="color:#a2a280">CFF: Oh Fuc-</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  takes the explsions to the face and everywhere else, vanishing from view in the explosion (2)... before charging out of there, significally damaged but grinning, swinging his favored 5-foot made of soilid steel club the Iron Oni Club at CP lightly... but it's STILL gonna hurt alot. (18). --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  attempts to dogeroll out of the way but fails (6), managing to get a homing disc toss off before impact (15) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //has the sudden realization he could be snipmp3ing this playlist while waiting for FF to type a response, and begins doing so --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  smashes CP in the chest (still 18) even as he takes the disc to the face, breaking his nose a bit (5) --</span><br />
+<span style="color:#a2a280">CFF: OW!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stands up, kinda bruised... then does a move requiring no physical effort from him: "LASER!" --</span><br />
+<span style="color:#a2a280">CFF: wait... wha-?</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  rebounds around the arena in light-ball form, hitting FF a few times (14) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  makes a mental note during this to find out where that Wisp Announcer Voice is coming from... --</span><br />
+<span style="color:#a2a280">CFF: OWWOWOWOWOWOWOW! Stop that!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transforms back... right as momentum faceplants him into a wall (1) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  is able to half denfend against some of the blows. --</span><br />
+<span style="color:#a2a280">CFF: ...Ouch.</span><br />
+<span style="color:#ee1e00">CCP: ...okay yeah, Wisp Commands are a bit OP for this... I'll stop with those...</span><br />
+<span style="color:#a2a280">CFF: Good. Because I ws about to suplex you in that form.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  barfs a bit from motion sickness --</span><br />
+<span style="color:#a2a280">CFF: ...Ewww!</span><br />
+<span style="color:#ee1e00">CCP: sorry, too much popcorn.</span><br />
+<span style="color:#a2a280">CFF: Do you uh...need a moment. Not about to slug a sick man.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  downs a Tasty Tonic, curing the MotSick status effect --</span><br />
+<span style="color:#ee1e00">CCP: I... I'm good. let's continue.</span><br />
+<span style="color:#a2a280">CFF: Good!</span><br />
+<span style="color:#a2a280">CFF: Here's Something if you need to throw up again.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  throws a Toliet at CP (14) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gives FF a free hit, taking the toilet to the face (auto-1) --</span><br />
+<span style="color:#ee1e00">CCP: ........I was wondering why the Magicant was one toilet short...</span><br />
+<span style="color:#a2a280">CFF: ...Ouch! You... uh okay? you was susspose to dodge that.</span><br />
+<span style="color:#ee1e00">CCP: nah, that was a free shot for brutalizing you with a double Wisp combo.</span><br />
+<span style="color:#a2a280">CFF: Oh... Okay.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "Copland, Eekhammer." the keytool transforms into some kinda steam-powered squeaky hammer (the fuck?), and he bats the broken load gaper back (13) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  smashes the toliet to peices with his club (13), chargingat  CP fast, tryng to bullrush him (12) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  draws Veil of Mist and matrix-dodges FF (14), letting him run right into the arena wall --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  crashes into thewall, cursing (10) before charing at CP... and tripping hard (1). --</span><br />
+<span style="color:#a2a280">CFF: Fuck!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  cringes as FF faceplants right next to him (3) --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#a2a280">CFF: ...Ow.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  gets up, quickly swinging at CP fast  but clumsly (8) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  easily dodges (12), before drawing Galestorm because he's so confused about how this entire fight is going he can't think of anything else to do (9) --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  (the windy move would disorient FF if it hit, btw) --</span><br />
+<span style="color:#a2a280">CFF: Damn it! This is going no where fast, Agai-</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  rolls a freaking one, getting hit witht the full force of galestorm. --</span><br />
+<span style="color:#ee1e00">CCP: yeah... well, unfortunately we can't end it in a draw this time...</span><br />
+<span style="color:#a2a280">CFF: ...True...</span><br />
+<span style="color:#a2a280">CFF: ...How about we either Do one last blow that decides the battle, or Rock paper scissors?</span><br />
+<span style="color:#ee1e00">CCP: one last blow is probably more fitting...</span><br />
+<span style="color:#ee1e00">CCP: ((plus rockpaperscissors is kinda impossible to not cheat it over text...))</span><br />
+<span style="color:#a2a280">CFF: Okay then...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads back to the middle of the arena to wait for FF to regain his senses --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  heads towards the middle, taking a stance, eletricirty crackling a bit on his body, holding a simple baseball club. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  readies Requiem for a Whiplash... and fires a very large jawbreaker (10) --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool... <span style="color:#a2a280">[CFF...]</span>  rolls a freaking ten, counting the blow hard, crackign his bat a bit, but not hiting CP, chargign at him (6). stupid low rolls. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ducks... just a bit too late, and is hit but probably tripped over simultaniously (5) --</span><br />
+<span style="color:#a2a280">CFF: ...Huh. Okay.</span><br />
+<span style="color:#a2a280">CFF: I uh... guess I win?</span><br />
+<span style="color:#ee1e00">CCP: yeah, I guess I'd give it to you since the Color Powers were a bit cheat-y tier...</span><br />
+<span style="color:#ee1e00">CCP: and hey, at least it /wasn't/ a draw this time.</span><br />
+<span style="color:#a2a280">CFF: Uh... thanks. And yeah.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks down at his chest... yeah, bit of a bruise but okay otherwise --</span><br />
+<span style="color:#ee1e00">CCP: so, guess you're going up against FS for the final round then...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hands CP a healing cookie. --</span><br />
+<span style="color:#a2a280">CFF: ...Yeah. a Void User. FML.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  eats the healing cookie --</span><br />
+<span style="color:#a2a280">CFF: Good Match, by the way.</span><br />
+<span style="color:#ee1e00">CCP: yeah, it was fun...</span><br />
+<span style="color:#a2a280">CFF: Yep...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks toward the stands... before stopping, drawing in that hole he left in the wall over there, then sitting down next to the others --</span><br />
+<span style="color:#a80000">CFA: (\ So FS and FF in the final huh...? /)</span><br />
+<span style="color:#a80000">CFA: (\ ooh... /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  is still floating around on his back in the stands --</span><br />
+<span style="color:#ceca54">CFS: wait... is that what-- CURRENT slothfulLunchmeat [CSL] Lifey Things the gaping arm wound -- CSL: im gonna go make another fucking arm, you goddamn psycho -- CURRENT slothfulLunchmeat [CSL] stumbles out of the arena, clutching the wound -- had happened?</span><br />
+<span style="color:#ceca54">CFS: ((fuuuuuuuuuck))</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Critical paste fail --</span><br />
+<span style="color:#ceca54">CFS: wait... is that wh<span style="color:#730e8f">at had happened?</span></span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  indeed :&lt; --</span><br />
+<span style="color:#a80000">CFA: (\ YYep /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  remembers a BIT late about the end-of-round victory music for FF: <a href='http://www.youtube.com/watch?v=DKu6ybiYgn8'>http://www.youtube.com/watch?v=DKu6ybiYgn8</a> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  :P --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  heh. thanks. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  and now, time to watch MYTHBUSTERS ZOMBIE SPECIAL --</span><br />
+<span style="color:#ceca54">CFS: hr<span style="color:#730e8f">m...</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ...oh yeah, he said he had to go to bed shortly after we were done...</span><br />
+<span style="color:#a80000">CFA: (\ Final will be tomorrow whenever yyou two are both online /)</span><br />
+<span style="color:#a80000">CFA: (\ Anyywayy yyes /)</span><br />
+<span style="color:#a80000">CFA: (\ Im off to bed /)</span><br />
+<span style="color:#a80000">CFA: (\ night guyys /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  teleports away --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#ceca54">CFS: mm... fair <span style="color:#730e8f">enough...</span></span><br />
+<span style="color:#505050">CRG: Hmph...</span><br />
+<span style="color:#ee1e00">CCP: shrug</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  phases himself out of the colliseum still on his back cuz paranoid and hahahahaha --</span><br />
+<span style="color:#646464"><span style="color:#000000">CAG</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  portals outy --</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />

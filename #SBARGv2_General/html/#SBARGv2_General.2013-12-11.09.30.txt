@@ -1,0 +1,495 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">[#SBARGv2_General] OOC memo for SBARGv2. <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC.</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: hi CP ➜</span><br />
+<span style="color:#ee1e00">CCP: wow, emptiness intensifies.</span><br />
+<span style="color:#cb7de6">CSJ: yeah... ._.; ➜</span><br />
+<span style="color:#ee1e00">CCP: it's not even monday :P</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: hi SL ➜</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat2 [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: so i just got done with my japanese final</span><br />
+<span style="color:#ee1e00">CCP: cool</span><br />
+<span style="color:#cb7de6">CSJ: how'd it go? ➜</span><br />
+<span style="color:#2d8a18">CSL: i am decently confident i passed</span><br />
+<span style="color:#cb7de6">CSJ: :D ➜</span><br />
+<span style="color:#ee1e00">CCP: awesome</span><br />
+<span style="color:#2d8a18">CSL: (i did /horribly/ on the oral portion though)</span><br />
+<span style="color:#2d8a18">CSL: (she asked where the library was and i told her where the bookstore was)</span><br />
+<span style="color:#2d8a18">CSL: (/incorrectly/)</span><br />
+<span style="color:#ee1e00">CCP: (ouch)</span><br />
+<span style="color:#cb7de6">CSJ: oh man, giving directions is always a pain. ➜</span><br />
+<span style="color:#2d8a18">CSL: i told her it was under the main building because i forgot what to the left of was</span><br />
+<span style="color:#2d8a18">CSL: so its some sort of moleman library i guess</span><br />
+<span style="color:#ee1e00">CCP: I remember the oral portion of my finals... fortunately, the way Masako-sensei set it up was that, she gave a list of questions and we wrote and had her check the answers over /in advance/, then the oral itself was that she'd ask randomly chosen questions and we'd have to answer from memory.</span><br />
+<span style="color:#2d8a18">CSL: well she at least let us answer in english and get most of the credit but</span><br />
+<span style="color:#ee1e00">CCP: I'm guessing yours was entirely on-the-fly...</span><br />
+<span style="color:#2d8a18">CSL: and yeah it was</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glances at his wanikani review pile that's been fermenting for a while... --</span><br />
+<span style="color:#2d8a18">CSL: in other news either of you guys ever seen akira?</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: nope. ➜</span><br />
+<span style="color:#ee1e00">CCP: ...think I saw part of it once, but it was a long time ago</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: you probably should soon</span><br />
+<span style="color:#2d8a18">CSL: i have some character plans id like everyone to properly appreciate</span><br />
+<span style="color:#ee1e00">CCP: ugh. notepad, why you fuck up newline copypasta when wordwrap is enabled &gt;_&gt;</span><br />
+<span style="color:#ee1e00">CCP: well SL, I finally wrote the thing I will probably regret linking as soon as I hit enter. <a href='http://pastebin.com/5VEu4NTr'>http://pastebin.com/5VEu4NTr</a> (technically nsfw)</span><br />
+<span style="color:#2d8a18">CSL: yey</span><br />
+<span style="color:#2d8a18">CSL: ...ok you do realize that eridan and sollux are both male right</span><br />
+<span style="color:#2d8a18">CSL: so tavrissprite is the only troll sprite that applies</span><br />
+<span style="color:#ee1e00">CCP: I know. what I said was, gender /doesn't matter/ in troll reproduction.</span><br />
+<span style="color:#2d8a18">CSL: yeah but then you didnt mention fefeta</span><br />
+<span style="color:#2d8a18">CSL: either way this is acceptable</span><br />
+<span style="color:#2d8a18">CSL: but it still leaves the question of doggy dick up in the air</span><br />
+<span style="color:#2d8a18">CSL: oh well</span><br />
+<span style="color:#ee1e00">CCP: basically, I gave a canon example for all four possibilities of matched/unmatched gender and species, is what that part was about.</span><br />
+<span style="color:#2d8a18">CSL: i know</span><br />
+<span style="color:#2d8a18">CSL: so yeah lets /never bring this up again/</span><br />
+<span style="color:#cb7de6">CSJ: probably a good idea. ➜</span><br />
+<span style="color:#ee1e00">CCP: agreed.</span><br />
+<span style="color:#2d8a18">CSL: so i feel the need to randomly ask if ive achieved this life goal</span><br />
+<span style="color:#cb7de6">CSJ: what's up? ➜</span><br />
+<span style="color:#2d8a18">CSL: has anyone actually played super ghouls n ghosts because of my influence?</span><br />
+<span style="color:#cb7de6">CSJ: not sure about outhers. I haven't played it yet. ➜</span><br />
+<span style="color:#cb7de6">CSJ: *others ➜</span><br />
+<span style="color:#2d8a18">CSL: well its on both wii and wii u virtual console according to wikipedia</span><br />
+<span style="color:#2d8a18">CSL: which also has a beautifully spergy gameplay section</span><br />
+<span style="color:#ee1e00">CCP: I haven't either, mostly because I'm too lazy to get it (and not sure if I even have points left on the wii shop)</span><br />
+<span style="color:#2d8a18">CSL: and theres always emulation</span><br />
+<span style="color:#2d8a18">CSL: (which has like a split-second of lag thats unbearable to me because im used to the real thing, but wouldnt be a problem if you were introduced to the game with it)</span><br />
+<span style="color:#cb7de6">CSJ: if I ever get the chanc I'll probably pick it up, considering how many (non-transferrable! &gt;_&gt;) wii points I still have. ➜</span><br />
+<span style="color:#2d8a18">CSL: also i understand that wii u vc has rudimentary save states?</span><br />
+<span style="color:#2d8a18">CSL: if so do not use them for sgng trust me</span><br />
+<span style="color:#ee1e00">CCP: (yeah, that's probably how I was gonna do it, emulator-ways... heck, I might even use it as a test stream when I finally have enough free time to do that)</span><br />
+<span style="color:#2d8a18">CSL: accept that you will never complete it</span><br />
+<span style="color:#2d8a18">CSL: and if you have voice capability when you do i might give you a skype call and coach you</span><br />
+<span style="color:#2d8a18">CSL: but yeah to get maximum enjoyment from sgng you need to accept that you will never complete it</span><br />
+<span style="color:#2d8a18">CSL: so just have fun with it, try out different weapons</span><br />
+<span style="color:#2d8a18">CSL: (seriously get the knife was good advice in the original gng but if you only use the knife in sgng youre ruining the experience)</span><br />
+<span style="color:#ee1e00">CCP: so it's kinda like FTL and NetHack then? play it for the experience, not for completion</span><br />
+<span style="color:#2d8a18">CSL: ive never played ftl but yes to nethack definitely</span><br />
+<span style="color:#2d8a18">CSL: though it isnt as randomized</span><br />
+<span style="color:#2d8a18">CSL: i havent even beaten the first loop and its still my all-time favorite game</span><br />
+<span style="color:#2d8a18">CSL: (i assume the fact that you have to beat the game twice is common knowledge?)</span><br />
+<span style="color:#cb7de6">CSJ: (I never even knew that) ➜</span><br />
+<span style="color:#ee1e00">CCP: (yeah, I think it was mentioned in the AVGN video?)</span><br />
+<span style="color:#2d8a18">CSL: (yeah its because of the series's arcade roots)</span><br />
+<span style="color:#2d8a18">CSL: (you beat the last level and youre told you need a more powerful weapon to beat the final boss)</span><br />
+<span style="color:#2d8a18">CSL: (then youre sent back to stage 1 on an even higher difficulty and the new weapon starts to spawn)</span><br />
+<span style="color:#2d8a18">CSL: i should really make a gng series weapon demonstration</span><br />
+<span style="color:#2d8a18">CSL: just for reference</span><br />
+<span style="color:#2d8a18">CSL: all the weapons in gng on both arcade and nes (the nes game is a super-inaccurate port and a lot of the weapons are different), all the weapons and spells in gng for genesis, and the weapons, upgraded weapons, and spells in sgng</span><br />
+<span style="color:#2d8a18">CSL: and then i guess all the weapons and spells in ugng for psp even though they arent connected and also that game is terrible</span><br />
+<span style="color:#2d8a18">CSL: because im sick of digging through longplays for reference</span><br />
+<span style="color:#2d8a18">CSL: especially in gng for genesis, which ive barely played</span><br />
+<span style="color:#2d8a18">CSL: so imma brb</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: in other news i found sls theme</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=HwbuIy6OAB0'>http://www.youtube.com/watch?v=HwbuIy6OAB0</a></span><br />
+<span style="color:#ee1e00">CCP: ........I cannot words</span><br />
+<span style="color:#2d8a18">CSL: what</span><br />
+<span style="color:#2d8a18">CSL: am i the only person in v2 who actually unironically likes cheesy glam rock vocals</span><br />
+<span style="color:#2d8a18">CSL: its like the one thing im not ironic about</span><br />
+<span style="color:#cb7de6">CSJ: dunno. ➜</span><br />
+<span style="color:#2d8a18">CSL: like i dont even quite know why</span><br />
+<span style="color:#2d8a18">CSL: i guess its that you can really feel the passion behind them?</span><br />
+<span style="color:#646464"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> HAVE RISEN.</span><br />
+<span style="color:#cb7de6">CSJ: yay ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">omg</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> in this game there are two kings and a mysterious third king that may or may not be one of the first</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">one</span> of them is a sand kingt</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> other is a skeleton king, who mysteriously vanished</span><br />
+<span style="color:#41742f">CNN: "Clearly this is building to an epic confrontation between Skeleton King and Sand King. Skeleton King has tried to steal Frostivus like some bitter grinch, and there is only one hero who can bring us holiday joy."</span><br />
+<span style="color:#41742f">CNN: "Sandy Claws."</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://twitch.tv/lilfut322'>http://twitch.tv/lilfut322</a> about to corrupt pokemon</span><br />
+<span style="color:#cb7de6">CSJ: um, SL? I can't see anything on the game screen. ➜</span><br />
+<span style="color:#2d8a18">CSL: stream still working?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s working</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span></span><br />
+<span style="color:#cb7de6">CSJ: yep, it's working. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">sound</span> just died</span><br />
+<span style="color:#2d8a18">CSL: accidentally activated airplane mode because some genius gave it its own key</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span> wait</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> just muted the game</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">doi</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">which</span> game is this</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">which</span> one did you corrupt</span><br />
+<span style="color:#cb7de6">CSJ: one of the 2nd gen pokemhen games ➜</span><br />
+<span style="color:#cb7de6">CSJ: apparently crystal. ➜</span><br />
+<span style="color:#ee1e00">CCP: whoop there it went</span><br />
+<span style="color:#41742f">CNN: [awkward silence]</span><br />
+<span style="color:#cb7de6">CSJ: still blapk ➜</span><br />
+<span style="color:#ee1e00">CCP: (and yeah, more than once I've gone to mute my lappy and turned the wifi off instead)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> should livestream SL livestremaing</span><br />
+<span style="color:#41742f">CNN:   <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+<span style="color:#cb7de6">CSJ: N_N ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wait</span> a minute</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span>,</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">can</span> you corrupt</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> fakemon thing</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">with</span> the dumb pokemon</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">bc</span> that would be hilarious</span><br />
+<span style="color:#cb7de6">CSJ: can't see the screen still. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">BZZZZZZZZZZZZZZZZZT</span></span><br />
+<span style="color:#cb7de6">CSJ: there we go. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SL</span> looks like Jane</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ohsnap</span>.gif</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">such</span> edgy</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">many</span> fricking self</span><br />
+<span style="color:#cb7de6">CSJ: "loaded battery" ➜</span><br />
+<span style="color:#cb7de6">CSJ: is it supposed to not be visible? ➜</span><br />
+<span style="color:#cb7de6">CSJ: we are trapped behind lazer gates ➜</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: play the pirated pokemon gold for the NES</span><br />
+<span style="color:#0080ff">CFL: and corrupt it further</span><br />
+<span style="color:#0080ff">CFL: with the jam protection</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">SPACE</span> JAAAAAAM</span><br />
+<span style="color:#0080ff">CFL: CHAOS DUNK</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  dies --</span><br />
+<span style="color:#cb7de6">CSJ: F_L ➜</span><br />
+<span style="color:#cb7de6">CSJ: ... ➜</span><br />
+<span style="color:#0080ff">CFL: what</span><br />
+<span style="color:#cb7de6">CSJ: just waiting for the thing. ➜</span><br />
+<span style="color:#cb7de6">CSJ: yay ➜</span><br />
+<span style="color:#cb7de6">CSJ: suddenly, red curtain. ➜</span><br />
+<span style="color:#ee1e00">CCP: candy cane stripes</span><br />
+<span style="color:#cb7de6">CSJ: .... ➜</span><br />
+<span style="color:#0080ff">CFL: barber pole</span><br />
+<span style="color:#0080ff">CFL: just do a shitty nes pokemon pirate, we don't want constant crashing!</span><br />
+<span style="color:#cb7de6">CSJ: .... ➜</span><br />
+<span style="color:#cb7de6">CSJ: yes, we must meet hte pikachu. ➜</span><br />
+<span style="color:#cb7de6">CSJ: ghost pikachu ➜</span><br />
+<span style="color:#cb7de6">CSJ: the end. ➜</span><br />
+<span style="color:#cb7de6">CSJ: :b ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">IBM</span> was the first computer company</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">therefore</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> first AI company</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">will</span> be AIBM</span><br />
+<span style="color:#0080ff">CFL: Start corrupting at 383DE next time</span><br />
+<span style="color:#0080ff">CFL: Alright, now get into a battle.</span><br />
+<span style="color:#0080ff">CFL: wait for it...</span><br />
+<span style="color:#ee1e00">CCP: pikalego</span><br />
+<span style="color:#0080ff">CFL: I was looking at the memory addresses.</span><br />
+<span style="color:#0080ff">CFL: mostly for the pokemon stats</span><br />
+<span style="color:#ee1e00">CCP: question: does anyone know of any freelance stuff? my boss needs $400 of rent money by the end of the month...</span><br />
+<span style="color:#0080ff">CFL: drugs</span><br />
+<span style="color:#0080ff">CFL: thats what pikachu has been using</span><br />
+<span style="color:#ee1e00">CCP: bad batch of Rare Candy?</span><br />
+<span style="color:#0080ff">CFL: vime</span><br />
+<span style="color:#cb7de6">CSJ: that was pretty cool. ➜</span><br />
+<span style="color:#ee1e00">CCP: yup.</span><br />
+<span style="color:#2d8a18">CSL: take all the vime you need</span><br />
+<span style="color:#2d8a18">CSL: vime on my side</span><br />
+<span style="color:#cb7de6">CSJ: XD ➜</span><br />
+<span style="color:#2d8a18">CSL: ...hang on, lemme start the stream back up</span><br />
+<span style="color:#ee1e00">CCP: so anyway, any suggestions? ==&gt; [14:19] .:@Shadow386:. I need to make $400 by Jan 5th btw [14:19] .:@Shadow386:. or I'm getting kicked out of my apt [14:19] .:+Pwootage|Work:. D: [14:20] .:+Pwootage|Work:. that would be... bad [14:20] .:@Shadow386:. if you can help me find a freelance job to make that, please do [14:20] .:+Pwootage|Work:. if I hear of anything I'll let you know, dont' know if I will tho [14:20] .:@Shadow386:. thanks. pass it along throughout the channel and friends. I'm a developer and designer for websites, I can do shit [14:20] .:@Shadow386:. even cheaply D:</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">slicethepie</span>.com</span><br />
+<span style="color:#0080ff">CFL: SL, use pokemon red with the byte location I suggested!</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">make</span> $10 in 2 days</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">therefore</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> can get some moneys</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">not</span> as much as yu need</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> small amount</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  is currently already dealing with other peoples' money issues though --</span><br />
+<span style="color:#0080ff">CFL: Well, red or blue</span><br />
+<span style="color:#0080ff">CFL: byte locations are the same... ish.</span><br />
+<span style="color:#cb7de6">CSJ: where's all the enemies? ➜</span><br />
+<span style="color:#ee1e00">CCP: what the</span><br />
+<span style="color:#cb7de6">CSJ: aaaa, glitch zombies ➜</span><br />
+<span style="color:#ee1e00">CCP: (anyway, if anyone else has any other suggestions for freelancey stuff for him, <a href='#thefallenmoon'>#thefallenmoon</a> on irc.esper.net is our public channel so...)</span><br />
+<span style="color:#ee1e00">CCP: no game audio?</span><br />
+<span style="color:#cb7de6">CSJ: wat ➜</span><br />
+<span style="color:#cb7de6">CSJ: ... ➜</span><br />
+<span style="color:#ee1e00">CCP: what the heck</span><br />
+<span style="color:#ee1e00">CCP: "stop tilting the virtual cartridge"</span><br />
+<span style="color:#ee1e00">CCP: ^ twitch commenter</span><br />
+<span style="color:#ee1e00">CCP: screenception in 3, 2...</span><br />
+<span style="color:#0080ff">CFL: datacrystal.romhacking.net/wiki/Pokémon_Red_and_Blue:ROM_map</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://datacrystal.romhacking.net/wiki/Pokémon_Red_and_Blue:ROM_map'>http://datacrystal.romhacking.net/wiki/Pokémon_Red_and_Blue:ROM_map</a></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">CAB</span>: # I love how people are raging and acting entitled because it's not shipping worldwide CNN: DID SOMEONE SAY SHIPP[ING CNN: AB &lt;3 STEAM MACINE CAB: # AB &lt;3 VALVE</span><br />
+<span style="color:#ee1e00">CCP: so, question. if you still lose all your armor in one hit even after upgrading it to gr-- EAR PAIN</span><br />
+<span style="color:#ee1e00">CCP: --then what does higher armor even do?</span><br />
+<span style="color:#0080ff">CFL: Weapon powerups</span><br />
+<span style="color:#ee1e00">CCP: (and yeah, when I start streaming eventually, I probably will end up testing the stream using this game :P)</span><br />
+<span style="color:#ee1e00">CCP: wow such giant pixel</span><br />
+<span style="color:#41742f">CNN: "Professor Snaaaaaape! " wailed Pansy Parkinson in tears. "Tracey ate my sooouuul! "</span><br />
+<span style="color:#0080ff">CFL: hahaha.</span><br />
+<span style="color:#cb7de6">CSJ: this is definately one of the coler corruptions. ➜</span><br />
+<span style="color:#0080ff">CFL: best fanfiction</span><br />
+<span style="color:#cb7de6">CSJ: *cooler ➜</span><br />
+<span style="color:#ee1e00">CCP: whoa that's cool</span><br />
+<span style="color:#cb7de6">CSJ: yeah, I'm thinking it's a left-over effect from the stage intro thing that didn't get deactivated on the ground tiles. ➜</span><br />
+<span style="color:#ee1e00">CCP: ...huh, that makes sense.</span><br />
+<span style="color:#2d8a18">CSL: snes9x wasnt responding btw</span><br />
+<span style="color:#0080ff">CFL: but yeah, combine corruptions with the locations in the ROM_map</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#00e100">CURRENT avidCurator [CAC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#00e100">CAC: wow</span><br />
+<span style="color:#00e100">CAC: the coloring for some of the pokemon in PMD</span><br />
+<span style="color:#00e100">CAC: the original one</span><br />
+<span style="color:#00e100">CAC: its just..</span><br />
+<span style="color:#00e100">CAC: horrifying</span><br />
+<span style="color:#00e100">CAC:  <a href='http://www.spriters-resource.com/resources/sheets/36/38502.png'>http://www.spriters-resource.com/resources/sheets/36/38502.png</a></span><br />
+<span style="color:#00e100">CAC: dat grovyle though</span><br />
+<span style="color:#00e100">CAC: why is it fucking blue?</span><br />
+<span style="color:#cb7de6">CSJ: no idea. ➜</span><br />
+<span style="color:#00e100">CAC: you know what would be cool as i've said like 4 times now?</span><br />
+<span style="color:#cb7de6">CSJ: ? ➜</span><br />
+<span style="color:#00e100">CAC: a megaman BN/SF roleplay</span><br />
+<span style="color:#00e100">CAC: or fucking medabots :p</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL: how is personality-flipped fl not fucking ghandi</span><br />
+<span style="color:#2d8a18">CSL: the fucking is an adjective in this context</span><br />
+<span style="color:#ee1e00">CCP: wahahahaha</span><br />
+<span style="color:#2d8a18">CSL: but i mean</span><br />
+<span style="color:#2d8a18">CSL: when you flip your personality</span><br />
+<span style="color:#2d8a18">CSL: and youre as violent of a character as fl</span><br />
+<span style="color:#2d8a18">CSL: you become pacifistic as fuck</span><br />
+<span style="color:#646464"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> HAVE RETURN.</span><br />
+<span style="color:#cb7de6">CSJ: hey there. ➜</span><br />
+<span style="color:#2d8a18">CSL: so do people even have a headcanon voice for my character</span><br />
+<span style="color:#ee1e00">CCP: not... really?</span><br />
+<span style="color:#ee1e00">CCP: about the only headcanon voice I've semi-locked-in is EQ being CoLab Kanaya.</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2806ea">CEQ: ??? wha</span><br />
+<span style="color:#2806ea">CEQ: okay now I need to refresh my memory on how the colab voices sound then...</span><br />
+<span style="color:#ee1e00">CCP: (it's specifically because of the way you say/type "Oh gosh", if you're wondering how I made that connection initially)</span><br />
+<span style="color:#2806ea">CEQ: ah</span><br />
+<span style="color:#2806ea">CEQ: and y'know now that I hear it I can kinda understand that connection</span><br />
+<span style="color:#2806ea">CEQ: Coming from my typing style, and what-not. Shrug</span><br />
+<span style="color:#2d8a18">CSL: i have headcanon voices for everyone but none of them were actors</span><br />
+<span style="color:#2d8a18">CSL: you all have your own voices</span><br />
+<span style="color:#ee1e00">CCP: SL, what's your headcanon for me sound like?</span><br />
+<span style="color:#2d8a18">CSL: well like i say its nobody specific</span><br />
+<span style="color:#2d8a18">CSL: youve got kind of a dub-anime-hero vibe to you?</span><br />
+<span style="color:#2806ea">CEQ: pft</span><br />
+<span style="color:#ee1e00">CCP: ...eh, I could kinda see that.</span><br />
+<span style="color:#ee1e00">CCP: definitely nowhere near my irl voice, but ICly, probably.</span><br />
+<span style="color:#2d8a18">CSL: kind of like fox mccloud in brawl but not quite</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://youtu.be/1HWNdJXP2Nk'>http://youtu.be/1HWNdJXP2Nk</a> not quite this but its the closest thing i can find right now</span><br />
+<span style="color:#646464"><span style="color:#007f43">CURRENT exoGeologist [CEG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#007f43">CEG: I love [S] Dave: Accelerate </span><br />
+<span style="color:#007f43">CEG: It is my absolute favorite flash</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEG</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000aa">Noodles: 交わした約束忘れないよ</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  too many kanjis, sticking through a translator... --</span><br />
+<span style="color:#cb7de6">CSJ: wait, what promise? ➜</span><br />
+<span style="color:#cb7de6">CSJ: or does it mean contract in this case? ➜</span><br />
+<span style="color:#2d8a18">CSL: agh there was somebody i wanted to video chat with but we didnt get a chance and now shes offline</span><br />
+<span style="color:#2d8a18">CSL: this is the worst feeling</span><br />
+<span style="color:#2d8a18">CSL: like ive been wanting to all day</span><br />
+<span style="color:#0000aa">Noodles: SJ make it speak it back to you and you'll know what it is.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#2d8a18">CSL: its the worst feeling</span><br />
+<span style="color:#2d8a18">CSL: i had gotten so hype about it and now the chance has slipped away</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> did that translate to</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ohhh</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">coNNect</span> lyrics ye</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">kawashita</span> yakusoku wasurenai yo, me o toji tashiameru</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">yoshiyoseta</span> yami furiharatte susumi yo</span><br />
+<span style="color:#646464">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  continues ridiculously animu singing --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT Nova [CNN]</span> RIGHT NOW responded to memo.</span><br />
+Is that the madoka theme<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ye</span></span><br />
+oh my god<br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> like how we have 3 NNs</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NNoodles</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NNova</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NN</span></span><br />
+<span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000aa">Noodles: NN no you'll start, the shipping</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s too late</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">NNNN</span> shipping is here</span><br />
+<span style="color:#41742f">CNN: (one n for nova, one n for noodles, two Ns for me)</span><br />
+<span style="color:#0000aa">Noodles: NN_NN</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">sooo</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> promise</span><br />
+Rebelliooooon<br />
+Cries<br />
+<span style="color:#0000aa">Noodles: I still need to find that and watch it</span><br />
+I got spoilered wah<br />
+<span style="color:#646464">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  paps the Nova --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=l19Q8Eq6LdA'>http://www.youtube.com/watch?v=l19Q8Eq6LdA</a> elegy for a mole</span><br />
+<span style="color:#0000aa">Noodles: <a href='http://i.imgur.com/djqS4sM.jpg'>http://i.imgur.com/djqS4sM.jpg</a></span><br />
+<span style="color:#cb7de6">CSJ: ._.; ➜</span><br />
+<span style="color:#ee1e00">CCP: seems legit.</span><br />
+<span style="color:#ee1e00">CCP: (@ both of those)</span><br />
+<span style="color:#2d8a18">CSL: omfg</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=0LncdBoFsqs'>http://www.youtube.com/watch?v=0LncdBoFsqs</a></span><br />
+<span style="color:#2d8a18">CSL: rOB HUBBARD COMPOSED PS1 MUSIC</span><br />
+<span style="color:#ee1e00">CCP: apparently my lappy wants me to listen to the monty theme again... meant to click "Metroid Prime - Tallon Overworld.mp3", slipped and hit "Monty On The Run - Main Theme.mp3". go fig.</span><br />
+<span style="color:#2d8a18">CSL: it will never end</span><br />
+<span style="color:#2d8a18">CSL: monty will consume everything</span><br />
+<span style="color:#2d8a18">CSL: [RUNNING INTENSIFIES]</span><br />
+<span style="color:#ee1e00">CCP: (on a side note, watching it on WMP's scope visualizer is kinda cool)</span><br />
+<span style="color:#2d8a18">CSL: brb</span><br />
+<span style="color:#2d8a18">CSL: oh yeah dude c64 waveforms are great</span><br />
+<span style="color:#2d8a18">CSL: they actually used 2 different waveforms for each channel</span><br />
+<span style="color:#2d8a18">CSL: in 198whatever, they had envelopes</span><br />
+<span style="color:#2d8a18">CSL: god knows how the c64 was an 8-bit system</span><br />
+<span style="color:#2d8a18">CSL: audiowise at least</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ:  <a href='http://www.youtube.com/watch?v=UjCochw2P00'>http://www.youtube.com/watch?v=UjCochw2P00</a> those credits at the end...  ➜</span><br />
+<span style="color:#2d8a18">CSL: ...did i manage to get you guys hooked on the c64 demoscene</span><br />
+<span style="color:#cb7de6">CSJ: maybe? at very least increased an already present semi-interest. (mostly only linked that one for the insperational text at the end) ➜</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+<span style="color:#2d8a18">CSL: btw if i ever do a movie or something involving retro gaming im totally hiring demoscene people to make the credits</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#2d8a18">CSL: like have it zoom in on the main character's commodore and it just does something like that</span><br />
+<span style="color:#2d8a18">CSL: i just love how on a coding level thats basically a rube goldberg machine</span><br />
+<span style="color:#ee1e00">CCP: wow...</span><br />
+<span style="color:#2d8a18">CSL: its all procedural generation</span><br />
+<span style="color:#cb7de6">CSJ: huh, never thought of it that way, but it makes sense. ➜</span><br />
+<span style="color:#2d8a18">CSL: like that could totally fit on a floppy disk</span><br />
+<span style="color:#ee1e00">CCP: even the art? or just the animations are procedural?</span><br />
+<span style="color:#2d8a18">CSL: im pretty sure the art is too</span><br />
+<span style="color:#2d8a18">CSL: though i could be wrong</span><br />
+<span style="color:#2d8a18">CSL: its just really clever coding</span><br />
+<span style="color:#ee1e00">CCP: if it is... damn.</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.hardcoregaming101.net/demoscene/demoscene.htm'>http://www.hardcoregaming101.net/demoscene/demoscene.htm</a> here just read this</span><br />
+<span style="color:#2d8a18">CSL: fuck i want to have a memorial thats a spinning voxel poliwhirl</span><br />
+<span style="color:#2d8a18">CSL: i parsed "hw" as "homework" for a sec</span><br />
+<span style="color:#2d8a18">CSL: also i totally want a commodore holy shit</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">anyone</span> have piano songs</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">piano</span> midis</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">specifically</span></span><br />
+<span style="color:#cb7de6">CSJ: don't you have a folder of midis I sent you a while back? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">um</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> reformatted</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">remember</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: the zip file is still in the dropbox. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">are</span> these all original</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can't remember</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span> wait a minute</span><br />
+<span style="color:#cb7de6">CSJ: I'm retty sure they are. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">these</span> aren't all piano only</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">p</span> sure</span><br />
+<span style="color:#cb7de6">CSJ: there's very few that have piano only. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">right</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> need piano only, preferably iconic, songs</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://asstlevania.tumblr.com/post/68789270084/i-decided-to-make-a-christmas-wishlist'>http://asstlevania.tumblr.com/post/68789270084/i-decided-to-make-a-christmas-wishlist</a> i just remembered this is a thing</span><br />
+<span style="color:#2d8a18">CSL: hahaha omg</span><br />
+<span style="color:#2d8a18">CSL: people have made c64 ethernet cards</span><br />
+<span style="color:#cb7de6">CSJ: really? ➜</span><br />
+<span style="color:#2d8a18">CSL:  <a href='http://www.dunkels.com/adam/tfe/'>http://www.dunkels.com/adam/tfe/</a></span><br />
+<span style="color:#2d8a18">CSL: yes</span><br />
+<span style="color:#2d8a18">CSL: btw you know how roguelike is named after the first game in the genre, rogue</span><br />
+<span style="color:#2d8a18">CSL: and how lazy that is</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span>'s not that lazy</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s LIKE rogue</span><br />
+<span style="color:#2d8a18">CSL: well, the m.u.d. genre (multi-user dungeon, basically ASCII MMO) is named after m.u.d.</span><br />
+<span style="color:#2d8a18">CSL: which was the first m.u.d.</span><br />
+<span style="color:#2d8a18">CSL: they didnt even bother putting "like" after it</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">MUD</span> describes itself</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> don't need to put a like</span><br />
+<span style="color:#2d8a18">CSL: its still pretty funny idk</span><br />
+<span style="color:#cb7de6">CSJ: I didn't even know what was a genre ➜</span><br />
+<span style="color:#cb7de6">CSJ: *that ➜</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  my hands, how do they type --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> I could make MUDs (but I can't bc I'm dumb, plus I don't have a host)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> would make a SBARGv2 mud</span><br />
+<span style="color:#2d8a18">CSL: yeah its actually a lot like the roguelike genre</span><br />
+<span style="color:#2d8a18">CSL: but online</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ye</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s like how MMO</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> just</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">online</span> RPG</span><br />
+<span style="color:#41742f">CNN: (for the most part)</span><br />
+<span style="color:#2d8a18">CSL: ive actually thought of making a mud, but like you i dont really have something i can use as a dedicated host</span><br />
+<span style="color:#2d8a18">CSL: MAYBE I COULD USE MY ETHERNET-ENABLED COMMODORE 64</span><br />
+<span style="color:#2d8a18">CSL: i mean the original mud was actually a c64 game run over college lan</span><br />
+<span style="color:#2d8a18">CSL: so its actually not impossible</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">someone</span> made a minecraft server</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">on</span> their /phone/</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">possibility</span> no longer matters to me</span><br />
+<span style="color:#cb7de6">CSJ: how slow was it? ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">very</span>.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ironically</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> modpack performed /better/</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">than</span> vanilla minecraft</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">let</span> me see</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> performance stats</span><br />
+<span style="color:#2d8a18">CSL: btw i wish i saw more games with no central theme to the settings</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> took 32 minutes</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> load</span><br />
+<span style="color:#2d8a18">CSL: n64/ps1 3d platformers did that and it was really cool</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> had 2 FPS</span><br />
+<span style="color:#2d8a18">CSL: like banjo-kazooie, spyro, etc</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> took 170 secnods</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> coNNect to it</span><br />
+<span style="color:#2d8a18">CSL: anybody remember the absolutely /surreal/ robot bug farm from spyro 2</span><br />
+<span style="color:#2d8a18">CSL: robotica farms</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> yeah</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span> was utterly useless</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">2</span> FPS.</span><br />
+<span style="color:#2d8a18">CSL: that was so cool</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">2</span>.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">though</span> since it's possible I do wonder what other kinds of servrs you could run</span><br />
+<span style="color:#2d8a18">CSL: anyway i really need to get to bed night</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">as</span> long as it's coded in Java it should technically be doable with how they hacked that in</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">night</span> SL</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">What</span> do you call it when you crash FaceTime?</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  busy thinking of a witty remark --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">A</span> hole in the FaceTime continuum </span><br />
+<span style="color:#cb7de6">CSJ: oh. I thought it was going to be a "your face is so ugly" joke. ➜</span><br />
+<span style="color:#cb7de6">CSJ: you know, that kinda reminded me of the timestuck dungeon I hosted a while back. I still have all the notes and ASCII pictures for it. ➜</span><br />
+<span style="color:#cb7de6">CSJ: they're done in candybox style. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> need to learn to make a roguelike</span><br />
+<span style="color:#cb7de6">CSJ: kinda ➜</span><br />
+<span style="color:#41742f">CNN: :c</span><br />
+<span style="color:#cb7de6">CSJ: originally, the time portals were supposed to all have the ability to take the party to the end of time as a chrono trigger reference, but it seemed like it would sorta mess up the flow by suddenly cutsceneing them to the same place after making the same mistake of cramming in all at the same time. (also it's kinda hard to tell when a certain amount of party members are in a single place at once), so I just</span><br />
+<span style="color:#cb7de6">had it happen at the last time portal. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">So</span> my friend got their wallet stolen at the mall</span><br />
+<span style="color:#cb7de6">CSJ: D: ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> told him it was probably a pickpocketing ring</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">The</span> next day</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">His</span> new wallet was stolen, so he said "must be another pickpocketing ring jfc"</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> told him, no, each crime ring has its own territory</span><br />
+<span style="color:#ee1e00">CCP: lol</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Clearly</span>, that place has only one organized crime ring</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">One</span> ring to rule the mall</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  N_N --</span><br />
+<span style="color:#cb7de6">CSJ: no, it's a pickpocketing bracelet. <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">It</span>'s weird how bad Christian music is, considering that Christ put a lot of weight on nine inch nails.</span><br />
+<span style="color:#cb7de6">CSJ: pfft ➜</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepalming intensifies --</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">I've</span> cleaned up my quirk</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">To</span> work better</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">And</span> be easier to read</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">It's</span> now just ^(\S+)</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">^(\S+)</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">See?</span> Works on punctuation too now.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">You</span> like?</span><br />
+<span style="color:#cb7de6">CSJ: yeah. glad to see it doesn't become naked. ➜</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">:D</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">(It</span> works with smilies too now)</span><br />
+<span style="color:#ee1e00">CCP: so, Gigapause For Hire is still a post that is delayed, but I managed to make a DIFFERENT thing I had been meaning to do: <a href='http://creeperpuncher.tumblr.com/post/69770359539'>http://creeperpuncher.tumblr.com/post/69770359539</a></span><br />
+<span style="color:#646464"><span style="color:#0000c1">CURRENT matrixAssassin [CMA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000c1">CMA: i really should stop coming on so late.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">wha</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  passes out on keyboardzzzzzzzzzzzzzzzzzzzzzz --</span><br />
+<span style="color:#ee1e00">CCP: (and suddenly, a string of SL reblogs. welp, night.</span><br />
+<span style="color:#ee1e00">CCP: *)</span><br />

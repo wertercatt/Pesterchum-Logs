@@ -1,0 +1,831 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters the bar, yawning --</span><br />
+<span style="color:#646464"><span style="color:#3b3b58">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  is asleep all over a couch --</span><br />
+<span style="color:#646464"><span style="color:#592c88">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  meanwhile is at the counter wearing nothing but adal's poncho --</span><br />
+<span style="color:#646464"><span style="color:#72a0c1">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  teeters down the stairs and into the bar. She seems sleepy still but sits behind the bar regardless --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  at the counter in nothing but adal's poncho --</span><br />
+<span style="color:#72a0c1">CIB: ...?</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  hands ib a fully repaired picture frame along with the picture that was knocked down the previous day --</span><br />
+<span style="color:#72a0c1">CIB: Oh. Thanks.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  takes it and looks it over --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sips juice and curls up a little because cold --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  captchalogues the picture, she was going to hang it up elsewhere --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  snacks on peanuts --</span><br />
+<span style="color:#72a0c1">CIB: ...Do you need clothes to borrow?</span><br />
+<span style="color:#592c88">CCP: No, mine are just being washed. I can wait.</span><br />
+<span style="color:#72a0c1">CIB: ...alright.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  looks at her hand and unwraps it. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  TT's work was pretty good on her hand. Not even a scar. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is sitting in a beanbag, idly doing things on a vidwindow remote-connected to his desktop --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  captchalogues bandages --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  changes into his clothes and sets adal's poncho on the sleeping giant --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  drinks a rootbeer --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sits there at the counter carving wood --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  typing intensifies --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rubs neck and heads over to a bean bag, flopping down onto it. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  scuttles over and sits next to --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sighs and uses remote to turn on the TVs --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  tugs on IB's sleeve --</span><br />
+<span style="color:#72a0c1">CIB: Hm?</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sets a little wooden figure in her lap --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  looks at the figure. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  its a featureless seer with no aspect given --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glances up from the vidwindow, looking at the wooden figure --</span><br />
+<span style="color:#ee1e00">CCP: ...huh, interesting.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  looks at the little figure on her lap. "......." --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  lifts it up in her hands. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  has a pained look on her face. "...Thanks..." --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rolls onto her side , still holding the figure in her hands. --</span><br />
+<span style="color:#592c88">CCP: I know a lot of people that deal with it a little easier if they have something to remember them by..</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  uncaptchas a box and opens it. She pulls a Doom decorated tassle out of the box and ties it to the figure. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  captchas the box again. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  //oh my god brb minecraft is doing the thing so i have to restart comp rl quik --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#592c88">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  //ok there --</span><br />
+<span style="color:#646464"><span style="color:#00c300">CURRENT paleBeachbum [CPB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  floats into the bar --</span><br />
+<span style="color:#00c300">CPB: sup, nerds</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is on a bean bag chair, lying on her side and holding a small figurine. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves at PB, laying in a beanbag with a vidwindow open --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  turns on karaoke version of all men are pigs and sings it himself --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is not familiar with that song, nope. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also boggles vacantly at unknown song --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  emerges from blanket narnia once again. Hello world, you have a familiar taste in music. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  <a href='https://www.youtube.com/watch?v=Brnu9v1M-tU'>https://www.youtube.com/watch?v=Brnu9v1M-tU</a> actually sounds pretty close to actual singer --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //sees "studio killers" and nopes out of tab --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //stays noped out of tab because coding --</span><br />
+<span style="color:#72a0c1">CIB: (( auto pilot, need to go really quick ))</span><br />
+<span style="color:#00c300">CPB: &gt;:?</span><br />
+<span style="color:#00c300">CPB: so how did that bonfire go after I went to sleeps</span><br />
+<span style="color:#ee1e00">CCP: it just sort of... fizzled out once it got late.</span><br />
+<span style="color:#00c300">CPB: oh</span><br />
+<span style="color:#00c300">CPB: that was kind of fun</span><br />
+<span style="color:#00c300">CPB: haven't gotten to do one in awhile</span><br />
+<span style="color:#00c300">CPB: meteors aren't an ideal place for fire of an kind :/</span><br />
+<span style="color:#ee1e00">CCP: makes sense.</span><br />
+<span style="color:#00c300">CPB: yup :/</span><br />
+<span style="color:#00c300">CPB: when its warmer, I might do some stargazing if anyone's interested</span><br />
+<span style="color:#00c300">CPB: 'ts pretty fun</span><br />
+<span style="color:#00c300">CPB: even if you aren't really into astronomy and shit</span><br />
+<span style="color:#ee1e00">CCP: considering we were planning a space roadtrip at some point, that might be cool. maybe we might spot things we want to check out when DS finally gets the ship up and running...</span><br />
+<span style="color:#00c300">CPB: maybe</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sings stay the night because he's in a singing mood --</span><br />
+<span style="color:#00c300">CPB: huh</span><br />
+<span style="color:#00c300">CPB: you really like pop music, don't you?</span><br />
+<span style="color:#592c88">CCP: Yes~</span><br />
+<span style="color:#00c300">CPB: I listen to a bit of it</span><br />
+<span style="color:#00c300">CPB: not much, though</span><br />
+<span style="color:#592c88">CCP: I just like hapy music and songs that you you feel pumped.</span><br />
+<span style="color:#00c300">CPB: ah</span><br />
+<span style="color:#592c88">CCP: ((make you*))</span><br />
+<span style="color:#592c88">CCP: ((oh jesus fuck i had music playing and it died to switch songs and a fucking zombie pig made sounds at me i nearly peed myself))</span><br />
+<span style="color:#00c300">CPB: ((pfft))</span><br />
+<span style="color:#72a0c1">CIB: ((snrk))</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  yawns --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  typing intensifies --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  quietly lies on her side. She probably wont be up to anything for a while --</span><br />
+<span style="color:#00c300">CPB: so is movie night going to be a thing or what/</span><br />
+<span style="color:#00c300">CPB: *what?</span><br />
+<span style="color:#00c300">CPB: I missed the last one, you should've told me you were watching pulp fiction!</span><br />
+<span style="color:#72a0c1">CIB: ...movie night can still be a thing.</span><br />
+<span style="color:#00c300">CPB: If no one else has anything, SS said she had a copy of wrackitrolph</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  get excited --</span><br />
+<span style="color:#00c300">CPB: have either of yal' watched any animated stuff yet?</span><br />
+<span style="color:#00c300">CPB: its pretty good, for the most part</span><br />
+<span style="color:#72a0c1">CIB: We watched... an animated film before...</span><br />
+<span style="color:#72a0c1">CIB: What was it...</span><br />
+<span style="color:#00c300">CPB: &gt;:?</span><br />
+<span style="color:#ee1e00">CCP: Emperor's New Groove?</span><br />
+<span style="color:#00c300">CPB: oh wow</span><br />
+<span style="color:#72a0c1">CIB: ..Yeah. Thats it.</span><br />
+<span style="color:#2806ea">CEQ: Oh yeah. hmph.</span><br />
+<span style="color:#72a0c1">CIB: It was Adal's first movie.</span><br />
+<span style="color:#00c300">CPB: I always miss the fun stuff, don't I?</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rolls the little figure around in her hands. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  small gasp --</span><br />
+<span style="color:#592c88">CCP: Can we watch Phantom of the Opera some night??</span><br />
+<span style="color:#00c300">CPB: Never heard of it, someone care to explain?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is still from the future-present <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  i'm calling it that, now --</span><br />
+<span style="color:#592c88">CCP: It's</span><br />
+<span style="color:#592c88">CCP: hard to explain but it's really good!</span><br />
+<span style="color:#00c300">CPB: oh okay</span><br />
+<span style="color:#00c300">CPB: ima go outside for a bit</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  floats out --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  whispers "its not THAT good." --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  decides that yup thats enough memo for a bit and turns to her book --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  whispers how dare you --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  heads back inside --</span><br />
+<span style="color:#00c300">CPB: welp</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  spawns crystals. Puts time bubbles around them, then they disappear. --</span><br />
+<span style="color:#72a0c1">CIB: I'll see those in a bit back on the island...</span><br />
+<span style="color:#00c300">CPB: oh shit</span><br />
+<span style="color:#00c300">CPB: I need to get to work on this now, I guess</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  uncaptchas AU server thingy --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  tweaky tweak tweak --</span><br />
+<span style="color:#00c300">CPB: everyone give me a number, please</span><br />
+<span style="color:#ee1e00">CCP: huh?</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#72a0c1">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  mumbles to herself about the memo --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  yawns. She spent all day on this bean bag --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also spent all day beanbagging --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rolls over --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  lays on her stomach and idly watches the TV --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  throws a bag of edamame at CP --</span><br />
+<span style="color:#00c300">CPB: someone told me you liked this noise</span><br />
+<span style="color:#00c300">CPB: so happy fucking birthday</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  starts eating his own bag of edamame --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  *redCP --</span><br />
+<span style="color:#ee1e00">CCP: oh, thanks.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  takes the bag and snacks a bit --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  gets up and heads upstairs for a shower. --</span><br />
+<span style="color:#72a0c1">CIB: ((afking ))</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  starts rumaging through sylladux --</span><br />
+<span style="color:#00c300">CPB: wait what?</span><br />
+<span style="color:#00c300">CPB: mother of god</span><br />
+<span style="color:#ee1e00">CCP: hm? what is it?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  stands up --</span><br />
+<span style="color:#00c300">CPB: the furby escaped</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#ee1e00">CCP: fuck.</span><br />
+<span style="color:#00c300">CPB: Strifing time?</span><br />
+<span style="color:#00c300">CPB: Strifing time.</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  starts looking around the bar for the furby --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  looks under a couch and is instantly sent flying by super-furby --</span><br />
+<span style="color:#00c300">CPB: AAAAAAAAAAAAH!!!</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#ee1e00">CCP: SHIT!</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  hits a wall, KO'd --</span><br />
+<span style="color:#2806ea">CEQ: /.../</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  immediately goes into attack mode, heading for the furby --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  the furby suddenly comes out from under the couch screeching --</span><br />
+<span style="color:#2806ea">CEQ: Why dod people think that keeping any of those things was a good idea?!?</span><br />
+<span style="color:#00c300">CPB: grooooan....</span><br />
+<span style="color:#00c300">CPB: space furby...</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  eyes close --</span><br />
+<span style="color:#592c88">CCP: A what?</span><br />
+<span style="color:#00c300">CPB: "HISSSSSSS"</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  jumps on purpleCP --</span><br />
+<span style="color:#2806ea">CEQ: We have gosh darn evil space furbies...- Oy! No!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  barks angrily at the furby --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  just sits there --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  is unsure what to do --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  attacks purpleCP, ignoring redCP completely --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  jumps at it, hopefully knocking the furby off for purpleCP --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  *off of --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is just standing back. Yeah, she is NOT getting close to that thing. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  is mostly unphased --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  screeches loudly at purpleCP --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  alternately bites at and powerslashes the furby --</span><br />
+<span style="color:#00c300">CPB: "FEAR ME"</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  aggressive shushing of the furby --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is knocked over by powerslash before hopping on redCP's back, pecking with its demonic beak of evil --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  growls "oh, that is IT!" --</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  an announcer voice from somewhere shouts "SPIKES!", and he transforms into a giant pink spikeball, perforating the SHIT out of the furby --</span><br />
+<span style="color:#00c300">CPB: can't... I... jsss...go...wan...fockin..di</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  the furby pops out, it seems to have one hell of a regeneration stat --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  jumps repeatedly on it, still in spikes mode --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  is amused --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  continues regenarating and hissing --</span><br />
+<span style="color:#2806ea">CEQ: ... Alright. Fine.</span><br />
+<span style="color:#00c300">CPB: ((better))</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  picks it up like a chicken while its distracted <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT darkFurby [CDF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  leaps at EQ --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transforms back --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  walks over to the furby... and attempts to captcha it- OH GOSH --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  is now on EQ's face --</span><br />
+<span style="color:#00c300">CPB: dun..cuptir</span><br />
+<span style="color:#00c300">CPB: ill dastri at</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  yeah forget captching it. More like Yell and punch it time. --</span><br />
+<span style="color:#00c300">CPB: *bleh*</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  still grabs it like a chicken while its distracted --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  flails wildly --</span><br />
+<span style="color:#000000">CDF: HISSSSS</span><br />
+<span style="color:#000000">CDF: SCREEEE</span><br />
+<span style="color:#000000">CDF: FEAR ME</span><br />
+<span style="color:#000000">CDF: AAAAAAAAAAAAAAAH!</span><br />
+<span style="color:#592c88">CCP: sssSSSSHHHHH</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  backs away --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  nibbles on purpleCP's fingers --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues growling at DF, but lets purpleCP handle it for now... --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  is suddenly calming down? --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  pats it --</span><br />
+<span style="color:#00c300">CPB: yooo... dafuq is up witat</span><br />
+<span style="color:#000000">CDF: scree...</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  just... heads back into blanket narnia for a bit. --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  uncaptchas pillows and blankets --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  doesn't even narnia, just buries self in pillows and blankets --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  slowly calms down, still staring at the furby and watching for any kind of attacking --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sits there with a furby in his lap --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  giggles lightly --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  congradulations, you caught... a wild furby! --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  pokemon catch music plays --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boggles vacantly at the pokemon-get jingle --</span><br />
+<span style="color:#2806ea">CEQ: ((I think a furby giggling is the scariest thing I have read today))</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is just peaking out at this shit --</span><br />
+<span style="color:#00c300">CPB: ....</span><br />
+<span style="color:#00c300">CPB: dafuq?</span><br />
+<span style="color:#ee1e00">CCP: ((all of my "same here", EQ.))</span><br />
+<span style="color:#00c300">CPB: that thing was trying to kill me the whole time I was on my meteor...</span><br />
+<span style="color:#592c88">CCP: Maybe because you weren't nice to it.</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  giggles again --</span><br />
+<span style="color:#00c300">CPB: huh...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  returns to a normal state, and returns to his beanbag --</span><br />
+<span style="color:#00c300">CPB: well, if we aren't gonna burn it</span><br />
+<span style="color:#00c300">CPB: then have a leash</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  throws a leash at CP --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ducks --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  *purpleCP --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //I know, but I still had to make the joke --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  gives it a little collar too <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  rolls a fake pokeball over --</span><br />
+<span style="color:#000000">CDF: ((FUCK))</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  *a fake pokeball rolls over --</span><br />
+<span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  enters. --</span><br />
+<span style="color:#ee1e00">CCP: ...better hope that's an unbreakable leash, I've seen what those things can do and it is fucked up.</span><br />
+<span style="color:#592c88">CCP: Is</span><br />
+<span style="color:#592c88">CCP: this a common earth thing?</span><br />
+<span style="color:#592c88">CCP: I'm not sure what's happening here.</span><br />
+<span style="color:#00c300">CPB: This is not normal</span><br />
+<span style="color:#ee1e00">CCP: well, back on earth, furbies were just weird toys from the 1980s or something...</span><br />
+<span style="color:#ee1e00">CCP: but it seems like when they're exposed to Sburb, they become sentient. and VERY bent on evil.</span><br />
+<span style="color:#592c88">CCP: I... see.</span><br />
+<span style="color:#00c300">CPB: damn</span><br />
+<span style="color:#00c300">CPB: you've got like</span><br />
+<span style="color:#00c300">CPB: beast taming skill times a bagillion</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  lol, you can keep the furby if you want --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pokes the furby --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  keeps it <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  growls slightly at the poke --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  growls back --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher's <span style="color:#ee1e00">[CCP'S]</span>  ears go flat at the sound of the furby growl --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  whimpers in terror at the superior growling --</span><br />
+<span style="color:#ee1e00">CCP: hey, you okay over there?</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  pet pet pet pet pet --</span><br />
+<span style="color:#a2a280">CFF: I'm okay. </span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pets the furby --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  giggles at the petting --</span><br />
+<span style="color:#00c300">CPB: ...dafuq?</span><br />
+<span style="color:#a2a280">CFF: heh... good abomination.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pets it some more --</span><br />
+<span style="color:#2806ea">CEQ: ((I still think giggling furbies is the scarest image I have mentally seen in a while))</span><br />
+<span style="color:#ee1e00">CCP: ((indeed.))</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  falls asleep? --</span><br />
+<span style="color:#00c300">CPB: ...huh</span><br />
+<span style="color:#a2a280">CFF: ...huh. It's asleep.</span><br />
+<span style="color:#00c300">CPB: lolnope</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  throws more blankets and pillows overself --</span><br />
+<span style="color:#592c88">CCP: Did you guys want this back?</span><br />
+<span style="color:#00c300">CPB: EQ, lets sign a peace treaty</span><br />
+<span style="color:#00c300">CPB: Pillow Mountain and Blanket Narnia</span><br />
+<span style="color:#2806ea">CEQ: Go away.</span><br />
+<span style="color:#00c300">CPB: the greatest political power of all time</span><br />
+<span style="color:#00c300">CPB: we could unite europe</span><br />
+<span style="color:#00c300">CPB: and nah, it 'd probablly kill me</span><br />
+<span style="color:#00c300">CPB: you cans keeps it</span><br />
+<span style="color:#ee1e00">CCP: yeah EQ, just stay in there. it's gotta be safer than here.</span><br />
+<span style="color:#00c300">CPB: EQ</span><br />
+<span style="color:#00c300">CPB: why don't you want to unite Europe?</span><br />
+<span style="color:#a2a280">CFF: ...You guys are seriously overreacting.</span><br />
+<span style="color:#ee1e00">CCP: ...go ahead and keep that thing, I'm scared enough of the things.</span><br />
+<span style="color:#a2a280">CFF: Its just a furby.</span><br />
+<span style="color:#2806ea">CEQ: Blanket narnia has books and warm and computers. I'm staying in here.</span><br />
+<span style="color:#00c300">CPB: It tried to kill me in space</span><br />
+<span style="color:#2806ea">CEQ: "Just a furby."</span><br />
+<span style="color:#00c300">CPB: oh I should build my own pillow fort</span><br />
+<span style="color:#ee1e00">CCP: FF. remind me to have FL use the AU Machine to show you what happened when the <span style="color:#bacafe">Bacafe</span> was in Halloween Mode.</span><br />
+<span style="color:#a2a280">CFF: Yes, just a bloodyy furby. At least it's not a trollz doll *shiver*</span><br />
+<span style="color:#2806ea">CEQ: ...I still want to forget that.</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  suddenly the pillows begin to reshape into this shit <a href='https://www.pacificcoast.com/staticcontent/en/blog/blogimages/diy-pillow.jpg'>https://www.pacificcoast.com/staticcontent/en/blog/blogimages/diy-pillow.jpg</a> --</span><br />
+<span style="color:#a2a280">CFF: ...That bad?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  pokes her head out of the blanket pile. --</span><br />
+<span style="color:#ee1e00">CCP: ...ooh, nice fort.</span><br />
+<span style="color:#2806ea">CEQ: Yeah, but... you are scared of trollz dolls?</span><br />
+<span style="color:#00c300">CPB: thanks</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  climbs up on top of the fort --</span><br />
+<span style="color:#a2a280">CFF: They are creepy as fuck.</span><br />
+<span style="color:#00c300">CPB: i'll certainly be safe up here</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  stabs at a piece of wood --</span><br />
+<span style="color:#2806ea">CEQ: They are not even that bad. And you are calling furbies the not-scary things...</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  holds up a sign that says "does anyone have lava" <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  shows EQ this: <a href='http://behance.vo.llnwd.net/profiles12/613794/projects/2064434/e1ce940252307f11e5ba49cf59df1a7d.JPG'>http://behance.vo.llnwd.net/profiles12/613794/projects/2064434/e1ce940252307f11e5ba49cf59df1a7d.JPG</a> --</span><br />
+<span style="color:#00c300">CPB: lolwat?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  backs away for a bit, blinking from shock. --</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#a2a280">CFF: SEE?</span><br />
+<span style="color:#2806ea">CEQ: Okay, I'll give you that much: Their eyes are demonic.</span><br />
+<span style="color:#2806ea">CEQ: But besides that? Eh.</span><br />
+<span style="color:#00c300">CPB: EQ!</span><br />
+<span style="color:#a2a280">CFF: Thank you. *Throws the image out the window and into the sun*</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at the pic... and jumps away in fright --</span><br />
+<span style="color:#00c300">CPB: MERGE NATIONS WITH ME</span><br />
+<span style="color:#a2a280">CFF: Also, they are NAKED.</span><br />
+<span style="color:#ee1e00">CCP: the heck is that</span><br />
+<span style="color:#00c300">CPB: HELP BECOME THE MOST POWERFUL NATION</span><br />
+<span style="color:#2806ea">CEQ: NO!</span><br />
+<span style="color:#00c300">CPB: AND UNITE EUROPE</span><br />
+<span style="color:#a2a280">CFF: Thats is a Trollz doll.</span><br />
+<span style="color:#00c300">CPB: AND THEN ON TO ASIA</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sits there completely serious with his sign --</span><br />
+<span style="color:#00c300">CPB: AND AUSTRALIA</span><br />
+<span style="color:#a2a280">CFF: The old kind.</span><br />
+<span style="color:#00c300">CPB: AND SOUTH AMERICA</span><br />
+<span style="color:#2806ea">CEQ: Blanket says NO to political shenenigans!</span><br />
+<span style="color:#00c300">CPB: UNTIL WE FINALLY TAKE DOWN NORTH AMERICA</span><br />
+<span style="color:#00c300">CPB: THEN THIS IS WAR</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  mountains a pillow cannon and fires at EQ --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  ducks into the blankets again --</span><br />
+<span style="color:#2806ea">CEQ: Hey! Rude!</span><br />
+<span style="color:#00c300">CPB: WAAAAAAAR</span><br />
+<span style="color:#00c300">CPB: WORLD DOMINATION</span><br />
+<span style="color:#00c300">CPB: POWER!</span><br />
+<span style="color:#00c300">CPB: MWAHAHAHAHA!</span><br />
+<span style="color:#00c300">CPB: nah, i'm kiddin'</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  shakes in fear of the psycho known as PB <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#a2a280">CFF: ...heh.</span><br />
+<span style="color:#00c300">CPB: like my pillow cannon?</span><br />
+<span style="color:#2806ea">CEQ: Why do you even need a pillow cannon?</span><br />
+<span style="color:#a2a280">CFF: Why not?</span><br />
+<span style="color:#2806ea">CEQ: ... Fair point.</span><br />
+<span style="color:#a2a280">CFF: CP you okay?</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#00c300">CPB: dun worry, its set on low</span><br />
+<span style="color:#00c300">CPB: this thing has enough power to smash a hole right through the building</span><br />
+<span style="color:#00c300">CPB: or it would</span><br />
+<span style="color:#00c300">CPB: if pillows didn't splode when they hit walls</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  fires a pillow at a wall at full force... FEATHERS EVERYWHERE! --</span><br />
+<span style="color:#ee1e00">CCP: uh... okay?</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stands in front of the cannon like an idiot, looking at the feathersplosion --</span><br />
+<span style="color:#646464">-- CURRENT darkFurby <span style="color:#000000">[CDF]</span>  falls asleep agains --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDF</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  uncaptchas his smelting station and burns the furby in it goodbye furby <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  nods in agreement with purpleCP --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  pokes out of blanket narnia just to give purple!CP a thumbs up. Good job. --</span><br />
+<span style="color:#ee1e00">CCP: ...I do gotta admit though, that's a pretty gruesome way to off something.</span><br />
+<span style="color:#2806ea">CEQ: True. I can agree with that. But I also do not like demonic furbies. So... I can let it slide this time.</span><br />
+<span style="color:#592c88">CCP: Gruesome is my specialty.</span><br />
+<span style="color:#a2a280">CFF: ...Aww....</span><br />
+<span style="color:#00c300">CPB: damn</span><br />
+<span style="color:#00c300">CPB: now hopefully it didn't nest on the meteor</span><br />
+<span style="color:#2806ea">CEQ: ... I also must say this before anyone gets the idea: NO-ONE IS ALLOWED TO CREATE MUTTS OR THEY GET A LION TO THE FACE.</span><br />
+<span style="color:#ee1e00">CCP: to create /what/?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  sighs --</span><br />
+<span style="color:#2806ea">CEQ: They are the sort of "Monsters" from The Hunger Games. And they are made of nightmares.</span><br />
+<span style="color:#ee1e00">CCP: ...gotcha.</span><br />
+<span style="color:#2806ea">CEQ: Some mutts are not bad. Jabberjays are not bad. Those things at the end of the last book? BAD.</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  and secretly, the Furbies nested in a forest near PB's crashsite --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  prepare for the furby invasion, mofos --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //ooc stare at PB and a growled "don't even." --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum!OOC <span style="color:#00c300">[CPB!OOC]</span>  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum!OOC <span style="color:#00c300">[CPB!OOC]</span>  should do that for hollosween event this year --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  puts smelting station away before someone hurts themselves --</span><br />
+<span style="color:#00c300">CPB: ((lol, furby invasion 2014</span><br />
+<span style="color:#00c300">CPB: ))</span><br />
+<span style="color:#00c300">CPB: ((are you ready?))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //I'm serious though, ask FL tomorrow when he's on and have him explain the Halloween Event at the Bacafe. the final bosss was in fact an Ultimate Furby. --</span><br />
+<span style="color:#00c300">CPB: ((furby 2: revenge of the furby))</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //oh GOSH. --</span><br />
+<span style="color:#00c300">CPB: ((i'll even GM it as a corny horror movie))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  still wonders how the hell FF is perfectly 0kay with furbies though... --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  continues stairing at everyone from above pillow fort --</span><br />
+<span style="color:#00c300">CPB: am I allowed to live here?</span><br />
+<span style="color:#00c300">CPB: like... until I can dig my beach</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  small yawn --</span><br />
+<span style="color:#ee1e00">CCP: uh, you'd have to ask IB since they're the bar owner, but it should be fine.</span><br />
+<span style="color:#00c300">CPB: cool</span><br />
+<span style="color:#00c300">CPB: i'm going to mount more cannons incase of the furby invasion</span><br />
+<span style="color:#00c300">CPB: EQ, i'm sending you cannons</span><br />
+<span style="color:#ee1e00">CCP: ...btw, you sure the pillow cannon is safe? like, have you actually tested firing it at /yourself/ or something?</span><br />
+<span style="color:#2806ea">CEQ: No.</span><br />
+<span style="color:#00c300">CPB: yeah</span><br />
+<span style="color:#00c300">CPB: they're completely non-lethal</span><br />
+<span style="color:#00c300">CPB: watch</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  sets the cannons on delay and walks in front of it --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is hit with the force of a million pillows but is perfectly safe --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  realizes he was in front of a cannon too still-- --</span><br />
+<span style="color:#ee1e00">CCP: oof</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sleepy wobble --</span><br />
+<span style="color:#ee1e00">CCP: ........ok then.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#00c300">CPB: the furbies won't be able to get in</span><br />
+<span style="color:#00c300">CPB: lolnope</span><br />
+<span style="color:#00c300">CPB: nopety nope</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  continues adding on to the fort --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  comes back down the stairs with a towel on her head, not wrapped or anything just, on her head. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  stands there at the bottom of the stairs and looks into the bar. --</span><br />
+<span style="color:#ee1e00">CCP: sup IB</span><br />
+<span style="color:#00c300">CPB: yo</span><br />
+<span style="color:#72a0c1">CIB: ....</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is sitting ontop of pillow fort --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sloooowly plops over and sleepy blinks --</span><br />
+<span style="color:#72a0c1">CIB: what's going on...?</span><br />
+<span style="color:#2806ea">CEQ: Heya.</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  nose is still bleeding from furby mishap --</span><br />
+<span style="color:#2806ea">CEQ: Well, PB made a pillow fort to counteract my blanket narnia.</span><br />
+<span style="color:#00c300">CPB: furby</span><br />
+<span style="color:#00c300">CPB: also, EQ's thing</span><br />
+<span style="color:#2806ea">CEQ: And yeah there was a furby for a bit. But it died.</span><br />
+<span style="color:#72a0c1">CIB: ...alright</span><br />
+<span style="color:#00c300">CPB: it even has pillow cannons</span><br />
+<span style="color:#72a0c1">CIB: I'd prefer blanket narnia</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  goes to blanket narnia and flops down on it --</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks into a bar --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //ouch --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //ha ha. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //*stale laughter over old joke* --</span><br />
+<span style="color:#cb7de6">CSJ: hey guys. ➜</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is suddenly sharing blanket narnia and pouts. Dangit, sharing. --</span><br />
+<span style="color:#00c300">CPB: ...</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  waves from blanket narina --</span><br />
+<span style="color:#00c300">CPB: haha!</span><br />
+<span style="color:#00c300">CPB: I hath won, EQ!</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is probably on top of EQ --</span><br />
+<span style="color:#2806ea">CEQ: Heya... -and why so?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  hot <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  // <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //goshdarnit you two --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits down somewhere, preferibly away from PB --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  weeaboo-mode activate --</span><br />
+<span style="color:#2806ea">CEQ: IB, go awaaaaay. You are squishing narnia.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sits at the foot of Blanket Narnia, on top of loose pillow-cannon ammo --</span><br />
+<span style="color:#72a0c1">CIB: But Hannah-chaaaaan</span><br />
+<span style="color:#2806ea">CEQ: Meeeeeh.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  sleepily crawls over to adal and lays all over him --</span><br />
+<span style="color:#72a0c1">CIB: Hannah is my lovely kohai. I play the senpai boke and she is the straightman...straightwoman?</span><br />
+<span style="color:#2806ea">CEQ: There is only room for one in all of blanket narnia. And I called dibs.</span><br />
+<span style="color:#ee1e00">CCP: pfft</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  grumble-grumble --</span><br />
+<span style="color:#72a0c1">CIB: We appear to be still occupying blanket narnia</span><br />
+<span style="color:#2806ea">CEQ: Yes. Go away. I banish thee.</span><br />
+<span style="color:#72a0c1">CIB: How is there only room for one when we are both here</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  push --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rolls off of blanket narnia and collides with the wolf --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  random Panic at the Disco songs start playing from the fort --</span><br />
+<span style="color:#00c300">CPB: ?!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is stepped on --</span><br />
+<span style="color:#00c300">CPB: what the fuck?</span><br />
+<span style="color:#ee1e00">CCP: ow!</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  more like rolled on --</span><br />
+<span style="color:#00c300">CPB: um</span><br />
+<span style="color:#00c300">CPB: do you hear that?</span><br />
+<span style="color:#2806ea">CEQ: I am the queen of narnia. Yes.</span><br />
+<span style="color:#00c300">CPB: seriously do you hear that</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  falls off of Kimura and onto floor --</span><br />
+<span style="color:#00c300">CPB: is that...</span><br />
+<span style="color:#00c300">CPB: Panic at the Disco</span><br />
+<span style="color:#00c300">CPB: holy shit</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#00c300">CPB: what?</span><br />
+<span style="color:#72a0c1">CIB: Like the movie?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  uncaptchas a plastic crown and wears it --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  goes down into pillow fort --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  comes back up --</span><br />
+<span style="color:#00c300">CPB: dafuq is this doing in here?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  holds up a bambox --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  stares at EQ --</span><br />
+<span style="color:#00c300">CPB: HAVE A PANIC AT THE DISCO BAMBAX!</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  chucks the bambax --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  starts reciting Blumenkranz --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  lies on the floor and mumbles the song to herself --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  stares right back at IB... before tossing a rolled up blanket at her. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is covered in blanket --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  muffled blumenkranz being sang --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  uses mad buccaneer skill to hop onto Narnia like Jack fucking Sparrow --</span><br />
+<span style="color:#2806ea">CEQ: Oy! Out!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  doge-rolls out of the way --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  portals into pillow fort and takes it over. She even puts up her own flag --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  aims cannons at narnia --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  instead lands face first on Narnia --</span><br />
+<span style="color:#2806ea">CEQ: Blanket narnia does welcome visitors at the moment! Go to your own spot-</span><br />
+<span style="color:#00c300">CPB: aAAAAAH!</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  quickly retreats further into blanket narnia. oh gosh, cannons. --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  gets up, face bleeding again --</span><br />
+<span style="color:#00c300">CPB: ow</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  absconds and uncaptchas auto pillow fort --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //How did you hurt yourself from faceplanting into BLANKETS? --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  has taken over pillow fort --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  rolls his way up blanket narnia, staring at IB --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  suddenly: <a href='http://25.media.tumblr.com/d158cc8c13ca0eae7992a39e774ac133/tumblr_msxymm0ZN11so0ukuo1_500.jpg'>http://25.media.tumblr.com/d158cc8c13ca0eae7992a39e774ac133/tumblr_msxymm0ZN11so0ukuo1_500.jpg</a> --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  shoots beanbags from fort canons at narnia --</span><br />
+<span style="color:#00c300">CPB: haha!</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  enters fort --</span><br />
+<span style="color:#cb7de6">CSJ: ... ➜</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sees incoming beanbags --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  narnia has no defence against cannons oh NO! --</span><br />
+<span style="color:#ee1e00">CCP: ...why did I think this was a good idea.</span><br />
+<span style="color:#00c300">CPB: is this war?</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is beanbag'd --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  little air waves from sonic punches whap at pb and ib --</span><br />
+<span style="color:#00c300">CPB: THIS IS WAR!</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is inside fort and only exeriences a slight pop to the exterior of the fort --</span><br />
+<span style="color:#2806ea">CEQ: Narnia does not want to fight! We just want solitude.</span><br />
+<span style="color:#00c300">CPB: IB</span><br />
+<span style="color:#00c300">CPB: HOW DARE YOU</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker's <span style="color:#72a0c1">[CIB'S]</span>  pillow fort caves in from CP's punch. --</span><br />
+<span style="color:#00c300">CPB: WHO EVEN ATTACKS A NEUTRAL COUNTRY?!</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is vuried --</span><br />
+<span style="color:#00c300">CPB: THATS A DICK MOVE</span><br />
+<span style="color:#72a0c1">CIB: buried*</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  pokes her head out once again. What just happened? --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  whispers less loud please --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  fires pillow cannons on IB --</span><br />
+<span style="color:#00c300">CPB: I'm gonna go all UN on your ass!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is buried under beanbags at the foot of narnia --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  tries to push off the beanbags from kimura. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is just buried --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets out from under the beanbags, and goes to headbutt PB's fort --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  fort caves in --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  takes note that everyone is defending narnia, and she hasn't even presented a lion yet. Wow. --</span><br />
+<span style="color:#00c300">CPB: ima go all voltron on these wrecked forts asses</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  snop --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  cranky whining noises and scoots up into adal's shirt --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  the two pillow wreckages combine --</span><br />
+<span style="color:#ee1e00">CCP: ...what the</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  continues to be buried and unmoving --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  suddenly: <a href='http://2.bp.blogspot.com/-ttQTdqzzSME/ThR_YSDyBOI/AAAAAAAAAUg/ztUyC-xmo7g/s1600/20110702163048.jpg'>http://2.bp.blogspot.com/-ttQTdqzzSME/ThR_YSDyBOI/AAAAAAAAAUg/ztUyC-xmo7g/s1600/20110702163048.jpg</a> --</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#cb7de6">CSJ: ...is now a bad time to be here? ➜</span><br />
+<span style="color:#00c300">CPB: EQ</span><br />
+<span style="color:#ee1e00">CCP: nah SJ, join in</span><br />
+<span style="color:#00c300">CPB: We won the war</span><br />
+<span style="color:#2806ea">CEQ: Nah, SJ. Just sudden fort fight.</span><br />
+<span style="color:#2806ea">CEQ: Yessssss</span><br />
+<span style="color:#cb7de6">CSJ: I'm not really feeling it. ➜</span><br />
+<span style="color:#00c300">CPB: IB's invasion has ended</span><br />
+<span style="color:#00c300">CPB: we've won at last</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is probably dead --</span><br />
+<span style="color:#2806ea">CEQ: Blanket narnia shall stay neutral.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  nods, and burrows back into the pile once again. One war won, once again. Victory to Blanket Narnia! --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //also bleeh try saying "one war won, once" five times fast :P --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  climbs on top of PB's combined pillow wreck thing --</span><br />
+<span style="color:#00c300">CPB: welcome to Castle PB</span><br />
+<span style="color:#00c300">CPB: the greatest place on Earth</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  starts playing fanfare music --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  magestic birds start flying towards the ocean --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  trips, and falls in --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  dives into the fort after CP --</span><br />
+<span style="color:#00c300">CPB: I will save you, princess</span><br />
+<span style="color:#00c300">CPB: so are we going to arrest IB for war crimes?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  grabs CP and starts pulling them up --</span><br />
+<span style="color:#00c300">CPB: another victory for Castle PB!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is pulled up, upper body stuck inside a pillow still --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  hops off the fort and walks towards PB with a pillow sword --</span><br />
+<span style="color:#00c300">CPB: I SHALL PURGE YOU FROM THIS WORLD</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  pokes IB with the pillow sword --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  sends a "rescue/retrevial team" (aka just her bundled in a white blanket) over to where IB has most likely died from pillow-burial. --</span><br />
+<span style="color:#ee1e00">CCP: leave IB alone probably, self-defense should not be punished...</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is burried still --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  unburies IB --</span><br />
+<span style="color:#00c300">CPB: yo, Mikelina</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  stares up from pillows. "Technically it would be Mikalea." --</span><br />
+<span style="color:#00c300">CPB: Mikelina sounds cuter :P</span><br />
+<span style="color:#00c300">CPB: anyway get up</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  tries to help IB up --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  turns back into a boy and gets up himself. --</span><br />
+<span style="color:#72a0c1">CIB: I got it.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  brushes self off and turns back into a girl. --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  Okay, no death via pillows. Good. She then quickly returns to her throne in blanket narnia before anyone else got the smart idea to. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shakes pillow off head --</span><br />
+<span style="color:#ee1e00">CCP: so now what?</span><br />
+<span style="color:#00c300">CPB: I dunno</span><br />
+<span style="color:#2806ea">CEQ: No clue.</span><br />
+<span style="color:#00c300">CPB: I feel like a fucking kindergardener</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  walks up to Narnia --</span><br />
+<span style="color:#00c300">CPB: does the representative from for PB have permission to enter? :P</span><br />
+<span style="color:#ee1e00">CCP: sometimes, it's good to feel like a kid again.</span><br />
+<span style="color:#2806ea">CEQ: No.</span><br />
+<span style="color:#00c300">CPB: he has cookies</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rubs shoulder and flops back onto pillow pile --</span><br />
+<span style="color:#2806ea">CEQ: He can keep cookies. Blanket narnia is not accepting people at the moment.</span><br />
+<span style="color:#2806ea">CEQ: It is a one person kingdom now shoo. Take a blanket if you want, but shoo.</span><br />
+<span style="color:#00c300">CPB: he has important business about getting EQ some more books</span><br />
+<span style="color:#72a0c1">CIB: Aah......aaaaah.....</span><br />
+<span style="color:#72a0c1">CIB: achoo!</span><br />
+<span style="color:#ee1e00">CCP: ...!</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  suDDENLY EVERYTHING IS PILLOWS --</span><br />
+<span style="color:#72a0c1">CIB: tadaah</span><br />
+<span style="color:#2806ea">CEQ: Well, EQ has more than enoug-</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets hit by a pillow --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is hit by a pillow as she retreats. --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is blindsided by a pillow and flies into a wall --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is buried in pillows --</span><br />
+<span style="color:#2806ea">CEQ: o.o</span><br />
+<span style="color:#72a0c1">CIB: muahahaha</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  falls stone cold asleep --</span><br />
+<span style="color:#2806ea">CEQ: You pillow'd everyone!</span><br />
+<span style="color:#00c300">CPB: Castle PB has donations for relief efforts</span><br />
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((brb, rebooting))</span><br />
+<span style="color:#00c300">CPB: seriously, EQ, cans I comes in?</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  peeks out from pillow wad --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  builds pillow castle indoors --</span><br />
+<span style="color:#2806ea">CEQ: No. I wasn't kidding when I said that this place is for one-person.</span><br />
+<span style="color:#2806ea">CEQ: So meh. My narnia.</span><br />
+<span style="color:#00c300">CPB: does anyone here like doges?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  uncaptchas doge ash necklace --</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#00c300">CPB: its a memorial to an old doge my family used to own</span><br />
+<span style="color:#72a0c1">CIB: Kim quick! get into the fort!</span><br />
+<span style="color:#00c300">CPB: i'm not particularly interested in it</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  struggles to roll his pillow-amari'd self over to the fort --</span><br />
+<span style="color:#00c300">CPB: plus my cousin always creeped me out by saying that the gem was made of the doge's ashes</span><br />
+<span style="color:#ee1e00">CCP: what.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  roll-flailing intensifies --</span><br />
+<span style="color:#00c300">CPB: ...yup</span><br />
+<span style="color:#00c300">CPB: he was a creep</span><br />
+<span style="color:#00c300">CPB: I wouldn't put too much belief into that</span><br />
+<span style="color:#00c300">CPB: anywho, i'm not really interested in it</span><br />
+<span style="color:#00c300">CPB: even though I pretty much know thats not what its made of... its still just odd</span><br />
+<span style="color:#00c300">CPB: its a diamond, I know that much</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  drops it on a table some place before re-entering Castle PB --</span><br />
+<span style="color:#646464"><span style="color:#3b3b58">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  stretches like a really big cat --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is basically a very large pillow now, mobility-wise... he just flops at the foot of Fort IB --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  sets silas on the couch and gets up --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  is just admiring how adorable those two are, what even the fuck --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  has a pillow castle --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  combs out his hair or at least makes an attempt to, its hard when your hair is naturally a mess --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sits inside and enjoys a cup of tea --</span><br />
+<span style="color:#ee1e00">CCP: well, this was pretty interesting I guess</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  uses ninja luck skills to sneak into castle --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  Pillow Knights find PB and attack! --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  absconds back to Castle PB before getting his own tea --</span><br />
+<span style="color:#00c300">CPB: ALL I WANTED WAS SOME TEA</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  puts his hair up in a bun --</span><br />
+<span style="color:#72a0c1">CIB: You must be invited.</span><br />
+<span style="color:#72a0c1">CIB: Like CP</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  also puts glasses on --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  muffled "oof" as the pillow knights trip over him being a pillow --</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  drinks alchoholic tea and is drunk almost instantly --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  the pillow knights scatter --</span><br />
+<span style="color:#00c300">CPB: hay, IB...</span><br />
+<span style="color:#72a0c1">CIB: hm?</span><br />
+<span style="color:#00c300">CPB: gas wit</span><br />
+<span style="color:#72a0c1">CIB: what</span><br />
+<span style="color:#00c300">CPB: i hag croos in Aqider</span><br />
+<span style="color:#72a0c1">CIB: ......pardon?</span><br />
+<span style="color:#00c300">CPB: i haj crux on Aqidarp</span><br />
+<span style="color:#72a0c1">CIB: ..............................????????</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  shuffles to the kitchen --</span><br />
+<span style="color:#2806ea">CEQ: ...?</span><br />
+<span style="color:#00c300">CPB: I hig crose, in uquador</span><br />
+<span style="color:#ee1e00">CCP: wat.</span><br />
+<span style="color:#72a0c1">CIB: It sounds like he is saying "I have a crush on... someone...?"</span><br />
+<span style="color:#ee1e00">CCP: maybe????????</span><br />
+<span style="color:#72a0c1">CIB: Equidor?</span><br />
+<span style="color:#72a0c1">CIB: a spider?</span><br />
+<span style="color:#646464">-- CURRENT paleBeachbum <span style="color:#00c300">[CPB]</span>  cough cough --</span><br />
+<span style="color:#00c300">CPB: ho al di shink im</span><br />
+<span style="color:#72a0c1">CIB: .....</span><br />
+<span style="color:#72a0c1">CIB: i</span><br />
+<span style="color:#72a0c1">CIB: dont even</span><br />
+<span style="color:#2806ea">CEQ: Uh.</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  shuffles out of kitchen with spaghetti --</span><br />
+<span style="color:#00c300">CPB: ho aldo yi shink i im</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  very confused headtilt --</span><br />
+<span style="color:#72a0c1">CIB: ...holw you think i am?</span><br />
+<span style="color:#72a0c1">CIB: how*</span><br />
+<span style="color:#72a0c1">CIB: how old*</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  sits at counter and munches spaghetti --</span><br />
+<span style="color:#2806ea">CEQ: "How old do you think I am?"</span><br />
+<span style="color:#72a0c1">CIB: Arent you like, 16</span><br />
+<span style="color:#ee1e00">CCP: ah</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  mutters most no-one here paid attention to those many "dont drink if you are underage" adverts. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sighs --</span><br />
+<span style="color:#00c300">CPB: lwer</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  just dissapears into narnia again dont mind her --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sends invitation to castle via canon to EQ --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  eats spaghetti like a kid --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  aquires the invitation and staaares at it for a bit... before setting up a counsil of blankets to guard over narnia whilst she would be gone. --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  hops out of narnia and heads over to the pillow castle. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  pillow knights greet EQ at the door and let her in --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  pillow knights. Sweet. She heads on into the castle of pillows. This is an important royal mission, clearly. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finally manages to un-pillow himself and follow EQ in --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sits at a table of pillows and tea --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  offers tea to EQ and CP --</span><br />
+<span style="color:#ee1e00">CCP: whoa. nice place ya got here.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  accepts tea --</span><br />
+<span style="color:#2806ea">CEQ: Oooh...</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  happilly takes the tea. --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  sets up a fort out of pillow cushions fuq th police --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  //couch cusihions --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  //i meant couch cushions --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //sure you did --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  // pillow cushions. Adorable. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //there's only a few couches in the bar, that's a pretty small fort --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  //he has a lot on him --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  has set up a small house out of cushions --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  makes a little fence out of straws and string --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  just, enjoys tea. --</span><br />
+<span style="color:#72a0c1">CIB: I'm almost tempted to put on a pretty dress but then i'd think im just really weird</span><br />
+<span style="color:#2806ea">CEQ: Maybe.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  has added makeshift landscaping --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  sits in the doorway to his elaborate cushion house --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  drinks tea --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  // <a href='http://i.imgur.com/yxQpXZQ.png'>http://i.imgur.com/yxQpXZQ.png</a> --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  // *muffled "HAH" in the distance* --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  nibbles on bread --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is bored again and sighs --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is starting to nod off. Pillows and tea do not keep someone awake, after all... yaaawn... --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  yawns --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  half-sleepy-falls onto the pillow floor --</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  whispers amateurs --</span><br />
+<span style="color:#72a0c1">CIB: ...</span><br />
+<span style="color:#72a0c1">CIB: Shoot. Lets go outside.</span><br />
+<span style="color:#ee1e00">CCP: yeah, may as well while there's still a bit of snow left...</span><br />
+<span style="color:#72a0c1">CIB: Were all going to fall asleep and then get buried</span><br />
+<span style="color:#ee1e00">CCP: ...oh, you mean just out of the castle...</span><br />
+<span style="color:#72a0c1">CIB: No outsidetoo</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  gets out of her pillow chair and cleans up all the tea stuff. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  gets out of the castle --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  // can the internet stop hiccuping? I think not. --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  being a classy grown child --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  heads to the door after depositing tea to kitchen --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  rubs her eyes, trying to wake up a bit. Gaaaah sleep why what happened. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  proceeds to exit castle... almost tripping into a pillow pile again on the way out --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  carefully steps out of the castle --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks outside --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  runs over to blanket narnia, nabs a few blankets, then follows CP outside. --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  just sort of holes up in his cushion house --</span><br />
+<span style="color:#646464"><span style="color:#592c88">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  yawns and scurries into the cushion house --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  meanwhile, PB's blanket fort thingy has probably collapsed at this point --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  Blanket Narnia shall forever stand tall. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  a lot of shooshing from casa de homo --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //*snort* --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  floats back inside, burrows into Blanket Narnia once again, and promptly passes out. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  shooshing continues but a lil quieter --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //pfft --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  crawls out of cushion house nd just sits right outside the entrance --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  //abruptly works on changeing text colors since a certain butt cant see current colors on his theme --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  throws lil paper airplanes into th house --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //wELL EXCUSE ME --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  //ur not xcuzd --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //you talking about being invisible on Steamchum I'm guessing? :P --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#592c88">[CCP]</span>  //yis --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //thaaaat explains it --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  // same with EQ. her color is hard to see sometimes --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //in steamchum? Really? :? --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  // TT's is also hard to see. its a very vibrant purple. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //yeah... --</span><br />
+<span style="color:#646464"><span style="color:#39b873">CURRENT issunJar [CIJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  //hold that think while I take a look... --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //huh... I've yet to get complaints from other people who use steamchum for my color... maybe its your screen? --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  //*shrug* --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#3b3b58">[CSB]</span>  scoots out of th cushion house rubbing his face with his poncho --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //like when i pull up athensHeroine most colors are fine so shrug --</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  //yeah, EQ's fairly visible on steamchum. purpleCP kinda isn't... --</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  //...and SB is /entirely invisible/ on steamchum's userlist --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //... dang. --</span><br />
+<span style="color:#c6c11a">CSB: ((i'VE CHANGED COLORS FOR BOTH NOW THO))</span><br />
+<span style="color:#9f8a89">CCP: ((which im sorry for because their eye colors are obnoxious))</span><br />
+<span style="color:#39b873">CIJ: ((...Ah. You actually had to /say something that wasn't a slashme/ for the handle's color to upd8.))</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters... and leaps onto the remains of PB's fort :D --</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#c6c11a">[CSB]</span>  intense grumping --</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  pats the grump --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  walks back inside and captchalogues "comfort sign: pillow heaven" --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  sits down on a chair with a flop --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  rubs her eyes. "...I think I'll just go to bed..." --</span><br />
+<span style="color:#ee1e00">CCP: mmk. night then.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  waves to Kimura and the 'aliens'. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  heads up the stairs and to her room. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  wakes up from a beanbag, bouncing over and landing on Kimura's snout --</span><br />
+<span style="color:#39b873">CIJ: Hey! Where were ya last night? I was here by myself!</span><br />
+<span style="color:#ee1e00">CCP: ...oh, right. I forgot to tell you that it was warm enough outside again, so we moved back to my house...</span><br />
+<span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#c6c11a">[CSB]</span>  curls up in a ball and pouts --</span><br />
+<span style="color:#39b873">CIJ: ...Oh. Well next time, don't forget about me, alright?</span><br />
+<span style="color:#39b873">CIJ: ...Also what's with those two over there?</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  glances over at SB and tan!CP --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  shooshpaps the grump --</span><br />
+<span style="color:#ee1e00">CCP: uh, apparently they're visitors that are native to this universe...</span><br />
+<span style="color:#39b873">CIJ: Huh. Not even a month here and ya already found aliens. This is gonna be interesting.</span><br />
+<span style="color:#ee1e00">CCP: yup. anyway, we should probably be heading back to the house at this point...</span><br />
+<span style="color:#ee1e00">CCP: you go ahead, I'll catch up.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  nods, then bounces out the door --</span><br />
+<span style="color:#646464"><span style="color:#000000">CIJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  yawns, also leaving --</span><br />

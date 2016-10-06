@@ -1,0 +1,362 @@
+[12:20] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[01:18] <span style="color:#646464"><span style="color:#c8382d">CURRENT vermillionShark [CVS]</span> RIGHT NOW responded to memo.</span><br />
+[01:18] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  strolls in, gets a fried chicken breast from the replicator and sits down at the bar, muching on it. --</span><br />
+[01:21] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  glances around --</span><br />
+[01:21] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  shrugs --</span><br />
+[01:21] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  quiet for once --</span><br />
+[01:21] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sort snoring from beanbag den --</span><br />
+[01:21] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  enjoys the quiet for a while. --</span><br />
+[01:29] <span style="color:#646464"><span style="color:#0078f0">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+[01:29] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks into the bar. --</span><br />
+[01:30] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  pulls out old timey radio and tunes it into the consort ball game in neon --</span><br />
+[01:30] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  listens to the "broad cast" but its mostly just consort chattering --</span><br />
+[01:30] <span style="color:#ee1e00">CCP: sup FL</span><br />
+[01:31] <span style="color:#0078f0">CFL: meh...</span><br />
+[02:08] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks over to the replicator. --</span><br />
+[02:08] <span style="color:#0078f0">CFL: Pumpkin Pie.</span><br />
+[02:08] <span style="color:#0078f0">CFL: ...</span><br />
+[02:08] <span style="color:#0078f0">CFL: gog dammit</span><br />
+[02:08] <span style="color:#ee1e00">CCP: hm?</span><br />
+[02:09] <span style="color:#0078f0">CFL: should have expected that.</span><br />
+[02:09] <span style="color:#0078f0">CFL: Um... pumpkin?</span><br />
+[02:09] <span style="color:#0078f0">CFL: ...still nothing, huh.</span><br />
+[02:09] <span style="color:#0078f0">CFL: then again it is pumpkin</span><br />
+[02:10] <span style="color:#ee1e00">CCP: nothing's happening because it's a keyboard, not a voice receiver.</span><br />
+[02:11] <span style="color:#0078f0">CFL: Pretty sure it does recieve voice</span><br />
+[02:11] <span style="color:#0078f0">CFL: Like, I could say mac and cheese-</span><br />
+[02:11] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // some mac and cheese is replicated. --</span><br />
+[02:11] <span style="color:#0078f0">CFL: ...and it would do it.</span><br />
+[02:11] <span style="color:#0078f0">CFL: Seriously, Voice commands are so much /simpler/</span><br />
+[02:12] <span style="color:#ee1e00">CCP: it's... never done that for me.</span><br />
+[02:12] <span style="color:#0078f0">CFL: ...</span><br />
+[02:12] <span style="color:#0078f0">CFL: Huh.</span><br />
+[02:12] <span style="color:#ee1e00">CCP: --and yes, I /have/ in fact tried it in human form, it doesn't acknowledge a thing either way.</span><br />
+[02:13] <span style="color:#0078f0">CFL: Maybe it just doesn't like you?</span><br />
+[02:13] <span style="color:#0078f0">CFL: Not sure if its sentient or not.</span><br />
+[02:13] <span style="color:#ee1e00">CCP: ........it better not be O_O</span><br />
+[02:13] <span style="color:#0078f0">CFL: I mean, sometimes from the sass it gives about replicating some things, you would think that...</span><br />
+[02:16] <span style="color:#0078f0">CFL: Like water, for example.</span><br />
+[02:18] <span style="color:#0078f0">CFL: Water, 280 Degrees Kelvin, please.</span><br />
+[02:19] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // "Invalid scale of temperature. Please repeat request." --</span><br />
+[02:19] <span style="color:#0078f0">CFL: ...See?</span><br />
+[02:19] <span style="color:#0078f0">CFL: Water, 40 degrees Fahrenheit.</span><br />
+[02:20] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  gets the glass of water from the replicator. --</span><br />
+[02:20] <span style="color:#0078f0">CFL: The stupid thing is this supports Rankine and Fahrenheit, but not Kelvin and Celsius</span><br />
+[02:25] <span style="color:#0078f0">CFL: I mean, why the /fuck/ would it support Rankine?</span><br />
+[02:26] <span style="color:#ee1e00">CCP: ...what /is/ rankine anyway? --which is probably the point.</span><br />
+[02:26] <span style="color:#0078f0">CFL: Its like Kelvin, except it uses the Fahrenheit scale for differences in a degree.</span><br />
+[02:27] <span style="color:#ee1e00">CCP: huh.</span><br />
+[02:27] <span style="color:#0078f0">CFL: I mean, we could likely patch it up so its compatable maybe...</span><br />
+[02:45] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  sips coffee --</span><br />
+[03:03] <span style="color:#c8382d">CVS: ((afk))</span><br />
+[03:40] <span style="color:#646464"><span style="color:#f8c55f">CURRENT virtuousDivinity [CVD]</span> RIGHT NOW responded to memo.</span><br />
+[03:40] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  yawns and sits up --</span><br />
+[04:33] <span style="color:#c8382d">CVS: (( back ))</span><br />
+[04:34] <span style="color:#0078f0">CFL: ...So, does anyone wanna help complete the AU, or should I just wipe the progress on it and try something else?</span><br />
+[04:34] <span style="color:#ee1e00">CCP: ...</span><br />
+[04:35] <span style="color:#c8382d">CVS: ?</span><br />
+[04:36] <span style="color:#0078f0">CFL: Well, I figure if we used up alot of the crystaline storage devices, we could export the AU and load it later...</span><br />
+[04:36] <span style="color:#c8382d">CVS: AU what?</span><br />
+[04:37] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  munches rice --</span><br />
+[04:39] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  floats over to FL and blows breath over his ear. --</span><br />
+[04:39] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  spins, smacking VS --</span><br />
+[04:40] <span style="color:#0078f0">CFL: ...ooooh shit.</span><br />
+[04:40] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  is smacked --</span><br />
+[04:40] <span style="color:#c8382d">CVS: ow</span><br />
+[04:40] <span style="color:#0078f0">CFL: ...RUN AWAY!</span><br />
+[04:40] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  bolts for the door --</span><br />
+[04:40] <span style="color:#ee1e00">CCP: ........</span><br />
+[04:40] <span style="color:#c8382d">CVS: ...ahaha?</span><br />
+[04:40] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  kicks the door open, fleeing --</span><br />
+[04:40] <span style="color:#0078f0">CFL: (( <a href='#SBARGv2_StarterPlanet'>#SBARGv2_StarterPlanet</a></span><br />
+[04:40] <span style="color:#0078f0">CFL: ))</span><br />
+[04:41] <span style="color:#c8382d">CVS: I wonder if I should live up to his expectations and chase him with the stop sign</span><br />
+[04:42] <span style="color:#ee1e00">CCP: nah.</span><br />
+[04:42] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  shrugs --</span><br />
+[04:42] <span style="color:#c8382d">CVS: Oh well.</span><br />
+[04:43] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  goes back to coffee --</span><br />
+[04:43] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[04:43] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  wanders over to the bar --</span><br />
+[04:43] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  looks at the drinks --</span><br />
+[04:46] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  hops behind bar. "What can I getcha" --</span><br />
+[04:46] <span style="color:#f8c55f">CVD: Oh.. I don't know. I'm not familiar with human drinks.</span><br />
+[04:48] <span style="color:#c8382d">CVS: hmm</span><br />
+[04:48] <span style="color:#c8382d">CVS: I can start you off with a tasteful beer...</span><br />
+[04:49] <span style="color:#f8c55f">CVD: That sounds nice.</span><br />
+[04:50] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  looks through the shelf and goes down a bit, opens up a minifridge of assorted drinks. She takes out a bottle and pops the cap off and hands it to VD --</span><br />
+[04:50] <span style="color:#c8382d">CVS: There you go.</span><br />
+[04:50] <span style="color:#c8382d">CVS: Fairly standard but more tasteful than the usual stuff</span><br />
+[04:51] <span style="color:#f8c55f">CVD: Thank you. All of our drinks are much too strong for me.</span><br />
+[04:51] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  sips --</span><br />
+[04:52] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  takes a lighter beer out for herself and messes with the old timey radio she set out earlier --</span><br />
+[04:53] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  returns to couch and gets comfy --</span><br />
+[05:20] <span style="color:#646464"><span style="color:#aa00ff">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[05:20] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  walks in --</span><br />
+[05:20] <span style="color:#aa00ff">CAS: helloooo</span><br />
+[05:20] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  waves --</span><br />
+[05:20] <span style="color:#ee1e00">CCP: sup</span><br />
+[05:20] <span style="color:#646464"><span style="color:#9f8a89">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[05:20] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  little yawn --</span><br />
+[05:21] <span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[05:21] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  waves, currently at the bar --</span><br />
+[05:23] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  waves at the people, smiles at FF and VS --</span><br />
+[05:23] <span style="color:#ee1e00">CCP: sup FF</span><br />
+[05:23] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  waves lightly to AS --</span><br />
+[05:23] <span style="color:#a2a280">CFF: Not Much. You?</span><br />
+[05:24] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[05:25] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  smirks and sneaks over to VS --</span><br />
+[05:26] <span style="color:#aa00ff">CAS: so how are you feeling today?</span><br />
+[05:26] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  just drinks a coke --</span><br />
+[05:26] <span style="color:#c8382d">CVS: Hm? Uh, Good. Yeah.</span><br />
+[05:27] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  sleepily rubs face --</span><br />
+[05:27] <span style="color:#aa00ff">CAS: oh good. aaaand youuu, FF?</span><br />
+[05:27] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  leans towards him --</span><br />
+[05:28] <span style="color:#a2a280">CFF: I'm Doing Fine... And How About You?</span><br />
+[05:28] <span style="color:#aa00ff">CAS: the best in two months, thanks for asking</span><br />
+[05:28] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  smiles --</span><br />
+[05:29] <span style="color:#a2a280">CFF: Uh... No Problem</span><br />
+[05:30] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  smiles back at her --</span><br />
+[05:31] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  pats his thigh and moves to the replicator to make some rice with butter to eat --</span><br />
+[05:32] <span style="color:#aa00ff">CAS: so...did i miss anything interesting today?</span><br />
+[05:32] <span style="color:#ee1e00">CCP: nope</span><br />
+[05:32] <span style="color:#a2a280">CFF: So it was a boring day then... as usual.</span><br />
+[05:32] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  shuffles to the kitchen --</span><br />
+[05:32] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  leans towards him again --</span><br />
+[05:33] <span style="color:#aa00ff">CAS: i can make it /not/ boirng again, if you'd like</span><br />
+[05:33] <span style="color:#ee1e00">CCP: ........</span><br />
+[05:34] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  coughs --</span><br />
+[05:34] <span style="color:#ee1e00">CCP: tell me that's not what you were doing last night.</span><br />
+[05:34] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  sips beer and turns on TV --</span><br />
+[05:34] <span style="color:#aa00ff">CAS: ok, i won't tell you</span><br />
+[05:34] <span style="color:#aa00ff">CAS: i did show him to his room</span><br />
+[05:34] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  shrugs --</span><br />
+[05:34] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  watches something other than the hat show --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  returns with juice --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  hooray, a drama is on --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  sleepily flops on the floor and sips --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  no, turcario, dont break her heart --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  nooooo --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  oh my god turcario was really snevester. --</span><br />
+[05:35] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  ? what the? --</span><br />
+[05:36] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  that sly dog --</span><br />
+[05:36] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  watches the evening Drama show with the consorts --</span><br />
+[05:36] <span style="color:#aa00ff">CAS: oh right. he's awake</span><br />
+[05:36] <span style="color:#aa00ff">CAS: hi silas</span><br />
+[05:36] <span style="color:#a2a280">CFF: Uhhhh....</span><br />
+[05:36] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  waves --</span><br />
+[05:36] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  waves --</span><br />
+[05:37] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  contently eats her rice --</span><br />
+[05:39] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  glances over at VD curiously --</span><br />
+[05:40] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  is just chilling on one of the couches, playing with a couple butterflies --</span><br />
+[05:41] <span style="color:#aa00ff">CAS: i'm curious</span><br />
+[05:41] <span style="color:#aa00ff">CAS: does his majesty have ladies to attend to him at night?</span><br />
+[05:42] <span style="color:#f8c55f">CVD: No. Why?</span><br />
+[05:42] <span style="color:#aa00ff">CAS: because royals. and curiosity</span><br />
+[05:42] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  nonchalontly takes out her laptop --</span><br />
+[05:43] <span style="color:#f8c55f">CVD: I don't care much for nightly visitors, unless it's an emergency.</span><br />
+[05:44] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  whispers "emergency booty call" --</span><br />
+[05:44] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  snerks --</span><br />
+[05:44] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  snrk --</span><br />
+[05:44] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  eyerolls --</span><br />
+[05:44] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  eyeroll x2 combo --</span><br />
+[05:45] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  whatever shrug --</span><br />
+[05:45] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  back to laptopping --</span><br />
+[05:46] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  sips juice through long straw, being too lazy to pick up the bottle --</span><br />
+[05:46] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  humming happily while eating and stuff --</span><br />
+[06:19] <span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[06:29] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  watches the tv --</span><br />
+[06:30] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  obtains more juice --</span><br />
+[06:31] <span style="color:#646464"><span style="color:#000000">CURRENT pesterchumTemp [CPT]</span> RIGHT NOW responded to memo.</span><br />
+[06:31] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans over and blows a quick bit of air on VS's neck before returning to her laptop, smirking --</span><br />
+[06:31] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  shudders and turns a little red. --</span><br />
+[06:34] <span style="color:#000000">CPT: eheh</span><br />
+[06:36] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  twirls hair around finger --</span><br />
+[06:36] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  glances over --</span><br />
+[06:37] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  glances away --</span><br />
+[06:37] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  scoots a tad closer, back to laptopping --</span><br />
+[06:38] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  almost falls out of her chair --</span><br />
+[06:38] <span style="color:#c8382d">CVS: JeGUS</span><br />
+[06:38] <span style="color:#000000">CPT: oh...sorry</span><br />
+[06:38] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  then does --</span><br />
+[06:38] <span style="color:#000000">CPT: you alright?</span><br />
+[06:38] <span style="color:#c8382d">CVS: oof</span><br />
+[06:39] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  gets back in her seat --</span><br />
+[06:42] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  embarassed eye avoiding tactic go --</span><br />
+[06:45] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  just watchs, drinking his coke --</span><br />
+[06:45] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boggles vacantly --</span><br />
+[06:46] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  notices CP boggling --</span><br />
+[06:46] <span style="color:#000000">CPT: ...what?</span><br />
+[06:46] <span style="color:#ee1e00">CCP: ...nothing, just zoned out again.</span><br />
+[06:46] <span style="color:#000000">CPT: oh ok</span><br />
+[06:52] <span style="color:#646464"><span style="color:#21c8ba">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+[06:52] <span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#21c8ba">[CPE]</span>  enters --</span><br />
+[06:52] <span style="color:#21c8ba">CPE: ~ well well Jovin decided to come hang out</span><br />
+[06:52] <span style="color:#21c8ba">CPE: ~ yay</span><br />
+[06:53] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans over to him too (FF) and blows some air on his neck --</span><br />
+[06:53] <span style="color:#a2a280">CFF: Hey PE! Long time no- Eep! </span><br />
+[06:53] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  jumps a bit, blushing --</span><br />
+[06:53] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  giggles --</span><br />
+[06:54] <span style="color:#21c8ba">CPE: ~ yeah, its certainly been awhile.</span><br />
+[06:54] <span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#21c8ba">[CPE]</span>  plops down onto the couch --</span><br />
+[06:54] <span style="color:#a2a280">CFF: A-Anyways, How have ya been doing, man?</span><br />
+[06:54] <span style="color:#21c8ba">CPE: ~ ive been just as productive as most people</span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ and by most people</span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ i mean rocks</span><br />
+[06:55] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans against FF "should i blow on their neck too?" --</span><br />
+[06:55] <span style="color:#ee1e00">CCP: in other words, not at all?</span><br />
+[06:55] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  conjures up some little sprites --</span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ bingo</span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ bored outta my mind</span><br />
+[06:55] <span style="color:#a2a280">CFF: Uh... Sure? And Same here- is why I am here.</span><br />
+[06:55] <span style="color:#000000">CPT: oh </span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ who's uh</span><br />
+[06:55] <span style="color:#000000">CPT: i thought you were here because of me</span><br />
+[06:55] <span style="color:#21c8ba">CPE: ~ the person?</span><br />
+[06:56] <span style="color:#000000">CPT: ((i'm AS))</span><br />
+[06:56] <span style="color:#21c8ba">CPE: ~ AS?</span><br />
+[06:56] <span style="color:#000000">CPT: ((alternate acocint because of internet))</span><br />
+[06:56] <span style="color:#21c8ba">CPE: ((kk))</span><br />
+[06:56] <span style="color:#a2a280">CFF: Uh... Also here for you- and also because of boredom.</span><br />
+[06:56] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  lets them flutter around the room --</span><br />
+[06:56] <span style="color:#21c8ba">CPE: ~ here fore me?</span><br />
+[06:56] <span style="color:#21c8ba">CPE: ~ orrrr</span><br />
+[06:56] <span style="color:#21c8ba">CPE: ~ for*</span><br />
+[06:57] <span style="color:#000000">CPT: hmmm nah, i won't blow on them</span><br />
+[06:57] <span style="color:#a2a280">CFF: Not you, I mean Samm here- she needed a friend.</span><br />
+[06:58] <span style="color:#21c8ba">CPE: ~ ah</span><br />
+[06:58] <span style="color:#21c8ba">CPE: ((CP are you down for some Epic Mafia finally? ive gotten pretty good at it))</span><br />
+[06:58] <span style="color:#ee1e00">CCP: ((still not anytime soon, still busy))</span><br />
+[06:59] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  sits on the floor and creates a tiny volcano --</span><br />
+[07:01] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  turns it into an island --</span><br />
+[07:02] <span style="color:#000000">CPT: oooh cool</span><br />
+[07:02] <span style="color:#000000">CPT: just dont...set the wood on fire</span><br />
+[07:02] <span style="color:#000000">CPT: i guess</span><br />
+[07:02] <span style="color:#f8c55f">CVD: It's not active yet.</span><br />
+[07:03] <span style="color:#000000">CPT: yes he says</span><br />
+[07:03] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at the tiny volcano --</span><br />
+[07:03] <span style="color:#ee1e00">CCP: nice.</span><br />
+[07:03] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  heads over and sits on the floor near VD and watches --</span><br />
+[07:04] <span style="color:#a2a280">CFF: ...the fact that you mentioned 'yet' is worrying.</span><br />
+[07:04] <span style="color:#f8c55f">CVD: It won't be active til it's transported elsewhere. Don't worry.</span><br />
+[07:10] <span style="color:#000000">CPT: oh good</span><br />
+[07:10] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  returns to being next to FF --</span><br />
+[07:10] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans on him --</span><br />
+[07:10] <span style="color:#000000">CPT: so, did i leave you wanting more after all?</span><br />
+[07:11] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  creates tiny animals for the island --</span><br />
+[07:11] <span style="color:#a2a280">CFF: U-Uuuhhhh.... </span><br />
+[07:11] <span style="color:#ee1e00">CCP: ........</span><br />
+[07:11] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  just blushes as he covers his face. --</span><br />
+[07:12] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  grins and chuckles to herself a bit --</span><br />
+[07:14] <span style="color:#000000">CPT: teasing people is /so/ fun</span><br />
+[07:15] <span style="color:#a2a280">CFF: Uh huh.</span><br />
+[07:15] <span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+[07:16] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  gentle pats to FF's shoulder --</span><br />
+[07:17] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pats her back back --</span><br />
+[07:17] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  admires his mini ecosystem --</span><br />
+[07:17] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  also admires --</span><br />
+[07:18] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  also admired for a bit before a thought seems to strike her --</span><br />
+[07:18] <span style="color:#000000">CPT: I am now giving a warning</span><br />
+[07:18] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  quick typing --</span><br />
+[07:18] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues watching the tiny island --</span><br />
+[07:19] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  puts a few tiny dinosaurs on it --</span><br />
+[07:19] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  not the carnivorous kind, of course --</span><br />
+[07:19] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  also admires --</span><br />
+[07:20] <span style="color:#ee1e00">CCP: this almost reminds me of that one guy in Spy Kids 2.</span><br />
+[07:20] <span style="color:#000000">CPT: oh yea</span><br />
+[07:20] <span style="color:#000000">CPT: i remember him</span><br />
+[07:20] <span style="color:#000000">CPT: and the spider-monkey</span><br />
+[07:21] <span style="color:#f8c55f">CVD: I'm afraid that reference is lost on me.</span><br />
+[07:23] <span style="color:#c8382d">CVS: That movie is old</span><br />
+[07:23] <span style="color:#000000">CPT: don't say that</span><br />
+[07:23] <span style="color:#000000">CPT: it'll make me feel old</span><br />
+[07:24] <span style="color:#c8382d">CVS: Well Im old.</span><br />
+[07:24] <span style="color:#c8382d">CVS: and that movie is old</span><br />
+[07:24] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  lets some of the tiny dinos roam off the island --</span><br />
+[07:25] <span style="color:#c8382d">CVS: ...i must introduce them to booze.</span><br />
+[07:25] <span style="color:#c8382d">CVS: Booze lake</span><br />
+[07:25] <span style="color:#000000">CPT: no don't</span><br />
+[07:25] <span style="color:#c8382d">CVS: aw</span><br />
+[07:25] <span style="color:#f8c55f">CVD: I don't think they'd survive..</span><br />
+[07:26] <span style="color:#ee1e00">CCP: ...</span><br />
+[07:26] <span style="color:#000000">CPT: i don't either</span><br />
+[07:26] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans towards VS now --</span><br />
+[07:26] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  puppy eyeing it --</span><br />
+[07:27] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  glances around a lot. eye dodgey --</span><br />
+[07:27] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  leans in more --</span><br />
+[07:27] <span style="color:#000000">CPT: VS...can i have my box now?</span><br />
+[07:27] <span style="color:#000000">CPT: pweeeease?</span><br />
+[07:28] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  gets up and motions to the counter where she jumps behind --</span><br />
+[07:28] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  digs through void portal and aquires "mysterious box" --</span><br />
+[07:29] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  small box, fits in your two hands --</span><br />
+[07:29] <span style="color:#ee1e00">CCP: what box?</span><br />
+[07:29] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  follows and quickly captchas the mystery box --</span><br />
+[07:29] <span style="color:#000000">CPT: thanks sweeite</span><br />
+[07:29] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  :) --</span><br />
+[07:30] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  nods --</span><br />
+[07:30] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  resumes spot next to cool mini island --</span><br />
+[07:31] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  conjures a little bed of foliage and flops over onto it --</span><br />
+[07:31] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  returns to spot infrotn of laptop --</span><br />
+[07:31] <span style="color:#000000">CPT: nothing kim, it's just a little soemthing i asked her help with</span><br />
+[07:32] <span style="color:#ee1e00">CCP: cool</span><br />
+[07:35] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  nods --</span><br />
+[07:36] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  pokes at some of the animals --</span><br />
+[07:37] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  watches --</span><br />
+[07:38] <span style="color:#a2a280">CFF: Ah...</span><br />
+[07:38] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  watchs as well --</span><br />
+[07:38] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  delivers a quick breath to FF's neck --</span><br />
+[07:38] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  before looking at the island again --</span><br />
+[07:39] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also watches island --</span><br />
+[07:39] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  tries to to react, but still blushes --</span><br />
+[07:39] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  puts tiny clouds above it --</span><br />
+[07:42] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  makes it rain --</span><br />
+[07:46] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  closes her laptop and hugs onto Jovin --</span><br />
+[07:46] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hugs her back after a second, surpised. --</span><br />
+[07:47] <span style="color:#000000">CPT: i'm just going  to...stay here...i guess...until i have to go</span><br />
+[07:48] <span style="color:#a2a280">CFF: Ah, okay...?</span><br />
+[07:48] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  touches the island and transports it away --</span><br />
+[07:48] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  curls up on his flower bed --</span><br />
+[07:49] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  hops on couch --</span><br />
+[07:49] <span style="color:#000000">CPT: so how do you honestly feel about being soemone's security blanket like this?</span><br />
+[07:50] <span style="color:#a2a280">CFF: I'm Okay with it. Kind of Nervious that I with fuck it up but... glad to be helping someone.</span><br />
+[07:51] <span style="color:#ee1e00">CCP: heh, good for you.</span><br />
+[07:51] <span style="color:#000000">CPT: isn't he so nice, though?</span><br />
+[07:52] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  nuzzles in --</span><br />
+[07:52] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pats her back gently --</span><br />
+[07:57] <span style="color:#a2a280">CFF: So... how are ya doing?</span><br />
+[07:57] <span style="color:#000000">CPT: I am doing better, still not drunk...and just enjoying the attention</span><br />
+[07:58] <span style="color:#a2a280">CFF: Thats Good. And what bout the rest of ya all?</span><br />
+[07:58] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  just gives a thumbs up --</span><br />
+[07:59] <span style="color:#ee1e00">CCP: wanting to shove my paw through this vidwindow because Unity code has stopped making sense. doing fine otherwise.</span><br />
+[07:59] <span style="color:#646464">-- CURRENT virtuousDivinity <span style="color:#f8c55f">[CVD]</span>  seems tired --</span><br />
+[07:59] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  whispers something to FF --</span><br />
+[08:00] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  jumps a bit, before whispering back --</span><br />
+[08:02] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  laughs and kisses him on the forehead before returning to her comfortable snuggling position --</span><br />
+[08:03] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  snuggles back, whispering some more --</span><br />
+[08:03] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  just kind of --</span><br />
+[08:04] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  decides to hang from the rafters like a sloth --</span><br />
+[08:04] <span style="color:#000000">CPT: ...oooh...</span><br />
+[08:04] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  mor whsipering --</span><br />
+[08:04] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  throws a grape at tCP --</span><br />
+[08:04] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  fwips a vidwindow open and begins watching the new SHIELD episode --</span><br />
+[08:05] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  catches grape in mouth --</span><br />
+[08:05] <span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  munch munch --</span><br />
+[08:05] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  finger circles on his chest --</span><br />
+[08:06] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  blushes a bit more, rubbng her back and neck --</span><br />
+[08:09] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  content samm --</span><br />
+[08:11] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  enviously sits alone on the couch there --</span><br />
+[08:14] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  glances over at Vs, seeming in thought about something now --</span><br />
+[08:14] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  also glances at VS --</span><br />
+[08:15] <span style="color:#000000">CPT: ...we could get her in on it too</span><br />
+[08:15] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  small smile --</span><br />
+[08:15] <span style="color:#ee1e00">CCP: ...?</span><br />
+[08:15] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  just stares at Samm. --</span><br />
+[08:16] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  wonders what they are going on about --</span><br />
+[08:16] <span style="color:#000000">CPT: oh...too soon?</span><br />
+[08:16] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  looks back at FF --</span><br />
+[08:16] <span style="color:#a2a280">CFF: Uhh...</span><br />
+[08:16] <span style="color:#646464">-- CURRENT pesterchumTemp <span style="color:#000000">[CPT]</span>  pats his head --</span><br />
+[08:17] <span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pats her back --</span><br />
+[08:20] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  lies on her back on the couch --</span><br />
+[08:20] <span style="color:#646464">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  stares at rafters --</span><br />
+[08:20] <span style="color:#ee1e00">CCP: confused what's going on</span><br />
+[08:20] <span style="color:#000000">CPT: uh...what are you actually asking about?</span><br />

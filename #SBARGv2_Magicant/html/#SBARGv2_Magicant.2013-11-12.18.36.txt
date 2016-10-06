@@ -1,0 +1,102 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 MAGICANT.</span><br />
+<span style="color:#ee1e00">CCP: ((anything still happening in here?))</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0080ff">CFL: (( Not really, you might need to clean up a broken mirror though. ))</span><br />
+<span style="color:#646464"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ceca54">CFS: well that's<span style="color:#730e8f"> very nice</span></span><br />
+<span style="color:#ee1e00">CCP: ((can I get a log of what I missed?))</span><br />
+<span style="color:#0080ff">CFL: (( <a href='http://pastebin.com/UUZMTfZU'>http://pastebin.com/UUZMTfZU</a> ))</span><br />
+<span style="color:#ceca54">CFS: what did<span style="color:#730e8f"> you do?</span></span><br />
+<span style="color:#ee1e00">CCP: ((you guys still at FL's house in the White Void Room, I'm assuming?))</span><br />
+<span style="color:#0080ff">CFL: I turned tail and flew the fuck away.</span><br />
+<span style="color:#0080ff">CFL: (( nope ))</span><br />
+<span style="color:#0080ff">CFL: (( Basement level. ))</span><br />
+<span style="color:#ee1e00">CCP: ((ah))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  exits the Prospit Door Station he left in the White Void Room, heading into the castle to look for the others --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The mirror is shattered. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // What the hell happened there? --</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a80000">CFA: (\ Lich queens aint bad /)</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#a80000">CFA: (\ Cannon fodder r-r-... /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  squeaky sneeze --</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: Well fantastic, now I feel even worse.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  covers her face --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boggles vacantly at the broken mirror, then continues heading downstairs --</span><br />
+<span style="color:#a80000">CFA: (\ What whyy? /)</span><br />
+<span style="color:#0080ff">CFL: Well, if Lich Queens are supposedly /cannon fodder/.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  eventually reaches the basement --</span><br />
+<span style="color:#ee1e00">CCP: hello? you guys down here?</span><br />
+<span style="color:#a80000">CFA: (\ When all yyou do is train when yyour bored /)</span><br />
+<span style="color:#ceca54">CFS: by this point in the game they might not be that much of a problem, but<span style="color:#730e8f"> even still you'd made an actually sensible deci-</span></span><br />
+<span style="color:#a80000">CFA: (\ Trash mobs become even trashier /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  looks up --</span><br />
+<span style="color:#0080ff">CFL: Oh, hey Kimura!</span><br />
+<span style="color:#ee1e00">CCP: sup</span><br />
+<span style="color:#ceca54">CFS: Ah it<span style="color:#730e8f"> is you!</span></span><br />
+<span style="color:#0080ff">CFL: ...sorry bout the mess.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is still covered in red spray paint from the explosion earlier --</span><br />
+<span style="color:#ee1e00">CCP: ...why did you even have spray paint? what was the point of that?</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Red? Who said it was red? its /random colors/? --</span><br />
+<span style="color:#0080ff">CFL: Oh come on, if you felt you had to catch up to a stupid choice and had only a few seconds, you would have the alchemiter make paint quickly too!</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  o_o --</span><br />
+<span style="color:#ceca54">CFS: oh good gracio<span style="color:#730e8f">usness you too?</span></span><br />
+<span style="color:#ee1e00">CCP: yeah...</span><br />
+<span style="color:#ceca54">CFS: what h<span style="color:#730e8f">ad even...</span></span><br />
+<span style="color:#ceca54">CFS: actually yes what HAD<span style="color:#730e8f"> even happened here?</span></span><br />
+<span style="color:#ee1e00">CCP: explosive spray-paint cans. that is all.</span><br />
+<span style="color:#0080ff">CFL: ...Well, Kimura mentioned the thing about the heart swap plan on the team memo, then Ash said something about clocking me in the face, then I told Kimura to tell ash I was going to do something something to her wings, and after thinking a little bit, I decided upon spraying spraypaint, and well, then Ash came racing down and I paniced and straped cans to myself and then Ash threw me at a wall and boom.</span><br />
+<span style="color:#0080ff">CFL: Basically, don't compress already compressed cans even further.</span><br />
+<span style="color:#ee1e00">CCP: anyway, obviously the paint still hasn't come off yet... suggestions?</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: Well, obviously you can't clense it with fire...</span><br />
+<span style="color:#0080ff">CFL: Have you tried the scribble technique?</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  -_- --</span><br />
+<span style="color:#ee1e00">CCP: I, uh, tried that earlier. didn't work that well. in fact, all it did was make the random paint colors all red.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //headcanon.justify(true); --</span><br />
+<span style="color:#0080ff">CFL: ...ah.</span><br />
+<span style="color:#ee1e00">CCP: maybe FLUDD might do it? I remember you having the code for that thing...</span><br />
+<span style="color:#0080ff">CFL: Oh yeah, Sunshine doublepunch super soaker.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  uncaptchaes the empty fludd. --</span><br />
+<span style="color:#ee1e00">CCP: ...tank's empty isn't it.</span><br />
+<span style="color:#0080ff">CFL: ..Yeah.</span><br />
+<span style="color:#0080ff">CFL: Wait, there is water down here!</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  fills it up. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sprays Kimura. --</span><br />
+<span style="color:#ee1e00">CCP: hey, the flooded basement is finally useful! :D</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is super-soaked, the paint coming off after a bit... --</span><br />
+<span style="color:#ceca54">CFS: flooded ba- you kno<span style="color:#730e8f">w what I won't ask</span></span><br />
+<span style="color:#0080ff">CFL: FS, have you ever played Super Mario 64?</span><br />
+<span style="color:#ceca54">CFS: I had the DS versi<span style="color:#730e8f">on, so... technically?</span></span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is now clean, though you immediately recognize a certain smell... --</span><br />
+<span style="color:#0080ff">CFL: I mean, /this place is an almost exact copy/</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: ugh, wet dog.</span><br />
+<span style="color:#ceca54">CFS: ah... I had though<span style="color:#730e8f">t it looked fami...</span></span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth's <span style="color:#ceca54">[CFS'S]</span>  face suddenly scrunches together --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Wet bird too --</span><br />
+<span style="color:#ee1e00">CCP: yeeeeaaaah, sorry guys.</span><br />
+<span style="color:#ee1e00">CCP: I'll drip-dry shortly :/</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  jumps up to the Star door, and peeks in the opening. --</span><br />
+<span style="color:#0080ff">CFL: ...Huh.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The water has moved. --</span><br />
+<span style="color:#0080ff">CFL: ...So, think its this hole?</span><br />
+<span style="color:#ee1e00">CCP: hm?</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks back at Ash. --</span><br />
+<span style="color:#0080ff">CFL: Hold on, I'll check.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs in, and hops into the hole. --</span><br />
+<span style="color:#a80000">CFA: (\ yyeah, FS came out of there /)</span><br />
+<span style="color:#a80000">CFA: (\ it should be in /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  noooooooooooooooooooooods --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pokes his head out. --</span><br />
+<span style="color:#0080ff">CFL: Basement.</span><br />
+<span style="color:#0080ff">CFL: Shipping Wall.</span><br />
+<span style="color:#a80000">CFA: (\ Shipping wall /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jumps into the hole --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is knocked back into the hole by Ash. --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows after them I guess? --</span><br />
+<span style="color:#0080ff">CFL: (( <a href='#SBARGv2_LoFaT'>#SBARGv2_LoFaT</a> ))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  leaps behind wheeeeeeeeeeeeeeeeeeeee --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

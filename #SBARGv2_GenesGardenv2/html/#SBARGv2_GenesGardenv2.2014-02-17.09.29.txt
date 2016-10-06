@@ -1,0 +1,109 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking in the sky in the distance. --</span><br />
+<span style="color:#0080ff">CFL: ...Man, I'm sure glad that we are going to be doing the AU Machine through that.'</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wakes up --</span><br />
+<span style="color:#ee1e00">CCP: hm?</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking at some dark clouds swiftly approaching the town. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks out the window --</span><br />
+<span style="color:#ee1e00">CCP: ...oh.</span><br />
+<span style="color:#0080ff">CFL: Don't see any thunder from it, but judging from the speed its moving... lets say the rain and wind is going to be hell to deal with.</span><br />
+<span style="color:#0080ff">CFL: Er, I don't see any /lightning/.</span><br />
+<span style="color:#0080ff">CFL: thunder is what you hear, after all.</span><br />
+<span style="color:#0080ff">CFL: If there are still any tents outside, we better move them.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: ...So, Kimura.</span><br />
+<span style="color:#ee1e00">CCP: hm?</span><br />
+<span style="color:#0080ff">CFL: What exactly happened last night?</span><br />
+<span style="color:#ee1e00">CCP: ...uh...</span><br />
+<span style="color:#646464"><span style="color:#9f8a89">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  quiet laughing about last night --</span><br />
+<span style="color:#ee1e00">CCP: well, you came in looking for someone, accidentally saw a coffin full of loose organs, and passed the fuck out.</span><br />
+<span style="color:#ee1e00">CCP: also we decided to let the Kat out of the box and she noped out into the forest.</span><br />
+<span style="color:#0080ff">CFL: No, I mean... how I lost my memory of what happened</span><br />
+<span style="color:#ee1e00">CCP: that? uh... would you believe me if I say "deorbiting satellite gave you brain damage?"</span><br />
+<span style="color:#ee1e00">CCP: which healed when you revived (I think), but the lost memories stayed lost</span><br />
+<span style="color:#646464"><span style="color:#000000">CMS</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: FL, wanna head up to the ship?</span><br />
+<span style="color:#0080ff">CFL: Yeah.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads up to his room real quick to pick up crux... who is kinda big now. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  opens a brushportal up there and hops in, waiting for FL to come with --</span><br />
+<span style="color:#0080ff">CFL: Man, you are getting heavy.</span><br />
+<span style="color:#0080ff">CFL: (( memo? ))</span><br />
+<span style="color:#ee1e00">CCP: ((whoops. <a href='#SBARGv2_QuinnPrime'>#SBARGv2_QuinnPrime</a> ))</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#722881">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  only slightly muffled scream coming from up stairs followed by a couple coughs, silence, and a door opening and closing. samm walks down stairs - still in her PJs and covered in sweat. She silently drifts over to the replicator and shakily tries to replicate some herbal tea --</span><br />
+<span style="color:#646464"><span style="color:#225604">CURRENT crazedPyrotechnic [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT crazedPyrotechnic <span style="color:#225604">[CCP]</span>  walks in all casual-like. --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  having snack with sb --</span><br />
+<span style="color:#225604">CCP: so how advanced is that replicator thing anyhoo</span><br />
+<span style="color:#646464"><span style="color:#ff0000">CURRENT alcoholicRockstar [CAR]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ff0000">CAR: yo brads chick you aight</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  shugs and shakily starts sipping her tea --</span><br />
+<span style="color:#646464">-- CURRENT crazedPyrotechnic <span style="color:#225604">[CCP]</span>  turns to Samm. --</span><br />
+<span style="color:#225604">CCP: Yo, uh. You alright? Look kinda pale.</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  sets tea down, takes a deep breath and stops skaing, nods a little but still seems tired --</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  *shaking --</span><br />
+<span style="color:#646464"><span style="color:#8f8b12">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#8f8b12">CSB: You should probably get back to bed.</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  shakes head vigorously --</span><br />
+<span style="color:#646464"><span style="color:#000000">FUTURE flightlessIcarus [FFI]</span> 6:12 HOURS FROM NOW responded to memo.</span><br />
+<span style="color:#646464">-- FUTURE flightlessIcarus <span style="color:#000000">[FFI]</span>  can be seen landing outside, wearing shorts and a tanktop --</span><br />
+<span style="color:#646464">-- FUTURE flightlessIcarus <span style="color:#000000">[FFI]</span>  walks towards the hangar --</span><br />
+<span style="color:#ff0000">CAR: so youre not aight?</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  appears in the hangar --</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  pulls out a small notebook with pen and flips the the back --</span><br />
+<span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  finds the transportalizer and uses it --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFI, FFI</span> ceased responding to memo.</span><br />
+<span style="color:#722881">CAS: "I can't go back to sleep so soon after a nightmare"</span><br />
+<span style="color:#225604">CCP: Err, any way I can help?</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  yawns a little and shakes her head before seeming to notice something and looks around the room --</span><br />
+<span style="color:#646464">-- CURRENT crazedPyrotechnic <span style="color:#225604">[CCP]</span>  looks towards Samm's line of sight. --</span><br />
+<span style="color:#722881">CAS: /sam is looking all around the room, thus her line of sight is changing</span><br />
+<span style="color:#722881">CAS: (dammit, i'll get ahold of it eventually XD))</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  starts writing again "where's brad?' --</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#ff0000">CAR: i dunno something about his nan or some bollocks</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  "any idea when he'll be back?" --</span><br />
+<span style="color:#ff0000">CAR: not sure if he will be</span><br />
+<span style="color:#9f8a89">CCP: He better.</span><br />
+<span style="color:#9f8a89">CCP: Already had one owner leave.</span><br />
+<span style="color:#ff0000">CAR: yeah he left the bar to m</span><br />
+<span style="color:#ff0000">CAR: me*</span><br />
+<span style="color:#9f8a89">CCP: Goddammit.</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  goes really pale, slams notebook onto the table while only visibly screaming "WHAT?!" and starts running to the door --</span><br />
+<span style="color:#646464">-- CURRENT alcoholicRockstar <span style="color:#ff0000">[CAR]</span>  follows her --</span><br />
+<span style="color:#ff0000">CAR: hey chicka dont fret</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  opens door and stops running, staring at the sky --</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  is too lazy to make the memo for just this --</span><br />
+<span style="color:#646464">-- CURRENT alcoholicRockstar <span style="color:#ff0000">[CAR]</span>  stops behind her --</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  lets out some quiet, strangled whine before collapsing in apparent pain --</span><br />
+<span style="color:#646464">-- CURRENT alcoholicRockstar's <span style="color:#ff0000">[CAR'S]</span>  eyes widen, and he kneels next to her --</span><br />
+<span style="color:#ff0000">CAR: yo you aight</span><br />
+<span style="color:#9f8a89">CCP: Well she did just get ditched by her boyfriend apparently.</span><br />
+<span style="color:#ff0000">CAR: yeah no shit</span><br />
+<span style="color:#722881">CAS: ((*sigh* i must apologize for the sudden drama...but alot has happened behind the scenes))</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  she does not move or respond because her heart has stopped --</span><br />
+<span style="color:#9f8a89">CCP: Fucking shit what is it with everyone lately.</span><br />
+<span style="color:#ff0000">CAR: and dying yeah i know what the shit</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  ends up reviving and blinks, confused for the moment --</span><br />
+<span style="color:#646464"><span style="color:#000000">CHC</span> ceased responding to memo.</span><br />
+<span style="color:#ff0000">CAR: yo </span><br />
+<span style="color:#ff0000">CAR: earth to brads chick</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  looks up and blinks at him, still dazed --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  //afks --</span><br />
+<span style="color:#ff0000">CAR: yoooo</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  throws hands up like "what?" --</span><br />
+<span style="color:#ff0000">CAR: you kinda died</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  thinks about it for a moment and slowly nods to herself. She gets up, appearing suddenly emotionless/calm --</span><br />
+<span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  walks back in, glances at her notebook and tea...walks right by them and back up the stairs --</span><br />
+<span style="color:#225604">CCP: and now i stand alone in this coffee shop.</span><br />
+<span style="color:#225604">CCP: bar. whatever. shit's all the same.</span><br />
+<span style="color:#225604">CCP: there is only one thing to do right now</span><br />
+<span style="color:#225604">CCP: ...and by Jove I've forgotten it</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  //returns --</span><br />
+<span style="color:#646464">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  stretches and sorts out inventory --</span><br />

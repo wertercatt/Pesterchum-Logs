@@ -1,0 +1,123 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is informed of the situation. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  runs from the clinic, into the town square. She then pauses for a bit... before bolting into the forest once again. --</span><br />
+<span style="color:#646464"><span style="color:#72a0c1">CURRENT dragonScribe [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT dragonScribe <span style="color:#72a0c1">[CDS]</span>  rushes out of clinc --</span><br />
+<span style="color:#72a0c1">CDS: clinic*</span><br />
+<span style="color:#72a0c1">CDS: EQ!!</span><br />
+<span style="color:#72a0c1">CDS: Where are you?!</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is nowhere to be seen in the town. Maybe she's off somewhere...? --</span><br />
+<span style="color:#72a0c1">CDS: Damnit!</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  exits the clinic --</span><br />
+<span style="color:#2806ea">CEQ: (( <a href='#SBARGv2_FrostyForest'>#SBARGv2_FrostyForest</a> ))</span><br />
+<span style="color:#cb7de6">CSJ: man, where is she? ➜</span><br />
+<span style="color:#646464">-- CURRENT dragonScribe <span style="color:#72a0c1">[CDS]</span>  thinks to himself and wanders the town square. --</span><br />
+<span style="color:#72a0c1">CDS: Something went wrong...</span><br />
+<span style="color:#72a0c1">CDS: My Time Line Split.</span><br />
+<span style="color:#cb7de6">CSJ: huh? ➜</span><br />
+<span style="color:#646464">-- CURRENT dragonScribe <span style="color:#72a0c1">[CDS]</span>  looks to SJ. --</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#008400">CDS: whats going on?</span><br />
+<span style="color:#72a0c1">CDS: Something that was supposed to happen in this time went wrong.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  has his tricorder out. --</span><br />
+<span style="color:#cb7de6">CSJ: does this have anything to do with that present I'm going to send tomorow yesterday? ➜</span><br />
+<span style="color:#72a0c1">CDS: Now there is a fracture...</span><br />
+<span style="color:#cb7de6">CSJ: ... ➜</span><br />
+<span style="color:#008400">CDS: I see her!</span><br />
+<span style="color:#646464">-- CURRENT dragonScribe <span style="color:#72a0c1">[CDS]</span>  looks to the doc --</span><br />
+<span style="color:#008400">CDS: Shes in the forest</span><br />
+<span style="color:#646464">-- CURRENT dragonScribe <span style="color:#72a0c1">[CDS]</span>  dashes that way --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  points --</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#ee1e00">CCP: what's going on?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is just on the edges of where the town would meet the forest... and dashes away, when spotted. --</span><br />
+<span style="color:#008400">CDS: (( <a href='#SBARGv2_FrostyForest'>#SBARGv2_FrostyForest</a> ))</span><br />
+<span style="color:#cb7de6">CSJ: no idea, but we gotta find Hannah. ➜</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  runs off to the forest --</span><br />
+<span style="color:#ee1e00">CCP: you need her help again? okay, I'll look too...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  bolts out of the forest, then making her way back to the clinic --</span><br />
+<span style="color:#646464"><span style="color:#ff6a00">CURRENT sanguinarySunflower [CSS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT sanguinarySunflower <span style="color:#ff6a00">[CSS]</span>  floats out of house --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  exits the clinic --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  finds a spot to sit down --</span><br />
+<span style="color:#646464">-- CURRENT sanguinarySunflower <span style="color:#ff6a00">[CSS]</span>  stares at CP and chortles --</span><br />
+<span style="color:#646464">-- CURRENT sanguinarySunflower <span style="color:#ff6a00">[CSS]</span>  bursts out laughing --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is inside the clinic actually --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTG</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  walks twards his house to start preping a shuttle craft. --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  facepalms --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  face celing x3 combo --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  accidentally tears a hole in a paper door by facewalling --</span><br />
+<span style="color:#008400">CDS: ?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is not near the square. --</span><br />
+<span style="color:#008400">CDS: ((lol))</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins walking towards DS's house --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also heads that way, making a note to fix the wall later --</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  GO GROUP --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is sitting on the impulse naccel of a classs F shuttle. --</span><br />
+<span style="color:#008400">CDS: (( <a href='http://en.memory-alpha.org/wiki/Class_F_shuttlecraft'>http://en.memory-alpha.org/wiki/Class_F_shuttlecraft</a> ))</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  heads over to DS' place and- woah... --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  on the side is NCC - 1371/3 --</span><br />
+<span style="color:#2d8a18">CSL: ...alright, lets test this thing</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  and under that USS Republic. --</span><br />
+<span style="color:#2d8a18">CSL: ...hang on, i need to dock the lunar whale i think</span><br />
+<span style="color:#008400">CDS: you dont have to</span><br />
+<span style="color:#008400">CDS: Not to day any way</span><br />
+<span style="color:#008400">CDS: besides I have a special treat.</span><br />
+<span style="color:#ee1e00">CCP: ooh</span><br />
+<span style="color:#008400">CDS: Kimura knows what I mean</span><br />
+<span style="color:#2806ea">CEQ: Uh...?</span><br />
+<span style="color:#2d8a18">CSL: ...well, id like to test flying it around the ship, but okay</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#008400">CDS: ok</span><br />
+<span style="color:#2d8a18">CSL: should i wait until were in the air to dock?</span><br />
+<span style="color:#008400">CDS: just let me inform the Reublic so they can move all the shuttles to mantinence.</span><br />
+<span style="color:#2d8a18">CSL: ...right, ill go get the lunar whale then</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  heads off --</span><br />
+<span style="color:#008400">CDS: ok guys come on in and take a seat.</span><br />
+<span style="color:#ee1e00">CCP: mmk</span><br />
+<span style="color:#008400">CDS: (( <a href='#SBARGv2_Shuttle'>#SBARGv2_Shuttle</a> ))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boards --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat's <span style="color:#2d8a18">[CSL'S]</span>  ship takes off --</span><br />
+<span style="color:#008400">CDS: ((oh FFFFF The sync vid thing cleared my list!))</span><br />
+<span style="color:#008400">CDS: ((stand by))</span><br />
+<span style="color:#ee1e00">CCP: ((by-standing intensifies))</span><br />
+<span style="color:#ee1e00">CCP: ((still paused I assume... also brbdinner))</span><br />
+<span style="color:#008400">CDS: ((yep sorry))</span><br />
+<span style="color:#cb7de6">CSJ: ((back, had to do dishes))</span><br />
+<span style="color:#2d8a18">CSL: ((nothingshappening.png))</span><br />
+<span style="color:#ee1e00">CCP: (( &gt; UNPUASE ))</span><br />
+<span style="color:#008400">CDS: ((brower is bing stupid.gif</span><br />
+<span style="color:#008400">CDS: ))</span><br />
+<span style="color:#008400">CDS: ((Unpause!!!))</span><br />
+<span style="color:#008400">CDS: Ok guys all abord</span><br />
+<span style="color:#cb7de6">CSJ: okay then. ➜</span><br />
+<span style="color:#008400">CDS: (( <a href='#SBARGv2_Shuttle'>#SBARGv2_Shuttle</a> ))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  goes inside. --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  follows behind --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is already aboard --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  hops aboard --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  reappears somewhere in town --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  appears on the transportalizer as well, timed to /not/ knock SJ off a la Kanaya --</span><br />
+<span style="color:#646464"><span style="color:#860000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT naK <span style="color:#860000">[CNK]</span>  emerges from shitty sarcophagus --</span><br />
+<span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />

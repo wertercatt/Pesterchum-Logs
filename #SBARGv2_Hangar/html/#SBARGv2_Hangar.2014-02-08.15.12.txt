@@ -1,0 +1,455 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 HANGAR.</span><br />
+<span style="color:#646464"><span style="color:#555555">CURRENT fluffyInventor [CFI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  walks into the hangar and dawns her lab coat while looking at the completed ship structure in the hangar. Her own personal vessel was also completed. --</span><br />
+<span style="color:#555555">CFI: Thank god.</span><br />
+<span style="color:#555555">CFI: Now I can get off this hormonal rock of death and teens.</span><br />
+<span style="color:#646464"><span style="color:#941894">CURRENT moroseTerminator [CMT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  had caught out of the corner of his eye FI leaving the bar as he was about to go in, and had followed loosely to the hangar --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks at her computer screen. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  stares at it. "...another unidentified planet........ no.... its an entire galaxy...?" --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  lights a cig and stares at the screen. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  starts doing a little research on it. --</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  steps inside the hangar --</span><br />
+<span style="color:#941894">CMT: ... Hm. Interesting, this.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  sees MT out of the corner of her eyes. --</span><br />
+<span style="color:#555555">CFI: Can I help you?</span><br />
+<span style="color:#941894">CMT: Guessing you're leaving, then?</span><br />
+<span style="color:#646464"><span style="color:#39b873">CURRENT issunJar [CIJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  bounces into the hangar, staring at the ships --</span><br />
+<span style="color:#555555">CFI: I don't really have any remaining business here and I just got punched in the nose.</span><br />
+<span style="color:#555555">CFI: So.</span><br />
+<span style="color:#39b873">CIJ: ...</span><br />
+<span style="color:#555555">CFI: I guess I should leave anyway.</span><br />
+<span style="color:#941894">CMT: They're an unruly bunch. I guess I shouldn't be surprised something like that happened...</span><br />
+<span style="color:#555555">CFI: The ship is completed as far as I'm concerned so all those who want to fly that thing can go ahead and take some flight classes.</span><br />
+<span style="color:#555555">CFI: There have been 3 deaths since I have arrived</span><br />
+<span style="color:#555555">CFI: Apparently 2 late teenagers and 1 child.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  hops over --</span><br />
+<span style="color:#555555">CFI: I think that is quite enough for me.</span><br />
+<span style="color:#39b873">CIJ: ...Wait, what the heck happened?</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  sighs --</span><br />
+<span style="color:#555555">CFI: From what I gathered in there, evidence given,</span><br />
+<span style="color:#941894">CMT: Just... them being them, is all, Issun.</span><br />
+<span style="color:#555555">CFI: Brad's wife killed their kid and then he killed his wife.</span><br />
+<span style="color:#555555">CFI: Or girlfriend</span><br />
+<span style="color:#555555">CFI: I don't know</span><br />
+<span style="color:#941894">CMT: Does it matter?</span><br />
+<span style="color:#555555">CFI: Also that chubby fellow died.</span><br />
+<span style="color:#555555">CFI: Also by Brad.</span><br />
+<span style="color:#941894">CMT: He's alive again.</span><br />
+<span style="color:#555555">CFI: He what?</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  turns around. --</span><br />
+<span style="color:#941894">CMT: He got revived last night.</span><br />
+<span style="color:#39b873">CIJ: Chubby fellow? You mean Ben?</span><br />
+<span style="color:#941894">CMT: Yes.</span><br />
+<span style="color:#555555">CFI: ...huh.</span><br />
+<span style="color:#39b873">CIJ: Huh. I was wondering where he got off to.</span><br />
+<span style="color:#555555">CFI: Well. Whatever.</span><br />
+<span style="color:#555555">CFI: All you gods have gone mental.</span><br />
+<span style="color:#39b873">CIJ: ...And I guess that explains the abnormally large amount of spiders around lately.</span><br />
+<span style="color:#941894">CMT: That would do it, yeah.</span><br />
+<span style="color:#555555">CFI: ...Tell me.</span><br />
+<span style="color:#555555">CFI: Do you know anything about this?</span><br />
+<span style="color:#941894">CMT: Hm?</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  points at her computer screen. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  it had a huge map of a galaxy. --</span><br />
+<span style="color:#555555">CFI: This didn't exist before.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  bounces over and stares at the map --</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  walks up to the screen and observes it for a moment --</span><br />
+<span style="color:#555555">CFI: And now it suddenly does, like this planet</span><br />
+<span style="color:#555555">CFI: Is this the work of one of you?</span><br />
+<span style="color:#941894">CMT: ... It probably is.</span><br />
+<span style="color:#39b873">CIJ: ...Someone created an entire galaxy? Whoa.</span><br />
+<span style="color:#941894">CMT: By who, I'm not sure. But it's entirely possible.</span><br />
+<span style="color:#555555">CFI: ...so you dont know who.</span><br />
+<span style="color:#646464"><span style="color:#716604">CURRENT nemeanLier [CNL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  is listening on the conversation from the outside of the Hangar. New galaxy, eh...? --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  rubs her chin and puts out the cig. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  eats the cig. --</span><br />
+<span style="color:#941894">CMT: I would... wager it was Kat. But... just an assumption.</span><br />
+<span style="color:#555555">CFI: Strange...</span><br />
+<span style="color:#39b873">CIJ: ...Wait, I think Kimura mentioned something about that. One of his friends tried recreating the Earth from their old universe, but ended up making the entire freakin' Milky Way...</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks at IJ --</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  raises an eyebrow --</span><br />
+<span style="color:#555555">CFI: ...Earth?</span><br />
+<span style="color:#555555">CFI: Wait</span><br />
+<span style="color:#941894">CMT: Is that so?</span><br />
+<span style="color:#555555">CFI: THIS</span><br />
+<span style="color:#555555">CFI: Is the milky way??</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks at the screen again --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  squints. --</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  looks at it again --</span><br />
+<span style="color:#39b873">CIJ: I... think so?</span><br />
+<span style="color:#555555">CFI: ...Holy sh!t.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  rotates it and zooms in. --</span><br />
+<span style="color:#555555">CFI: It's... nearly identical...</span><br />
+<span style="color:#941894">CMT: ... Well I'll be damned.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  opens up another map. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  this one is the original milky way. --</span><br />
+<span style="color:#555555">CFI: ...</span><br />
+<span style="color:#555555">CFI: Whoever this was,knew what he was doing...</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  floats on into the building. Well well well... this is quite Interesting... --</span><br />
+<span style="color:#555555">CFI: 2 Milky ways existing in the same universe...</span><br />
+<span style="color:#555555">CFI: But this one is much much younger...</span><br />
+<span style="color:#555555">CFI: Even earth...</span><br />
+<span style="color:#555555">CFI: I'll need to pay this place a visit.</span><br />
+<span style="color:#716604">CNL: Eh. If universes are really that big, I don't really see why having an exact copy of a place would be so shocking.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  NL will see that a giant Firefly class ship is docked in the hangar as well as a small little personal ship --</span><br />
+<span style="color:#941894">CMT: Probably because it doesn't seem like a thing that would normally be possible.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters hangar --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  turns to NL. "Well its a copy. Copies dont happen from random occurance." --</span><br />
+<span style="color:#ee1e00">CCP: ...is something going on?</span><br />
+<span style="color:#555555">CFI: Second Milky Way.</span><br />
+<span style="color:#716604">CNL: -Oooooh, now is this what the brat was talking about? Interesting looking ship...-</span><br />
+<span style="color:#555555">CFI: You knew about this?</span><br />
+<span style="color:#716604">CNL: And again: Eh.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glares at IJ --</span><br />
+<span style="color:#ee1e00">CCP: Issun, what the heck did you tell Fluffy this time?</span><br />
+<span style="color:#555555">CFI: Look at this thing!</span><br />
+<span style="color:#716604">CNL: Once you start to understand that infinity is possible and confusing, then you start to accept weird things like that.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  pulls up a 3D holo of the screen. --</span><br />
+<span style="color:#39b873">CIJ: ...That Timey guy/girl making a galaxy was supposed to be a secret?</span><br />
+<span style="color:#555555">CFI: guy girl?</span><br />
+<span style="color:#555555">CFI: Wait.</span><br />
+<span style="color:#716604">CNL: Every chance everywhere happening all the time-</span><br />
+<span style="color:#555555">CFI: You mean the genderbender made this?</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  silently ports in behind cover. --</span><br />
+<span style="color:#ee1e00">CCP: Mike, the genderswapper, yeah.</span><br />
+<span style="color:#716604">CNL: Wait that was supposed to be secret?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  sees CP --</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  shrugs at NL --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks at the 3D holo and just, gapes. --</span><br />
+<span style="color:#008400">CDS: um Kimura whats goingon?</span><br />
+<span style="color:#555555">CFI: I thought the lot of you were just...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  moves out to stand by him? --</span><br />
+<span style="color:#555555">CFI: crazy and hormonal.</span><br />
+<span style="color:#555555">CFI: But this?</span><br />
+<span style="color:#ee1e00">CCP: Fluffy just discovered Milky Way Two, and Issun just let slip who made it.</span><br />
+<span style="color:#941894">CMT: Not everyone.</span><br />
+<span style="color:#555555">CFI: This is some next level sh!t.</span><br />
+<span style="color:#941894">CMT: A lot, yeah.</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  lets FI be awestruck at the hologram and powers of players, and floats up to examine the Firefly-ship. --</span><br />
+<span style="color:#941894">CMT: Some have some level of sanity and/or stability.</span><br />
+<span style="color:#008400">CDS: ((hold up milky way 2?))</span><br />
+<span style="color:#555555">CFI: (( the one Mike made ))</span><br />
+<span style="color:#ee1e00">CCP: ((IB's recreation of the Old Earth Universe's Milky Way))</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  NL is looking at <a href='http://i.imgur.com/RwaRad5.jpg'>http://i.imgur.com/RwaRad5.jpg</a> --</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  Now, how to possibly gain captian-level control of this ship... --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finally notices the new ship --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  this <a href='http://i.imgur.com/l5TpWYN.jpg'>http://i.imgur.com/l5TpWYN.jpg</a> is also docked --</span><br />
+<span style="color:#ee1e00">CCP: ...ooh... you got the ship finished.</span><br />
+<span style="color:#555555">CFI: Oh.</span><br />
+<span style="color:#555555">CFI: Yeah.</span><br />
+<span style="color:#555555">CFI: That's done for whenever you guys want to get off this rock.</span><br />
+<span style="color:#555555">CFI: You'll have to refer to Charles for space protocal though.</span><br />
+<span style="color:#008400">CDS: My ship is in orbit</span><br />
+<span style="color:#716604">CNL: 'Finally! Shit lets gather up all out things and be space pirates.</span><br />
+<span style="color:#555555">CFI: that was yours?</span><br />
+<span style="color:#008400">CDS: yes</span><br />
+<span style="color:#555555">CFI: Space Piracy is illegal</span><br />
+<span style="color:#555555">CFI: and you will be found.</span><br />
+<span style="color:#555555">CFI: And shot down.</span><br />
+<span style="color:#716604">CNL: Does it look like I care?</span><br />
+<span style="color:#555555">CFI: You should.</span><br />
+<span style="color:#008400">CDS: Wait what are you talking about&gt;</span><br />
+<span style="color:#008400">CDS: ?</span><br />
+<span style="color:#555555">CFI: Me?</span><br />
+<span style="color:#ee1e00">CCP: NL's just being a derp...</span><br />
+<span style="color:#555555">CFI: Galactic laws?</span><br />
+<span style="color:#008400">CDS: I ment the Republic The Star Ship in orbit.</span><br />
+<span style="color:#716604">CNL: I am not being a derp.</span><br />
+<span style="color:#555555">CFI: Yes.</span><br />
+<span style="color:#716604">CNL: I am being totally serious.</span><br />
+<span style="color:#716604">CNL: Space piracy is a go.</span><br />
+<span style="color:#008400">CDS: ((ok who is talking to whom?))</span><br />
+<span style="color:#555555">CFI: (( Fluffy was talking to NL ))</span><br />
+<span style="color:#008400">CDS: piracy is wrong</span><br />
+<span style="color:#716604">CNL: Let's do it. Space-Pirate-Robot-Lion and crew of teenage-gods.</span><br />
+<span style="color:#716604">CNL: Perfect.</span><br />
+<span style="color:#008400">CDS: no</span><br />
+<span style="color:#555555">CFI: Thats an awful idea.</span><br />
+<span style="color:#716604">CNL: Yes.</span><br />
+<span style="color:#555555">CFI: You guys should probably start investing in jobs.</span><br />
+<span style="color:#008400">CDS: also I think most of us are in our erly 20s</span><br />
+<span style="color:#716604">CNL: It's a brilliant idea what are you even talking about.</span><br />
+<span style="color:#555555">CFI: I'm pretty sure that Brad guy was 16.</span><br />
+<span style="color:#716604">CNL: -and jobs? Pfft. Who needs jobs when you have replicators.</span><br />
+<span style="color:#555555">CFI: So Late Teens more like it.</span><br />
+<span style="color:#008400">CDS: I said most</span><br />
+<span style="color:#ee1e00">CCP: seriously NL, your safest bet is to keep the space-piracy dreams restricted to the AU Machine.</span><br />
+<span style="color:#008400">CDS: not all</span><br />
+<span style="color:#555555">CFI: Most of you look like late teens</span><br />
+<span style="color:#ee1e00">CCP: ...which one of FL's consorts apparently crashed last night...</span><br />
+<span style="color:#008400">CDS: ...</span><br />
+<span style="color:#716604">CNL: I am in no danger of being killed, so...</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  rubs her head. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  packs up her work station. --</span><br />
+<span style="color:#716604">CNL: hmph. You all are, though...</span><br />
+<span style="color:#716604">CNL: Maybe someday.</span><br />
+<span style="color:#008400">CDS: ok ok backing up what do you mean jobs FI?</span><br />
+<span style="color:#555555">CFI: Like working?</span><br />
+<span style="color:#555555">CFI: Gaining credits?</span><br />
+<span style="color:#555555">CFI: So you can actually purchase stuff?</span><br />
+<span style="color:#008400">CDS: We have replicator technology</span><br />
+<span style="color:#555555">CFI: Unless you want to scavenge all your lives in uncharted space.</span><br />
+<span style="color:#555555">CFI: Don't try replicating credits. That will be a bad time.</span><br />
+<span style="color:#008400">CDS: you think</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  closes all her holo screens --</span><br />
+<span style="color:#008400">CDS: thats counterfiting</span><br />
+<span style="color:#716604">CNL: -This is why I say piracy is a good idea. We wont have to be stuck with jobs, and we can get needed "credits!"</span><br />
+<span style="color:#555555">CFI: Just making sure you guys knew.</span><br />
+<span style="color:#ee1e00">CCP: think he means replicating the stuff we need.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  nodds --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  makes sure everything is packed up --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  dematerializes all of it. --</span><br />
+<span style="color:#ee1e00">CCP: between that and those with Voidy powers, we shouldn't have any trouble with supplies and stuff.</span><br />
+<span style="color:#ee1e00">CCP: ...also wait, are you actually leaving already?</span><br />
+<span style="color:#941894">CMT: Basically.</span><br />
+<span style="color:#555555">CFI: I've got no more buisness here...</span><br />
+<span style="color:#008400">CDS: Safe travles then</span><br />
+<span style="color:#716604">CNL: -And where are you off to, then?</span><br />
+<span style="color:#555555">CFI: And things are getting out of hand in there and I dont want to be around when the Ragnarok starts.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  turns around and faces them, stuffing her hands into her pockets. --</span><br />
+<span style="color:#008400">CDS: Im shure it wount come to that</span><br />
+<span style="color:#716604">CNL: Thaaaats the plan for most of us. Be away when everything explodes.</span><br />
+<span style="color:#555555">CFI: Have you seen the place?</span><br />
+<span style="color:#941894">CMT: Mhm.</span><br />
+<span style="color:#ee1e00">CCP: well, lemme at least give you a computer addon thingy so you can access the memo from anywhere in Paradox Space...</span><br />
+<span style="color:#555555">CFI: Brad has nothing to lose and is ready to kill someone at any given moment.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves his modus open and starts scrolling... man he needs to reorg this thing --</span><br />
+<span style="color:#555555">CFI: All it takes is one more death to make you people snap and start killing eachother</span><br />
+<span style="color:#555555">CFI: I don't want to be around when that happens.</span><br />
+<span style="color:#008400">CDS: I can say one thing</span><br />
+<span style="color:#39b873">CIJ: Yeah, that Brad guy always seemed loonier than a bucket of Wakas.</span><br />
+<span style="color:#008400">CDS: I will not kill</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  chuckles. --</span><br />
+<span style="color:#716604">CNL: Mhm- Also!</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks to DS --</span><br />
+<span style="color:#555555">CFI: You wont kill till you have to.</span><br />
+<span style="color:#716604">CNL: The catboy with the teeth says goodbye, "fluffles."</span><br />
+<span style="color:#ee1e00">CCP: I won't kill anyone either, unless absolutely necessary. like Doomed Timeline Prevention necessary.</span><br />
+<span style="color:#555555">CFI: Oh. Is that so.</span><br />
+<span style="color:#716604">CNL: Is that seriously your name? wow.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  nodds with CP --</span><br />
+<span style="color:#ee1e00">CCP: -ah, here it is.</span><br />
+<span style="color:#555555">CFI: Fluffy.</span><br />
+<span style="color:#555555">CFI: Dr. Fluffy Argentum.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  looks to CP --</span><br />
+<span style="color:#716604">CNL: I kill as part of my daily routine so</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  shrugs. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uncaptchas a device that looks like a wifi dongle with quantum components --</span><br />
+<span style="color:#555555">CFI: ...is that thing safe?</span><br />
+<span style="color:#008400">CDS: FI most of us here are imortal exept for if we die heroecly or deth is out just dererts</span><br />
+<span style="color:#555555">CFI: I understand that.</span><br />
+<span style="color:#941894">CMT: Kimura's stuff is trustworthy.</span><br />
+<span style="color:#ee1e00">CCP: you should be able to keep in contact using this... just plug it into anything with a USB port, and it'll reach FL's server.</span><br />
+<span style="color:#555555">CFI: But the lot of you will start kiling each other in heroic or just fashions soon enough.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  takes the dongle. "Thanks." --</span><br />
+<span style="color:#ee1e00">CCP: yeah, no problem.</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  shrugs --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  just looks on with a trired expresion that makes him look older then he is. --</span><br />
+<span style="color:#555555">CFI: Although...</span><br />
+<span style="color:#ee1e00">CCP: I wish you luck out there... and stop by every once in a while, just to say hi or something. obviously when things are calmed down and safe...</span><br />
+<span style="color:#716604">CNL: Eh. People are stupid that way, so I would not be shocked if so- Eh?</span><br />
+<span style="color:#ee1e00">CCP: ...although what?</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  rubs her chin while dematerializing the dongle --</span><br />
+<span style="color:#555555">CFI: Is there anything else you can tell me about that Earth?</span><br />
+<span style="color:#555555">CFI: Why did he make it?</span><br />
+<span style="color:#008400">CDS: it was home....</span><br />
+<span style="color:#716604">CNL: Lonely, apparently.</span><br />
+<span style="color:#716604">CNL: 'Stupid reason, I know.</span><br />
+<span style="color:#555555">CFI: Lonely?</span><br />
+<span style="color:#ee1e00">CCP: ...I think it was partially nostalgia for our old home, partially he wanted to shape and guide a world or something?</span><br />
+<span style="color:#555555">CFI: ...</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  hops onto CP's hat --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace's <span style="color:#008400">[CDS'S]</span>  eyes have the look of a persion that has seen to mucth. --</span><br />
+<span style="color:#555555">CFI: You know, out of the lot of you, that guy seems to be the only one doing anything like that... something god-like.</span><br />
+<span style="color:#555555">CFI: The rest of you just look... tired.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  glances at DS --</span><br />
+<span style="color:#941894">CMT: Kinda are.</span><br />
+<span style="color:#716604">CNL: I have an excuse: I'm not a god. None of these lot do, though.</span><br />
+<span style="color:#008400">CDS: Who wouldent be after all the hardship we whent through</span><br />
+<span style="color:#555555">CFI: Didn't he go through the same thing?</span><br />
+<span style="color:#941894">CMT: Yep.</span><br />
+<span style="color:#008400">CDS: Almost all of us lost or famalys</span><br />
+<span style="color:#941894">CMT: Resolve is the difference.</span><br />
+<span style="color:#555555">CFI: What, did he have it easy or something?</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  shrugs --</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks inside --</span><br />
+<span style="color:#941894">CMT: He didn't have to deal with our shit most of the way.</span><br />
+<span style="color:#008400">CDS: Hi Niki</span><br />
+<span style="color:#941894">CMT: So... in a way, yes.</span><br />
+<span style="color:#cb7de6">CSJ: hi guys... ➜</span><br />
+<span style="color:#716604">CNL: He's being stupid with not letting me clean stuff up, but eh. His loss.</span><br />
+<span style="color:#ee1e00">CCP: sup SJ</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  waves to Niki and points at the completed ships. --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks around --</span><br />
+<span style="color:#555555">CFI: We were just talking out your timey genderflopping friend</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  smiles when SJ enters and his expresion brightens --</span><br />
+<span style="color:#cb7de6">CSJ: wow... ➜</span><br />
+<span style="color:#555555">CFI: ...You know maybe I'll make that my next stop.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  smiles slightly as she walks towards the group --</span><br />
+<span style="color:#555555">CFI: I'd like to talk with him personally...</span><br />
+<span style="color:#716604">CNL: Have fun with that.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  pulls her goggles off. --</span><br />
+<span style="color:#008400">CDS: where?</span><br />
+<span style="color:#555555">CFI: The new earth</span><br />
+<span style="color:#ee1e00">CCP: yeah, should be an interesting conversation for both of you.</span><br />
+<span style="color:#555555">CFI: that he made.</span><br />
+<span style="color:#555555">CFI: Indeed.</span><br />
+<span style="color:#008400">CDS: ah</span><br />
+<span style="color:#008400">CDS: oh FI </span><br />
+<span style="color:#555555">CFI: ?</span><br />
+<span style="color:#cb7de6">CSJ: I remember I got to visit there once during an emergency mission... it didn't last very long... ➜</span><br />
+<span style="color:#555555">CFI: Oh?</span><br />
+<span style="color:#008400">CDS: On thing about earth don't get caught by the goverments</span><br />
+<span style="color:#008400">CDS: They will likely torcher you and disect you.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  shook her head. --</span><br />
+<span style="color:#555555">CFI: There wasn't any.</span><br />
+<span style="color:#716604">CNL: It was a pretty place. Not too advanced, but...</span><br />
+<span style="color:#555555">CFI: I looked over the scan I did and the place looked... really primitive.</span><br />
+<span style="color:#555555">CFI: Like, tribal stages.</span><br />
+<span style="color:#716604">CNL: Well, from what I would see from a pair of glasses: It looked fairly pretty.</span><br />
+<span style="color:#008400">CDS: as in no elechtronics primitive?</span><br />
+<span style="color:#39b873">CIJ: Corrupt governments are a universal constant, Shon.</span><br />
+<span style="color:#555555">CFI: Yes.</span><br />
+<span style="color:#941894">CMT: Mm, he's going from the ground-up, huh.</span><br />
+<span style="color:#941894">CMT: Smart.</span><br />
+<span style="color:#ee1e00">CCP: yup, that's what he said he was doing.</span><br />
+<span style="color:#555555">CFI: ...he managed all that from scratch.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  nods. --</span><br />
+<span style="color:#555555">CFI: I really need to get an interview with this guy.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  nodds --</span><br />
+<span style="color:#008400">CDS: I see</span><br />
+<span style="color:#716604">CNL: Mhm. Good luck with that.</span><br />
+<span style="color:#716604">CNL: -Also watch out for Jor.</span><br />
+<span style="color:#555555">CFI: Jor?</span><br />
+<span style="color:#cb7de6">CSJ: wat ➜</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#008400">CDS: who?</span><br />
+<span style="color:#716604">CNL: You'll see...</span><br />
+<span style="color:#555555">CFI: ..huh.</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#555555">CFI: Well alright then.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  crawls under CP's hat and falls asleep --</span><br />
+<span style="color:#646464"><span style="color:#000000">CIJ</span> ceased responding to memo.</span><br />
+<span style="color:#555555">CFI: (( /me// laughs about jor <a href='http://i.imgur.com/GQAeyyA.jpg'>http://i.imgur.com/GQAeyyA.jpg</a> )</span><br />
+<span style="color:#555555">CFI: Welp.</span><br />
+<span style="color:#555555">CFI: I guess I'll see you all at a later date in time.</span><br />
+<span style="color:#008400">CDS: Safe travels</span><br />
+<span style="color:#555555">CFI: This trip has been informative and helpful but also stressful as all hell.</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  laughs. --</span><br />
+<span style="color:#ee1e00">CCP: goodbye and good luck then, Fluffy.</span><br />
+<span style="color:#cb7de6">CSJ: please be careful out there... ➜</span><br />
+<span style="color:#716604">CNL: Seeyah.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  lifts his right hand and holds his fingers in a V and sticks out the thumb. --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  nods and dawns her space plug/suit and helmet. --</span><br />
+<span style="color:#008400">CDS: Live Long and Prosper</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  laughs inside her helmet and gets up to her own ship. --</span><br />
+<span style="color:#716604">CNL: Don't crash again, mmkay?</span><br />
+<span style="color:#555555">CFI: Of course!</span><br />
+<span style="color:#ee1e00">CCP: yeah, watch those meteors! :P</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  starts everything up and detatches from the holders. --</span><br />
+<span style="color:#cb7de6">CSJ: don't let it hit you move. ➜</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets out of the way of the takeoff --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  revs up and flies out of the hangar. --</span><br />
+<span style="color:#941894">CMT: Wish you luck.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  also stands out of the way --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves --</span><br />
+<span style="color:#646464">-- CURRENT fluffyInventor <span style="color:#555555">[CFI]</span>  shoots out to space and vanishes into the blue --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks up --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  you pass The Republic which is in geo syncranis orbit. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  watches the ship blast off again --</span><br />
+<span style="color:#646464">-- CURRENT moroseTerminator <span style="color:#941894">[CMT]</span>  exits the hangar --</span><br />
+<span style="color:#646464"><span style="color:#000000">CMT</span> ceased responding to memo.</span><br />
+<span style="color:#716604">CNL: hmph. Well, now that that's out of the way...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  also exits --</span><br />
+<span style="color:#716604">CNL: New ship to play with!</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  then pokes head back in --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  walks over to CP and SJ --</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  floats around, zooming about the ship. Oh boyohboyohboyo. This'll be fun. --</span><br />
+<span style="color:#008400">CDS: you know Some times I think the 4 of us are the only sain ones left</span><br />
+<span style="color:#008400">CDS: EQ Niki Kimura and I that is</span><br />
+<span style="color:#ee1e00">CCP: there's a fairly good chance of that.</span><br />
+<span style="color:#716604">CNL: How rude of you to suggest that I am sane- oh okay.</span><br />
+<span style="color:#716604">CNL: Also!</span><br />
+<span style="color:#716604">CNL: Never go Kyneve. Just telling you all that right now.</span><br />
+<span style="color:#ee1e00">CCP: never what?</span><br />
+<span style="color:#716604">CNL: 's the name of the planet that Gambit and I are both situated at.</span><br />
+<span style="color:#716604">CNL: None of you are allowed, and will most likely be killed on sight.</span><br />
+<span style="color:#008400">CDS: I see</span><br />
+<span style="color:#ee1e00">CCP: gotcha.</span><br />
+<span style="color:#716604">CNL: So yeah Kyneve is off-limits... but theres still a whole lot to explore!</span><br />
+<span style="color:#008400">CDS: no kiddding</span><br />
+<span style="color:#ee1e00">CCP: is it only if we set foot on the planet or enter orbit, or is it "anything within 4.13 AU gets missiles up the exhaust port"?</span><br />
+<span style="color:#008400">CDS: pfft</span><br />
+<span style="color:#716604">CNL: Just dont go anywhere near it.</span><br />
+<span style="color:#716604">CNL: None of you have passes to it, so...</span><br />
+<span style="color:#716604">CNL: yeah. Just dont go anywhere near it.</span><br />
+<span style="color:#ee1e00">CCP: gotcha. just go ahead and add a "HERE BE DEATH" warning to that quadrant of the ship's charts and we should be fine.</span><br />
+<span style="color:#716604">CNL: Mhm.</span><br />
+<span style="color:#008400">CDS: notted and added</span><br />
+<span style="color:#646464"><span style="color:#000000">CFI</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  sighs --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  looks to SJ and CP --</span><br />
+<span style="color:#008400">CDS: Im just worryed about what Fluffy said</span><br />
+<span style="color:#ee1e00">CCP: about what?</span><br />
+<span style="color:#008400">CDS: the part about us killing each other</span><br />
+<span style="color:#716604">CNL: Well, I'm going to get used to the interface of this cool machine! You all can go angst somewhere else, if you want to.</span><br />
+<span style="color:#716604">CNL: I've got a spaceship to learn about! -And also, you all should get packing.</span><br />
+<span style="color:#716604">CNL: Places to go, and things to see! Finally, we can get moving!</span><br />
+<span style="color:#008400">CDS: ?</span><br />
+<span style="color:#008400">CDS: We have had the abbility to leave for about 2 months now</span><br />
+<span style="color:#716604">CNL: /You/ did. And then you left.</span><br />
+<span style="color:#ee1e00">CCP: except for the fact that /you're never around long enough for us TO leave/.</span><br />
+<span style="color:#716604">CNL: Not all of us can fly, idiot.</span><br />
+<span style="color:#008400">CDS: right</span><br />
+<span style="color:#008400">CDS: I have extended the offer and the portalizer to ship works</span><br />
+<span style="color:#ee1e00">CCP: ((btw DS, in case Ash hasn't told you, since you haven't been around since the Scion test session, she removed you from the skype memo for it...))</span><br />
+<span style="color:#ee1e00">CCP: ((...I still wonder why you're more AFK Tier than Gambit...))</span><br />
+<span style="color:#716604">CNL: Well, you can have fun with that. I'm gonna take whoever wants into space with this cool thing. So, once everyone is packed up and ready, we depart.</span><br />
+<span style="color:#008400">CDS: ((I know Im sorry RL has been taking up moost of my taime</span><br />
+<span style="color:#008400">CDS: ))</span><br />
+<span style="color:#ee1e00">CCP: ((shit, gotta afk. dad's DEMANDING that I help clean the branches up even though it's too cold to &gt;_&gt;))</span><br />
+<span style="color:#008400">CDS: ((Its not like I can help being gone like this))</span><br />
+<span style="color:#ee1e00">CCP: ((it's understandable. I was just wondering.))</span><br />
+<span style="color:#008400">CDS: ((now I feel like I am being puneshed for something I cant help))</span><br />
+<span style="color:#ee1e00">CCP: (( :( ))</span><br />
+<span style="color:#ee1e00">CCP: ((sorry...))</span><br />
+<span style="color:#ee1e00">CCP: ((anyway, afk forced yard work :/ ))</span><br />
+<span style="color:#646464">-- CURRENT nemeanLier <span style="color:#716604">[CNL]</span>  finds a way inside the ship, and gets to work on learning the inerface both remotely and manually. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  sighs and leaves --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ports back in to the hanger --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  walks over to SJ --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  he looks like he could use a hug --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hugs DS --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  hugs back --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  then brakes down and starts sobbing. --</span><br />
+<span style="color:#cb7de6">CSJ: it's... gonna be alright. ➜</span><br />
+<span style="color:#008400">CDS: Is it?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  sobb --</span><br />
+<span style="color:#008400">CDS: is it though we made this univers</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is it though, we made this univers* --</span><br />
+<span style="color:#008400">CDS: what is the point of us?</span><br />
+<span style="color:#008400">CDS: Any more?</span><br />
+<span style="color:#cb7de6">CSJ: we'll find a purpose... ➜</span><br />
+<span style="color:#cb7de6">CSJ: one that isn't force-fed to us by paradox space... ➜</span><br />
+<span style="color:#cb7de6">CSJ: and... we will be okay... ➜</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  finally begins crying --</span><br />
+<span style="color:#008400">CDS: ((funny thing is this sort of thing is healthy))</span><br />
+<span style="color:#cb7de6">CSJ: ((heh))</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  releases the hug after a while --</span><br />
+<span style="color:#cb7de6">CSJ: so... what now? ➜</span><br />
+<span style="color:#cb7de6">CSJ: not exactly in the mood to return to the bar... after the thing that happened there... ➜</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  consiters for a bit --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  shrugs --</span><br />
+<span style="color:#008400">CDS: I got nothing...</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNL</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks out of the hangar --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />

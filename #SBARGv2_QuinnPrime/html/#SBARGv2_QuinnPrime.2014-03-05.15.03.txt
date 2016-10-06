@@ -1,0 +1,23 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 QUINNPRIME.</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is currently getting into the FTL Collector, accessing the Quinn Prime's computer system. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  closes the doors on the collector. --</span><br />
+<span style="color:#0080ff">CFL: Lets see, Ion engines, Ion engines...</span><br />
+<span style="color:#0080ff">CFL: Ah, there they are!</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ports onto the ship in confusion --</span><br />
+<span style="color:#0080ff">CFL: Now to open the hanger bay doors on the quinn prime...</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Some alarms start to go off. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Doors are beginning to close. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks for FL --</span><br />
+<span style="color:#ee1e00">CCP: ((test))</span><br />
+<span style="color:#ee1e00">CCP: ((ok, afk obviously))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  the outer doors fail to open due to there being someone in the cargo bay, and the launch is aborted --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  tries to do it again. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  waits to time it as soon as Kimura hops on the transportalizer. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waits for FL to stop his BS before he's leaving --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The door to the small FTL craft is locked. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  still isn't leaving, and in fact has to afk because reasons --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sighs, preparing to do something incredibly stupid... and then decides against it, wondering where the stupid thought came from. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  exits the cargobay because why not --</span><br />

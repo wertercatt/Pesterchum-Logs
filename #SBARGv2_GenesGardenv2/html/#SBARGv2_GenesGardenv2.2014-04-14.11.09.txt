@@ -1,0 +1,523 @@
+[11:09] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[12:39] <span style="color:#646464"><span style="color:#2fc1ff">CURRENT artisticAuthor [CAA]</span> RIGHT NOW responded to memo.</span><br />
+[12:39] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  wanders into the garden after a long time of exploring --</span><br />
+[12:39] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  muffled snoring noises --</span><br />
+[12:39] <span style="color:#2fc1ff">CAA: ... ^_^;</span><br />
+[12:39] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  stays quiet, hoping to not wake him up. --</span><br />
+[12:40] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks around the garden, remaining silent. --</span><br />
+[12:44] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  eventually just sits in the pink grass and looks up at the sky, also feeling somewhat sleepy. --</span><br />
+[12:47] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  assumes AA is outside the bar then --</span><br />
+[12:48] <span style="color:#2fc1ff">CAA: ((Oh this is a bar what))</span><br />
+[12:48] <span style="color:#2fc1ff">CAA: ((Derpderpderp))</span><br />
+[12:49] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  sighs, standing up and walking inside of the building. --</span><br />
+[12:55] <span style="color:#ee1e00">CCP: ((yup lol))</span><br />
+[12:55] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks up from his beanbag-cave, and waves at AA --</span><br />
+[12:55] <span style="color:#ee1e00">CCP: sup.</span><br />
+[12:57] <span style="color:#2fc1ff">CAA: Oh, hi.</span><br />
+[12:57] <span style="color:#2fc1ff">CAA: Didn't see you there.</span><br />
+[12:58] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  chuckles slightly --</span><br />
+[12:58] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is <a href='https://dl.dropboxusercontent.com/u/52541782/mspa/kimura_postgame_1.png'>https://dl.dropboxusercontent.com/u/52541782/mspa/kimura_postgame_1.png</a> , in case it's been a while which I'm p sure it has --</span><br />
+[01:00] <span style="color:#2fc1ff">CAA: ((what in the))</span><br />
+[01:04] <span style="color:#ee1e00">CCP: ((yes, Kim is a wolf-prototyped player.))</span><br />
+[01:11] <span style="color:#2fc1ff">CAA: ((ThAT'S CP OH MY GOD))</span><br />
+[01:11] <span style="color:#ee1e00">CCP: ((mhm))</span><br />
+[01:11] <span style="color:#2fc1ff">CAA: ((that is fudging awesome))</span><br />
+[01:21] <span style="color:#ee1e00">CCP: ((and then his human form is kimura_postgame_2.png (same link, just change the filename), or kimura_sbargv2_talksprite_neutral2.png for DanganStuck heromode))</span><br />
+[01:22] <span style="color:#2fc1ff">CAA: ((Awesome))</span><br />
+[01:22] <span style="color:#2fc1ff">CAA: ((What form is he in now))</span><br />
+[01:23] <span style="color:#ee1e00">CCP: ((wolf form, his default mode))</span><br />
+[01:23] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles at CP because awwww dawgeh --</span><br />
+[01:28] <span style="color:#ee1e00">CCP: so, haven't seen you around here before.</span><br />
+[01:29] <span style="color:#2fc1ff">CAA: Just recently got here. Remember me?</span><br />
+[01:30] <span style="color:#ee1e00">CCP: no, but I just woke up a few minutes ago so my brain's still half-asleep...</span><br />
+[01:31] <span style="color:#2fc1ff">CAA: It's Jess. Also known as AA.</span><br />
+[01:31] <span style="color:#ee1e00">CCP: oh, gotcha.</span><br />
+[01:32] <span style="color:#2fc1ff">CAA: So where exactly am I?</span><br />
+[01:33] <span style="color:#ee1e00">CCP: you're at the town bar, Gene's Garden.</span><br />
+[01:33] <span style="color:#ee1e00">CCP: a lot of us hang out here... but it's been pretty empty lately for some reason.</span><br />
+[01:35] <span style="color:#2fc1ff">CAA: I see. I hope to see everyone soon then. I really hope they don't hate me for just disappearing.</span><br />
+[01:36] <span style="color:#ee1e00">CCP: nah, you're fine. I think it's just been kind of a slow week and a half lately?</span><br />
+[01:37] <span style="color:#2fc1ff">CAA: Alrighty then. ^_^ I wonder where everyone is... gosh I haven't seen them in so long.</span><br />
+[01:38] <span style="color:#ee1e00">CCP: ((tbh, everyone's donetier as fuck with NN after an argument a week ago over something we've been planning...))</span><br />
+[01:39] <span style="color:#2fc1ff">CAA: ((Oh))</span><br />
+[01:39] <span style="color:#2fc1ff">CAA: ((I see))</span><br />
+[01:40] <span style="color:#ee1e00">CCP: ((basically, we're planning a kind of post-game story thing, and we wanted to invite Ben (slothfulLunchmeat), but NN was like "no. he's permabaNNed from v2, and either you drop him or drop our setting."))</span><br />
+[01:40] <span style="color:#ee1e00">CCP: ((even though no one owns v2, legally speaking. it's a fanfic of a fanfic, so copyright /cannot/ be claimed on it))</span><br />
+[01:41] <span style="color:#ee1e00">CCP: ((but basically, we're saying "fuck you" and doing our own thing that starts in v2, but goes outside of it and will have a different set of memos and stuff))</span><br />
+[01:42] <span style="color:#ee1e00">CCP: ((I can't really tell you more until it actually starts, unless you have skype since we've been doing the planning in a skype memo))</span><br />
+[01:42] <span style="color:#2fc1ff">CAA: ((I have skype))</span><br />
+[01:42] <span style="color:#2fc1ff">CAA: ((also um I didn</span><br />
+[01:42] <span style="color:#2fc1ff">CAA: ((I didn't realize that NN was such a control freak))</span><br />
+[01:43] <span style="color:#ee1e00">CCP: ((p much. Ash and Kaylen were originally on their side, but after we kept arguing, they both decided "fuck this, do what you want" and left. NN was the only one that kept falsely claiming copyright))</span><br />
+[01:44] <span style="color:#2fc1ff">CAA: ((My god. I dont know why I didn't know this before. Maybe I'm so used to seeing the good in everyone))</span><br />
+[01:44] <span style="color:#ee1e00">CCP: ((anyway, contact SJ on skype (username and display name are both shinyjiggly), and she'll add you to the main v2 memo and stuff.))</span><br />
+[01:44] <span style="color:#2fc1ff">CAA: ((It seems obvious now that he's been a control freak all along. And ok))</span><br />
+[01:45] <span style="color:#ee1e00">CCP: ((the actual side-RP planning is in a different memo btw, but yeah))</span><br />
+[01:45] <span style="color:#ee1e00">CCP: ((and it's okay, I'm like that too, always trying to see the good in everyone.))</span><br />
+[01:45] <span style="color:#2fc1ff">CAA: ((He was actually nice to me in the general too. I wouldn't have guessed he'd be an asshat))</span><br />
+[01:46] <span style="color:#ee1e00">CCP: ((yeah... also careful of the pronouns, NN's actually trans. I just refer to them gender-neutrally to be safe, and also because they have parental monitoring apparently))</span><br />
+[01:47] <span style="color:#ee1e00">CCP: ((which reminds me: NN, Ash (FA), and Kaylen (SG/PT) do not know about this, and we want it to stay that way.))</span><br />
+[01:48] <span style="color:#2fc1ff">CAA: ((Sorry. Them. Very sorry.))</span><br />
+[01:48] <span style="color:#2fc1ff">CAA: ((And I'll stay quiet.))</span><br />
+[01:49] <span style="color:#ee1e00">CCP: ((it's fine. they're kinda triggered by misgendering, so I'm just warning you so you don't get in trouble with them about it ;) ))</span><br />
+[01:52] <span style="color:#2fc1ff">CAA: ((Thank you. The least thing I want to do is insult anyone))</span><br />
+[03:12] <span style="color:#646464"><span style="color:#8f8b12">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+[03:12] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  yawns and emerges from blankets --</span><br />
+[03:15] <span style="color:#ee1e00">CCP: sup.</span><br />
+[03:16] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  incoherent mumble --</span><br />
+[03:16] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks to the person who has emerged, not recognizing them. --</span><br />
+[03:17] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  is <a href='http://imgur.com/a/zc7EN'>http://imgur.com/a/zc7EN</a> . second one down being most accurate in terms of curently wearing --</span><br />
+[03:18] <span style="color:#2fc1ff">CAA: ((Sorry for not having any image of AA. She has medium length dark hair with Jade eyes and glasses in a Maid of Void outfit))</span><br />
+[03:19] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles slightly and waves. --</span><br />
+[03:19] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  waves back and ties hair up --</span><br />
+[03:21] <span style="color:#2fc1ff">CAA: Hello. I don't believe we've met.</span><br />
+[03:21] <span style="color:#8f8b12">CSB: We haven't. I'd recognize you if we had.</span><br />
+[03:27] <span style="color:#2fc1ff">CAA: It's nice to meet you then. I'm Jess, and you?</span><br />
+[03:28] <span style="color:#8f8b12">CSB: Adalheidis. Adal for short.</span><br />
+[03:30] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  grins brightly. --</span><br />
+[03:30] <span style="color:#2fc1ff">CAA: A pleasure to meet you.</span><br />
+[03:30] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  fans self with tail --</span><br />
+[03:31] <span style="color:#2fc1ff">CAA: I just recently arrived here actually. It's very nice.</span><br />
+[03:31] <span style="color:#8f8b12">CSB: It does have its pleasant days.</span><br />
+[03:32] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks down to see her sprite pendant glow. --</span><br />
+[03:32] <span style="color:#2fc1ff">CAA: Oh right. I have yet to summon Cookie to see what happens here...</span><br />
+[03:33] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws in realization --</span><br />
+[03:33] <span style="color:#ee1e00">CCP: oh duh, now I remember you coming through the door the other day</span><br />
+[03:34] <span style="color:#2fc1ff">CAA: Ehehehe! Took you long enough!</span><br />
+[03:34] <span style="color:#2fc1ff">CAA: Let's see what happens to Cookiesprite here.</span><br />
+[03:36] <span style="color:#2fc1ff">CAA: I just hope she won't end up getting hurt...</span><br />
+[03:36] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  summons Cookiesprite --</span><br />
+[03:36] <span style="color:#646464"><span style="color:#87f566">CURRENT cookieSprite [CCS]</span> RIGHT NOW responded to memo.</span><br />
+[03:36] <span style="color:#87f566">CCS: M-meo- !</span><br />
+[03:37] <span style="color:#2fc1ff">CAA: ((What would happen to my sprite I'm not sure))</span><br />
+[03:37] <span style="color:#ee1e00">CCP: ((idk either, you'd have to ask SJ. she's the one that figured out the general guidelines for sprites being converted to non-sprite form when they leave the game...))</span><br />
+[03:39] <span style="color:#87f566">CCS: ((Ok))</span><br />
+[03:54] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  begins to sparkle, eyes going wide and looking at Jess --</span><br />
+[03:54] <span style="color:#2fc1ff">CAA: ((Oh derp wrong chat))</span><br />
+[03:54] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  begins to sparkle, eyes going wide and looking at Jess --</span><br />
+[03:54] <span style="color:#ee1e00">CCP: ((no, wait))</span><br />
+[03:54] <span style="color:#87f566">CCS: ((What))</span><br />
+[03:54] <span style="color:#87f566">CCS: ((I talked to SJ over it))</span><br />
+[03:54] <span style="color:#ee1e00">CCP: ((...oh.))</span><br />
+[03:55] <span style="color:#ee1e00">CCP: ((ok, I thought SJ was offline... but gotcha.))</span><br />
+[03:55] <span style="color:#87f566">CCS: ((On skype))</span><br />
+[03:55] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  looks kind of scared, staring at her human. --</span><br />
+[03:55] <span style="color:#ee1e00">CCP: ((that's what I meant, yes))</span><br />
+[03:56] <span style="color:#87f566">CCS: ((Oh))</span><br />
+[03:56] <span style="color:#87f566">CCS: I'm scared...what's happening?</span><br />
+[03:56] <span style="color:#2fc1ff">CAA: It's okay, Cookie. It's okay.</span><br />
+[03:56] <span style="color:#2fc1ff">CAA: Don't panic.</span><br />
+[03:56] <span style="color:#ee1e00">CCP: ((because last I was told, sprites don't die, they just become not-sprites anymore))</span><br />
+[03:56] <span style="color:#87f566">CCS: ((I know))</span><br />
+[03:56] <span style="color:#87f566">CCS: ((Shes not dieing))</span><br />
+[03:57] <span style="color:#ee1e00">CCP: ((...I gotcha now.))</span><br />
+[03:57] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  flumps over like a big ol dog and continues fanning with tail --</span><br />
+[03:57] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  nods and closes her eyes, sparkling growing to surround her. --</span><br />
+[03:58] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  evolution music in the distance --</span><br />
+[03:58] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  watches like "wat. did you proto a pokemon or something" --</span><br />
+[03:59] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  slowly floats to the ground, as her normal white and black cat appearance, celery green eyes glowing. She wears a Toon Link outfit, complete with the hat with ears peeking through. --</span><br />
+[03:59] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  Congratulations! Your Cookiesprite involved into a Toon Cookie! --</span><br />
+[04:00] <span style="color:#ee1e00">CCP: ...huh.</span><br />
+[04:00] <span style="color:#87f566">CCS: Meow!</span><br />
+[04:00] <span style="color:#8f8b12">CSB: ...What did I just watch...</span><br />
+[04:00] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  nuzzles up against Jess --</span><br />
+[04:00] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  grins widely and leans down to pet Cookie --</span><br />
+[04:00] <span style="color:#2fc1ff">CAA: Good cat. Best friend.</span><br />
+[04:01] <span style="color:#ee1e00">CCP: de-spriting. must've been delayed since she was inside a pendant when they went through the door.</span><br />
+[04:01] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  stands upright, meowing happily --</span><br />
+[04:01] <span style="color:#2fc1ff">CAA: O_O; Didn't expect that</span><br />
+[04:02] <span style="color:#87f566">CCS: Hi.</span><br />
+[04:02] <span style="color:#2fc1ff">CAA: OR THAT.</span><br />
+[04:02] <span style="color:#8f8b12">CSB: Oh.. None of our sprites are left so I'm not familiar with what they do anymore.</span><br />
+[04:03] <span style="color:#87f566">CCS: Oh my gosh oh my gosh I'M A CAT AGAIN! </span><br />
+[04:03] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  goes back to all fours and chases her tail --</span><br />
+[04:03] <span style="color:#87f566">CCS: I'MACATI'MACATI'MACAT</span><br />
+[04:03] <span style="color:#ee1e00">CCP: pfft</span><br />
+[04:05] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  giggles and pets Cookie --</span><br />
+[04:06] <span style="color:#87f566">CCS: Oh. Hi, people.</span><br />
+[04:06] <span style="color:#87f566">CCS: People..and...dog.</span><br />
+[04:06] <span style="color:#ee1e00">CCP: heh. woof.</span><br />
+[04:06] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  climbs up Jessica's body and perches on her shoulder --</span><br />
+[04:06] <span style="color:#2fc1ff">CAA: Hey hey HEY COOKIE you're not a kitten anymore you're heavy &gt;A&lt;</span><br />
+[04:06] <span style="color:#87f566">CCS: meoooowwww</span><br />
+[04:07] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  fwishes tail and scuttles over to investigate the cat --</span><br />
+[04:08] <span style="color:#2fc1ff">CAA: Adal, this is Cookie. She used to be my sprite and even before that she was my cat.</span><br />
+[04:08] <span style="color:#87f566">CCS: Nice to meet you. :3</span><br />
+[04:08] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  extends paw --</span><br />
+[04:08] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  goes to reptilian form and sniffs at cat --</span><br />
+[04:09] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  licks --</span><br />
+[04:09] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  jolts slightly, being the nervous wreck she is. --</span><br />
+[04:09] <span style="color:#87f566">CCS: Mew...</span><br />
+[04:10] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  little wag --</span><br />
+[04:11] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  pounces on SB and licks --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to also say hi to CS --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  flops over --</span><br />
+[04:12] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  continues wagging --</span><br />
+[04:15] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  meows happily and wags her tail --</span><br />
+[04:15] <span style="color:#2fc1ff">CAA: Well that's Cute with a capital C</span><br />
+[04:15] <span style="color:#ee1e00">CCP: yeah it is...</span><br />
+[04:17] <span style="color:#8f8b12">CSB: ..Damn I'm hungry.</span><br />
+[04:19] <span style="color:#87f566">CCS: Me too, I haven't eaten in a furry long time, seeing as I didn't need to.</span><br />
+[04:19] <span style="color:#2fc1ff">CAA: Furry? I think you mean very.</span><br />
+[04:19] <span style="color:#87f566">CCS: Yeah that too</span><br />
+[04:22] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  skitters over to blanket nest and retreives pizza rolls --</span><br />
+[04:23] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  munches --</span><br />
+[04:24] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  attempts to steal one of the pizza rolls --</span><br />
+[04:24] <span style="color:#87f566">CCS: Meeooow.</span><br />
+[04:24] <span style="color:#ee1e00">CCP: hold that think.</span><br />
+[04:24] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads over to the replicator and makes more pizza rolls --</span><br />
+[04:24] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  brings them over --</span><br />
+[04:24] <span style="color:#2fc1ff">CAA: Hell YES.</span><br />
+[04:25] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  munch munch --</span><br />
+[04:25] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  nom nom --</span><br />
+[04:27] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  takes one and noms --</span><br />
+[04:28] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  noms a few as well --</span><br />
+[04:29] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  does the what now dance thing --</span><br />
+[04:30] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  //actually goes to get food cuz im dang hungry --</span><br />
+[04:48] <span style="color:#646464"><span style="color:#860000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+[04:48] <span style="color:#860000">CNK: nak</span><br />
+[04:49] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves at nak, currently has his face in a bowl of pizza rolls --</span><br />
+[05:02] <span style="color:#87f566">CCS: MEOWWW</span><br />
+[05:02] <span style="color:#860000">CNK: nakk</span><br />
+[05:02] <span style="color:#ee1e00">CCP: woof?</span><br />
+[05:04] <span style="color:#860000">CNK: kanak</span><br />
+[05:09] <span style="color:#87f566">CCS: Meow! ^_^</span><br />
+[05:09] <span style="color:#860000">CNK: nakaka</span><br />
+[05:10] <span style="color:#ee1e00">CCP: *confused questioning whine?*</span><br />
+[05:10] <span style="color:#860000">CNK: egg</span><br />
+[05:13] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  walks up to Nak, now a black and white cat in a toon link outfit, sniffing him/her/them/it --</span><br />
+[05:14] <span style="color:#646464">-- CURRENT naK <span style="color:#860000">[CNK]</span>  clutches the egg and glares at the cat --</span><br />
+[05:14] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  meows sadly. --</span><br />
+[05:15] <span style="color:#87f566">CCS: 3:</span><br />
+[05:15] <span style="color:#2fc1ff">CAA: It's okay, Nak. Cookie's nice.</span><br />
+[05:15] <span style="color:#860000">CNK: nak</span><br />
+[05:15] <span style="color:#646464">-- CURRENT naK <span style="color:#860000">[CNK]</span>  slowly uncluthes the egg --</span><br />
+[05:18] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  purrs and licks the nakodile --</span><br />
+[05:18] <span style="color:#860000">CNK: ankanka</span><br />
+[05:18] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  ///incapcitated because cry ing about the fuc king episode of naruto with zabuza and haku --</span><br />
+[05:21] <span style="color:#2fc1ff">CAA: Aww ^_^</span><br />
+[05:22] <span style="color:#646464"><span style="color:#000000">CAA</span> ceased responding to memo.</span><br />
+[05:22] <span style="color:#87f566">CCS: ((Ship))</span><br />
+[05:25] <span style="color:#87f566">CCS: Purrrrr meow! ^w^</span><br />
+[05:25] <span style="color:#860000">CNK: nakna</span><br />
+[05:27] <span style="color:#646464"><span style="color:#2fc1ff">CURRENT artisticAuthor [CAA]</span> RIGHT NOW responded to memo.</span><br />
+[05:27] <span style="color:#2fc1ff">CAA: Cuties everywhere.</span><br />
+[05:27] <span style="color:#ee1e00">CCP: woof :D</span><br />
+[05:28] <span style="color:#860000">CNK: nak</span><br />
+[05:28] <span style="color:#87f566">CCS: Thank mew, Jess.</span><br />
+[05:28] <span style="color:#87f566">CCS: Also, meow.</span><br />
+[05:28] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  ///attempts to quit crying about naruto --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT naK <span style="color:#860000">[CNK]</span>  //woa what a nerd wow the narutoes --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  ///zabuza and haku make me an emotional wreck --</span><br />
+[05:29] <span style="color:#646464">-- CURRENT naK <span style="color:#860000">[CNK]</span>  //isn't that the snake guy --</span><br />
+[05:30] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  ///no demon guy from mist village and his prettyboy sidekick --</span><br />
+[05:31] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  /// aaaaaaaaaaa I SHIP IT --</span><br />
+[05:31] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  ///feels --</span><br />
+[05:31] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  ///i cry every fucking time i see the episode --</span><br />
+[05:32] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //smiles and nods pretending he knows what they're talking about <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> --</span><br />
+[05:33] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  returns to human form --</span><br />
+[05:39] <span style="color:#646464"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+[05:57] <span style="color:#646464"><span style="color:#0078f0">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+[05:57] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks into the bar, confused. --</span><br />
+[05:57] <span style="color:#0078f0">CFL: Hello?</span><br />
+[05:57] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks up from his plate of pizza rolls --</span><br />
+[05:57] <span style="color:#ee1e00">CCP: sup</span><br />
+[05:58] <span style="color:#0078f0">CFL: Noone got on the memo... I was getting worried.</span><br />
+[05:58] <span style="color:#8f8b12">CSB: You ever get around to making the potion?</span><br />
+[05:59] <span style="color:#0078f0">CFL: Still need the baslisk venom.</span><br />
+[05:59] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  holds up little vial --</span><br />
+[06:00] <span style="color:#0078f0">CFL: ...how did you...</span><br />
+[06:01] <span style="color:#8f8b12">CSB: If there's one thing I can predict about you, it's your ability to fuck things up. So I'm giving you a free save.</span><br />
+[06:01] <span style="color:#0078f0">CFL: ...</span><br />
+[06:01] <span style="color:#0078f0">CFL: So I basically end up getting a free ticket.</span><br />
+[06:02] <span style="color:#0078f0">CFL: ...</span><br />
+[06:02] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  hands over the phoenix feather and unicorn hair --</span><br />
+[06:02] <span style="color:#0078f0">CFL: I would rather look myself.</span><br />
+[06:03] <span style="color:#8f8b12">CSB: If you say so. Try not to die all three times.</span><br />
+[06:03] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  puts things away. --</span><br />
+[06:03] <span style="color:#0078f0">CFL: Eh, I had a good plan for handling the baslisk.</span><br />
+[06:04] <span style="color:#8f8b12">CSB: I'm more concerned about the other two. They tend to be tempramental.</span><br />
+[06:05] <span style="color:#0078f0">CFL: True. But if I can't handle that peacefully, do I really deserve the ability to use magic?</span><br />
+[06:05] <span style="color:#8f8b12">CSB: ..Yes. You do are tempramental just means they will fuck you up for no reason, right?</span><br />
+[06:06] <span style="color:#8f8b12">CSB: ((wow what))</span><br />
+[06:06] <span style="color:#8f8b12">CSB: ((do know*))</span><br />
+[06:06] <span style="color:#8f8b12">CSB: ((/lays off the cocoa pebbles they are impairing my judgement))</span><br />
+[06:06] <span style="color:#0078f0">CFL: I wouldn't say no reason. I would say /little/ reason.</span><br />
+[06:06] <span style="color:#0078f0">CFL: And there is a difference.</span><br />
+[06:07] <span style="color:#8f8b12">CSB: Still, just because someone can't handle sourpuss beings doesn't mean they don't deserve to do magic.</span><br />
+[06:07] <span style="color:#0078f0">CFL: I mean, there is /always/ a reason. Maybe the person that just stabbed you for hugging them just likes the stabs.</span><br />
+[06:07] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks between the two silently. --</span><br />
+[06:08] <span style="color:#8f8b12">CSB: I mean, I cowered for 500 years from a pheonix that I couldn't handle, and I didn't get my ability revoked.</span><br />
+[06:08] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  meows and retreats behind AA (now being a black and white cat with a toon link outfit) --</span><br />
+[06:08] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  looks down at the floor. --</span><br />
+[06:08] <span style="color:#0078f0">CFL: ...I just feel I need to prove myself.</span><br />
+[06:09] <span style="color:#8f8b12">CSB: I think you'll have proved yourself if you can even get at least one of the items.</span><br />
+[06:10] <span style="color:#0078f0">CFL: Without killing the source.</span><br />
+[06:11] <span style="color:#ee1e00">CCP: ...getting items for /what/, again?</span><br />
+[06:11] <span style="color:#8f8b12">CSB: As a tip, unicorns and their kin enjoy being talked to. Especially flattery.</span><br />
+[06:12] <span style="color:#0078f0">CFL: ...Do they like books?</span><br />
+[06:12] <span style="color:#2fc1ff">CAA: ...Um. </span><br />
+[06:12] <span style="color:#2fc1ff">CAA: What are you planning on doing now? To a unicorn?</span><br />
+[06:12] <span style="color:#8f8b12">CSB: I have no idea how they feel about books.</span><br />
+[06:26] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  shakes himself awake --</span><br />
+[06:27] <span style="color:#2fc1ff">CAA: ((HELP COOKIE IS HAVING A HAIRBALL))</span><br />
+[06:27] <span style="color:#2fc1ff">CAA: ((ON MY TABLE))</span><br />
+[06:27] <span style="color:#ee1e00">CCP: ((WHAT))</span><br />
+[06:27] <span style="color:#2fc1ff">CAA: ((Shes just chillin out hangin out on the table then all of a sudden HRK HRK HRK))</span><br />
+[06:27] <span style="color:#2fc1ff">CAA: ((yes cookie is real))</span><br />
+[06:27] <span style="color:#2fc1ff">CAA: ((and im juts uhhhhhh *moves computer*))</span><br />
+[06:28] <span style="color:#2fc1ff">CAA: ((and cat burp/regurgitation smells terrible but she didnt throw up and im just))</span><br />
+[06:28] <span style="color:#2fc1ff">CAA: ((thank you for that fragrance of rancid hair and cat food))</span><br />
+[06:30] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  shakes his head --</span><br />
+[06:33] <span style="color:#0078f0">CFL: Its morning dammit, you shouldn't be tired.</span><br />
+[06:35] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is still operating on the 13th and 26th hours being /skipped/ from the muns' pov, so for him it's evening --</span><br />
+[06:42] <span style="color:#0078f0">CFL: ...my head is killing me.</span><br />
+[06:43] <span style="color:#0078f0">CFL: I'm gonna run.</span><br />
+[06:43] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  heads out the door. --</span><br />
+[06:43] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[06:46] <span style="color:#2fc1ff">CAA: Oh, bye- oh.</span><br />
+[06:46] <span style="color:#2fc1ff">CAA: Well then.</span><br />
+[06:59] <span style="color:#646464"><span style="color:#aaaa00">CURRENT solemnSwords [CSS]</span> RIGHT NOW responded to memo.</span><br />
+[06:59] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#aaaa00">[CSS]</span>  the door creaks open, revealing a certain Calvin with blades protruding from his body --</span><br />
+[06:59] <span style="color:#797900">CSS: Is Quinn here?</span><br />
+[06:59] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  certain Calvin in sprite form* --</span><br />
+[06:59] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks over to the entering sprite. --</span><br />
+[07:00] <span style="color:#2fc1ff">CAA: Oh, I didn't know sprites still existed here. Um...no, not from what I've been able to tell..</span><br />
+[07:00] <span style="color:#797900">CSS: Well, Kimura is half-sprite.</span><br />
+[07:00] <span style="color:#ee1e00">CCP: yeah, but I tiered.</span><br />
+[07:00] <span style="color:#797900">CSS: Good point.</span><br />
+[07:00] <span style="color:#797900">CSS: ((COULD Sprites enter Gene? I forgot.))</span><br />
+[07:01] <span style="color:#ee1e00">CCP: and even if a playersprite doesn't tier, all sprites apparently become non-sprite forms when they go through the door.</span><br />
+[07:01] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  immediately becomes a regular Calvin with blades protruding from his body in a cosmic retcon --</span><br />
+[07:02] <span style="color:#2fc1ff">CAA: ...You may need to see a doctor for that.</span><br />
+[07:02] <span style="color:#797900">CSS: So Quinn isn't here.</span><br />
+[07:02] <span style="color:#797900">CSS: And it's fine. My vital organs aren't swords.</span><br />
+[07:02] <span style="color:#2fc1ff">CAA: Afraid not. I have not met them yet I don't think. Perhaps over pesterchum I have.</span><br />
+[07:02] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  sighs. --</span><br />
+[07:02] <span style="color:#2fc1ff">CAA: I'm Jess. Nice to meet you.</span><br />
+[07:03] <span style="color:#797900">CSS: crystallineCavalier?</span><br />
+[07:03] <span style="color:#2fc1ff">CAA: No. artisticAuthor.</span><br />
+[07:03] <span style="color:#2fc1ff">CAA: I...</span><br />
+[07:03] <span style="color:#797900">CSS: And I'm Calvin. Or Excal, given my swordiness.</span><br />
+[07:03] <span style="color:#2fc1ff">CAA: Nice to meet you, again.</span><br />
+[07:03] <span style="color:#797900">CSS: I meant that's Quinn's handle.</span><br />
+[07:03] <span style="color:#2fc1ff">CAA: Ehehe. Woops.</span><br />
+[07:03] <span style="color:#2fc1ff">CAA: I'm a bit of a derp.</span><br />
+[07:04] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  stretches and resumes fanning self with tail --</span><br />
+[07:04] <span style="color:#797900">CSS: You have fucked up noe.</span><br />
+[07:04] <span style="color:#797900">CSS: ((now*))</span><br />
+[07:04] <span style="color:#2fc1ff">CAA: Now I fucked up?</span><br />
+[07:04] <span style="color:#797900">CSS: On a serious note, has vilifiedExalt, or rather, Timothy, been around?</span><br />
+[07:04] <span style="color:#797900">CSS: It's a reference to The Whitest Kids U'Know.</span><br />
+[07:06] <span style="color:#2fc1ff">CAA: Oh. You have fucked up now. Now you fucked up. Now you fucked up- and no I haven't seenthem.</span><br />
+[07:06] <span style="color:#87f566">CCS: Mrow?</span><br />
+[07:06] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  is a black and white cat in a toon link outfit --</span><br />
+[07:07] <span style="color:#797900">CSS: Fuck fuck fuck. What was I thinking?!</span><br />
+[07:07] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  grasps head, limbs moving with a creak --</span><br />
+[07:07] <span style="color:#2fc1ff">CAA: Are you okay...?!</span><br />
+[07:07] <span style="color:#797900">CSS: If I didn't make that fucking adventure...</span><br />
+[07:07] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  looks concerned --</span><br />
+[07:08] <span style="color:#797900">CSS: Okay, okay. I'll explain.</span><br />
+[07:08] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[07:08] <span style="color:#797900">CSS: Long, short, or Spanish soap opera?</span><br />
+[07:08] <span style="color:#2fc1ff">CAA: ...Spanish soap opera.</span><br />
+[07:09] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  uncaptchalogues a random fake mustache and puts it on. --</span><br />
+[07:09] <span style="color:#2fc1ff">CAA: ((Brb, continue with the story though))</span><br />
+[07:09] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  pulls out a familiar sombrero and a not-so familiar poncho --</span><br />
+[07:10] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  dons them, before beginning a one-man show that I'll auto-translate --</span><br />
+[07:10] <span style="color:#797900">CSS: Oh woe is me! I have died once again, and been brought back to life to do what?!</span><br />
+[07:11] <span style="color:#797900">CSS: Well fuck that noise, whatever it is. I'm getting creative.</span><br />
+[07:11] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  cue Light Up The Night by The Protomen playing as SS gets to work --</span><br />
+[07:12] <span style="color:#797900">CSS: ...And done! I'm going to now never publish this fanventure based off my experie...</span><br />
+[07:12] <span style="color:#797900">CSS: Who's pestering me? Do I have a fan despite never publishing it?</span><br />
+[07:13] <span style="color:#797900">CSS: ...Oh shit. I forgot.</span><br />
+[07:13] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#797900">[CSS]</span>  quits the Spanish as elevator music plays --</span><br />
+[07:13] <span style="color:#797900">CSS: I should explain here. You know how all fantrolls are canon?</span><br />
+[07:14] <span style="color:#ee1e00">CCP: yeah. why?</span><br />
+[07:14] <span style="color:#797900">CSS: Well, some schmuck must've made a Troll Andrew Hussie, because that applies to fankids too.</span><br />
+[07:14] <span style="color:#ee1e00">CCP: hoo boy.</span><br />
+[07:14] <span style="color:#797900">CSS: Yup.</span><br />
+[07:15] <span style="color:#797900">CSS: Anyway, I hate moving too much because it hurts after a while.</span><br />
+[07:16] <span style="color:#797900">CSS: So to sum up what happened, my fan "kid"(air quotes because he's 28) is going on a rampage to find another fan "kid" all because of my refusal to realize I was attacked because of me.</span><br />
+[07:16] <span style="color:#797900">CSS: And that's how the MLP fandom cocked everything up again.</span><br />
+[07:17] <span style="color:#ee1e00">CCP: lol</span><br />
+[07:17] <span style="color:#797900">CSS: No, it was my fault. It just sounded funnier like thay.</span><br />
+[07:17] <span style="color:#797900">CSS: ((that*))</span><br />
+[07:19] <span style="color:#797900">CSS: So, given that Spaceballs 1 is gone. He's either leaving peacefully or got a bead on her and is hunting her down.</span><br />
+[07:20] <span style="color:#797900">CSS: Anyone want to handle the betting booth?</span><br />
+[07:22] <span style="color:#ee1e00">CCP: wat.</span><br />
+[07:24] <span style="color:#797900">CSS: For which of my predictions is right.</span><br />
+[07:31] <span style="color:#2fc1ff">CAA: Best soap opera ever. 10/10, would reccomend.</span><br />
+[07:31] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  captchalogues her mustache --</span><br />
+[07:33] <span style="color:#87f566">CCS: Awesome.</span><br />
+[07:33] <span style="color:#ee1e00">CCP: lol</span><br />
+[08:00] <span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+[09:10] <span style="color:#646464"><span style="color:#797900">CURRENT solemnSwords [CSS]</span> RIGHT NOW responded to memo.</span><br />
+[09:10] <span style="color:#797900">CSS: ((Sorry, had a meeting!))</span><br />
+[09:10] <span style="color:#797900">CSS: ((Summary of what I missed after mentioning a betting booth?))</span><br />
+[09:10] <span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+[09:11] <span style="color:#2fc1ff">CAA: ((Nothing. XD))</span><br />
+[09:11] <span style="color:#8f8b12">CSB: ((ther he gos))</span><br />
+[09:11] <span style="color:#646464"><span style="color:#aa00ff">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[09:11] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  walks in with her kid in her arms and looks around --</span><br />
+[09:13] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  waves with tail --</span><br />
+[09:13] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  meows. Is a black and white cat with a toon link outfit yadda yadda yadda --</span><br />
+[09:14] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  smiles and scootches on over to Adal to sit down --</span><br />
+[09:14] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles and waves, Cookie perched on her shoulder. --</span><br />
+[09:14] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  waves at new people --</span><br />
+[09:15] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  resumes fanning with tail --</span><br />
+[09:16] <span style="color:#aa00ff">CAS: Hey there Adal. It's been a while, hmm?</span><br />
+[09:16] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles, sitting over a bit further away from the others. --</span><br />
+[09:17] <span style="color:#8f8b12">CSB: Mmhm.</span><br />
+[09:18] <span style="color:#ee1e00">CCP: sup</span><br />
+[09:19] <span style="color:#aa00ff">CAS: Not much. thought I'd visit...and scratch a certain someone's ears</span><br />
+[09:19] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  glances aback at adal --</span><br />
+[09:19] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  wags --</span><br />
+[09:20] <span style="color:#ee1e00">CCP: pfft.</span><br />
+[09:21] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  lets go of the kid, who promptly sits in place, and reaches up to scratch adal's ears --</span><br />
+[09:21] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  purry noise --</span><br />
+[09:22] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to say hi to the kid --</span><br />
+[09:22] <span style="color:#aa00ff">CAS: ((...ok wauit a minute...))</span><br />
+[09:23] <span style="color:#646464"><span style="color:#610091">CURRENT beautyinSight [CBS]</span> RIGHT NOW responded to memo.</span><br />
+[09:23] <span style="color:#610091">CBS: ((ok))</span><br />
+[09:23] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles at the kid, loving children but rather shy to interact with someone she barely know's child. --</span><br />
+[09:24] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  The kid looks at him and waves. "Kim aminal" --</span><br />
+[09:24] <span style="color:#ee1e00">CCP: hi there :D</span><br />
+[09:24] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  lays down so BS can get to him --</span><br />
+[09:25] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  gets up and toddles on over to him before plopping down --</span><br />
+[09:25] <span style="color:#610091">CBS: Hi</span><br />
+[09:26] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  smiles a bit and continues to scratch adal's ears --</span><br />
+[09:26] <span style="color:#ee1e00">CCP: so, how have things been going with you two?</span><br />
+[09:26] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  wag wag wag --</span><br />
+[09:26] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  meows before leaping off of Jess's shoulders, using her arm and legs as stairs and moving towards the child. --</span><br />
+[09:26] <span style="color:#87f566">CCS: Meow!~</span><br />
+[09:26] <span style="color:#2fc1ff">CAA: Cookie...ehehe.</span><br />
+[09:26] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  looks over at the cat and squeals --</span><br />
+[09:26] <span style="color:#610091">CBS: kitty!</span><br />
+[09:27] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  grins --</span><br />
+[09:27] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  walks towards where her cat scampered off to, a smile crossing her face. --</span><br />
+[09:27] <span style="color:#87f566">CCS: Hello. Meow.</span><br />
+[09:28] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  would like to make note for as that adal is presently in nothing but boxers --</span><br />
+[09:29] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  watches the talking cat. Doesn't seem phased much --</span><br />
+[09:29] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  *snirk* --</span><br />
+[09:30] <span style="color:#646464"><span style="color:#aaaa00">CURRENT solemnSwords [CSS]</span> RIGHT NOW responded to memo.</span><br />
+[09:30] <span style="color:#aaaa00">CSS: ((Chumdroid a shit.))</span><br />
+[09:30] <span style="color:#ee1e00">CCP: ((in other news, water is wet! <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' />))</span><br />
+[09:30] <span style="color:#aa00ff">CAS: Be careful, he's part bird so...</span><br />
+[09:30] <span style="color:#aaaa00">CSS: (( :^) ))</span><br />
+[09:30] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  purrs and nuzzles the child then- BURD --</span><br />
+[09:30] <span style="color:#646464">-- CURRENT solemnSwords <span style="color:#aaaa00">[CSS]</span>  remembers that he exists --</span><br />
+[09:31] <span style="color:#2fc1ff">CAA: Cookie no.</span><br />
+[09:31] <span style="color:#aa00ff">CAS: and Kim... things are tough. even with the help. </span><br />
+[09:31] <span style="color:#87f566">CCS: Meooowww.</span><br />
+[09:31] <span style="color:#2fc1ff">CAA: Be easy, Cookie.</span><br />
+[09:31] <span style="color:#87f566">CCS: Meow. -w-</span><br />
+[09:31] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  walks up to the kid. --</span><br />
+[09:32] <span style="color:#2fc1ff">CAA: Hi.</span><br />
+[09:32] <span style="color:#aa00ff">CAS: I under estimated how slowly resources would be to gather</span><br />
+[09:32] <span style="color:#610091">CBS: The kid snuggled up closer<span style="color:#ff0000">to</span> Kim. He<span style="color:#ff0000">is</span> apparently more comfortable <span style="color:#ff0000">with</span>  talking animals then strangers. huh.</span><br />
+[09:32] <span style="color:#610091">CBS: ((oops...that's grey text))</span><br />
+[09:33] <span style="color:#610091">CBS: Hi </span><br />
+[09:33] <span style="color:#ee1e00">CCP: hey there.</span><br />
+[09:33] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  how old is BS at this point? --</span><br />
+[09:34] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  liken him to being about 18 months. the 21st is his monthly birthday. --</span><br />
+[09:34] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  k --</span><br />
+[09:36] <span style="color:#aa00ff">CAS: ((unfortunately i haven't had much contact with 18 month olds..it's like my weakest age))</span><br />
+[09:36] <span style="color:#ee1e00">CCP: ((gotcha. so basically just "toddler that can speak a few words".))</span><br />
+[09:37] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  goes to BS and purrs, nuzzling him. --</span><br />
+[09:37] <span style="color:#87f566">CCS: Don't worry, she's nice.</span><br />
+[09:38] <span style="color:#2fc1ff">CAA: Thank you Cookie.</span><br />
+[09:38] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  chuckles slightly --</span><br />
+[09:38] <span style="color:#aa00ff">CAS: ((oh he can walk fine. it's just that it was a short distance and all))</span><br />
+[09:41] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues lying on the floor near BS --</span><br />
+[09:41] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  wiggles ears and quietly continues purry noise --</span><br />
+[09:42] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  grins and continues to pet/scratch adal --</span><br />
+[09:42] <span style="color:#aa00ff">CAS: I actually missed you more than i thought</span><br />
+[09:43] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  happily pets both the talking animals --</span><br />
+[09:43] <span style="color:#8f8b12">CSB: ..Huh. Can't say anyone's ever missed me.</span><br />
+[09:48] <span style="color:#aa00ff">CAS: oh?</span><br />
+[09:48] <span style="color:#aa00ff">CAS: but you're such a loavable guy</span><br />
+[09:48] <span style="color:#ee1e00">CCP: yeah Adal, why would no one miss you before?</span><br />
+[09:49] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  shrugs --</span><br />
+[09:51] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  watches AS for a bit, then scratches behind kim and cookie's ears like his mom --</span><br />
+[09:51] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  purrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr --</span><br />
+[09:52] <span style="color:#2fc1ff">CAA: She seems to like you. She used to not like people so much..</span><br />
+[09:53] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  relaxes while being petted --</span><br />
+[09:54] <span style="color:#610091">CBS:  <span style="color:#ff0000">I </span> like kitty</span><br />
+[09:54] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  more pets --</span><br />
+[09:56] <span style="color:#87f566">CCS: I like you too. owo</span><br />
+[09:56] <span style="color:#646464">-- CURRENT artisticAuthor <span style="color:#2fc1ff">[CAA]</span>  smiles and goes to sit back down where she was --</span><br />
+[09:58] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  goes to grab the kitty and plop them onto his lap --</span><br />
+[09:58] <span style="color:#aa00ff">CAS: oh...brenny...no..no</span><br />
+[09:58] <span style="color:#aa00ff">CAS: they might not like that</span><br />
+[10:00] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  twitches like the fidgetty nervous wreck she is, eyes going wide and meowing sadly. --</span><br />
+[10:01] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  stops and stares at the k, he might be a little confuseditty --</span><br />
+[10:01] <span style="color:#aa00ff">CAS: kitty doesn't like that. be gentle.</span><br />
+[10:02] <span style="color:#646464">-- CURRENT cookieSprite <span style="color:#87f566">[CCS]</span>  has the instinct to bite him but looks over at Jess, remembering that she learned to not bite humans --</span><br />
+[10:02] <span style="color:#2fc1ff">CAA: It's okay, kitty. Be nice.</span><br />
+[10:03] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  lets go and pats cookie really gentle like before just starting to pet kim --</span><br />
+[10:06] <span style="color:#2fc1ff">CAA: ((goodnight guys))</span><br />
+[10:06] <span style="color:#610091">CBS: ((night v.v gunna be going soon too))</span><br />
+[10:06] <span style="color:#2fc1ff">CAA: ((It's midnight here I need to do the sleepy thing goodnight))</span><br />
+[10:06] <span style="color:#646464"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+[10:06] <span style="color:#646464"><span style="color:#000000">CAA</span> ceased responding to memo.</span><br />
+[10:07] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  begins softly panting happily --</span><br />
+[10:07] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  the kid keeps petting kim, before just snuggling upp on him --</span><br />
+[10:07] <span style="color:#aa00ff">CAS: ....maybe he'll finally go to sleep too</span><br />
+[10:08] <span style="color:#ee1e00">CCP: yeah, think so...</span><br />
+[10:09] <span style="color:#aa00ff">CAS: He's really difficult to put to sleep sometimes</span><br />
+[10:09] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  yawns --</span><br />
+[10:11] <span style="color:#646464">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  yawns also --</span><br />
+[10:12] <span style="color:#aa00ff">CAS: So..is there still a room open up there?</span><br />
+[10:12] <span style="color:#8f8b12">CSB: Multiple.</span><br />
+[10:12] <span style="color:#ee1e00">CCP: yeah, there's always spare rooms open upstairs.</span><br />
+[10:13] <span style="color:#aa00ff">CAS: Oh good. I think I need to crash for the night. </span><br />
+[10:13] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  gentle snoring from cuddled up kid on kim --</span><br />
+[10:15] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues laying down, being leaned on by BS --</span><br />
+[10:15] <span style="color:#aa00ff">CAS: sleeping?</span><br />
+[10:16] <span style="color:#ee1e00">CCP: uh, he might be?</span><br />
+[10:16] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  slips off the couch and checks --</span><br />
+[10:16] <span style="color:#aa00ff">CAS: ...oh thanks the higher powers</span><br />
+[10:18] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  quietly collects the child, being careful to seporate kim's fur from his grasp --</span><br />
+[10:18] <span style="color:#646464">-- CURRENT beautyinSight <span style="color:#610091">[CBS]</span>  instictually clings --</span><br />
+[10:20] <span style="color:#646464"><span style="color:#fe7e29">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+[10:20] <span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#fe7e29">[CPO]</span>  suddenly is here --</span><br />
+[10:20] <span style="color:#aa00ff">CAS: ((just thought of being PO'd))</span><br />
+[10:20] <span style="color:#aa00ff">CAS: ((def. tired))</span><br />
+[10:21] <span style="color:#ee1e00">CCP: sup</span><br />
+[10:21] <span style="color:#ff5f03">CPO: ((heheheh))</span><br />
+[10:21] <span style="color:#ff5f03">CPO: Hey.</span><br />
+[10:23] <span style="color:#646464">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  waves at person she doesn't know and trudges upstrair with her sleepy child --</span><br />
+[10:23] <span style="color:#646464"><span style="color:#000000">CBS</span> ceased responding to memo.</span><br />
+[10:24] <span style="color:#ff5f03">CPO: What's goin on?</span><br />
+[10:24] <span style="color:#aa00ff">CAS: ((just one frinedly reminder before bed. kim. tumblr rp shit. night x.x))</span><br />
+[10:26] <span style="color:#ee1e00">CCP: ((gnight))</span><br />
+[10:26] <span style="color:#ee1e00">CCP: ((also I'm trying to find the thread...))</span><br />
+[10:26] <span style="color:#ee1e00">CCP: ((unless you mean the ask meme you just sent?))</span><br />
+[10:28] <span style="color:#aa00ff">CAS:  <a href='http://creeperpuncher.tumblr.com/tagged/awesomeswordfish'>http://creeperpuncher.tumblr.com/tagged/awesomeswordfish</a> ))</span><br />
+[10:28] <span style="color:#aa00ff">CAS: ((this is in my bookmarks now))</span><br />
+[10:28] <span style="color:#aa00ff">CAS: ((night o.o))</span><br />
+[10:29] <span style="color:#ee1e00">CCP: ((lol))</span><br />
+[10:29] <span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[10:32] <span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+[10:39] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets up, stretches, and yawns --</span><br />
+[10:51] <span style="color:#ff5f03">CPO: Heading out?</span><br />
+[10:51] <span style="color:#ee1e00">CCP: nah, I usually sleep here.</span><br />
+[10:54] <span style="color:#ff5f03">CPO: Ohhh, okay.</span><br />
+[11:01] <span style="color:#ff5f03">CPO: I'm gonna head out. </span><br />
+[11:01] <span style="color:#ee1e00">CCP: mmk, later PO.</span><br />
+[11:01] <span style="color:#646464">-- CURRENT perpetuallyOptimistic <span style="color:#ff5f03">[CPO]</span>  suddenly is gone. Darn Bat-Apprentences. --</span><br />
+[11:01] <span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[11:01] <span style="color:#ee1e00">CCP: ((actually wait))</span><br />
+[11:01] <span style="color:#ee1e00">CCP: ((FUCK))</span><br />
+[11:01] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //facepalm --</span><br />
+[11:02] <span style="color:#ee1e00">CCP: ((SB, next time PO comes on, could you remember to tell him about SOSL?))</span><br />
+[11:04] <span style="color:#8f8b12">CSB: ((what is SOSL))</span><br />
+[11:04] <span style="color:#8f8b12">CSB: ((or will he just know what you mean or))</span><br />
+[11:05] <span style="color:#ee1e00">CCP: ((the v2 continuation thing I thought someone told you about by now?))</span><br />
+[11:05] <span style="color:#8f8b12">CSB: ((ooOOOOHHH))</span><br />
+[11:05] <span style="color:#ee1e00">CCP: ((yeah))</span><br />
+[11:05] <span style="color:#8f8b12">CSB: ((yes  i have been informed i was just unaware of the acronym))</span><br />
+[11:05] <span style="color:#ee1e00">CCP: ((ok, that makes sense, yeah))</span><br />
+[11:07] <span style="color:#8f8b12">CSB: ((/wil mention to him. scurries away 2 do dishes))</span><br />
+[11:07] <span style="color:#ee1e00">CCP: ((mmk, later))</span><br />

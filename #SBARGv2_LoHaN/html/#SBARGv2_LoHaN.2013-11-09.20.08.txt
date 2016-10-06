@@ -1,0 +1,6 @@
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIJ</span> ceased responding to memo.</span><br />

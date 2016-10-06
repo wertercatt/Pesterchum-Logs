@@ -1,0 +1,476 @@
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464"><span style="color:#ff660d">CURRENT squealingVermin [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  lands near the base with the van. --</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hops out of the van, thuroughly entertained now --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  steps out, amazed that he never heard that song before --</span><br />
+<span style="color:#646464"><span style="color:#730e8f">CURRENT fierySwallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  leaps out of the van in a rather dynamic fashion, he sure feels PUMPED at the moment --</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops out of the van --</span><br />
+<span style="color:#646464"><span style="color:#29486d">CURRENT avoidantCorrespondent [CAC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT avoidantCorrespondent <span style="color:#29486d">[CAC]</span>  gets out of the van and yawns --</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">CAG: *slides out of the van, grinning* That was /great/.</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  re-enters LOIAR's airspace, deploying a trans-anchor on the surface before porting down --</span><br />
+<span style="color:#a80000">CFA: (\ I know, right? /)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  steps out and capchalogues the van. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles, transportalizing up to the cafe --</span><br />
+<span style="color:#7ccfb2">CAG: *follows Ash to the cafe* Hey, we're not even dead.</span><br />
+<span style="color:#ff660d">CSV: Hah.</span><br />
+<span style="color:#ff660d">CSV: I'm glad</span><br />
+<span style="color:#7ccfb2">CAG: It's one of the hallmarks of a great adventure.</span><br />
+<span style="color:#a80000">CFA: (\ Same /)</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  heads into the HQ, hands in his pockets. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  enters the HQ and transportalizes to the bacafe as well --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  follows up. --</span><br />
+<span style="color:#9d001f">CRS: Man why'd I even build this ship if next to no one's gonna ride along.</span><br />
+<span style="color:#9d001f">CRS: Aside from the awesome factor, which is admittedly pretty damn high</span><br />
+<span style="color:#646464"><span style="color:#2c2cac">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  is currently in the cafe, face buried in a book. She casually waves to whoever transported over. --</span><br />
+<span style="color:#ff660d">CSV: Heyooo.</span><br />
+<span style="color:#ee1e00">CCP: well, we're eventually going to neee a gratuitously overpowered warship for the final battle against bakagami... that's when your ship will shine ;)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  grabs a cooled Monster Energy from the fridge and sits down along with EQ. --</span><br />
+<span style="color:#9d001f">CRS: Hahahahahaha</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  looks up from her book. "Hey. Whats up?" --</span><br />
+<span style="color:#646464"><span style="color:#00ff00">CURRENT flockOrnis [CFO]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#00ff00">CFO: Hello again.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sits down with the frog tank, Gasping as the Bird suddenly appears --</span><br />
+<span style="color:#a80000">CFA: (\ WOAH /)</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  jumps to her feet --</span><br />
+<span style="color:#2c2cac">CEQ: WHAT</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  instantly impossibly big grin --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks. --</span><br />
+<span style="color:#9d001f">CRS: Well that was quick.</span><br />
+<span style="color:#7ccfb2">CAG: *glances up at the commotion before sprawling herself over the floor anyway*</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sips his energy drink, he looks at the guardian appear again. He gulps the liquid down. --</span><br />
+<span style="color:#ff660d">CSV: Surprising.</span><br />
+<span style="color:#a80000">CFA: (\ Oh god haha /)</span><br />
+<span style="color:#a80000">CFA: (\ Hello Ornis /)</span><br />
+<span style="color:#ee1e00">CCP: welcome back</span><br />
+<span style="color:#00ff00">CFO: Thank you.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  heads over to the counter, preparing the customary mango smoothie and prepping three cups. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  absentmindedly pours coffee as he still grins impossibly wide --</span><br />
+<span style="color:#2c2cac">CEQ: Oh... He's Ornis? ... Huh. Welcome then...</span><br />
+<span style="color:#9d001f">CRS: Hey again Big Bro Ornis.</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  sits at the counter this time instead of at a table --</span><br />
+<span style="color:#00ff00">CFO: Hello.</span><br />
+<span style="color:#00ff00">CFO: I see Elsey isn't here. Isn't this her player's land?</span><br />
+<span style="color:#730e8f">CFS: hm?</span><br />
+<span style="color:#a80000">CFA: (\ YYes, ti is /)</span><br />
+<span style="color:#2c2cac">CEQ: hm...</span><br />
+<span style="color:#a80000">CFA: (\ I dont know where theyy are, honestlyy /)</span><br />
+<span style="color:#a80000">CFA: (\ theyy were in the van last I saw them... /)</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  turns realizing he's still pouring coffee and stops before he overflows the cup --</span><br />
+<span style="color:#a80000">CFA: (\ THeyy might have gone to her House /)</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is in her room on the 5th floor, flopped over on her bed --</span><br />
+<span style="color:#2c2cac">CEQ: Ah... that makes sence.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  finishes preparing it and is about to plop down in a chair, but is suddenly unsure of where to sit --</span><br />
+<span style="color:#9d001f">CRS: There's a good chance she's still recovering...</span><br />
+<span style="color:#00ff00">CFO: Ah, I see.</span><br />
+<span style="color:#9d001f">CRS: Hahahaha I don't think she takes to space travel all that well.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  just dorkily dashes to a random chair, eagerly taking a sip of his coffee --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is sitting on the couch, tail still wagging... not sure if it's because excitement or slamming one too many cans of En-O-Gee --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks down at the frogs she now had on the table, a tiny Rain frog hopping about happily and squeaking --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  glances back at the frogs --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  pokes the rain frog as it topples over on its side --</span><br />
+<span style="color:#00ff00">CFO: Ah, a Space player I see. How is it going?</span><br />
+<span style="color:#a80000">CFA: (\ Ayye, veryy well /)</span><br />
+<span style="color:#a80000">CFA: (\ Myy Ectomachine Isnt realyyl working because of the glitches but /)</span><br />
+<span style="color:#00ff00">CFO: That's great to know.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  casually sets a glass of smoothie by FO, leaning against the counter. --</span><br />
+<span style="color:#a80000">CFA: (\ Im collecting frogs at least /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nods to RS and takes the glass in a wing, the drink disappearing --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  grins --</span><br />
+<span style="color:#00ff00">CFO: What's wrong with your machine?</span><br />
+<span style="color:#a80000">CFA: (\ The viewfinders are glitched with static /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  sets the glass on the counter and moves over to FA's table --</span><br />
+<span style="color:#a80000">CFA: (\ Everyy time I've went to Paradoxifyy a frog, it glitches out /)</span><br />
+<span style="color:#00ff00">CFO: I see. I'll look into fixing it.</span><br />
+<span style="color:#a80000">CFA: (\ Thank yyou /)</span><br />
+<span style="color:#00ff00">CFO: Skaia should be ready to fix tomorrow, if not tonight.</span><br />
+<span style="color:#a80000">CFA: (\ Beautyy /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  smiles and nods --</span><br />
+<span style="color:#2c2cac">CEQ: Really now? Sweet.</span><br />
+<span style="color:#00ff00">CFO: Which should take care of a lot of our problems.</span><br />
+<span style="color:#a80000">CFA: (\ Then i can finallyy get to work /)</span><br />
+<span style="color:#a80000">CFA: (\ wonderful /)</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  's grin somehow by some sheer defect of logic gets wider --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  covers up his face with his coffee cup as he takes another sip --</span><br />
+<span style="color:#ee1e00">CCP: nice. I'll finally be able to sleep on Prospit without staring at the ground all the time. and also the other things being fixed, obviously</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes the frogs and puts them back in the small tank on the table --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  leans over and looks into the tank --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  there is another, much larger European green frog in the tank, along with the Rain frog --</span><br />
+<span style="color:#00ff00">CFO: Do they have names?</span><br />
+<span style="color:#a80000">CFA: (\ Mhm! /)</span><br />
+<span style="color:#a80000">CFA: (\ The rain frogs name is Deiwos, and the European frog is Immergrun /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nods and smiles --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  nearly falls out of his chair from happiness --</span><br />
+<span style="color:#7ccfb2">CAG: *blinks at that* Deiwos. Nice name.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes another sip to calm down, which, the drink being coffee doesn't entirely help much --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  returns the nod, chuckling --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks down as the Rain frog starts squeaking again, staring up at Ornis --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  chuckles --</span><br />
+<span style="color:#00ff00">CFO: He probably doesn't like me all that much. I resemble something that would want to eat him.</span><br />
+<span style="color:#a80000">CFA: (\ Heh, kinda, That and everyything is bigger then him /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  leans back in his chair --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks over at FS, grinning at him --</span><br />
+<span style="color:#a80000">CFA: (\ YYou alright? /)</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  blinks then realizes he is still grinning like a total moron and takes a swig of his coffee just giving a thumbs up as he does --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  nods rapidly as he lowers the cup --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  shakes her head gently, smiling as she uncaptchas her bottle of Peach pomegranate Tea, sipping at it --</span><br />
+<span style="color:#646464"><span style="color:#550000">CURRENT ashSprite [CAS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  floats into the room, she hadnt hung out in Bacafe for a while --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  waves at ashsprite --</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  eyes the new person, waving back shyly --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  notices AS enter the room too and gets up the put the cup away --</span><br />
+<span style="color:#730e8f">CFS: Ah</span><br />
+<span style="color:#730e8f">CFS: hello</span><br />
+<span style="color:#550000">CAS: Caww~</span><br />
+<span style="color:#550000">CAS: Hi ouo</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  smiles at AS. "Hey, havent seen you before... Anyways, whats up?" --</span><br />
+<span style="color:#730e8f">CFS: aha...</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nods --</span><br />
+<span style="color:#550000">CAS: Im Ashsprite</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  smiles as he drops the cup but falls just short of the trashcan --</span><br />
+<span style="color:#550000">CAS: Ash's....Sprite...</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  grins and shakes her headf --</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  blinks before flying over quickly and throwing the Cup away --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks down and facepalms before abruptly dropping down and oh wait AS got it oops --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  just gets back up --</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nearly hit her head on his as she did --</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  floats back up and floats back, folding her wings a bit as she sat on the back of the couch --</span><br />
+<span style="color:#2c2cac">CEQ: Ah, Nice to meet you then! Call me Hannah. Whats up- pff...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  shuffles around awkwardly before taking a breath and just plopping down on a stool --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  staring into her Goggle computer --</span><br />
+<span style="color:#a80000">CFA: (\ Oh, johns coming over /)</span><br />
+<span style="color:#730e8f">CFS: (you are clealy too excited... calm down... act natural...)</span><br />
+<span style="color:#a80000">CFA: (\ Cool /)</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks back at Ornis --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  turns back to the bar --</span><br />
+<span style="color:#730e8f">CFS: (but this is just so fantastic ggggggggggggh)</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  rolls eyes and turns to her watch-top. --</span><br />
+<span style="color:#a80000">CFA: (\ ...pfftttt FS /)</span><br />
+<span style="color:#a80000">CFA: (\ Calm down, boyyo /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  brings up his status menu with a paw-wave, checking to see if... nope, the consorts still haven't finished the Broken Bridge artifact for the last stage of his Lore Quest :/ --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks back abruptly --</span><br />
+<span style="color:#730e8f">CFS: Calm?</span><br />
+<span style="color:#a80000">CFA: (\ Ayye /)</span><br />
+<span style="color:#730e8f">CFS: why goodness let me tell you</span><br />
+<span style="color:#730e8f">CFS: I am SO ludicrously calm</span><br />
+<span style="color:#730e8f">CFS: if my calmness were a ship</span><br />
+<span style="color:#730e8f">CFS: it would be...</span><br />
+<span style="color:#730e8f">CFS: sunk... oh dear</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  turns back to the bar --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks up and pats him on the shoulder --</span><br />
+<span style="color:#2c2cac">CEQ: ...</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  offers FS a mango smoothie. Claps on the shoulder. --</span><br />
+<span style="color:#9d001f">CRS: S'okay man, s'okay.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  descends onto LoIaR on his rocket moped and lands right outside of the HQ --</span><br />
+<span style="color:#a80000">CFA: (\ JOhns here! /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  grins --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks. --</span><br />
+<span style="color:#7ccfb2">CAG: Who's that?</span><br />
+<span style="color:#2c2cac">CEQ: Oh now?</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes a sip of it --</span><br />
+<span style="color:#730e8f">CFS: mm?</span><br />
+<span style="color:#9d001f">CRS: CA, right?</span><br />
+<span style="color:#a80000">CFA: (\ YYes! /)</span><br />
+<span style="color:#730e8f">CFS: mm</span><br />
+<span style="color:#7ccfb2">CAG: Oh, /sweet/!</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  captchalogues his moped and walks in, taking the transportalizer to the cafe --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  runs up and hugs him suddenly --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  waves at the person she hasnt met yet. --</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  eeps but hugs back --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes another sip from the smoothie as he looks back --</span><br />
+<span style="color:#730e8f">CFS: mm</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  managed to doze off at the table --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles and smiles at him before stepping back --</span><br />
+<span style="color:#a80000">CFA: (\ ....Oh goodness /)</span><br />
+<span style="color:#a80000">CFA: (\ Sleepyy first guardian /)</span><br />
+<span style="color:#9d001f">CRS: Heh.</span><br />
+<span style="color:#ee1e00">CCP: aw...</span><br />
+<span style="color:#730e8f">CFS: mm?</span><br />
+<span style="color:#2c2cac">CEQ: daw...</span><br />
+<span style="color:#000000">CCA: ∞ (For how CA looks: <a href='http://circuitousantipathyv2.tumblr.com/image/53164869475'>http://circuitousantipathyv2.tumblr.com/image/53164869475</a> ) Σ</span><br />
+<span style="color:#000000">CCA: ∞ Thats him huh? Σ</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  twitches a wing --</span><br />
+<span style="color:#a80000">CFA: (\ Mhm /)</span><br />
+<span style="color:#000000">CCA: ∞ Tempted to pet him Σ</span><br />
+<span style="color:#a80000">CFA: (\ oh god /)</span><br />
+<span style="color:#ee1e00">CCP: ........um.</span><br />
+<span style="color:#2c2cac">CEQ: heh</span><br />
+<span style="color:#9d001f">CRS: Maaaybe not...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  lowers his glass and frantically shakes his head --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nearly falls out of his chair and jolts, sitting up and looking around --</span><br />
+<span style="color:#7ccfb2">CAG: … Ash, can I hit your server?</span><br />
+<span style="color:#00ff00">CFO: A-Ah. I apologize!</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  unshakes his head --</span><br />
+<span style="color:#000000">CCA: ∞ Just because I'm tempted doesn't mean I'd do it Σ</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  must... calm... --</span><br />
+<span style="color:#a80000">CFA: (\ Ah! It's fine, Ornis! /)</span><br />
+<span style="color:#7ccfb2">CAG: I just want to hit you.</span><br />
+<span style="color:#ee1e00">CCP: "hey, inopportune naps happen in this game" I believe is the appropriate quote.</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  waves at Ornis and sits down at the table with him. --</span><br />
+<span style="color:#000000">CCA: ∞ Sup? Σ</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  waves his wing --</span><br />
+<span style="color:#000000">CCA: ∞ So, I heard the game will be mostly fixed by tomorrow? Σ</span><br />
+<span style="color:#00ff00">CFO: N-Not for me! I've been working so hard on the code I can't sleep..</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nods, rubbing his face --</span><br />
+<span style="color:#00ff00">CFO: Yes, hopefully.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks. --</span><br />
+<span style="color:#a80000">CFA: (\ Well then an Inoppertune Nap would be reasonable for yyou /)</span><br />
+<span style="color:#2c2cac">CEQ: Ah... You should get some rest, Ornis.</span><br />
+<span style="color:#9d001f">CRS: Definitely.</span><br />
+<span style="color:#730e8f">CFS: yes...</span><br />
+<span style="color:#730e8f">CFS: indeed</span><br />
+<span style="color:#000000">CCA: ∞ So then what? Σ</span><br />
+<span style="color:#000000">CCA: ∞ You fix the game and we all play? We're all mostly done with our land quests by this point so some direction would be appreciated. Σ</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  shakes his head --</span><br />
+<span style="color:#730e8f">CFS: ahahahaha...</span><br />
+<span style="color:#00ff00">CFO: Not until I'm done with the code.. I won't sleep until then..</span><br />
+<span style="color:#9d001f">CRS: Don't be so sure man.</span><br />
+<span style="color:#9d001f">CRS: I'm almost positive my land's got one more trick in store for me</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  frowns --</span><br />
+<span style="color:#550000">CAS: Caww ono</span><br />
+<span style="color:#00ff00">CFO: Well. We've got to deal with Chronos, and then we play...</span><br />
+<span style="color:#000000">CCA: ∞ I've still got to finish my quest but...... Σ</span><br />
+<span style="color:#000000">CCA: ∞ Yeah I may need help for it Σ</span><br />
+<span style="color:#730e8f">CFS: of... of course</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  is leaning on his wing, dozing off again --</span><br />
+<span style="color:#730e8f">CFS: that is clearly the case</span><br />
+<span style="color:#730e8f">CFS: of course</span><br />
+<span style="color:#a80000">CFA: (\ ... /)</span><br />
+<span style="color:#7ccfb2">CAG: I've gotta figure out Pax. Sigh.</span><br />
+<span style="color:#2c2cac">CEQ: ...</span><br />
+<span style="color:#00ff00">CFO: Never had so much excitement around me... Today was fun..</span><br />
+<span style="color:#a80000">CFA: (\ Ayye, that it was /)</span><br />
+<span style="color:#9d001f">CRS: Glad you thought so.</span><br />
+<span style="color:#7ccfb2">CAG: Hells yeah.</span><br />
+<span style="color:#2c2cac">CEQ: hm...</span><br />
+<span style="color:#00ff00">CFO: Tiring though..</span><br />
+<span style="color:#a80000">CFA: (\ Haha, veryy.... /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  rubs his face again with both wings --</span><br />
+<span style="color:#7ccfb2">CAG: Sleepy programmers are the ones who make the most mistakes. Or so college students have told me.</span><br />
+<span style="color:#a80000">CFA: (\ hm /)</span><br />
+<span style="color:#2c2cac">CEQ: yup</span><br />
+<span style="color:#000000">CCA: ∞ Speaking as a programmer, you'll make more mistakes as you grow tired Σ</span><br />
+<span style="color:#00ff00">CFO: What I wouldn't do for a nest to sleep in, but I've got to do this for you hatchlings. I've got a lot to make up for..</span><br />
+<span style="color:#000000">CCA: ∞ So? Σ</span><br />
+<span style="color:#000000">CCA: ∞ Go sleep. It'll still be there in the morning Σ</span><br />
+<span style="color:#00ff00">CFO: It's my fault he got here.. I wasn't paying attention and he caught me by surprise...</span><br />
+<span style="color:#a80000">CFA: (\ Ornis... /)</span><br />
+<span style="color:#000000">CCA: ∞ So? Its not like we weren't all caught be surprise Σ</span><br />
+<span style="color:#ff660d">CSV: The whole sprite gathering thing was obvious.</span><br />
+<span style="color:#ff660d">CSV: Nobody listened though.</span><br />
+<span style="color:#7ccfb2">CAG: Hey, you're doin' the best you can to make up for it, but it's not gonna be super helpful if you get tired and stop payin' attention again 'cause you can hardly keep your eyes open. Or if you mess up the code by puttin' in one character wrong or something.</span><br />
+<span style="color:#ee1e00">CCP: I'll have to agree with them. I've sleep-coded on "Latura" before, and believe me, EntityOhGodWhat.java is all the argument you need that sleep-coding is a Bad Idea.</span><br />
+<span style="color:#000000">CCA: ∞ Instead of focusing on the problem you need to focus on how to solve it Σ</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes another sip of his smoothie --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  make that a SWIG --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  craddles his chin thoughtfully --</span><br />
+<span style="color:#00ff00">CFO: I guess..</span><br />
+<span style="color:#00ff00">CFO: The code should be done by tomorrow.. Computer's testing it before it runs...</span><br />
+<span style="color:#a80000">CFA: (\ I see /)</span><br />
+<span style="color:#2c2cac">CEQ: uh huh...</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  leans on the table, resting his head on it --</span><br />
+<span style="color:#9d001f">CRS: Then starting tomorrow you get some rest, alright?</span><br />
+<span style="color:#9d001f">CRS: Real rest, not power-napping-the-cafe rest.</span><br />
+<span style="color:#000000">CCA: ∞ I know you care about us. And since you do you know that making a mistake now would be BAD. Σ</span><br />
+<span style="color:#000000">CCA: ∞ So rest and you'll be able to fix it without any other bugs Σ</span><br />
+<span style="color:#00ff00">CFO: True, true..</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  suddenly teleports up to the 4th floor via space powers --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  pulls out his cane and taps away at the screen coming out of the handle --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes another sip --</span><br />
+<span style="color:#00ff00">CFO: I should shut off autorun in case there's a coding mistake..</span><br />
+<span style="color:#00ff00">CFO: Yeah...</span><br />
+<span style="color:#2c2cac">CEQ: good idea.</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nods against the table and shuts the screen off --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  suddenly reappears again, having gone to look for an empty room --</span><br />
+<span style="color:#ff660d">CSV: You know Ornis, if you're that tired. We have a free room- ... </span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at FA just appear again. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  waves --</span><br />
+<span style="color:#00ff00">CFO: No, no.. I couldn't burden you..</span><br />
+<span style="color:#a80000">CFA: (\ Oh come now /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  waves his wing halfheartedly --</span><br />
+<span style="color:#a80000">CFA: (\ YYou wouldn't be bothering us /)</span><br />
+<span style="color:#ff660d">CSV: It is barely a burden.</span><br />
+<span style="color:#00ff00">CFO: It's quite alright..</span><br />
+<span style="color:#2c2cac">CEQ: It's not a burden at all.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sips again --</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  shrugs --</span><br />
+<span style="color:#7ccfb2">CAG: If it's offered, it's hardly a burden. You sleeping would probs be good for everyone.</span><br />
+<span style="color:#000000">CCA: ∞ Its more logical that you stay here. Σ</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  nods while he does so --</span><br />
+<span style="color:#2c2cac">CEQ: indeed</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  nods reluctantly --</span><br />
+<span style="color:#00ff00">CFO: Alright... I suppose..</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  offers a hand to FO --</span><br />
+<span style="color:#a80000">CFA: (\ The room is just upstairs /)</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  takes FA's hand in his wing and stands, wobbling before righting himself --</span><br />
+<span style="color:#00ff00">CFO: Right..</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  extends her other hand to help him balance --</span><br />
+<span style="color:#00ff00">CFO: No, no.. I've got it..</span><br />
+<span style="color:#a80000">CFA: (\ If yyou're sure /)</span><br />
+<span style="color:#00ff00">CFO: Go ahead and lead the way.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  nods, The two suddenly vanishing as she teleports them up a couple floors, landing in front of the Door to the empty room --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  looks around, startled --</span><br />
+<span style="color:#00ff00">CFO: W-Well then..</span><br />
+<span style="color:#a80000">CFA: (\ Sorryy, heh /)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  teleports up to the sixth floor, where the two are. --</span><br />
+<span style="color:#7ccfb2">CAG: … Yeah, I need t'go work on my Land. See you lot later. *equips her rocketboard and whee!*</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  unlocks the door, opening it slowly and stepping inside --</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAG</span> ceased responding to memo.</span><br />
+<span style="color:#ff660d">CSV: Oh right, don't worry about your laboratory. I got a friend standing guard and protecting it.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  says, as he walks towards them. --</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  walks inside, looking around --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sets down his smoothie --</span><br />
+<span style="color:#00ff00">CFO: Ah, thank you..</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  FACEBARS --</span><br />
+<span style="color:#550000">CAS: EEP</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  stares at FS --</span><br />
+<span style="color:#2c2cac">CEQ: ..?</span><br />
+<span style="color:#730e8f">CFS: that...</span><br />
+<span style="color:#ee1e00">CCP: . . . . . . . . ?</span><br />
+<span style="color:#730e8f">CFS: could have gone better...</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  nods, smiling --</span><br />
+<span style="color:#a80000">CFA: (\ Good night then, Ornis /)</span><br />
+<span style="color:#550000">CAS: Are you alright?</span><br />
+<span style="color:#9d001f">CRS: Night, Big Bro Ornis.</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  frowns and floats over to FS --</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  walks over to FS. --</span><br />
+<span style="color:#000000">CCA: ∞ You alright? Σ</span><br />
+<span style="color:#646464">-- CURRENT flockOrnis <span style="color:#00ff00">[CFO]</span>  pulls off all of the covers on the bed and arranges them into a nest on the floor, flopping into it --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  says having teleported up to the sixth floor, waving to him before heading back to the cafe --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  blindly fumbles his hand on the bar for his smoothie --</span><br />
+<span style="color:#730e8f">CFS: ah...</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  pushs the smoothie over to him --</span><br />
+<span style="color:#730e8f">CFS: I'll be okay...</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  cant help but smile at that, gently closing the door as she steps out --</span><br />
+<span style="color:#730e8f">CFS: ...or no...</span><br />
+<span style="color:#000000">CCA: ∞ Take a deep breath. You're alive and well. Σ</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  pokes FS --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFO</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFO</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  grabs the glass --</span><br />
+<span style="color:#ee1e00">CCP: (oh man, my neck is killing me :/ )</span><br />
+<span style="color:#730e8f">CFS: probably no...</span><br />
+<span style="color:#9d001f">CRS: It's okay man.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  raises his head --</span><br />
+<span style="color:#9d001f">CRS: It's okay.</span><br />
+<span style="color:#ff660d">CSV: Welp.</span><br />
+<span style="color:#000000">CCA: ∞ Just breathe in and imagine the bad feelings then pull them up and breathe them in Σ</span><br />
+<span style="color:#000000">CCA: ∞ breathe them out* Σ</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  closes the door to Ornis' temporary room. --</span><br />
+<span style="color:#9d001f">CRS: Anyway, I'm gonna head back to my land, get some sleep before tomorrow</span><br />
+<span style="color:#000000">CCA: ∞ When are you heading out for those ruins? Σ</span><br />
+<span style="color:#9d001f">CRS: Later everyone.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  captchas his leftover En-O-Gee drink and flops onto the couch --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  breathes through his nose, waving as he does --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  breathes out --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks past SV as she heads back to the transportalizer --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  ports out, exiting the HQ and heading back to the Arkaiser before flying back to his land. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  takes another sip of the smoothie, breathing through his nose again --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sets the glass down --</span><br />
+<span style="color:#000000">CCA: ∞ Just keep breathing man. You'll be ok. Σ</span><br />
+<span style="color:#2c2cac">CEQ: ... You okay now FS?</span><br />
+<span style="color:#730e8f">CFS: I...</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#730e8f">CFS: I believe so...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  facebars again --</span><br />
+<span style="color:#730e8f">CFS: OH WHO AM I KIDDING I MADE AN UTTER BUFFOON OF MYSELF</span><br />
+<span style="color:#2c2cac">CEQ: ...</span><br />
+<span style="color:#730e8f">CFS: AAAAAAAAAAAAAAUGH</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  walks over, slowly makes some "calming tea", and hands it to FS. --</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  slaps the back of FS' head --</span><br />
+<span style="color:#000000">CCA: ∞ You stop that Σ</span><br />
+<span style="color:#730e8f">CFS: No</span><br />
+<span style="color:#000000">CCA: ∞ That doesn't matter.  Σ</span><br />
+<span style="color:#730e8f">CFS: my face is quite alright her on this surface</span><br />
+<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  frowns --</span><br />
+<span style="color:#730e8f">CFS: *here</span><br />
+<span style="color:#000000">CCA: ∞ No one here cares how you act. Σ</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  transportalizes back down into the cafe --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+<span style="color:#2c2cac">CEQ: ... can you at least try the tea, FS? It should calm you down a bit.</span><br />
+<span style="color:#730e8f">CFS: eeeeeeeeeeugh...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  waves his arm about in an away-y fashion --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  whatever that means --</span><br />
+<span style="color:#730e8f">CFS: 'twould probably would just make me worse...</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks up to FS, patting him on the shoulder, starting to hum softly --</span><br />
+<span style="color:#730e8f">CFS: none of the other drinks've helped</span><br />
+<span style="color:#a80000">CFA: (\ ( <a href='http://www.youtube.com/watch?v=KC5kHf58GMI'>http://www.youtube.com/watch?v=KC5kHf58GMI</a> ) /)</span><br />
+<span style="color:#2c2cac">CEQ: ... you get hyper from tea? Thats odd...</span><br />
+<span style="color:#730e8f">CFS: probably would in this case...</span><br />
+<span style="color:#2c2cac">CEQ: hm...</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  sits down and sighs --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  sighs --</span><br />
+<span style="color:#2c2cac">CEQ: Why not try heading to bed? It</span><br />
+<span style="color:#2c2cac">CEQ: ((klnls))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  slumps into the bar --</span><br />
+<span style="color:#2c2cac">CEQ: *'ll most likely be a big day tomarrow.</span><br />
+<span style="color:#730e8f">CFS: mm...</span><br />
+<span style="color:#2c2cac">CEQ: Just try, please?</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  continues to sing to him softly, hoping to lull him to sleep --</span><br />
+<span style="color:#730e8f">CFS: mmmmmmmmmmmmmmmmmmmmmmmmmmmmm...</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  looks at FA, and gives a slight smile. FA is really good at singing... hm... --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  eventually passes out somehow despite his recent caffeine intake, how did that happen? --</span><br />
+<span style="color:#000000">CCA: ∞ So when do you want to go ahead and handle my final dungeon Ash? Σ</span><br />
+<span style="color:#2c2cac">CEQ: Well... He's asleep... I'll go take him to an open bed.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  smirks at FS, then looks up at John and nods --</span><br />
+<span style="color:#a80000">CFA: (\ Anyytime yyou're readyy /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  fell asleep on the couch, but sleep-transportalizes upstairs to his bed because fuck logic --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  starts to half-carry-half-lead FS to the transportalizer --</span><br />
+<span style="color:#2c2cac">CEQ: Consider this me heading to bed as well. Night, people!</span><br />
+<span style="color:#a80000">CFA: (\ NIght /)</span><br />
+<span style="color:#000000">CCA: ∞ Night. Σ</span><br />
+<span style="color:#000000">CCA: ∞ I'm not sure how many people I want to let in on this. Σ</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2c2cac">[CEQ]</span>  takes FS, and transportalizes upstairs. She finds an open bunk for FS, and then heads off to her own bunk. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#a80000">CFA: (\ Prettyy sure im to onlyy one awake enough /)</span><br />
+<span style="color:#000000">CCA: ∞ I don't intend to do it noq Σ</span><br />
+<span style="color:#000000">CCA: ∞ now* Σ</span><br />
+<span style="color:#000000">CCA: ∞ You think I should ask SV? Σ</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  sighs --</span><br />
+<span style="color:#000000">CCA: ∞  I guess I just don't know that many of players well enough to ask Σ</span><br />
+<span style="color:#a80000">CFA: (\ If yyou want /)</span><br />
+<span style="color:#a80000">CFA: (\ Hang on /)</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits on one of the couches behind the others at the bar. --</span><br />
+<span style="color:#a80000">CFA: (\ Oyy /)</span><br />
+<span style="color:#a80000">CFA: (\ YYou feel like goin' cryypt diving again? /)</span><br />
+<span style="color:#ff660d">CSV: I'd love to go man, but I'm actually pretty damn tired.</span><br />
+<span style="color:#ff660d">CSV: Perhaps some other time?</span><br />
+<span style="color:#000000">CCA: ∞ II'm not doing it now Σ</span><br />
+<span style="color:#000000">CCA: ∞ I said that Σ</span><br />
+<span style="color:#000000">CCA: ∞ I keep saying it Σ</span><br />
+<span style="color:#ff660d">CSV: Hell if I heard that.</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  shrugs --</span><br />
+<span style="color:#000000">CCA: ∞ We'll do it tomorrow evening Σ</span><br />
+<span style="color:#a80000">CFA: (\ Aight /)</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CCA: ∞ Right then. We'll handle it tomorrow. Σ</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  stands --</span><br />
+<span style="color:#000000">CCA: ∞ I've got to go get things ready. I'll see you all then Σ</span><br />
+<span style="color:#550000">CAS: Alright, night man</span><br />
+<span style="color:#550000">CAS: ((gdsfhbgdfk ASH))</span><br />
+<span style="color:#ff660d">CSV: Kay, cool.</span><br />
+<span style="color:#646464">-- CURRENT circuitousAntipathy <span style="color:#000000">[CCA]</span>  leaves and heads back to his Land --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT fierySleepyswallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySleepyswallow <span style="color:#000000">[CFS]</span>  rolls around on the unfamiliar bed as he awakens on derse for the first time --</span><br />
+<span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />

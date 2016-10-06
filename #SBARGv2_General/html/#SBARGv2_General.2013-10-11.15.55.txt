@@ -1,0 +1,163 @@
+<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#78120b">CDS: ugh</span><br />
+<span style="color:#78120b">CDS: so </span><br />
+<span style="color:#78120b">CDS: apparently</span><br />
+<span style="color:#78120b">CDS: i have to have a domain set up to use windows HPC</span><br />
+<span style="color:#78120b">CDS: i probs should have use Heartbeat</span><br />
+<span style="color:#78120b">CDS: the things i do for windows...</span><br />
+<span style="color:#ee1e00">CCP: windows just likes to be a 8utt sometimes.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  still can't get it to fucking acknowledge nmake.exe is a thing that exists! --</span><br />
+<span style="color:#78120b">CDS: its cuz it already has to deal with paralleization with multicore cpus</span><br />
+<span style="color:#78120b">CDS: so i have to use windows server</span><br />
+<span style="color:#78120b">CDS: and i have to set up my entry-level desktop from 2007 to act as the head node</span><br />
+<span style="color:#78120b">CDS: and then use my laptop as a client</span><br />
+<span style="color:#133295">CEP: I'm back home :&gt;</span><br />
+<span style="color:#78120b">CDS: because i cant be bothered to virtualize windows server</span><br />
+<span style="color:#cb7de6">CSJ: welcome home ➜</span><br />
+<span style="color:#133295">CEP: Thanks! :&gt;</span><br />
+<span style="color:#133295">CEP: ^^ :&gt;</span><br />
+<span style="color:#78120b">CDS: and it would be kina self defeating</span><br />
+<span style="color:#78120b">CDS: the project is more trouble than its fucking worth</span><br />
+<span style="color:#646464"><span style="color:#9d9deb">CURRENT chiakiNanami [CCN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d9deb">CCN: I think my backlight / lid  switch in my laptop is broken</span><br />
+<span style="color:#78120b">CDS: (<span style="color:#00ff00">&gt;n&lt;)</span></span><br />
+<span style="color:#78120b">CDS: that sucks</span><br />
+<span style="color:#9d9deb">CCN: I hope it's the lid switch, to be honest</span><br />
+<span style="color:#133295">CEP: Hey AE :&gt;</span><br />
+<span style="color:#9d9deb">CCN: Backlights cost like 200$ to replace, might as well buy a new computer</span><br />
+<span style="color:#9d9deb">CCN: Hi, NN.</span><br />
+<span style="color:#133295">CEP: Hey NN :&gt;</span><br />
+<span style="color:#646464"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">who</span> in the world is chiaki nanami anyway</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">hi</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">hi</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">hi</span></span><br />
+<span style="color:#41742f">CNN: (inb4hi)</span><br />
+<span style="color:#133295">CEP: in after hi :&gt;</span><br />
+<span style="color:#133295">CEP: NN, GF is Chiaki Nanami :&gt;</span><br />
+<span style="color:#9d9deb">CCN: I already said I'm not GF.</span><br />
+<span style="color:#9d9deb">CCN: Why does everyone think I'm GF?</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> GF used that handle once</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> GF is trolly</span><br />
+<span style="color:#133295">CEP: wait :&gt;</span><br />
+<span style="color:#133295">CEP: CN isn't GF? :&gt;</span><br />
+<span style="color:#133295">CEP: Is this a joke? :&gt;</span><br />
+<span style="color:#9d9deb">CCN: I'm not.</span><br />
+<span style="color:#9d9deb">CCN: ...</span><br />
+<span style="color:#cb7de6">CSJ: because you appeared today when GF signed on, I'm pretty sure. ➜</span><br />
+<span style="color:#9d9deb">CCN: When did GF sign on?</span><br />
+<span style="color:#9d9deb">CCN: ....What do you call a lion in a hat?</span><br />
+<span style="color:#9d9deb">CCN: A dandy lion.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span>'s GF style humor!!!!!!one!111</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">okay</span> let's stop the conspiracy theories</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  puts the ilerminaty flakes away --</span><br />
+<span style="color:#9d9deb">CCN: Why did the orange roll down the hill?</span><br />
+<span style="color:#9d9deb">CCN: It ran out of juice.</span><br />
+<span style="color:#133295">CEP: Oh, who wants to hear a shipping joke? :&gt;</span><br />
+<span style="color:#cb7de6">CSJ: sure ➜</span><br />
+<span style="color:#133295">CEP: What was the best ship of the 1910's? :&gt;</span><br />
+<span style="color:#9d9deb">CCN: What was it?</span><br />
+<span style="color:#133295">CEP: Obviously not the titanic <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> :&gt;</span><br />
+<a href='http://tangarang.tumblr.com/post/63768651601/salihombox-yes-please'>http://tangarang.tumblr.com/post/63768651601/salihombox-yes-please</a><br />
+<span style="color:#133295">CEP: who is tangarang? :&gt;</span><br />
+<span style="color:#0000c1">CMA: miraculoustang</span><br />
+<span style="color:#133295">CEP: who is miraculoustang? :&gt;</span><br />
+<span style="color:#0000c1">CMA: fairly well known artist that known for shipping Karezi stuff</span><br />
+<span style="color:#133295">CEP: Ah :&gt;</span><br />
+<span style="color:#133295">CEP: I see :&gt;</span><br />
+<span style="color:#133295">CEP: Intererereresting :&gt;</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#000000">CTT: hello friends</span><br />
+<span style="color:#ee1e00">CCP: sup TT</span><br />
+<span style="color:#cb7de6">CSJ: hi TT ➜</span><br />
+<span style="color:#133295">CEP: Yo TT :&gt;</span><br />
+<span style="color:#133295">CEP: wassup ma gangsta? :&gt;</span><br />
+<span style="color:#000000">CTT: uh...noτ much?</span><br />
+<span style="color:#133295">CEP: yo yo, that be tight, yo :&gt;</span><br />
+<span style="color:#9d9deb">CCN: Did you hear about the story of the native american that couldn't spell "know"? </span><br />
+<span style="color:#9d9deb">CCN: I didn't canoe of it until now!</span><br />
+<span style="color:#133295">CEP: yes :&gt;</span><br />
+<a href='http://www.youtube.com/watch?v=HNA3ogwT6tk'>http://www.youtube.com/watch?v=HNA3ogwT6tk</a><br />
+<span style="color:#0000c1">CMA: i was unaware this was a thing</span><br />
+<span style="color:#000000">CTT: [EXCITEMENT INTENSIFIES]</span><br />
+<span style="color:#000000">CTT: TΘMΘRRΘW TΘMΘRRΘW TΘMΘRRΘW</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> is it <span style="color:#6e07ff">Kat</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">why</span> the excite</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#78120b">CDS: so close</span><br />
+<span style="color:#78120b">CDS: much excite</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">why</span> much excite</span><br />
+<span style="color:#9d9deb">CCN: ...I think they're talking about the game.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> game</span><br />
+<span style="color:#9d9deb">CCN: You know, /the/ game.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">footbawl</span>?</span><br />
+<span style="color:#9d9deb">CCN: No, the game.</span><br />
+<span style="color:#9d9deb">CCN: The new game.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">footbawl</span> 2?</span><br />
+<span style="color:#78120b">CDS: X/Y?</span><br />
+<span style="color:#9d9deb">CCN: The new, very important and very antecipated game.</span><br />
+<span style="color:#9d9deb">CCN: I think so, DS.</span><br />
+<span style="color:#0000c1">CMA: It's the only game this month that's coming out on a Saturday, anyway.</span><br />
+<span style="color:#78120b">CDS: ooc that</span><br />
+<span style="color:#78120b">CDS: "CNN: why much excite CCN: ...I think they're talking about the game. CNN: what game CCN: You know, /the/ game. CNN: footbawl? CCN: No, the game. CCN: The new game. CNN: footbawl 2?"</span><br />
+<span style="color:#78120b">CDS: strolen's citadel is a really good dungeon making resource</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#78120b">CDS: strolen.com</span><br />
+<span style="color:#78120b">CDS: sbargv2 ooc is hilarious</span><br />
+<span style="color:#cb7de6">CSJ: yes ➜</span><br />
+<span style="color:#cb7de6">CSJ: best thing ever ➜</span><br />
+<span style="color:#78120b">CDS: how did i even get quoted as many times asi did</span><br />
+<span style="color:#133295">CEP: Yes, it really is :&gt;</span><br />
+<span style="color:#133295">CEP: Was it Noodles or NN who came up with that idea? :&gt;</span><br />
+<span style="color:#78120b">CDS: i dont say anything interesting enough to be take out of context</span><br />
+<span style="color:#78120b">CDS: CDD: I say, dear players, procreating with Lady Quinn is quite the pleasurable activity!</span><br />
+<span style="color:#78120b">CDS: CFL: and that if I stopped shipping you, all that would happen is that the shipping would go underground CFL: much like racism </span><br />
+<span style="color:#78120b">CDS: CFA: (\ Come to Lofat /) CFA: (\ find the context /) CFA: (\ Context quest 2013 /) </span><br />
+<span style="color:#9d9deb">CCN: Lofat sounds like something you'd eat</span><br />
+<span style="color:#9d9deb">CCN: Haha, get it? Lofat?</span><br />
+<span style="color:#9d9deb">CCN: Low fat?</span><br />
+<span style="color:#cb7de6">CSJ: land of frogs and tunnels ➜</span><br />
+<span style="color:#9d9deb">CCN: It was a joke.</span><br />
+<span style="color:#cb7de6">CSJ: :b ➜</span><br />
+<span style="color:#9d9deb">CCN: NN, find me a cute bunny video.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">Busy</span></span><br />
+<span style="color:#9d9deb">CCN: I asked for it like twenty minutes ago </span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#000000">CTT: DFBFGFBVDGBFNHGTMYJ</span><br />
+<span style="color:#000000">CTT: BUTTS</span><br />
+<span style="color:#000000">CTT: HELLΘ?</span><br />
+<span style="color:#133295">CEP: Hello TT :&gt;</span><br />
+<span style="color:#646464"><span style="color:#0368ff">CURRENT poeticAssassin [CPA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0368ff">CPA: Hello.</span><br />
+<span style="color:#133295">CEP: Hello PA :&gt;</span><br />
+<span style="color:#cb7de6">CSJ: hi there ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#133295">CEP: PA, are you an alt of MA? :&gt;</span><br />
+<span style="color:#0368ff">CPA: No.</span><br />
+<span style="color:#cb7de6">CSJ: I think I've seen you here before ➜</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#000000">CTT: PICKEF▲RTS</span><br />
+<span style="color:#133295">CEP: lol :&gt;</span><br />
+<span style="color:#0368ff">CPA: I have been here before.</span><br />
+<span style="color:#133295">CEP: Pickefarts :&gt;</span><br />
+<span style="color:#9d9deb">CCN: Watch out, they might start being obsessed with the idea of you being MA.</span><br />
+<span style="color:#0368ff">CPA: Okay.</span><br />
+<span style="color:#0000c1">CMA: PA has been here before, if memory serves</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDR</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDR</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDR</span> ceased responding to memo.</span><br />
+<span style="color:#133295">CEP: oh wow :&gt;</span><br />
+<span style="color:#133295">CEP: Oh hey, CS :&gt;</span><br />
+<span style="color:#646464"><span style="color:#c1bb10">CURRENT courageousScribe [CCS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#c1bb10">CCS: hey\l/</span><br />
+<span style="color:#133295">CEP: :D :&gt;</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />

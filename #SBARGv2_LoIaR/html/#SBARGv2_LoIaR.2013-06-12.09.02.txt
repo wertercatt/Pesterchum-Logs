@@ -1,0 +1,930 @@
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CFL</span> made <span style="color:#000000">SV</span> an OP.<br />
+<span style="color:#646464"><span style="color:#aa0000">CURRENT dubiousSwain [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#aa0000">CDS: HI</span><br />
+<span style="color:#aa0000">CDS: Hi</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((which area are you in?))</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#cb7de6">CSJ: ((this is an active memo))</span><br />
+<span style="color:#aa0000">CDS: ((im...what?))</span><br />
+<span style="color:#cb7de6">CSJ: ((this is the land of ink and roses. How did your char get here?))</span><br />
+<span style="color:#aa0000">CDS: ((Dunno))</span><br />
+<span style="color:#cb7de6">CSJ: ((there are plenty of ways to get here, you just have to pick one))</span><br />
+<span style="color:#646464"><span style="color:#ff660d">CURRENT squealingVermin [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ff660d">CSV: ((Aye, the gates are down however))</span><br />
+<span style="color:#aa0000">CDS: ((k))</span><br />
+<span style="color:#ff660d">CSV: ((Check the incipisphere :D ))</span><br />
+<span style="color:#ff660d">CSV: (( THats the actual IC memo ))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits in the command room with a bottle of jucie, cranberry juice for that matter. He looks at his laptop and holo screens. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wakes up, still wet from yesterday's balloon fight --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  steps off the platform, flanked by a detachment of angels --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  closes his laptop and runs out to the transportaliser, he then comes out in the lobby. --</span><br />
+<span style="color:#ff660d">CSV: Oi, newbie. </span><br />
+<span style="color:#aa0000">CDS: Oi</span><br />
+<span style="color:#ff660d">CSV: Name's Hank. Welcome to the HQ. </span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  bows --</span><br />
+<span style="color:#aa0000">CDS: Grazie</span><br />
+<span style="color:#ff660d">CSV: (( <a href='http://i.imgur.com/xISFWMT.png'>http://i.imgur.com/xISFWMT.png</a> ))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  slides down the stairs-railing to the first floor to greet the new guy --</span><br />
+<span style="color:#ff660d">CSV: What's up with all of these angels?</span><br />
+<span style="color:#aa0000">CDS: They Are My S0ldiers</span><br />
+<span style="color:#ff660d">CSV: (( <a href='http://i.imgur.com/vdksN3B.png'>http://i.imgur.com/vdksN3B.png</a> SV and SVsprite. ))</span><br />
+<span style="color:#ee1e00">CCP: sup. I'm Kimura. and before you ask why I look like Amaterasu from "Okami": self-prototyping.</span><br />
+<span style="color:#aa0000">CDS: They Are Here T0 Assist Me In Battling The Vari0us Vermin That Inhabit Our Lands</span><br />
+<span style="color:#aa0000">CDS: Hell0, CP</span><br />
+<span style="color:#ee1e00">CCP: (( <a href='https://dl.dropboxusercontent.com/u/52541782/mspa/sbargv2_bacafe_doubledash.png'>https://dl.dropboxusercontent.com/u/52541782/mspa/sbargv2_bacafe_doubledash.png</a> the red one is me))</span><br />
+<span style="color:#ff660d">CSV: I see. There is no need for such soldiers on this land. We've secured it for the biggest part of the land.</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  turns to the angels --</span><br />
+<span style="color:#aa0000">CDS: Angels! Dissmised!</span><br />
+<span style="color:#ff660d">CSV: Kimura.</span><br />
+<span style="color:#ff660d">CSV: Would you please show the new player around?</span><br />
+<span style="color:#ee1e00">CCP: sure</span><br />
+<span style="color:#aa0000">CDS: *F0ll0ws Cp*</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  nods and transportalises back up to the command room. --</span><br />
+<span style="color:#ff660d">CSV: (( I love how kimura looks though :D ))</span><br />
+<span style="color:#ee1e00">CCP: so, this is the lobby area obviously. kind of plain, but whatever</span><br />
+<span style="color:#ee1e00">CCP: ((heh. thanks ^_^ ))</span><br />
+<span style="color:#aa0000">CDS: G0t It</span><br />
+<span style="color:#ee1e00">CCP: we normally use transportalizers for everything. the Stairs are usually emergencies only</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  steps on the pad to the second floor --</span><br />
+<span style="color:#aa0000">CDS: *Steps On Pad After Him*</span><br />
+<span style="color:#ee1e00">CCP: ((oh, map thingy <a href='http://i.imgur.com/BZDi21T.png'>http://i.imgur.com/BZDi21T.png</a> ))</span><br />
+<span style="color:#ee1e00">CCP: up here is the <span style="color:#bacafe">Bacafe</span>. kind of a weird name, it's an in-joke you'll find out soon enough.</span><br />
+<span style="color:#646464"><span style="color:#29486d">CURRENT avoidantCorrespondent [CAC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#29486d">CAC: ((lol i could have used that yesterday))</span><br />
+<span style="color:#ee1e00">CCP: a lot of us just chill out here when we're not doing Weird Quest Shit or something</span><br />
+<span style="color:#ee1e00">CCP: the replicators can make any kind of food you want, and unlike alchemiter-food, doesn't taste like a frog in a blender.</span><br />
+<span style="color:#aa0000">CDS: Haha</span><br />
+<span style="color:#ee1e00">CCP: there's also a universal gaming system, so if you have a disc or cartridge, it'll probably play it.</span><br />
+<span style="color:#aa0000">CDS: Interesting</span><br />
+<span style="color:#ee1e00">CCP: ((that pic from earlier was a Double Dash round from last weekend))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads for the third-floor transportalizer --</span><br />
+<span style="color:#aa0000">CDS: I Saw BACAFE On The Bl0g Earlier</span><br />
+<span style="color:#aa0000">CDS: Its A C0de, Right?</span><br />
+<span style="color:#ee1e00">CCP: it's... I guess the best way to explain it is it's our "session ID" or "arc number", like 413 or 612.</span><br />
+<span style="color:#aa0000">CDS: Number?</span><br />
+<span style="color:#ee1e00">CCP: hexadecimal numbers</span><br />
+<span style="color:#ee1e00">CCP: 0-9 plus A through F</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  exits her room on the 5th floor, adjusting her hat-top on the way out --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks down the hallway towards the transportalizer --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  transportalizes down to the bacafe --</span><br />
+<span style="color:#aa0000">CDS: Interesting</span><br />
+<span style="color:#ee1e00">CCP: anyway, floors 3 through 6 are rooms for everyone. we'll get you set up with a room later...</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks over to a table and sits down --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transportalizes to the top floor --</span><br />
+<span style="color:#aa0000">CDS: 12241662</span><br />
+<span style="color:#ee1e00">CCP: ?</span><br />
+<span style="color:#aa0000">CDS: Thats The Sessi0n Number In Base 10</span><br />
+<span style="color:#aa0000">CDS: S0rry, I Like Numbers</span><br />
+<span style="color:#ee1e00">CCP: ah</span><br />
+<span style="color:#ee1e00">CCP: anyway, up here is the command center, and also a training dojo.</span><br />
+<span style="color:#ee1e00">CCP: what's your kind abstractus?</span><br />
+<span style="color:#aa0000">CDS: ((hold on, i forget))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits in the command centre, he's typing code. He has pretty heavy music on, better not to disurb him. --</span><br />
+<span style="color:#aa0000">CDS: ((lemme look it up))</span><br />
+<span style="color:#aa0000">CDS: Dualpist0lkind</span><br />
+<span style="color:#ee1e00">CCP: hmm. kinda basic, but whatever works for you.</span><br />
+<span style="color:#aa0000">CDS: I Find It Offers R00m F0r Expansi0</span><br />
+<span style="color:#aa0000">CDS: *Expansi0n</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  summons a training dummy and draws a horizontal line in the air with his tail, Power Slashing it in half --</span><br />
+<span style="color:#ee1e00">CCP: mine is technically brushKind, with reflectorKind/keytoolKind as a secondary. *points at the spinning Keytool Cogwheel on his back*</span><br />
+<span style="color:#ee1e00">CCP: anyway, that's the LoIaR HQ in a nutshell. there's almost always someone hanging out here, so if you have any questions, feel free to ask.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transportalizes down to the bacafe to have breakf-- wait, crap it's almost lunchtime already. screw it, breakfast for lunch! --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  starts cleaning his guns at a table --</span><br />
+<span style="color:#cb7de6">CSJ: hey there Kimura.</span><br />
+<span style="color:#ee1e00">CCP: sup</span><br />
+<span style="color:#cb7de6">CSJ: just chilling pretty much.</span><br />
+<span style="color:#ee1e00">CCP: yeah, me too. it's kinda weird how this place can go from a boring morning to a waterballoon free-for-all and back so quickly.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  pulls out her infamous pile of notes --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  unrolls his scrolltop and connects to FurthestRingNet to look for funny videos to watch while eating --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  activates hologlasses --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  remembers he never actually confirmed his "Bacon and Egg Dwelling Spire" order and goes to poke buttons while a NerdCubed video loads --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  finally turns off his laptop. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  closes it and capchalogues it. He stands up and walks over to the transportaliser. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  warps down to the bacafé. --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  warps down to the baface --</span><br />
+<span style="color:#aa0000">CDS: *Bacafe</span><br />
+<span style="color:#aa0000">CDS: *Walks Over T0 SV</span><br />
+<span style="color:#aa0000">CDS: Hell0</span><br />
+<span style="color:#ff660d">CSV: Hey.</span><br />
+<span style="color:#ff660d">CSV: So, how do you like it here?</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  asks DS as he walks over to the liquid dispense. --</span><br />
+<span style="color:#ff660d">CSV: dispenser*))</span><br />
+<span style="color:#aa0000">CDS: It Nice.</span><br />
+<span style="color:#aa0000">CDS: *Its</span><br />
+<span style="color:#aa0000">CDS: What Were Y0u C0ding?</span><br />
+<span style="color:#ff660d">CSV: I'd rather keep that to myself.</span><br />
+<span style="color:#ff660d">CSV: I hope you understand.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  dispenser himself a cup of coffee. --</span><br />
+<span style="color:#aa0000">CDS: Underst00d</span><br />
+<span style="color:#ff660d">CSV: dispenses*))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks over to one of the many tables and sits down. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  noms the breakfast spire --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits down at CP's table, to be exact. --</span><br />
+<span style="color:#ff660d">CSV: (( For those who did not see this in the incipisphere <a href='http://i.imgur.com/xwjXiKl.png'>http://i.imgur.com/xwjXiKl.png</a> ))</span><br />
+<span style="color:#aa0000">CDS: ((Im W0rking On Mine</span><br />
+<span style="color:#ee1e00">CCP: ((I'll have to make a Fancy Heromode later... was considering waiting until we know our classes so I could also draw my Wolf Tier, but Torigami is a lazy butt.))</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#008b00">CDS: ((wolf tier?))</span><br />
+<span style="color:#aa0000">CDS: ((idgf what orsin says, im knight of blood))</span><br />
+<span style="color:#aa0000">CDS: ((i just took the test))</span><br />
+<span style="color:#ff660d">CSV: ((Godtier&amp;&amp;Dogsprite ))</span><br />
+<span style="color:#ff660d">CSV: ((well, wolfsprite thing ))</span><br />
+<span style="color:#008b00">CDS: ((ah I am a something of space in sbarg but the test sys I am a Hier of Mind))</span><br />
+<span style="color:#ff660d">CSV: (( Aye, there's predetermined sbargv2 classes. ))</span><br />
+<span style="color:#ff660d">CSV: ((and aspects ))</span><br />
+<span style="color:#ff660d">CSV: (( I got time, screw that. most of my tests came out as doom anyway. ))</span><br />
+<span style="color:#646464"><span style="color:#730e8f">CURRENT fierySwallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#730e8f">CFS: ((sadly we only know the latter))</span><br />
+<span style="color:#ff660d">CSV: ((I already sealed my characters knowledge on his aspect due to the alternativeVermin thing ))</span><br />
+<span style="color:#ff660d">CSV: (( future selves ahoii ))</span><br />
+<span style="color:#ee1e00">CCP: ((mine tend to come out as Monk of Mind, or Kinght of Space for a canon-only test. but v2 says I'm a Light Player))</span><br />
+<span style="color:#008b00">CDS: ((v2 is just random selection))</span><br />
+<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: ((Yeah))</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#9d001f">CRS: ((I got Rage. Absolutely couldn't abide by that))</span><br />
+<span style="color:#9d001f">CRS: ((rerolled until i got mind but then for reasons i figured i'd mix up up, flip it and do Heart))</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  ahaha more mindless doodling in the cafe --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  i'm gonna smack you &gt;:\ --</span><br />
+<span style="color:#6507ff">CTT: - <a href='http://i.imgur.com/2zi4159.png'>http://i.imgur.com/2zi4159.png</a> -</span><br />
+<span style="color:#ff660d">CSV: (( TT. That is perfect ))</span><br />
+<span style="color:#ff660d">CSV: (( just like i had denizen! chloris in mid ))</span><br />
+<span style="color:#ff660d">CSV: (( mind ))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  arrives at the base more or less fuming gets some food from the cafe athen goes to his room)) --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  arrives at the base more or less fuming gets some food from the cafe athen goes to his room* --</span><br />
+<span style="color:#6507ff">CTT: ((heehee))</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  hears fuming entering his stewwing-space, and decides to exit his room for a moment --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  walks down to the end of the hallway and stares out a window --</span><br />
+<span style="color:#6507ff">CTT: ((fuckit, shoving all of them in an album and linking it))</span><br />
+<span style="color:#6507ff">CTT: - <a href='http://imgur.com/a/bsqhF'>http://imgur.com/a/bsqhF</a> -</span><br />
+<span style="color:#ff660d">CSV: ((Scared as shit ))</span><br />
+<span style="color:#ee1e00">CCP: ((meep.wav))</span><br />
+<span style="color:#6507ff">CTT: (( C: ))</span><br />
+<span style="color:#730e8f">CFS: ((cooooooooooooool stuff))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  'mehs' and walks down the other end to the transportalizer --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks up to TT and looks at the pile of scribblings. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  transportalizes to the bacafe --</span><br />
+<span style="color:#730e8f">CFS: sees all of whoever is in there and once again decides to go straight off to making coffee</span><br />
+<span style="color:#730e8f">CFS: ((FUUUUUUUUUUUUUUUUUUU))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sees all of whoever is in there and once again decides to go straight off to making coffee --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  awkward silence --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#ff660d">CSV: Mind if I look trough?</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  asks TT. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  slowly moves her doodles toward him --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  slightly glares off to the side before quickly retracting and resuming coffeemaking --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  finishes making the coffee and finds a nice secluded table to sit down at. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  checks the doodles, he looks scared as he sees himself appear in some. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  has his head buried in the scrolltop, he's going shithive maggots over this Badge alchemy thing &gt;:[ --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  takes a seat next to TT and grabs an empty paper. He starts drawing too. --</span><br />
+<span style="color:#6507ff">CTT: ...</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  draws with pure ink, he paints it on the paper. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  stare --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks up and also stares --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  notices TT staring and accidentally tilts over the bottle of ink. --</span><br />
+<span style="color:#ff660d">CSV: shit!</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  picks up back up, his drawing stained with ink. --</span><br />
+<span style="color:#6507ff">CTT: ...</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  watches with some mild interest, reclined a table away --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over and tries to help clean up the ink --</span><br />
+<span style="color:#ff660d">CSV: Thanks.</span><br />
+<span style="color:#730e8f">CFS: ...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  staaaaare --</span><br />
+<span style="color:#ff660d">CSV: - you see <a href='http://i.imgur.com/CLSpiXb.png'>http://i.imgur.com/CLSpiXb.png</a> -</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  finally cleans all the ink up. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher's <span style="color:#ee1e00">[CCP'S]</span>  front paws are kinda covered in ink now, which technically isn't unusual for him except it's black ink instead of red --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  uncapchas a blue towell and hands it to kimura. --</span><br />
+<span style="color:#ff660d">CSV: Here.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  stare --</span><br />
+<span style="color:#ee1e00">CCP: thanks</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks for any sign of TT reacting. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  squints eyes --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sighs and shakes his head, he steps away. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at CP drying off his paws. --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  wakes up at a table in the bacafe, notes sticking out from underneath a damp pillow --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  lifts up the pillow, half of the notes are stuck to it, suprisingly still legible --</span><br />
+<span style="color:#ff660d">CSV: (( Did TT blue screen of death or someting ))</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  peels them off carefully and captchalogues them away --</span><br />
+<span style="color:#6507ff">CTT: ((literally or...?))</span><br />
+<span style="color:#ff660d">CSV: (( the character ))</span><br />
+<span style="color:#6507ff">CTT: ((maybe))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sips his coffee with a rather unamused expression on his face --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks around in hope to see TT respond to his drawing, aside from staring and squinting her eyes at it. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes back to doodling --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  moves a certain piece of paper away --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits back down with TT. --</span><br />
+<span style="color:#6507ff">CTT: (( <a href='http://i.imgur.com/2PiXaww.png'>http://i.imgur.com/2PiXaww.png</a> ))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at the pseudo runic drawing and looks back at TT with doubt on his face. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks back at it. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  does this little motion where she adjusts her glasses, but she's not wearing any --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  keeps doing said motion --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  studies the strange figures, he tries his best to decrypt them, having a note to the side showing numbers for every different and same symbol on each row. --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  lifts up her hat-top for a moment to look at TT's notedrawing --</span><br />
+<span style="color:#cb7de6">CSJ: hmmm... I've seen her use that characterset before a couple of times...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes back to staring --</span><br />
+<span style="color:#ff660d">CSV: Oh?</span><br />
+<span style="color:#cb7de6">CSJ: let me check a couple things she's used it on before</span><br />
+<span style="color:#cb7de6">CSJ: ah, found something!</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  slams her face on the table, knocked out --</span><br />
+<span style="color:#cb7de6">CSJ: ....</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at TT as she slam her head into the table. --</span><br />
+<span style="color:#ff660d">CSV: !!</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks up with the same expression on his face --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uncaptchas a slightly damp pillow --</span><br />
+<span style="color:#cb7de6">CSJ: here.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  scoots his chair so his back is turned --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  takes the pillow and slides it under TT's head with gentle care. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin's <span style="color:#ff660d">[CSV'S]</span>  notepad: ?ull ?ou ?o?? ?? ?? ? ?? --</span><br />
+<span style="color:#ff660d">CSV: wait..</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  scribles some mistakes away --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  walks over to table --</span><br />
+<span style="color:#aa0000">CDS: Whats G0ing On Here?</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is scrolling through stuff on her hat-top --</span><br />
+<span style="color:#aa0000">CDS: I Left T0 Get Dinner</span><br />
+<span style="color:#cb7de6">CSJ: let's see here if she's used it on her blog...</span><br />
+<span style="color:#aa0000">CDS: Why Is There Ink Everywhere?</span><br />
+<span style="color:#ff660d">CSV: This is Kat. She's currently stuck in her own soul and she send an incripted message to us.</span><br />
+<span style="color:#ff660d">CSV: We're trying to free her and find the very cause of this.</span><br />
+<span style="color:#aa0000">CDS: Interesting</span><br />
+<span style="color:#aa0000">CDS: This S0unds Like S0me Pretty Deep Shit</span><br />
+<span style="color:#aa0000">CDS: Excuse My Pr0fanity</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  nearly falls out of his chair --</span><br />
+<span style="color:#cb7de6">CSJ: I think I'm finding something here... it's taking a while to load though...</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin's <span style="color:#ff660d">[CSV'S]</span>  note now says: "Will you come ?? ?e me" --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  shakes his head as he looks at it, he can't make anything out of it. --</span><br />
+<span style="color:#aa0000">CDS: Will Y0u C0me T0 Be Me?</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#ff660d">CSV: Can't.. O is this symbol.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  shows a peculear image to SV --</span><br />
+<span style="color:#cb7de6">CSJ: (( <a href='http://loli-chronos.tumblr.com/image/45407111045'>http://loli-chronos.tumblr.com/image/45407111045</a> ))</span><br />
+<span style="color:#aa0000">CDS: D0 The ?S C0rresp0nd T0 Specific Number Of Letters?</span><br />
+<span style="color:#ff660d">CSV: Yes, give me a moment I..</span><br />
+<span style="color:#ff660d">CSV: what is this?</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at SJ's picture. --</span><br />
+<span style="color:#cb7de6">CSJ: I don't know how I found this pic, but it looks like it has some clues on it.</span><br />
+<span style="color:#646464"><span style="color:#a37fce">CURRENT sleepingTimetravlur [CST]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a37fce">CST: ((pretend that blog doesn't exist and you found that in some weird server idek))</span><br />
+<span style="color:#cb7de6">CSJ: ((yeah, I was kinda going for that, hence the reason I linked to the pic itself and not the page it's on))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  opens his laptop and cross references some stuff. --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  engages code database --</span><br />
+<span style="color:#aa0000">CDS: *Accesses</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#aa0000">CDS: ((you guys wanna talk about this on a skype call))</span><br />
+<span style="color:#aa0000">CDS: ((?))</span><br />
+<span style="color:#cb7de6">CSJ: ((I think I figured this thing out already, but I'm wondering if you guys want me to say it or not))</span><br />
+<span style="color:#ff660d">CSV: ((I'm stuck at Will you come S? ?e me ))</span><br />
+<span style="color:#ff660d">CSV: (( probably doing it wrong ))</span><br />
+<span style="color:#a37fce">CST: ((you're getting there))</span><br />
+<span style="color:#aa0000">CDS: ((dont say it))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks frustraded at the multiple codes. --</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  is drawing on a whiteboard --</span><br />
+<span style="color:#646464"><span style="color:#aa0000">FUTURE dubiousSwain [FDS]</span> 1025 HOURS FROM NOW responded to memo.</span><br />
+<span style="color:#aa0000">FDS: The C0de Is...</span><br />
+<span style="color:#ff660d">CSV: (( how ))</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  shoots FDS in the head --</span><br />
+<span style="color:#aa0000">CDS: D0nt Sp0il It</span><br />
+<span style="color:#cb7de6">CSJ: ((timebar slip?))</span><br />
+<span style="color:#aa0000">CDS: ((no. humor))</span><br />
+<span style="color:#ff660d">CSV: ((nope, actual self murder. ))</span><br />
+<span style="color:#cb7de6">CSJ: ((:b))</span><br />
+<span style="color:#ee1e00">CCP: ((........))</span><br />
+<span style="color:#aa0000">CDS: He Was G0ing T0 Sp0il The Challenge</span><br />
+<span style="color:#cb7de6">CSJ: ((let's just hope that was a doomed timeclone and not the alpha version))</span><br />
+<span style="color:#ee1e00">CCP: why did you future-sudoku?</span><br />
+<span style="color:#cb7de6">CSJ: wait a minute, these numbers...</span><br />
+<span style="color:#ff660d">CSV: I'm totally stuck.</span><br />
+<span style="color:#cb7de6">CSJ: I think I remember these numbers from somewhere</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to check on SJ's thing and... promptly falls asleep on the floor. --</span><br />
+<span style="color:#cb7de6">CSJ: ....</span><br />
+<span style="color:#ee1e00">CCP: ((brb shower))</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  enters orbit of LoIaR. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  ing --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  brings the shuttle in on a landing tragectory. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  enters the lower atmosphere. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  a distant sonic boom can be heard. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  jolts awake --</span><br />
+<span style="color:#cb7de6">CSJ: whoawhat</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  looks shaken --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  slows as he aproches the base --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  touches down on the landing pad. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  powers down --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  slams his head into the table in front of him --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  incoherent babbling --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  diembarks and capachalogs the shuttle then enters the base and portalizes to the cafe. --</span><br />
+<span style="color:#008b00">CDS: oh good shes.</span><br />
+<span style="color:#008b00">CDS: ...</span><br />
+<span style="color:#008b00">CDS: is she ok?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  pulls out medical tricorder. --</span><br />
+<span style="color:#cb7de6">CSJ: she's... stable, I guess.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  walks over and scans TT --</span><br />
+<span style="color:#008b00">CDS: Heart rate extremaly elivated</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  glances over at the others while his head is down --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  is looking for what made the sound --</span><br />
+<span style="color:#008b00">CDS: adrenalin levels boardering on... toxic levels</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  slaps DS --</span><br />
+<span style="color:#008b00">CDS: what?</span><br />
+<span style="color:#008b00">CDS: ow</span><br />
+<span style="color:#730e8f">CFS: tch</span><br />
+<span style="color:#008b00">CDS: what did i do?</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sits back up, resuming his back-turned position as he takes another sip of coffee --</span><br />
+<span style="color:#008b00">CDS: you seem to have reseved quite a fright.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  exhales a sharp breath from his nose --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  lodes a hypospray with a compound that will  negate some of the adrenilan. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  slaps him again --</span><br />
+<span style="color:#008b00">CDS: ow could you please not</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  checks the scene again through his peripheral vision --</span><br />
+<span style="color:#008b00">CDS: and could you please stop stairing at me and tell me whats going oN!!</span><br />
+<span style="color:#008b00">CDS: shesh.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  ingects TT then moves to the other side of the room in a huff. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  slapfight --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  before he left --</span><br />
+<span style="color:#008b00">CDS: I am a Computer tecnisien not a mind reader some one tell me whats happining!!!</span><br />
+<span style="color:#008b00">CDS: ((sereusly whats going on!! I can't RP with lack of input!))</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  flips papers around --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  's gaze lingers, yet he says nothing --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  ignored DS, he's too busy decripting this stuff --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  then re-turns his head and takes another sip, his body slumping over as he takes the cup away from his lips --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  scuttles off --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace's <span style="color:#008b00">[CDS'S]</span>  geting a bit hiterical --</span><br />
+<span style="color:#008b00">CDS: ((histerical))</span><br />
+<span style="color:#730e8f">CFS: ((that's with a y))</span><br />
+<span style="color:#008b00">CDS: ((thank you... can some one explain whats happining?</span><br />
+<span style="color:#008b00">CDS: ))</span><br />
+<span style="color:#6507ff">CTT: ((me in BSoD mode))</span><br />
+<span style="color:#6507ff">CTT: ((that's all))</span><br />
+<span style="color:#008b00">CDS: ((oh well that explanes some but whet else is going on what was that message SJ mentioned?))</span><br />
+<span style="color:#646464"><span style="color:#a8a87e">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  CRASHES into the the side of the Sword HQ in a small, steampunk looking dreadnaught  mech(W40k) --</span><br />
+<span style="color:#008b00">CDS: SJ says something about a message...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  is thrown out of his chgair by the inpact --</span><br />
+<span style="color:#008b00">CDS: *chair</span><br />
+<span style="color:#008b00">CDS: ((becaues he was totaly siting lol))</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  walks out of the meh, stumbling,on th econd floor. --</span><br />
+<span style="color:#a8a87e">CFF: ...I really hope I didn't kill anyone.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  headtables again --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  begins looking for anyone. --</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSleep [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSleep <span style="color:#008b00">[CDS]</span>  DS is pased out on the floor --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  mutters "...and then it metamorphisizes into a party..." under his breath --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  find DS, and poke him. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls on the ground outside --</span><br />
+<span style="color:#a8a87e">CFF: DS, you alive?</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is comes down near the base, looking for the crash site. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSleep <span style="color:#008b00">[CDS]</span>  the crash site is the side of the base --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolling --</span><br />
+<span style="color:#646464">-- CURRENT doctorSleep <span style="color:#008b00">[CDS]</span>  DS is pased out on the floor with a concussion because he hit his head and is now asleep. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  dashes over to the wreckage, and starts digging for DS. --</span><br />
+<span style="color:#6507ff">CTT: regffgvnbrsdfzdbgfnrefτbdbfg</span><br />
+<span style="color:#cb7de6">CSJ: Oh gogwhat</span><br />
+<span style="color:#a8a87e">CFF: ...Shit.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  cheeks for a concuission --</span><br />
+<span style="color:#730e8f">CFS: repeatedly bangs his head in the table</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  repeatedly bangs his head in the table --</span><br />
+<span style="color:#a8a87e">CFF: FL! OVER HERE!</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  stops digging for DS, after getting the message, and runs to the bacafe. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls away from the base area --</span><br />
+<span style="color:#a8a87e">CFF: Good! FL, I'm gonna search for TT. I don't know how to doctor things!</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  runs away, looking for TT outside --</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  sprays DS with health gel, as he has no clue other than Health Gel helps with pretty much anything. --</span><br />
+<span style="color:#aa0000">CDS: WILL YOU COME SAVE ME</span><br />
+<span style="color:#aa0000">CDS: TT: Will Y0u C0me Save Me?</span><br />
+<span style="color:#0080ff">CFL: ...Huh?</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  finds TT, and rushes over to her. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls into tree --</span><br />
+<span style="color:#6507ff">CTT: dfdfgbrbeτfg</span><br />
+<span style="color:#646464">-- CURRENT doctorSleep <span style="color:#008b00">[CDS]</span>  the gel desolves in to DS --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  sighs --</span><br />
+<span style="color:#6507ff">CTT: bluh</span><br />
+<span style="color:#a8a87e">CFF: Kat, you okay?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  stare --</span><br />
+<span style="color:#646464">-- CURRENT doctorSleep <span style="color:#008b00">[CDS]</span>  DS is cured and over healed for some reason got to love glichy games --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  stares back, concerned. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  blinks --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  doens't blink. --</span><br />
+<span style="color:#a8a87e">CFF: ...Kat?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  gets up and shambles back into the HQ --</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  follows, concerned. --</span><br />
+<span style="color:#a8a87e">CFF: Can ya speak?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  is not paying attention --</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  jolts wake. --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  pokes TT's Back. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  examens self --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  waves hand infront of his face --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  pauses, turns around --</span><br />
+<span style="color:#008b00">CDS: ok I seeme to be cured good work FL.</span><br />
+<span style="color:#6507ff">CTT: ...</span><br />
+<span style="color:#a8a87e">CFF: ...Kat, are you okay?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes back to walking to the HQ --</span><br />
+<span style="color:#a8a87e">CFF: ...god damn it.</span><br />
+<span style="color:#008b00">CDS: now where is TT</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  follows. --</span><br />
+<span style="color:#a8a87e">CFF: TT. where are you going?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes back to the cafe and sits in her usual spot --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  with all the doodles --</span><br />
+<span style="color:#008b00">CDS: ah</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  pauses and sits across form her. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  pulles out tricorder and walks over to TT. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  scans her nerons --</span><br />
+<span style="color:#008b00">CDS: hmm</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  has given up on giving himself a frustration-induced concussion and has just resumed slumping over the table he's sitting at --</span><br />
+<span style="color:#a8a87e">CFF: Damn it... do we know WHY she's like this?</span><br />
+<span style="color:#008b00">CDS: I am detecting damage to the ion gates in her nerons</span><br />
+<span style="color:#6507ff">CTT: ((what))</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  kicks --</span><br />
+<span style="color:#008b00">CDS: most likely from a sudden movement of patasyum</span><br />
+<span style="color:#a8a87e">CFF: ...ow. Are you spouting tecnho babel?</span><br />
+<span style="color:#008b00">CDS: yes</span><br />
+<span style="color:#a8a87e">CFF: ...stop that.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  decapachalogs a cordical stymulater --</span><br />
+<span style="color:#a8a87e">CFF: ...what is that.</span><br />
+<span style="color:#008b00">CDS: a cortical stimulater</span><br />
+<span style="color:#008b00">CDS: her brains volteges are all sued</span><br />
+<span style="color:#008b00">CDS: skued</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#008b00">CDS: basecly shes suffering from a under voltage</span><br />
+<span style="color:#a8a87e">CFF: You are speaking worse then me. are you okay?</span><br />
+<span style="color:#6507ff">CTT: ((what, just what))</span><br />
+<span style="color:#a8a87e">CFF: ((he's babbling techno babble.))</span><br />
+<span style="color:#008b00">CDS: so I am recalibrating this to reset the volteges</span><br />
+<span style="color:#008b00">CDS: its lke jumstarting a car</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  no this is magic you cannot fix this with science --</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#a8a87e">CFF: DS. We are not shocking her brain.</span><br />
+<span style="color:#008b00">CDS: just not</span><br />
+<span style="color:#0080ff">CFL: DS, are you insane?</span><br />
+<span style="color:#008b00">CDS: Its save I ashure you</span><br />
+<span style="color:#a8a87e">CFF: If we could figure out WHy she is like this, we could help her.</span><br />
+<span style="color:#0080ff">CFL: If you get near her with that think, I will throw you out the window.</span><br />
+<span style="color:#0080ff">CFL: thing*</span><br />
+<span style="color:#a8a87e">CFF: ... DS, perform a check on yourself.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks at his empty coffee cup --</span><br />
+<span style="color:#008b00">CDS: fine fin</span><br />
+<span style="color:#a8a87e">CFF: I think you may be brain damaged.</span><br />
+<span style="color:#008b00">CDS: fine*</span><br />
+<span style="color:#a8a87e">CFF: If so. sorry/</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  scans self --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  checks readings --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  opens a holo screen and displays normal readings for a human. --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  looks at teh draws that TT has done. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  cue wheatley saying you have brain damage --</span><br />
+<span style="color:#008b00">CDS: shows it and the tricorders reading to FF and FL</span><br />
+<span style="color:#a8a87e">CFF: Now... how does this fit into your story, I wonder, kat...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  shows it and the tricorders reading to FF and FL --</span><br />
+<span style="color:#008b00">CDS: see normal</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  the are very normal --</span><br />
+<span style="color:#6507ff">CTT: ((wait have you seen my things FF ))</span><br />
+<span style="color:#a8a87e">CFF: ... you sure?</span><br />
+<span style="color:#a8a87e">CFF: (( nope ))</span><br />
+<span style="color:#008b00">CDS: F_F</span><br />
+<span style="color:#6507ff">CTT: (( <a href='http://imgur.com/a/bsqhF'>http://imgur.com/a/bsqhF</a> ))</span><br />
+<span style="color:#0080ff">CFL: ...DS, that can't be right.</span><br />
+<span style="color:#008b00">CDS: ?</span><br />
+<span style="color:#a8a87e">CFF: ((who's the guy in the 6th piture- the one in the jacket?))</span><br />
+<span style="color:#008b00">CDS: well you could try spraying her with healing gel it makes a much sence as the rest of this place</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wakes up from his wild nap attack --</span><br />
+<span style="color:#a8a87e">CFF: ...man this is distrubing.</span><br />
+<span style="color:#008b00">CDS: ya think?</span><br />
+<span style="color:#a8a87e">CFF: why is she drawing this shut?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  is very anoyed --</span><br />
+<span style="color:#0080ff">CFL: SBURB Player tend to use an extra portion of their brains, commonly accosiated with Aspect powers.</span><br />
+<span style="color:#6507ff">CTT: ((he hass a skateboaard))</span><br />
+<span style="color:#ee1e00">CCP: sorry, a Prospitian child thought it'd be funny to yarnbonk me.</span><br />
+<span style="color:#0080ff">CFL: According to these readings, you don't have that section active, so I'm guessing your device is busted.</span><br />
+<span style="color:#ee1e00">CCP: so... what's going on?</span><br />
+<span style="color:#008b00">CDS: wait</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  checks scans --</span><br />
+<span style="color:#008b00">CDS: oh</span><br />
+<span style="color:#a8a87e">CFF: ...TT, can you Draw why you are like this?</span><br />
+<span style="color:#008b00">CDS: it seems that it is rejecting thos readings</span><br />
+<span style="color:#a8a87e">CFF: ((I was just curious as to who it was, TT.))</span><br />
+<span style="color:#6507ff">CTT: -docτorSpace's τricorder wenτ kaboom-</span><br />
+<span style="color:#008b00">CDS: as... imposoble and just </span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  tricorder implodes --</span><br />
+<span style="color:#008b00">CDS: what thge</span><br />
+<span style="color:#ee1e00">CCP: ((recap of the past half hour plx?))</span><br />
+<span style="color:#008b00">CDS: ((TT has had a BSoD))</span><br />
+<span style="color:#6507ff">CTT: ((shenanegans))</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  pokes TT --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  decapachalogs spare. --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  no response --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  poses --</span><br />
+<span style="color:#ee1e00">CCP: ((so, same-old-same-old ;) ))</span><br />
+<span style="color:#6507ff">CTT: -Thaτ one also explodes-</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  looks back at inventory --</span><br />
+<span style="color:#008b00">CDS: well that was the defective one</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  no it dosent --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  grasps his empty cup --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  scanns TT --</span><br />
+<span style="color:#a8a87e">CFF: ...I think I have a way of finding out why she is like this. But it may be dangerous.</span><br />
+<span style="color:#008b00">CDS: oh well thats intresting</span><br />
+<span style="color:#6507ff">CTT: -▲gain, explosion-</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  throws it at DS --</span><br />
+<span style="color:#a8a87e">CFF: ...DS. stop trying to scan her.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  doges cup --</span><br />
+<span style="color:#008b00">CDS: this scann shows noth ing wrong</span><br />
+<span style="color:#008b00">CDS: and...</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  scans self --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is nearly hit by a flying mug --</span><br />
+<span style="color:#a8a87e">CFF: ...DS, get some rest.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  scans FL --</span><br />
+<span style="color:#730e8f">CFS: If it didn't quite work the first time or the second time it bloody well isn't going to work the next ten thousand</span><br />
+<span style="color:#6507ff">CTT: -You have Brain Damage, docτorSpace-</span><br />
+<span style="color:#008b00">CDS: ((no I dont))</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#a8a87e">CFF: Bugger it.</span><br />
+<span style="color:#008b00">CDS: ((stop puting handecaps on people it roud))</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  picks Up TT, and begins to fiddle with his wrist top. --</span><br />
+<span style="color:#008b00">CDS: -TT has brain damage-</span><br />
+<span style="color:#6507ff">CTT: -Then sτop τrying τo godmod-</span><br />
+<span style="color:#008b00">CDS: I will be rite back this dosent seem to be function ing correctly</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  leaves --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  begins to carry TT out of the Cafe. --</span><br />
+<span style="color:#008b00">CDS: (( I was going to say that I was seeing nothing wrong bu there where some werd energy traces that sugest magic shenagagans!! SHESH! ))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at FF carrying TT out --</span><br />
+<span style="color:#6507ff">CTT: ((why are you carrying me FF))</span><br />
+<span style="color:#008b00">CDS: (( and dont say any of you dont god mod form time to time ))</span><br />
+<span style="color:#008b00">CDS: (( and why are you carrying her off FF? ))</span><br />
+<span style="color:#a8a87e">CFF: ((to take her away from this crazy place, the cafe, and carry her to the command center))</span><br />
+<span style="color:#6507ff">CTT: ((tbh you tend to do it all the time.))</span><br />
+<span style="color:#008b00">CDS: (( you could take her to I don't know the med bay? ))</span><br />
+<span style="color:#0080ff">CFL: (( Actually, give me an example of when I've controlled another persons character? ))</span><br />
+<span style="color:#a8a87e">CFF: (( was planning on taking her to my land to try an event, but figured that might be creepy, without anone else.))</span><br />
+<span style="color:#6507ff">CTT: ((we don't have one?????))</span><br />
+<span style="color:#008b00">CDS: (( exuse me if I am at the to of my eshalater and my land quest is done ))</span><br />
+<span style="color:#008b00">CDS: (( I dint mean you FL ))</span><br />
+<span style="color:#ee1e00">CCP: ((maybe the command center has a medbay or something?))</span><br />
+<span style="color:#a8a87e">CFF: TT, lets take you to the med lab, okay?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  no response --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  reenters --</span><br />
+<span style="color:#a8a87e">CFF: ((and I ove the fact that once again, nobody picks up ont he fact that I want to do a land event.))</span><br />
+<span style="color:#a8a87e">CFF: ...Lovely.</span><br />
+<span style="color:#ee1e00">CCP: ((also something I thought of when I was giving a newbie a tour earlier: according to the map, we'll need to add another floor or two soon, all the player-rooms are full now))</span><br />
+<span style="color:#008b00">CDS: it apperes the glich has corupted some of my equipment</span><br />
+<span style="color:#a8a87e">CFF: Do any of you buggersknow were the med-lab is?</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  hands FF a spirograph doodle --</span><br />
+<span style="color:#008b00">CDS: its on the 2nd floor</span><br />
+<span style="color:#a8a87e">CFF: ...?</span><br />
+<span style="color:#ee1e00">CCP: I'm not sure if there is one yet... we really need to expand the place and add one, plus some more rooms for delayed-entry players</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  looks at the doodle --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  pic, or at least what it looks like? --</span><br />
+<span style="color:#008b00">CDS: oh be rite back</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  goes to the construction control console --</span><br />
+<span style="color:#008b00">CDS: ads a floor below the cafe</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  ads a floor below the cafe --</span><br />
+<span style="color:#6507ff">CTT: -Iτ's jusτ a spirograph-</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  turns it in to a infermery. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  goes back to the cfe --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  which is what? --</span><br />
+<span style="color:#008b00">CDS: ok we havean infermery now</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#a8a87e">CFF: ((DS, are you okay?))</span><br />
+<span style="color:#008b00">CDS: its directly below us</span><br />
+<span style="color:#a8a87e">CFF: okay, can ya lead the way?</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  sets TT down. --</span><br />
+<span style="color:#008b00">CDS: ((Yes I am SV Said there was a console that can alter the structure of the building at will))</span><br />
+<span style="color:#a8a87e">CFF: Can ya follow us?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  struggles out and scuttles off --</span><br />
+<span style="color:#ff660d">CSV: ((only the rooms. ))</span><br />
+<span style="color:#a8a87e">CFF: ...damn it!</span><br />
+<span style="color:#008b00">CDS: ((oh))</span><br />
+<span style="color:#a8a87e">CFF: /nme follows TT</span><br />
+<span style="color:#008b00">CDS: ((well))</span><br />
+<span style="color:#008b00">CDS: ((hmmm))</span><br />
+<span style="color:#ff660d">CSV: ((and not the shape of the rooms, only to easilly transform various objects in the rooms for personification))</span><br />
+<span style="color:#008b00">CDS: ((what do we do now then?))</span><br />
+<span style="color:#ee1e00">CCP: ((so, basically like the Sbarg Server Interface?))</span><br />
+<span style="color:#008b00">CDS: ((yes))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  runs over to TT holding a note out to her. --</span><br />
+<span style="color:#ff660d">CSV: Kat.</span><br />
+<span style="color:#a8a87e">CFF: ((simple, mody a room into a med bay temporily.))</span><br />
+<span style="color:#ff660d">CSV: - <a href='http://i.imgur.com/yKoighg.png'>http://i.imgur.com/yKoighg.png</a> -</span><br />
+<span style="color:#008b00">CDS: ?</span><br />
+<span style="color:#a8a87e">CFF: SV, she handed me this.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  shows her the spirograph. --</span><br />
+<span style="color:#008b00">CDS: ((mods a room in to a medical sweet))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  mods a room in to a medical sweet --</span><br />
+<span style="color:#6507ff">CTT: ((her?))</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  stare into paper --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  I mean him. --</span><br />
+<span style="color:#008b00">CDS: this way</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  goes to the floor --</span><br />
+<span style="color:#ff660d">CSV: (( Fem! SV ))</span><br />
+<span style="color:#ff660d">CSV: (( oh boi ))</span><br />
+<span style="color:#a8a87e">CFF: Whats the image, SV?</span><br />
+<span style="color:#a8a87e">CFF: or Note.</span><br />
+<span style="color:#ff660d">CSV: A message to her.</span><br />
+<span style="color:#a8a87e">CFF: ...okay?</span><br />
+<span style="color:#a8a87e">CFF: what does it say?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  stare --</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#a8a87e">CFF: Did you just break TT, or is she susspose to stare?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  at the paper, I mean --</span><br />
+<span style="color:#008b00">CDS: FF TT is alredy broken I dont think we could more.</span><br />
+<span style="color:#a8a87e">CFF: ...DS, now that you said that, the universe will somehow prove you wrong. thanks.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  I know, TT. --</span><br />
+<span style="color:#008b00">CDS: exuse me its not like I said what could posebly go wrong now did I?!</span><br />
+<span style="color:#008b00">CDS: ...</span><br />
+<span style="color:#008b00">CDS: Now look what youve done!</span><br />
+<span style="color:#008b00">CDS: You made me say something that will DOOM US ALL!</span><br />
+<span style="color:#008b00">CDS: DOOM US ALL!</span><br />
+<span style="color:#ff660d">CSV: Shut up.</span><br />
+<span style="color:#a8a87e">CFF: ...You said it, not me.</span><br />
+<span style="color:#008b00">CDS: sorry</span><br />
+<span style="color:#008b00">CDS: stop goading nme on!</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks stern and serious at TT. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  INTENSE STAREDOWN with DS --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  stairs evern more intently at CP --</span><br />
+<span style="color:#008b00">CDS: ((chalenge exepted!))|</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  looks up and pulls out pistols --</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  shambles off to her room --</span><br />
+<span style="color:#aa0000">CDS: Shut Up Ds</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  ramps up the intensety. --</span><br />
+<span style="color:#6507ff">CTT: ((what does it say, SV I had a little trouble reading it orz so I have to check))</span><br />
+<span style="color:#ff660d">CSV: ((  "Calm now. Tell us ?ow we can save you." ))</span><br />
+<span style="color:#646464">-- CURRENT dubiousSwain <span style="color:#aa0000">[CDS]</span>  points pistol at DS --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  slightly more intense staredown, baring his wolf-teeth --</span><br />
+<span style="color:#aa0000">CDS: I Will Sh00t Y0u</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  shoosh paps the both of you. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  rolls a 14 for intimidation. --</span><br />
+<span style="color:#ff660d">CSV: First off, if you want to spar. Take it to the dojo.</span><br />
+<span style="color:#ff660d">CSV: I will not accept threats or murder-attempts in my headquarters.</span><br />
+<span style="color:#aa0000">CDS: Back The Fuck Off DS</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  hums "Rex Duodecim Angelus" while walking to her room --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  rolls a nat 20 --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  rolls a 15, but decides to give up on the staredown because of red!DS --</span><br />
+<span style="color:#ee1e00">CCP: ((OH FUCK YOU AGAIN LAGGERCHUM))</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  clearly speaks over the muttering of the others. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  is stisfide with the narwo victory --</span><br />
+<span style="color:#ff660d">CSV: AM I CLEAR&gt;</span><br />
+<span style="color:#a8a87e">CFF: Guys, if you don't Stop, SV will kick you out.</span><br />
+<span style="color:#aa0000">CDS: *Ph0enixsprite Telep0rts DS T0 His R00m T0 St0p Him Fr0m Sh00ting Any0ne</span><br />
+<span style="color:#ee1e00">CCP: ((I sent that last line before TT's humming, but it didn't show until after DS' nat-20))</span><br />
+<span style="color:#008b00">CDS: Murder threts? whos thretaning people?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes to bed --</span><br />
+<span style="color:#a8a87e">CFF: SV, why are we the saniest people here?</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  turns around and walks over to stand in TT's door. --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  follows. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  doesn't respond, he sighs. --</span><br />
+<span style="color:#a8a87e">CFF: ...you oaky, man?</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  humms. --</span><br />
+<span style="color:#ff660d">CSV: Mhm..</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#008b00">CDS: well exuse me If people are treating me like a blibering Idit!</span><br />
+<span style="color:#008b00">CDS: have fun figureing this out on your own!</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#a8a87e">CFF: ...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a8a87e">[CFF]</span>  sighs. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  looks at a sudden holo screen popping up to the right of his head. The memo. --</span><br />
+<span style="color:#a8a87e">CFF: Well, I have to head home...</span><br />
+<span style="color:#a8a87e">CFF: Good Luck, SV.</span><br />
+<span style="color:#ff660d">CSV: Aye.</span><br />
+<span style="color:#ff660d">CSV: See ya.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#008b00">CDS: ((UPADATE!!!!)))</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks up at his compuglove --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher's <span style="color:#ee1e00">[CCP'S]</span>  scrolltop cannot properly render the sheer MAGNITUDE of the upd8 --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  freezes --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  stares at the sleeping TT, a tear drops down his cheek. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS, FDS</span> ceased responding to memo.</span><br />
+<span style="color:#ff660d">CSV: Clarify, progress.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  softly mutters into his microphone. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ........Hussie, in whatever Sbargless timeline you are in... YOU OWE ME A NEW SCROLLTOP!</span><br />
+<span style="color:#0080ff">CFL: (( And then Lord English had a health bar. Because Glitches. ))</span><br />
+<span style="color:#0080ff">CFL: Oh gog what did I just read.</span><br />
+<span style="color:#0080ff">CFL: CALIBORN.</span><br />
+<span style="color:#0080ff">CFL: WHY.</span><br />
+<span style="color:#646464"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  frowns --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  frowns deeper --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just stares at the remnants of his Caliborn-exploded scrolltop --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  stands in TT's doorstep, he's been talking into his microphone softly, audiotranscribing his words. A stream of tears drop down to the ground. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  holds his head in his typing-hand --</span><br />
+<span style="color:#ff660d">CSV: (( I HEADCANON FS AS A WOMAN WHAT IS THIS ))</span><br />
+<span style="color:#ff660d">CSV: (( AAAAAAAAAAAAAAAAAAAA ))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks up to TT who lies on her bed, bows down to hold his hands under her back and her knees. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  stares at the screen on his compuglove as his expression begins to soften --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSV</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#ff660d">CURRENT squealingVermin [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ff660d">CSV: ((windows force updated))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  gets up from his formerly seated position --</span><br />
+<span style="color:#ff660d">CSV: (( must have not seen the I WILL RESTARD IN 3 FUCKIGN SECONDS thing ))</span><br />
+<span style="color:#ee1e00">CCP: ((did you have auto update turned on?))</span><br />
+<span style="color:#ff660d">CSV: ((I did, before I reinstalled))</span><br />
+<span style="color:#ff660d">CSV: ((Need to turn that off. ))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  places his arms under her back and knees and lifts her gently up from her bed. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  turns around with TT in his arms, he walks down the hall to the bacafé. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks around the bacafe for anyone who can help --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sees SV --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  enters the bacafé and turns a sharp right into the storage room. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks back down at his compuglove --</span><br />
+<span style="color:#ff660d">CSV: left* i dont even know my own building))</span><br />
+<span style="color:#730e8f">CFS: ((XD))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finishes recovering from the sudden Homesplosion of his scrolltop, and goes to see if anyone else needs help with something --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walk down the storage room to the flowery gateway which streams pure water. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  follows SV --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks trough the gateway with TT in his arms. The tears have dried and are washed off by the cleansing water as he steps trough. --</span><br />
+<span style="color:#730e8f">CFS: ... you have the book?</span><br />
+<span style="color:#730e8f">CFS: wait...</span><br />
+<span style="color:#ff660d">CSV: (( <a href='#SBARGv2_Grove'>#SBARGv2_Grove</a> ))</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  follows SV through the portal --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  I mean gateway --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks toward where SV went, and follows through the gate thingy --</span><br />
+<span style="color:#646464"><span style="color:#39b873">CURRENT issunJar [CIJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  looks around, wondering where everyone is, before bouncing down to the alchemy room --</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks trough with TT still in his hands, he is soon followed by the others. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks out of the storage room into the Bacafé. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  slowly and steadily follows him into the bacafe --</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ((gonna afk))</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks trough the corridor to TT's room. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  lays her back down on her bed, tucking her in with a smile. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows into the HQ, but stops when he hears noises from the alchemy room --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  checks his compuglove again for new messages in the memo --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  undoes the tome of essence, he lays it down on her desk. --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks out and closes the door behind him. --</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  is meanwhile trying to set up the machinery to create a new, upd8-resistant scrolltop --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  closes his compuglove --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  sits down on a couch --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters the alchemy room to find... Issun struggling to get the totem lathe running? --</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  manages to carve a totem and bounce it over to the lathe (it's a thin totem so yeah) --</span><br />
+<span style="color:#39b873">CIJ: ((*the alchemiter you butt))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  watches as a new scrolltop rezzes in --</span><br />
+<span style="color:#646464"><span style="color:#d00000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  transportalizes into the Bacafe, having come from the Lobby --</span><br />
+<span style="color:#d00000">CFA: (\ Heyy, has anyyone seen Ashsprite? /)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  just walks in from the corridor to TT's house. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks up --</span><br />
+<span style="color:#ff660d">CSV: Haven't seen my sprite all day aswell, figures.</span><br />
+<span style="color:#730e8f">CFS: hm?</span><br />
+<span style="color:#d00000">CFA: (\ I practicallyy looked all over LoFaT for her /)</span><br />
+<span style="color:#d00000">CFA: (\ Which is strange because She RARELYY Leaves myy side /)</span><br />
+<span style="color:#d00000">CFA: (\ YYou're sprites missing too, hank? /)</span><br />
+<span style="color:#730e8f">CFS: mm...</span><br />
+<span style="color:#d00000">CFA: (\ Odds are theyy're together /)</span><br />
+<span style="color:#d00000">CFA: (\ but... /)</span><br />
+<span style="color:#ff660d">CSV: Aye.</span><br />
+<span style="color:#ee1e00">CCP: hey, you... made me a new scrolltop? nice</span><br />
+<span style="color:#d00000">CFA: (\ YYou think theyy'd at least check in with us... /)</span><br />
+<span style="color:#ff660d">CSV: I know mine never does.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  chuckles. --</span><br />
+<span style="color:#ff660d">CSV: He just appears randomly.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  chuckles and shakes her head --</span><br />
+<span style="color:#d00000">CFA: (\ Ashsprite is a bit more dependent then yyours /)</span><br />
+<span style="color:#d00000">CFA: (\ then /)</span><br />
+<span style="color:#39b873">CIJ: I ||-combined it with your ghost captcha of the Lyoko Supercomputer, so hopefully it won't tear itself to shreds when the next "upd8" happens!</span><br />
+<span style="color:#ee1e00">CCP: heh. well, thanks. let's go back upstairs and make sure everyone's ok.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  fixes her goggles on her head, Casting her glance to the ground --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads up to the bacafe --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks over to the liquid dispenser, getting a coffee. --</span><br />
+<span style="color:#ff660d">CSV: Anyone else want anything?</span><br />
+<span style="color:#646464">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  goes back to CP's room --</span><br />
+<span style="color:#ee1e00">CCP: uh... not right now. I want to see how well this new thing works.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIJ</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  puts two cubes of sugar in his coffee. --</span><br />
+<span style="color:#730e8f">CFS: ... no... I'm quite fine</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  tilts her head at the contraption --</span><br />
+<span style="color:#d00000">CFA: (\ Tea would be nice /)</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: Ginger ale.</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  puts a glass under the machine, hot water comes out and pours into the glass below. --</span><br />
+<span style="color:#d00000">CFA: (\ Haha it's like a keurig /)</span><br />
+<span style="color:#d00000">CFA: (\ Cool /)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  moves the glass aside, next to the bags of tea. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  walks over, hands in pockets --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  puts a drinking glass under it and presses ginger ale. --</span><br />
+<span style="color:#9d001f">CRS: Hell yeah</span><br />
+<span style="color:#ee1e00">CCP: hmm, actually I think I'll get some green tea after all</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  picks up the ginger ale and the coffee and walks over to RS's table. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  removes only one hand from her pocket to put the Tea bag in, as well as honey and sugar --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  from her own modus* --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  accepts it --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  gulps down a mouthful of his own drink of choice, hanging an errant arm over the chair back. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  goes over to the machine, but sees the others waiting in line and gets something from the fridge instead --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  takes her cup and kicks back in a chair, sipping at it slowly --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits down at FA's table. --</span><br />
+<span style="color:#ff660d">CSV: Well, TT is back to normal again.</span><br />
+<span style="color:#d00000">CFA: (\ Oh! Thats wonderful /)</span><br />
+<span style="color:#d00000">CFA: (\ Im glad she's okayy /)</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  nods --</span><br />
+<span style="color:#ff660d">CSV: Aye.</span><br />
+<span style="color:#ff660d">CSV: I was thinking. If those two are doing what I think they are.. w.. </span><br />
+<span style="color:#ff660d">CSV: You know what, nevermind.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  returns with a can of grape faygo (because someone forgot to restock the Purple Stuph) and sits down, drinking it in the most unironic way a wolfsprite possibly can --</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#d00000">CFA: (\ ... /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  looks up from her cup with half lidded eyes --</span><br />
+<span style="color:#d00000">CFA: (\ ...Dont put that idea in myy head /)</span><br />
+<span style="color:#d00000">CFA: (\ I cant even wrap myy mind around how that... would work... /)</span><br />
+<span style="color:#ff660d">CSV: Hey! I don't want to either!</span><br />
+<span style="color:#cb7de6">CSJ: ((shaaaaaame))</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  smirks at him, looking at him out of the corner of her eye --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  grins back at the sly smirk which Ash puts up. --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  tries not to think about that as he takes out a pencil and paper and begins to write --</span><br />
+<span style="color:#646464"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  shakes her head and chuckles, going back to her cup of tea, Folding her left arm across her chest, while her right held the cup up to her mouth, crossing her legs in the seat as well as she leaned back in it --</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ((did nobody clean up the whole pile of doodles))</span><br />
+<span style="color:#6507ff">CTT: ((also back))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks ridiculous the way he's holding the faygo can --</span><br />
+<span style="color:#ee1e00">CCP: ((cleaned up what doodles?))</span><br />
+<span style="color:#6507ff">CTT: ((the whole pile littering the cafe))</span><br />
+<span style="color:#730e8f">CFS: ((oh... maybe that would help explain where I found paper))</span><br />
+<span style="color:#730e8f">CFS: ((XP))</span><br />
+<span style="color:#6507ff">CTT: ((wait, has RS even seen the doodles))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finishes the weird elixir and unrolls his scrolltop to test it out --</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  finishes writing and folds his letter up neatly before capchaloguing it --</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ((INTERNET AAAAAA))</span><br />
+<span style="color:#6507ff">CTT: ((hello?))</span><br />
+<span style="color:#730e8f">CFS: ((yo))</span><br />
+<span style="color:#ee1e00">CCP: (( /me falcon punches TT's router ))</span><br />
+<span style="color:#6507ff">CTT: ((oh i thought pesterchum also broked))</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  rolls out of bed --</span><br />
+<span style="color:#6507ff">CTT: ow</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  moves on over to the cafe --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  looks up and smiles a bit --</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  notices FS's smile, he looks over his shoulder and sees TT. --</span><br />
+<span style="color:#730e8f">CFS: well... just look who is up again.</span><br />
+<span style="color:#ff660d">CSV: Hey!</span><br />
+<span style="color:#6507ff">CTT: Θh, um..hi guys..</span><br />
+<span style="color:#730e8f">CFS: and words...</span><br />
+<span style="color:#6507ff">CTT: Yeaaaah....words...</span><br />
+<span style="color:#730e8f">CFS: heh...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sees TT and waves --</span><br />
+<span style="color:#6507ff">CTT: eheh...</span><br />
+<span style="color:#ee1e00">CCP: it's good to see you're back up again</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  looks at the pile of paper --</span><br />
+<span style="color:#6507ff">CTT: ....did I do τhaτ</span><br />
+<span style="color:#ff660d">CSV: Yep.</span><br />
+<span style="color:#6507ff">CTT: ..well.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  opens one eye and sits up straight in the chair finally, setting the cup down as she turns in the chair to see TT --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  goes to get some apple juice --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  sighs and turns back to SV --</span><br />
+<span style="color:#d00000">CFA: (\ Anyy place yyou think the sprites might have gone? /)</span><br />
+<span style="color:#ee1e00">CCP: no idea. where do you think a pair of matesprites would head off to?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  giggles --</span><br />
+<span style="color:#d00000">CFA: (\ Well obviouslyy someplace to be alone but /)</span><br />
+<span style="color:#d00000">CFA: (\ where /specificallyy/ /)</span><br />
+<span style="color:#646464">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  shrugs. --</span><br />
+<span style="color:#ff660d">CSV: I guess somewhere private?</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads over to the cookalizer to queue up a personal-size pepperoni pizza --</span><br />
+<span style="color:#ff660d">CSV: That could be pretty much anywhere, you checked your home you said?</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  resists the urge to sigh --</span><br />
+<span style="color:#d00000">CFA: (\ YYeah, And she rarelyy leaves the house /)</span><br />
+<span style="color:#ff660d">CSV: Then they are probably at mine back on Hoth.</span><br />
+<span style="color:#d00000">CFA: (\ Hm.. /)</span><br />
+<span style="color:#d00000">CFA: (\ Makes sense /)</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  relaxes with her apple juice --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  hums a song idk what song --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  quickly retrieves pizza from oven and commences nomming --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  quickly captchalogues the doodles --</span><br />
+<span style="color:#ee1e00">CCP: so, the scrolltop-2 seems to work pretty well. only time will tell if it survives the next upd8 flood, though...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  shrugs --</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  yawns --</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  gets up from the couch --</span><br />
+<span style="color:#730e8f">CFS: it's probably about time I turned in...</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  moves to the transportalizer and waves --</span><br />
+<span style="color:#730e8f">CFS: good night all</span><br />
+<span style="color:#646464">-- CURRENT fierySwallow <span style="color:#730e8f">[CFS]</span>  transportalizes to 6th floor and proceeds to his room --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  passes out on the couch, tired because who knows why --</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />

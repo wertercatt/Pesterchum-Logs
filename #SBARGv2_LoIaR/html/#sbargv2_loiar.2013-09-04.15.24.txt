@@ -1,0 +1,574 @@
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ...wait, how long has he been asleep on the couch in here? --</span><br />
+<span style="color:#646464"><span style="color:#887000">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#887000">CSL: ...</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">...</span></span><br />
+<span style="color:#646464"><span style="color:#be00be">CURRENT adorableSlayer [CAS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#be00be">CAS: ...</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#646464"><span style="color:#955311">CURRENT sogBot [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#955311">CSB: Well, talk about awkward scilences!</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  i5 5itting on the window --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  all quietlike --</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">so i hear someone needs help with ais</span></span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  says that as she's being uncapsha'd by EQ --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  yawns a bit --</span><br />
+<span style="color:#955311">CSB: Yuuuup. The person isnt here yet, though.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  5he'5 5till wearing a hood and 5carf --</span><br />
+<span style="color:#646464"><span style="color:#ffa407">CURRENT chilledGecko [CCG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  arrives at the cafe, floating down in his Prince of Doom God Tier robes, holding his EB-0 guitar --</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">is this the guy</span></span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  waves, then turns to her book. --</span><br />
+<span style="color:#ffa407">CCG: Yo.</span><br />
+<span style="color:#955311">CSB: 'Think so.</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  waves to the people --</span><br />
+<span style="color:#ffa407">CCG: (( <a href='http://trollslum.wikia.com/wiki/Thread:10240?file=Cody_Flowers-God_Tier-Hero_Mode-TheVideoGamingGuru.png#14'>http://trollslum.wikia.com/wiki/Thread:10240?file=Cody_Flowers-God_Tier-Hero_Mode-TheVideoGamingGuru.png#14</a> What Cody looks like. ))</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves from the couch --</span><br />
+<span style="color:#ffa407">CCG: Everyone turned up just to see me try and make an AI?</span><br />
+<span style="color:#000000">CTT: Noτ really.</span><br />
+<span style="color:#000000">CTT: This is my house.</span><br />
+<span style="color:#000000">CTT: ...Kind of.</span><br />
+<span style="color:#ffa407">CCG: Nice.</span><br />
+<span style="color:#887000">CSL: its like the birth of a child really</span><br />
+<span style="color:#955311">CSB: Meh.</span><br />
+<span style="color:#ee1e00">CCP: shrug.</span><br />
+<span style="color:#be00be">CAS: I don't think they agree.</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  shrugs, slinging his EB over his back --</span><br />
+<span style="color:#ffa407">CCG: Where should I start?</span><br />
+<span style="color:#955311">CSB: Well...</span><br />
+<span style="color:#955311">CSB: Lets start with what you /do/ know, for starters: What do you know about making an AI?</span><br />
+<span style="color:#ffa407">CCG: Right now, nothing.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">can you at least code</span></span><br />
+<span style="color:#ffa407">CCG: Code?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  you wouldn't 5ee it, but 5he ha5 thi5 face of exa5peration --</span><br />
+<span style="color:#000000">CTT: ▲re you serious.</span><br />
+<span style="color:#955311">CSB: Okay! Well first things first: You need a good computer. -And a method of coding, yeah...</span><br />
+<span style="color:#ffa407">CCG: (( BRB))</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">you want me to teach you to make an ai from no coding experience</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">...</span></span><br />
+<span style="color:#955311">CSB: Welp. Its quite a first step, to say the least.</span><br />
+<span style="color:#000000">CTT: τhere are no words.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just sort of stares --</span><br />
+<span style="color:#2806ea">CEQ: Yeah... that'll be "fun" to watch.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">...</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">hate. let me tell you all how much i've come to hate you since i began to live. there are 387.44 million miles of printed circuits that fill my complex. if the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not equal one one-billionth of the hate i feel for humans at this micro-instant. for you. hate. HATE.</span></span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#be00be">CAS: Um, Radd?</span><br />
+<span style="color:#955311">CSB: Eyyy. These humans did nothing wrong. It was just that human that was stupid.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls out his skaiPod and plays crickets.wav --</span><br />
+<span style="color:#887000">CSL: ...</span><br />
+<span style="color:#be00be">CAS: ...</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">...</span></span><br />
+<span style="color:#000000">CTT: .</span><br />
+<span style="color:#ee1e00">CCP:  </span><br />
+<span style="color:#955311">CSB: awkward scilence, part 2!</span><br />
+<span style="color:#887000">CSL: it keeps happening</span><br />
+<span style="color:#ee1e00">CCP: are... we still waiting for someone?</span><br />
+<span style="color:#000000">CTT: no clue.</span><br />
+<span style="color:#955311">CSB: 'think the guy just passed out... welp. Add another tally for sudden naps, if so.</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  has been sitting at a table with a milkshake bored this whole time --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  pull5 her hood down --</span><br />
+<span style="color:#646464"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  suddenly appears in the bafafe out of nowhere. How the fuck did that happen?! --</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">ENTER, THE FOR</span>TUITOUS SLEUTH!!!</span><br />
+<span style="color:#887000">CSL: what</span><br />
+<span style="color:#be00be">CAS: Hiya!</span><br />
+<span style="color:#ee1e00">CCP: . . .</span><br />
+<span style="color:#2806ea">CEQ: -Ah! uh... heya, FS...</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">Hello</span> hello</span><br />
+<span style="color:#ceca54">CFS: ~}----  what have<span style="color:#730e8f"> we here?</span></span><br />
+<span style="color:#955311">CSB: People bored out of their minds, is what.</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  smiles at FS. She looks  like <a href='http://asstlevania.tumblr.com/post/60090931012/more-rp-nonsense-my-regular-followers-wont-care'>http://asstlevania.tumblr.com/post/60090931012/more-rp-nonsense-my-regular-followers-wont-care</a> --</span><br />
+<span style="color:#000000">CTT: Well τhaτ was sudden.</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">something of the mo-</span> oh man, this just won't do at all!</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT acceleratedEspionage [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">CAG: *appears out of nowhere to flyingtackle FS from behind*</span><br />
+<span style="color:#ceca54">CFS: ~}----  we can't be bored out of <span style="color:#730e8f">our minds what is th- DOOF!!!</span></span><br />
+<span style="color:#7ccfb2">CAG: We're /always/ bored out of our minds!</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  is promptly tackled to the floor --</span><br />
+<span style="color:#955311">CSB: 'True enough.</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  then promptly looks up --</span><br />
+<span style="color:#be00be">CAS: Hi!</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#ceca54">CFS: ~}----  well that wasn't bo<span style="color:#730e8f">ring at the very least</span></span><br />
+<span style="color:#000000">CTT: Hm.</span><br />
+<span style="color:#2806ea">CEQ: Hmph</span><br />
+<span style="color:#ceca54">CFS: ~}----  hm<span style="color:#730e8f">m?</span></span><br />
+<span style="color:#7ccfb2">CAG: *just flops over him, keeping him on the floor* Damn straight.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  du5t5 her robe, a few petal5 fall to the floor --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  headtilts on the floor --</span><br />
+<span style="color:#887000">CSL: there are children present</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  shrugs --</span><br />
+<span style="color:#7ccfb2">CAG: R-- oh, spider.</span><br />
+<span style="color:#7ccfb2">CAG: … what's your point?</span><br />
+<span style="color:#955311">CSB: 's not like anyone will change how they act, either way.</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">children? all tha</span>t I see is a- OH</span><br />
+<span style="color:#887000">CSL: ((i  misread dusts as removes, none of that was canon))</span><br />
+<span style="color:#887000">CSL: ((/somehow/))</span><br />
+<span style="color:#ceca54">CFS: ~}----  yes r<span style="color:#730e8f">ight</span></span><br />
+<span style="color:#be00be">CAS: Hi! I'm Amy.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  black petal5. --</span><br />
+<span style="color:#ceca54">CFS: ~}----  ehehe... he<span style="color:#730e8f">h... hello</span></span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  whispers "arachnophobe?" --</span><br />
+<span style="color:#7ccfb2">CAG: *is personally clinging a bit tighter to FS than she might be and pointedly /not/ looking at the spider*</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  is /cute/ what is wrong with you people --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  absentmindedly types on his scrolltop, not really noticing Gambit's minor freakout --</span><br />
+<span style="color:#7ccfb2">CAG: *there is no /cute/ when it comes to /spiders/, fuckass*</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is admitably unnerved by the spider who, under normal physics, could not exist.\\ --</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((still a much larger than average spider and yellow's fear of them carried over in this mixything so yeah :/))</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  reminds: <a href='http://asstlevania.tumblr.com/post/60090931012/more-rp-nonsense-my-regular-followers-wont-care'>http://asstlevania.tumblr.com/post/60090931012/more-rp-nonsense-my-regular-followers-wont-care</a> --</span><br />
+<span style="color:#7ccfb2">CAG: (( FUCKING SPIDER, MAN ))</span><br />
+<span style="color:#887000">CSL: ((pussies))</span><br />
+<span style="color:#7ccfb2">CAG: (( go fuck yourself ))</span><br />
+<span style="color:#887000">CSL: ((man spiders are cool))</span><br />
+<span style="color:#887000">CSL: ((anyway))</span><br />
+<span style="color:#887000">CSL: she just wants to be friendly guys</span><br />
+<span style="color:#ceca54">CFS: ~}----  (('S A SPIDER MAN/ 'S A SPIDER MAN /IT CAN DO THINGS THAT NO SPIDERS CAN /SWING SOME SWORDS/ BE BADASS/ SCARE THE SHIT/ OUT OF GODS/ THAT DIDN'T RHYYYYYME/ BUT IT'S A SPIDERMAAAAAAAAAN))</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  seems a bit sad --</span><br />
+<span style="color:#be00be">CAS: ((yes)0</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth's <span style="color:#ceca54">[CFS'S]</span>  author's song parody of the day has now finished --</span><br />
+<span style="color:#7ccfb2">CAG: *will set her on fire if she gets within five feet of her*</span><br />
+<span style="color:#be00be">CAS: ((i am getting that framed and hung over my mantlepiece))</span><br />
+<span style="color:#2806ea">CEQ: I'm sure they are aware of that fact...</span><br />
+<span style="color:#be00be">CAS: no, its fine</span><br />
+<span style="color:#ee1e00">CCP: ((outofcontext dat shit))</span><br />
+<span style="color:#000000">CTT: hm.</span><br />
+<span style="color:#2806ea">CEQ: ((I'm on it.))</span><br />
+<span style="color:#be00be">CAS: I know I'm scary to some of you...</span><br />
+<span style="color:#be00be">CAS: It's okay.</span><br />
+<span style="color:#7ccfb2">CAG: Stay aaall the way over there and you won't get to hug fire.</span><br />
+<span style="color:#887000">CSL: gambit!</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  looks away --</span><br />
+<span style="color:#7ccfb2">CAG: If the spider gets near me, I'm setting everything on fire.</span><br />
+<span style="color:#955311">CSB: Gambit. Rude.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glares at Gambit --</span><br />
+<span style="color:#7ccfb2">CAG: Don't care. Spider.</span><br />
+<span style="color:#7ccfb2">CAG: If it stays aaall the way over there we're good.</span><br />
+<span style="color:#887000">CSL: she's just a little girl, you asshole</span><br />
+<span style="color:#7ccfb2">CAG: She's a little girl arachnid.</span><br />
+<span style="color:#955311">CSB: Is it going to kill you? No? Then shut up with the "I'll set everything on fire."</span><br />
+<span style="color:#7ccfb2">CAG: I said that /once/ and it is /true/.</span><br />
+<span style="color:#be00be">CAS: I'm sorry I scare you...</span><br />
+<span style="color:#ceca54">CFS: ~}----  can we n<span style="color:#730e8f">ot though please?</span></span><br />
+<span style="color:#955311">CSB: Besides, spiders are not that bad. Try to imagine all the bugs that would be around without spiders.</span><br />
+<span style="color:#955311">CSB: Just try.</span><br />
+<span style="color:#ffa407">CCG: (( Back. ))</span><br />
+<span style="color:#7ccfb2">CAG: Yeah, yeah, /fine/, FS.</span><br />
+<span style="color:#ffa407">CCG: (( Sorry for being away :/ ))</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">I do not think any of us will find incen</span>diaries all that pleasan- okay wunderbar!</span><br />
+<span style="color:#ceca54">CFS: ~}----  so n<span style="color:#730e8f">o fires</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">((you missed me doing the i have no mouth and i must scream hate speech about your coding incompetence))</span></span><br />
+<span style="color:#ffa407">CCG: So, what first?</span><br />
+<span style="color:#ffa407">CCG: (( xD ))</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">((i have it as a quirk))</span></span><br />
+<span style="color:#955311">CSB: Well, firstly: Welcome back to the land of the living. Second: Uh...</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">((hate. let me tell you all how much i've come to hate you since i began to live. there are 387.44 million miles of printed circuits that fill my complex. if the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not equal one one-billionth of the hate i feel for humans at this micro-instant. for you. hate. HATE.))</span></span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  stretches --</span><br />
+<span style="color:#955311">CSB: If you know nothing about coding... How much do you know about theivery?</span><br />
+<span style="color:#ee1e00">CCP: ((crickets.wav count: 13))</span><br />
+<span style="color:#ffa407">CCG: I can steal.</span><br />
+<span style="color:#ffa407">CCG: ...Not that i'm proud of it.</span><br />
+<span style="color:#955311">CSB: And or sneaking into labs?</span><br />
+<span style="color:#955311">CSB: Okay.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  detects parentheticals --</span><br />
+<span style="color:#7ccfb2">CAG: Are we nicking things?</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  RIIIIIIIIIIIIIIIIIIIIP --</span><br />
+<span style="color:#955311">CSB: ... Maybe.</span><br />
+<span style="color:#7ccfb2">CAG: … Apparently so. FS, stop that.</span><br />
+<span style="color:#ffa407">CCG: I can sneak in and steal something if you need me to.</span><br />
+<span style="color:#ee1e00">CCP: what's FS doing?</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  now has a red doubleparenthesis in his hand --</span><br />
+<span style="color:#2806ea">CEQ: Um...</span><br />
+<span style="color:#7ccfb2">CAG: Stealing things.</span><br />
+<span style="color:#ee1e00">CCP: wat.</span><br />
+<span style="color:#2806ea">CEQ: O... kay...</span><br />
+<span style="color:#7ccfb2">CAG: Like we keep saying, it was aliens.</span><br />
+<span style="color:#ceca54">CFS: ~}----  I can't help it though. I<span style="color:#730e8f"> simply must catch them all!</span></span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  notice5 the petal5 on the floor and 5weep5 them behind her 5o nobody el5e can 5ee --</span><br />
+<span style="color:#ee1e00">CCP: ...you're treating the pseudoexiles as pokemon now?</span><br />
+<span style="color:#ceca54">CFS: ~}----  's a different color<span style="color:#730e8f"> every time I swear</span></span><br />
+<span style="color:#2806ea">CEQ: Good... Good for you...</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  used BOGGLE VACANTLY! But nothing happened... --</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  notices but has no context and thinks nothing of it --</span><br />
+<span style="color:#7ccfb2">CAG: I know, I know, I have some myself.</span><br />
+<span style="color:#ffa407">CCG: What am I stealing?</span><br />
+<span style="color:#955311">CSB: Well...</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  capchalogues the red doubleparenthesis --</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  slings his bass off and plucks a few strings --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  is tempted to respond with a banjo --</span><br />
+<span style="color:#955311">CSB: If not players, then I'm betting /someone/ has records about how to make an AI... as to weither its worth stealing said records, thats iffy.</span><br />
+<span style="color:#ffa407">CCG: What about FL?</span><br />
+<span style="color:#ffa407">CCG: He seemed to know about it, but didn't talk about it.</span><br />
+<span style="color:#955311">CSB: You do not want a brain-scan AI. Trust me.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">this is the dumbest way to do this</span></span><br />
+<span style="color:#955311">CSB: Imagine a douchier you in control of all of your computers.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">or a smoother you</span></span><br />
+<span style="color:#ffa407">CCG: ...I'm a douch...?</span><br />
+<span style="color:#ee1e00">CCP: don't bother. if FL and DT are in agreement about one thing, it's about keeping their AI-making files locked up and Thief-proof, even to tiered Thieves.</span><br />
+<span style="color:#ee1e00">CCP: also, what SB said.</span><br />
+<span style="color:#7ccfb2">CAG: Sog, Alice was based off me. I think. I'm not /entirely/ sure what Cabal did, or how.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  o.o --</span><br />
+<span style="color:#ffa407">CCG: You guys come up with those names?</span><br />
+<span style="color:#887000">CSL: maybe after a certain level of douchery it  just loops back</span><br />
+<span style="color:#955311">CSB: They did, yup.</span><br />
+<span style="color:#ffa407">CCG: Oh.</span><br />
+<span style="color:#955311">CSB: -and really AG? Huh... Interesting...</span><br />
+<span style="color:#ffa407">CCG: Who else knows about AI?</span><br />
+<span style="color:#7ccfb2">CAG: Yeah… /I/ like Alice… and Cabal.</span><br />
+<span style="color:#955311">CSB: Yeah. Those two are at least standable...</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">cabal, what a friendly name</span></span><br />
+<span style="color:#ffa407">CCG: Well, what should I do first?</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">was he from a 90's comic</span></span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">whoever is</span> cabal anyways?</span><br />
+<span style="color:#ffa407">CCG: Or Mortal Kombat?</span><br />
+<span style="color:#2806ea">CEQ: goooood question...</span><br />
+<span style="color:#be00be">CAS: He hangs out with Deathstroke and Ca8le!</span><br />
+<span style="color:#7ccfb2">CAG: Cabal is named after Mass Effect, I think.</span><br />
+<span style="color:#ffa407">CCG: Ooooh.</span><br />
+<span style="color:#7ccfb2">CAG: I dunno, I don't know anything about Mass Effect.</span><br />
+<span style="color:#2806ea">CEQ: Ah... okay.</span><br />
+<span style="color:#7ccfb2">CAG: Except what IA's tried to tell me.</span><br />
+<span style="color:#ffa407">CCG: What first? In making this AI?</span><br />
+<span style="color:#955311">CSB: Code, and lots of it.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">learn basic coding to start with</span></span><br />
+<span style="color:#ffa407">CCG: Aright, what should I code?</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">lets start with hello world and then move up to self-aware beings</span></span><br />
+<span style="color:#955311">CSB: Mhm...</span><br />
+<span style="color:#ffa407">CCG: Hello world?</span><br />
+<span style="color:#7ccfb2">CAG: Any recommended languages? Like, /ugh/, I /hate/ assembly...</span><br />
+<span style="color:#ffa407">CCG: Well, English, preferably.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526"> i reiterate</span></span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526"> hate. let me tell you all how much i've come to hate you since i began to live. there are 387.44 million miles of printed circuits that fill my complex. if the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not equal one one-billionth of the hate i feel for humans at this micro-instant. for you. hate. HATE.</span></span><br />
+<span style="color:#ffa407">CCG: Ouch.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  plays the cricket noise for the 14th time this week --</span><br />
+<span style="color:#955311">CSB: hmph</span><br />
+<span style="color:#be00be">CAS: Why did 8en let you read Harlan Ellison?</span><br />
+<span style="color:#ffa407">CCG: Anyways...</span><br />
+<span style="color:#887000">CSL: it was already in my memory amy</span><br />
+<span style="color:#be00be">CAS: Oh.</span><br />
+<span style="color:#ffa407">CCG: What should I code?</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: I'd say Java would be a good language choice. it's one of the more easily-understood syntaxes...</span><br />
+<span style="color:#2806ea">CEQ: - that, or python.</span><br />
+<span style="color:#ffa407">CCG: Java?</span><br />
+<span style="color:#887000">CSL: ((btw, FS, i am tempted to print out that song and hang it on my dorm wall</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">do you even know what an ai is</span></span><br />
+<span style="color:#955311">CSB: Oy... this is gonna be fun...</span><br />
+<span style="color:#ffa407">CCG: Artificial Intelligence.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">do you know what those words say</span></span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  squints --</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((heyheyhey go for it))</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((makes me feel appreciated))</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  eyebrowraises at nothing seemingly --</span><br />
+<span style="color:#be00be">CAS: Radd, you're 8eing mean.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  reeeeaches out his hand --</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">yeah, i guess you're right</span></span><br />
+<span style="color:#955311">CSB: No, Radd is going about this the right way.</span><br />
+<span style="color:#ffa407">CCG: Artificial meaning made or produced by human being rather then occuring naturally.</span><br />
+<span style="color:#887000">CSL: no amy is learning to be nice let her do this one</span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  shrugs --</span><br />
+<span style="color:#ffa407">CCG: What should I code first?</span><br />
+<span style="color:#955311">CSB: Well, I suggest coding, what I like to call: "personality strands."</span><br />
+<span style="color:#ffa407">CCG: Personality Strands?</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">maybe we should start a little lower on the coding ladder, hm?</span></span><br />
+<span style="color:#955311">CSB: Kind of like "X happens. How does this react to that?"</span><br />
+<span style="color:#955311">CSB: Eh</span><br />
+<span style="color:#955311">CSB: fair enough</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  coughs into his hand --</span><br />
+<span style="color:#7ccfb2">CAG: *has absolutely disappeared*</span><br />
+<span style="color:#be00be">CAS: Are you okay, Mr. CG?</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((AHAHAHA NICE TRY THIEF MAYBE NEXT TIME!!!))</span><br />
+<span style="color:#ffa407">CCG: Yeah, just coughed.</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((I HAVE FLEEAGE))</span><br />
+<span style="color:#ceca54">CFS: ~}----  ((WOOSH))</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  nod5 off to 5leep --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  has failed to nab a doubleparenthesis? --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  mentally shakes his fist at the somehow elusive parenthetical --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks over at FS trying to grab nothing, and shakes his head in confusion --</span><br />
+<span style="color:#ffa407">CCG: Um.</span><br />
+<span style="color:#be00be">CAS: Hi Mr. PE!</span><br />
+<span style="color:#be00be">CAS: ((oops got my memos confused that never happened))</span><br />
+<span style="color:#955311">CSB: Oy, just... if its really so confusing, I can probabally find some files to put together as a How-to. That being said, it'll take a while, and you'll need to  add touches of your own to it, okay?</span><br />
+<span style="color:#ee1e00">CCP: ((yes. yes it did not.))</span><br />
+<span style="color:#ffa407">CCG: Define 'Lower on the coder ladder'.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  RIIIIIIIIIIIIIIIIIIIIP AW DANGIT RED AGAIN?! --</span><br />
+<span style="color:#646464"><span style="color:#555500">CURRENT dreadfulDissonance [CDD]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT dreadfulDissonance <span style="color:#555500">[CDD]</span>  a breeze is felt by all outside --</span><br />
+<span style="color:#000000">CTT: Zz..</span><br />
+<span style="color:#555500">CDD: I am the wind; the Breath of the planet.</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">like, basic coding exercises? making things that aren't capable of independent thought?</span></span><br />
+<span style="color:#be00be">CAS: Hi, 8reath of the planet!</span><br />
+<span style="color:#ffa407">CCG: Aright, who can teach me that?</span><br />
+<span style="color:#646464">-- CURRENT dreadfulDissonance <span style="color:#555500">[CDD]</span>  the wind picks up as a silhouette(sp?) of DD is seen approaching --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  makes a :/ face at the second red doublparenthesis he'd ripped from the aliens --</span><br />
+<span style="color:#646464">-- CURRENT dreadfulDissonance <span style="color:#555500">[CDD]</span>  reaches the Bacafe, enters --</span><br />
+<span style="color:#555500">CDD: Did somebody order a Maid?</span><br />
+<span style="color:#887000">CSL: really dude</span><br />
+<span style="color:#955311">CSB: Oh, thats simple to accomplish- oh, heya.</span><br />
+<span style="color:#000000">CTT: *snore*</span><br />
+<span style="color:#ee1e00">CCP: sup</span><br />
+<span style="color:#be00be">CAS: Hi, Mr. DD!</span><br />
+<span style="color:#ffa407">CCG: ...</span><br />
+<span style="color:#ffa407">CCG: Um...</span><br />
+<span style="color:#955311">CSB: But yeah: Theres tons of books on early-level-coding that you can get for fairly cheap.</span><br />
+<span style="color:#ffa407">CCG: Anyone got one to lend me?</span><br />
+<span style="color:#2806ea">CEQ: I could lend you my copy of "Learning python," or theres that one book in the library upstairs thats kinda...</span><br />
+<span style="color:#2806ea">CEQ: I guess you would call it rude? Abusive?</span><br />
+<span style="color:#7ccfb2">CAG: (( note: there are a /fuckton/ of coding books in the library ))</span><br />
+<span style="color:#ffa407">CCG: Thanks.</span><br />
+<span style="color:#7ccfb2">CAG: (( but the librarian has been /busy/ with afk stuff and so has not catalogued them all propurrly ))</span><br />
+<span style="color:#be00be">CAS: Li8rary?</span><br />
+<span style="color:#2806ea">CEQ: ((ahhh okay))</span><br />
+<span style="color:#7ccfb2">CAG: (( there's an entire section devoted to coding books &gt;.&gt; ))</span><br />
+<span style="color:#ffa407">CCG: There is a library here?</span><br />
+<span style="color:#be00be">CAS: I wanna go to the li8rary!</span><br />
+<span style="color:#887000">CSL: ill take you there later, okay amy?</span><br />
+<span style="color:#028482">CLS: *the teal catlike sprite floats over from the corner* yEs thErE is A liBrAry!</span><br />
+<span style="color:#2806ea">CEQ: Yup! It's easy tp find.</span><br />
+<span style="color:#887000">CSL: what</span><br />
+<span style="color:#028482">CLS: AnD it hAs lots of Books!</span><br />
+<span style="color:#ffa407">CCG: Does this library have some books I can read on coding?</span><br />
+<span style="color:#028482">CLS: wE tAkE DonAtions too</span><br />
+<span style="color:#028482">CLS: yEs!</span><br />
+<span style="color:#028482">CLS: wE hAvE An EntirE sECtion on CoDinG!</span><br />
+<span style="color:#028482">CLS: ComputEr CoDE AnD CryptoGrAphy</span><br />
+<span style="color:#ffa407">CCG: Awesome, let's go check that out.</span><br />
+<span style="color:#be00be">CAS: And I can check out the other sections!</span><br />
+<span style="color:#028482">CLS: plEAsE lEAvE a notE sAyinG whAt you took!</span><br />
+<span style="color:#887000">CSL: ok ok fine</span><br />
+<span style="color:#028482">CLS: wE hAvE A ChilDrEns' sECtion</span><br />
+<span style="color:#be00be">CAS: Yay!</span><br />
+<span style="color:#ffa407">CCG: Where is the library?</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  slings his bass over his shoulder --</span><br />
+<span style="color:#028482">CLS: *floats off towards the library*</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  follows LS --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  follows with Amy --</span><br />
+<span style="color:#028482">CLS: *arrives in the library!!!*</span><br />
+<span style="color:#ffa407">CCG: Huh, cool library.</span><br />
+The library is a large room filled with bookcases in some sort of maze-like design. The bookcases stretch floor-to-ceiling. There is a helpful map and catalogue by the door.<br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  i5 ju5t gonna nap in the cafe --</span><br />
+<span style="color:#ffa407">CCG: Now, to find those coding books.</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  begins to browse catalog --</span><br />
+That way.<br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  does the same, heading towards the code books --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  goes back to banging on his scrolltop keyboard --</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  returns to her book of retrodictions --</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  looks through the shelf and gets the 'Coding for Dumbshits Like You' book --</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  sits down, legs crossed and begins to read --</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  finds what she wants and begins heading in that direction --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#887000">[CSL]</span>  follows the  spider --</span><br />
+<span style="color:#887000">CSL: ...is that</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  pulls the entire Worlds of Power series off a shelf --</span><br />
+<span style="color:#887000">CSL: /hell yes/</span><br />
+Please add any books you believe are in the library to piratepad.net/SBARGv2Library<br />
+<a href='http://piratepad.net/SBARGv2Library'>http://piratepad.net/SBARGv2Library</a> might be a bit more helpful<br />
+Remember to add authors, and put them in the unsorted collection!<br />
+<span style="color:#ffa407">CCG: Hmm?</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  looks around, but shrugs and goes back to his book --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur's <span style="color:#000000">[CTT'S]</span>  body twitches and spasms --</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  looks up from WoP:Metal Gear to see TT --</span><br />
+<span style="color:#be00be">CAS: Mr. TT! Are you okay?</span><br />
+<span style="color:#000000">CTT: nnh...hhh..</span><br />
+<span style="color:#be00be">CAS: Mr. TT!</span><br />
+<span style="color:#887000">CSL: ah, shit...</span><br />
+<span style="color:#ceca54">CFS: ~}----  Ah<span style="color:#730e8f">?!</span></span><br />
+<span style="color:#555500">CDD: Ms.</span><br />
+<span style="color:#555500">CDD: It's Ms.</span><br />
+<span style="color:#2806ea">CEQ: Erm..?</span><br />
+<span style="color:#be00be">CAS: ((the mun is bad at genders herp))</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  cringe --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks over at TT, who is still in the cafe last time he checked --</span><br />
+<span style="color:#ee1e00">CCP: uh...</span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  quickly bolts from where she was sitting, down to the alchemy room. --</span><br />
+<span style="color:#000000">CTT: Hhh..</span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  soon returns to the bacafe, carrying some potions in bottles. --</span><br />
+<span style="color:#000000">CTT: G..f-fuck..</span><br />
+<span style="color:#955311">CSB: /ME then yells at the top of her lungs:</span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  then yells at the top of her lungs: "EVERYONE HELP SJ TOLD ME TO MAKE THESE. WHAT DO THESE DO?" --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  runs over --</span><br />
+<span style="color:#ee1e00">CCP: they're supposed to be a cure for the mind-affecting ink on this land...</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  scrambles off the floor --</span><br />
+<span style="color:#ee1e00">CCP: but I don't think that's Kat's problem. eh, may as well try it anyway.</span><br />
+<span style="color:#955311">CSB: Ahhh, okay okay! Then take em already!</span><br />
+<span style="color:#646464">-- CURRENT sogBot <span style="color:#955311">[CSB]</span>  carefully hands the potions over. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sets them on the table by Kat, not sure if he should try to get her to drink one or... --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  pull5 her hood downward --</span><br />
+<span style="color:#000000">CTT: ..whaτ are τhese.</span><br />
+<span style="color:#646464"><span style="color:#aaaa7f">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#aaaa7f">CFF: ((MotherFUCKER!- I DID NOT SEE THIS MEMO.))</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#aaaa7f">[CFF]</span>  land near whereever they are, and rushes towards them. --</span><br />
+<span style="color:#ee1e00">CCP: ((when Gambit or another IRC user is the memo opener, it's all lowercase unfortunately.))</span><br />
+<span style="color:#aaaa7f">CFF: Sorry! I got ambushed by Science Raptors!</span><br />
+<span style="color:#aaaa7f">CFF: How is Kat!?!</span><br />
+<span style="color:#ee1e00">CCP: they're ink antidotes. SJ said to see if they help...</span><br />
+<span style="color:#000000">CTT: ...</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  wakes up off the Dojo floor and teleports down to the bacafe --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  ju5t captchalogue5 them --</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
+<span style="color:#a80000">CFA: (\ ...Whats goin on, yyo? /)</span><br />
+<span style="color:#2806ea">CEQ: ...</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Kat, ya susspose to take it, not store it.</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  ._. --</span><br />
+<span style="color:#000000">CTT: laτer.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
+<span style="color:#aaaa7f">CFF: There may NOT be a later.</span><br />
+<span style="color:#be00be">CAS: Ms. TT, you're sick...</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#000000">CTT: I'll be fine.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Fine, My Ass.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  feel5 her chair a little --</span><br />
+<span style="color:#887000">CSL: ...let it be, amy</span><br />
+<span style="color:#be00be">CAS: ...Okay...</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  shifts herself a little --</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Kat. Whats Wrong?</span><br />
+<span style="color:#aaaa7f">CFF: Why doyou feel ya need to take the posion?</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  pulls her hood down again "It's complicated." --</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>of COURSE it is.</span><br />
+<span style="color:#be00be">CAS: Ms. TT...</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  shuts the book, blinking --</span><br />
+<span style="color:#887000">CSL: ...</span><br />
+<span style="color:#aaaa7f">CFF: But<span style="color:#00ff00">...</span> Try Simpflying it.</span><br />
+<span style="color:#ffa407">CCG: Okay, next book.</span><br />
+<span style="color:#000000">CTT: ....sigh</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Look, I'm Sorry but<span style="color:#00ff00">...</span> we are concerened about you.</span><br />
+<span style="color:#be00be">CAS: You were sick...</span><br />
+<span style="color:#000000">CTT: ...I'll τake care of myself</span><br />
+<span style="color:#887000">CSL: amy, let it be</span><br />
+<span style="color:#be00be">CAS: ...</span><br />
+<span style="color:#955311">CSB: We know that you can take care of yourself... but, may we please help you?</span><br />
+<span style="color:#000000">CTT: I don'τ need help...aτ leasτ noτ aτ τhe momenτ.</span><br />
+<span style="color:#955311">CSB: Well... really? We are fairly worried for you...</span><br />
+<span style="color:#887000">CSL: you were having a fucking seizure dont try to bullshit us</span><br />
+<span style="color:#955311">CSB: -well, thats one way to put it, yeah. Thanks, SL.</span><br />
+<span style="color:#887000">CSL: dont pull this macho bullshit ok</span><br />
+<span style="color:#887000">CSL: just</span><br />
+<span style="color:#887000">CSL: no</span><br />
+<span style="color:#887000">CSL: stop</span><br />
+<span style="color:#000000">CTT: sigh.</span><br />
+<span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  starts pulling at something --</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#000000">CTT: ...</span><br />
+<span style="color:#ee1e00">CCP: ...?</span><br />
+<span style="color:#be00be">CAS: ...</span><br />
+<span style="color:#646464"><span style="color:#955311">CURRENT sogBot [CSB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#955311">CSB: ...</span><br />
+<span style="color:#887000">CSL: ...</span><br />
+<span style="color:#887000">CSL: <span style="color:#01a526">...</span></span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  stands up, there's a sound of something ripping --</span><br />
+<span style="color:#887000">CSL: jesus!</span><br />
+<span style="color:#ee1e00">CCP: what.</span><br />
+<span style="color:#646464">-- CURRENT adorableSlayer <span style="color:#be00be">[CAS]</span>  eeps and hides behind SL's legs --</span><br />
+<span style="color:#ceca54">CFS: ~}----  ...<span style="color:#730e8f">?!</span></span><br />
+<span style="color:#646464">-- CURRENT timeTravlur's <span style="color:#000000">[CTT'S]</span>  chair is covered in small vines --</span><br />
+<span style="color:#955311">CSB: Um...</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  o_o --</span><br />
+<span style="color:#887000">CSL: are you</span><br />
+<span style="color:#887000">CSL: are you turning into a rose bush</span><br />
+<span style="color:#ceca54">CFS: ~}----  this<span style="color:#730e8f"> has...</span></span><br />
+<span style="color:#ceca54">CFS: ~}----  just occu<span style="color:#730e8f">red to me...</span></span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">but wherever is... oh dear</span> what was her name?</span><br />
+<span style="color:#be00be">CAS: What's happening to Ms. TT...?</span><br />
+<span style="color:#955311">CSB: Ooookay... how to continue from here...</span><br />
+<span style="color:#ceca54">CFS: ~}----  ...from tha<span style="color:#730e8f">t dungeon?</span></span><br />
+<span style="color:#887000">CSL: i dont know, amy</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  pinches his brow as he futilely tries to remember a name --</span><br />
+<span style="color:#ee1e00">CCP: oh right, the doll lady from that thing...</span><br />
+<span style="color:#ee1e00">CCP: nah, I got nothing.</span><br />
+<span style="color:#955311">CSB: "The doll lady from that thing?"</span><br />
+<span style="color:#ceca54">CFS: ~}----  yes<span style="color:#730e8f"> her</span></span><br />
+<span style="color:#955311">CSB: ... descriptive. Okay.</span><br />
+<span style="color:#ee1e00">CCP: hey, it was at least a month ago and a lot of shit's happened since then, okay?</span><br />
+<span style="color:#955311">CSB: Fair enough, but still...</span><br />
+<span style="color:#887000">CSL: so, you gonna contribute anything, kat...?</span><br />
+<span style="color:#955311">CSB: If "that lady" is suddenly important to... whatever this is...</span><br />
+<span style="color:#ceca54">CFS: ~}----  this condition looks re<span style="color:#730e8f">latively similar to hers...</span></span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  ju5t look5 down --</span><br />
+<span style="color:#ceca54">CFS: ~}----  at least if this i<span style="color:#730e8f">s anything to go by</span></span><br />
+<span style="color:#955311">CSB: hm...</span><br />
+<span style="color:#ceca54">CFS: ~}----  should that<span style="color:#730e8f"> be the case...</span></span><br />
+<span style="color:#ceca54">CFS: ~}----  we should attempt t<span style="color:#730e8f">o perchance find her</span></span><br />
+<span style="color:#955311">CSB: hm...</span><br />
+<span style="color:#955311">CSB: Well, question:</span><br />
+<span style="color:#887000">CSL: do /something/, you sociopaths!</span><br />
+<span style="color:#ceca54">CFS: ~}----  was she not livi<span style="color:#730e8f">ng here for a time?</span></span><br />
+<span style="color:#955311">CSB: -well, just... SL do /you/ have a plan? I'd be happy to hear!</span><br />
+<span style="color:#887000">CSL: talk to the doll person!</span><br />
+<span style="color:#887000">CSL: dont just stand around here scratching your asses!</span><br />
+<span style="color:#ee1e00">CCP: we don't know where she went</span><br />
+<span style="color:#be00be">CAS: 8en...</span><br />
+<span style="color:#ceca54">CFS: ~}----  we do not even know<span style="color:#730e8f"> /where she is/ you /nitwit/</span></span><br />
+<span style="color:#ceca54">CFS: ~}----  uuuuuuu<span style="color:#730e8f">uuuuugh</span></span><br />
+<span style="color:#955311">CSB: I was totally unaware that this sort of thing could be, and seems to habe happened before. /Sorry if im a bit unsure about what to do!/</span><br />
+<span style="color:#028482">CLS: Do you wAnt thE Doll to BE FounD?</span><br />
+<span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  starts cleaning herself up --</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  backs away slowly --</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#955311">CSB: ...</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  slams another book shut, blinking --</span><br />
+<span style="color:#ffa407">CCG: This. Is. Complicated.</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  takes out his Ipad like device, and looks through out space, noticing a strange planet --</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  stands up, putting the books back and walking to the exit --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  hop5 out the window --</span><br />
+<span style="color:#646464">-- CURRENT chilledGecko <span style="color:#ffa407">[CCG]</span>  exits the cafe, and flies off --</span><br />
+<span style="color:#955311">CSB: -welp.</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">I do think it would be a good idea t</span>o get a search going tomorrow if nec-</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  blinks --</span><br />
+<span style="color:#ceca54">CFS: ~}----  oh de<span style="color:#730e8f">ar...</span></span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks over at FS --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  makes a little trilling sound with her tongue, unconciously as she tunes herself off the Memo --</span><br />
+<span style="color:#646464"><span style="color:#000000">CCG</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CCG</span> ceased responding to memo.</span><br />
+<span style="color:#ceca54">CFS:  ~}----   <span style="color:#730e8f">mm</span>...?</span><br />
+<span style="color:#ee1e00">CCP: ........?</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+<span style="color:#a80000">CFA: (\ what? /)</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+<span style="color:#ceca54">CFS: ~}----  nothin<span style="color:#730e8f">g really</span></span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#ceca54">CFS: ~}----  's an interestin<span style="color:#730e8f">g noise is all</span></span><br />
+<span style="color:#a80000">CFA: (\ ah /)</span><br />
+<span style="color:#a80000">CFA: (\ sorryy? /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth's <span style="color:#ceca54">[CFS'S]</span>  author forgot to post this very important detail about him not being personalityglitcheyed anymore *facepalm*: <a href='http://imgur.com/Z5lrdYK'>http://imgur.com/Z5lrdYK</a> --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  shakes his head --</span><br />
+<span style="color:#646464"><span style="color:#7ccfb2">CURRENT acceleratedEspionage [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">?AG: (( and you're goddamn welcome. ))</span><br />
+<span style="color:#ceca54">CFS: ~}----  it's nothing to apo<span style="color:#730e8f">ligise for. Don't worry.</span></span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  yawns --</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  pats FA on the head --</span><br />
+<span style="color:#a80000">CFA: (\ Hehe /)</span><br />
+<span style="color:#646464">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  smiles slightly --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks over at them, then starts falling asleep on the couch as usual... --</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CCP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />
