@@ -1,0 +1,270 @@
+[03:05:18] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[04:05:13] <span style="color:#d1cfcd"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />
+[05:44:50] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[07:53:59] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[07:31:12] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+[07:31:13] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[07:31:13] <span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Universe'>#SBARGv2_Universe</a> for IC. <a href='http://kapowcreations.com/sbarginfo'>http://kapowcreations.com/sbarginfo</a> for info.</span><br />
+[07:31:13] <span style="color:#000000">CCC</span> took away <span style="color:#0080ff">FL</span>'s OP powers.<br />
+[07:31:13] <span style="color:#000000">CCC</span> took away <span style="color:#0080ff">FL</span>'s OP powers.<br />
+[08:58:09] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:58:09] <span style="color:#d1cfcd"><span style="color:#000000">CW</span> ceased responding to memo.</span><br />
+[12:09:55] <span style="color:#d1cfcd"><span style="color:#000000">CDF</span> ceased responding to memo.</span><br />
+[12:09:55] <span style="color:#d1cfcd"><span style="color:#000000">CDF</span> ceased responding to memo.</span><br />
+[12:10:25] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[12:10:25] <span style="color:#d1cfcd"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />
+[12:28:59] <span style="color:#d1cfcd"><span style="color:#000000">CHC</span> ceased responding to memo.</span><br />
+[12:28:59] <span style="color:#d1cfcd"><span style="color:#000000">CHC</span> ceased responding to memo.</span><br />
+[12:57:31] <span style="color:#d1cfcd"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[12:57:32] <span style="color:#d1cfcd"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[01:05:34] <span style="color:#d1cfcd"><span style="color:#55007f">CURRENT skIttles [CSI]</span> RIGHT NOW responded to memo.</span><br />
+[01:05:34] <span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ff0000">ⓢ</span> Hey TT <span style="color:#ffa500">ⓢ</span></span></span><br />
+[01:05:45] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[01:05:45] <span style="color:#6507ff">CTT: hi</span><br />
+[01:07:45] <span style="color:#0080ff">CFL: IN AMERICA</span><br />
+[01:07:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is shot a ton. --</span><br />
+[01:08:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // dakkadakkadakkadakkadakkadakkadakkadakka --</span><br />
+[01:08:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  falls to the floor, looking like swiss cheese. --</span><br />
+[01:09:07] <span style="color:#0080ff">CFL: with my last breath... I curse... zoidberg.</span><br />
+[01:09:13] <span style="color:#0080ff">CFL: bleh</span><br />
+[01:09:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is /totally/ dead. Yep. Completely and utterly dead. --</span><br />
+[01:09:45] <span style="color:#6507ff">CTT: ..well</span><br />
+[01:10:22] <span style="color:#0080ff">CFL: but yeah in all seriousness how are you all doing?</span><br />
+[01:11:13] <span style="color:#6507ff">CTT: eaτing bread and nuτella</span><br />
+[01:11:20] <span style="color:#6507ff">CTT: ...I need τo buy more nuτella</span><br />
+[01:11:26] <span style="color:#6507ff">CTT: I'm running ouτ</span><br />
+[01:12:03] <span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> blarg. I have to go <span style="color:#ffff00">ⓢ</span></span></span><br />
+[01:12:07] <span style="color:#55007f">CSI: <span style="color:#ff0000"><span style="color:#ffff00">ⓢ</span> I'm sick and there's a guest over <span style="color:#00ff00">ⓢ</span></span></span><br />
+[01:12:09] <span style="color:#0080ff">CFL: (land of paradise and nutella)</span><br />
+[01:12:10] <span style="color:#d1cfcd"><span style="color:#000000">CSI</span> ceased responding to memo.</span><br />
+[01:12:10] <span style="color:#d1cfcd"><span style="color:#000000">CSI</span> ceased responding to memo.</span><br />
+[01:15:47] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[01:15:47] <span style="color:#cb7de6">CSJ: poof ➜</span><br />
+[01:17:50] <span style="color:#d1cfcd"><span style="color:#722881">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[01:17:50] <span style="color:#722881">CAS: hey guys</span><br />
+[01:17:55] <span style="color:#cb7de6">CSJ: hi ➜</span><br />
+[01:17:56] <span style="color:#722881">CAS: slow day today :P</span><br />
+[01:18:13] <span style="color:#cb7de6">CSJ: yeah, tends to be that way this early/on sunday. ➜</span><br />
+[01:18:29] <span style="color:#722881">CAS: :P</span><br />
+[01:19:22] <span style="color:#722881">CAS: just glad to be out of bed</span><br />
+[01:20:04] <span style="color:#722881">CAS: it took an hour to fight against my instinct to bundle up against the underground freezer that is my room XD</span><br />
+[01:20:14] <span style="color:#cb7de6">CSJ: heh ➜</span><br />
+[01:55:23] <span style="color:#722881">CAS: merrr</span><br />
+[01:55:27] <span style="color:#722881">CAS: *flops around*</span><br />
+[02:35:29] <span style="color:#6507ff">CTT: arshnbaegRDSNBER▲GHSGEN</span><br />
+[02:35:37] <span style="color:#6507ff">CTT: WHY IS MY T▲BLET PEN NΘT WΘRKING</span><br />
+[02:36:00] <span style="color:#cb7de6">CSJ: does it take batteries? ➜</span><br />
+[02:36:16] <span style="color:#722881">CAS: you might be pushing the button..?</span><br />
+[02:36:37] <span style="color:#6507ff">CTT: iτ doesn'τ τake baττeries</span><br />
+[02:36:47] <span style="color:#6507ff">CTT: also i'm noτ pushing any buττons</span><br />
+[02:36:55] <span style="color:#722881">CAS: mk</span><br />
+[02:36:59] <span style="color:#6507ff">CTT: and apparenτly iτ only works on cerτain windowsa</span><br />
+[02:37:21] <span style="color:#6507ff">CTT: like if I click on my deskτop or skype iτ sτops working</span><br />
+[02:38:46] <span style="color:#6507ff">CTT: and I don'τ know why</span><br />
+[02:49:38] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT dswain [CD]</span> RIGHT NOW responded to memo.</span><br />
+[02:49:38] wow<br />
+[02:49:47] sunday afternoon<br />
+[02:49:54] and the chat isnt dead<br />
+[02:49:56] thats cool<br />
+[02:50:06] <span style="color:#cb7de6">CSJ: :b ➜</span><br />
+[02:50:12] niki<br />
+[02:50:21] do you ever get those moments<br />
+[02:50:22] <span style="color:#cb7de6">CSJ: what's up? ➜</span><br />
+[02:50:31] where you get _so lazy_<br />
+[02:50:48] that you do anything except what you need too?<br />
+[02:50:55] <span style="color:#cb7de6">CSJ: yes, all the time. ➜</span><br />
+[02:51:05] i have so much homework that i dont even know where to start<br />
+[02:51:17] so my solution for right now is to not start ir<br />
+[02:51:30] *it<br />
+[02:51:58] <span style="color:#722881">CAS: XP</span><br />
+[02:52:39] ugh<br />
+[02:52:54] also my gf couldnt hang out otday<br />
+[02:53:09] i drove all the way to deptford and rachel wasnt even home<br />
+[02:53:32] (rachel != my gf)<br />
+[02:53:41] (btw)<br />
+[02:53:44] and im like broke<br />
+[02:53:53] and titanfall is coming out<br />
+[02:54:04] and i need money for dates<br />
+[02:54:18] and i need to buy a new backup HDD<br />
+[02:54:33] and this weekend has just been generally shitty<br />
+[02:54:40] exept for last night<br />
+[02:54:50] last night was fun<br />
+[02:57:24] sorry im blowing up the chat i just needed to vent<br />
+[02:57:30] <span style="color:#d1cfcd">-- CURRENT dswain <span style="color:#000000">[CD]</span>  is an idle chum --</span><br />
+[02:58:55] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[02:58:55] <span style="color:#d1cfcd"><span style="color:#000000">CD</span> ceased responding to memo.</span><br />
+[03:14:46] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT dswain [CD]</span> RIGHT NOW responded to memo.</span><br />
+[03:14:46] hey noodles<br />
+[03:14:56] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[03:14:56] <span style="color:#0000aa">Noodles: hi</span><br />
+[03:22:35] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:22:35] <span style="color:#ee1e00">CCP: FFFFFFFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCCCCCCCCCCCCCKKKKKKKKKKKK MY FIREFOX SESSION HISTORY GOT EATEN WITH NO SAVING THROW</span><br />
+[03:23:21] <span style="color:#cb7de6">CSJ: how many tabs this time? ➜</span><br />
+[03:23:21] <span style="color:#722881">CAS: o.o;</span><br />
+[03:23:57] <span style="color:#ee1e00">CCP: 150-ish, but that was not the cause.</span><br />
+[03:24:18] <span style="color:#0080ff">CFL:  <a href='http://www.youtube.com/watch?v=Ili6jo597FU'>http://www.youtube.com/watch?v=Ili6jo597FU</a> ITS OVER NIN- FUCK</span><br />
+[03:24:25] <span style="color:#ee1e00">CCP: I think it was because windows got arbitrarily shutdown-stuck...</span><br />
+[03:24:59] <span style="color:#722881">CAS: ...150...tabs...x.x;</span><br />
+[03:26:25] <span style="color:#0000aa">Noodles: Only 5 or so are active at once the others are just there to reload if clicked</span><br />
+[03:27:06] dude kim<br />
+[03:27:12] you have a problem<br />
+[03:27:19] with ur tabbbbbbs broooo<br />
+[03:27:46] <span style="color:#ee1e00">CCP: except this time, it was stuff I was /actually in the middle of using/...</span><br />
+[03:27:56] <span style="color:#722881">CAS: *gets yelled at for having 10+ tabs*</span><br />
+[03:28:25] who yells at you about your browsing habits<br />
+[03:28:31] like seriously<br />
+[03:28:43] also guys im so confused<br />
+[03:28:55] IM REALLY CONFUSED RN<br />
+[03:35:37] i killed the chat<br />
+[03:35:40] i killed it<br />
+[03:35:45] im sorry guys<br />
+[03:35:57] <span style="color:#ee1e00">CCP: wat</span><br />
+[03:35:58] <span style="color:#cb7de6">CSJ: no, just busy with 3 things at once. ➜</span><br />
+[03:36:10] guuuuuys<br />
+[03:36:12] <span style="color:#722881">CAS: was popping onto youtube real quick</span><br />
+[03:36:16] a girl asked me for nudes<br />
+[03:36:20] what do i do<br />
+[03:36:26] im so confussssed<br />
+[03:36:28] <span style="color:#ee1e00">CCP: trying to get caught up with StuckIntoDespair right n-- what.</span><br />
+[03:36:43] <span style="color:#cb7de6">CSJ: is it a girl you know or someone you don't know? ➜</span><br />
+[03:36:46] asdfghjkl;<br />
+[03:36:49] my ex gf<br />
+[03:36:55] <span style="color:#cb7de6">CSJ: oh ➜</span><br />
+[03:36:58] on snapchat<br />
+[03:37:31] <span style="color:#cb7de6">CSJ: I'm guessing you guys are on alright-ish terms with eachother? ➜</span><br />
+[03:37:58] yeah<br />
+[03:38:20] we kinda have a mutual agreement that were both desperate<br />
+[03:38:25] and we flirt sometimes<br />
+[03:38:34] <span style="color:#cb7de6">CSJ: ah ➜</span><br />
+[03:38:45] shes kinda a slut<br />
+[03:39:07] in the least derrogatory way possible<br />
+[03:40:45] SJ youre a girl<br />
+[03:40:53] wat should i do<br />
+[03:41:15] <span style="color:#cb7de6">CSJ: I have no idea. ➜</span><br />
+[03:41:19] alright<br />
+[03:41:35] i guess ill wait until tonight<br />
+[03:41:38] to decide<br />
+[03:41:46] when i have poorer judgement<br />
+[03:42:00] ill tell you what happens if you want<br />
+[03:42:25] <span style="color:#cb7de6">CSJ: just please try not to get in trouble or anything. ➜</span><br />
+[03:43:04] pfft i wont<br />
+[03:43:12] <span style="color:#cb7de6">CSJ: like, what would your arents think if they found you taking naked selfies or whatever? ➜</span><br />
+[03:43:16] <span style="color:#cb7de6">CSJ: *parents ➜</span><br />
+[03:43:28] my parents dont know whats going on<br />
+[03:43:33] except my dad<br />
+[03:43:43]  but he wont be home until friday<br />
+[03:45:51] brb<br />
+[03:45:55] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[03:45:55] <span style="color:#d1cfcd"><span style="color:#000000">CD</span> ceased responding to memo.</span><br />
+[03:46:45] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT christiansteward [CC]</span> RIGHT NOW responded to memo.</span><br />
+[03:46:45] guess whos back<br />
+[03:46:48] back back<br />
+[03:46:51] back again<br />
+[03:46:54] shadies back<br />
+[03:46:55] <span style="color:#cb7de6">CSJ: :b ➜</span><br />
+[03:47:02] tell a friend<br />
+[03:47:04] oh shit<br />
+[03:47:10] <span style="color:#d1cfcd"><span style="color:#000000">CC</span> ceased responding to memo.</span><br />
+[03:47:10] <span style="color:#d1cfcd"><span style="color:#000000">CC</span> ceased responding to memo.</span><br />
+[03:47:11] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT dswain [CD]</span> RIGHT NOW responded to memo.</span><br />
+[03:47:11] \better<br />
+[03:47:25] goddamnit weechat<br />
+[03:48:09] yeah so what are you up to sj<br />
+[03:48:33] i need to get a camcorder. any reccomnendations?<br />
+[03:49:44] <span style="color:#cb7de6">CSJ: I'm not a camcorder expert. I'm kinda in the middle of working on some attack animation sprites. ➜</span><br />
+[03:49:54] cool<br />
+[03:50:06] so ive been doing some research<br />
+[03:50:36] and i noticed that when self-harmers ACCIDENTALLY hurt themselves<br />
+[03:50:46] theyll refer to it in passive voice<br />
+[03:50:53] "i got a paper cut"<br />
+[03:51:18] or "the paper cut me"<br />
+[03:51:28] well the first one isnt passive voice<br />
+[03:51:34] but you know what i mean<br />
+[03:51:58] whereas non-selfharmers will refer it in active voice<br />
+[03:52:08] <span style="color:#722881">CAS: I'm just going to stop mentioing plots</span><br />
+[03:52:25] <span style="color:#722881">CAS: they keep either getting killed or not actually existing</span><br />
+[03:52:28] "i cut myself" when they accidentally get a paper cut<br />
+[03:52:36] oh thats cool AC<br />
+[03:52:38] *AS<br />
+[03:53:12] <span style="color:#cb7de6">CSJ: note that to even get my character involved, she has to be convinced that she's wanted/needed somewhere for some reason. ➜</span><br />
+[03:53:38] ew rp<br />
+[03:54:09] <span style="color:#cb7de6">CSJ: also, the bar is going to be more difficult due to her adversion to alcohol and all the dangerous events that have happened there. ➜</span><br />
+[03:54:55] <span style="color:#0080ff">CFL: Which is why you move all the dangerous events to the /ship/!</span><br />
+[03:55:01] <span style="color:#cb7de6">CSJ: F_L ➜</span><br />
+[03:55:35] <span style="color:#722881">CAS: yes welll v.v</span><br />
+[03:55:58] <span style="color:#cb7de6">CSJ: by dangerous, I mean there's been a lot of player violence in the bar. ➜</span><br />
+[03:56:03] <span style="color:#6507ff">CTT: buτ τhe ship is also prone τo explosion</span><br />
+[03:56:15] <span style="color:#0080ff">CFL: like yesterday</span><br />
+[03:57:27] <span style="color:#cb7de6">CSJ: and the only real reason why I did "nothing" was because earlier in the day I had no time to work on the game so I was using that time to look up videos of scythe references. ➜</span><br />
+[03:58:10] <span style="color:#cb7de6">CSJ: not to mention a lack of knowledge on what to even do in the situation. ➜</span><br />
+[04:01:00] <span style="color:#722881">CAS: yesterday?</span><br />
+[04:01:10] <span style="color:#cb7de6">CSJ: yeah. ➜</span><br />
+[04:01:21] <span style="color:#722881">CAS: o.o;</span><br />
+[04:01:28] <span style="color:#cb7de6">CSJ: there was a slight thing on the ship memo. ➜</span><br />
+[04:01:34] <span style="color:#722881">CAS: mk</span><br />
+[04:01:59] ugh my family is talking about church and religion and stuff<br />
+[04:02:02] ew<br />
+[04:14:55] <span style="color:#d1cfcd"><span style="color:#d40e00">CURRENT masterMoridin [CMM]</span> RIGHT NOW responded to memo.</span><br />
+[04:14:55] <span style="color:#d40e00">CMM: My roommate just handed me a bag with two bowls full of food in it</span><br />
+[04:15:00] <span style="color:#d40e00">CMM: this is awesome</span><br />
+[04:15:26] <span style="color:#cb7de6">CSJ: :o ➜</span><br />
+[04:15:29] <span style="color:#d40e00">CMM: i was a little freaked out for a moment though cause when i opened the bag the most horrible smell came out of it but after removing the bowls i realized it was the bag itself</span><br />
+[04:18:42] nice<br />
+[04:22:34] <span style="color:#722881">CAS: XD</span><br />
+[04:24:58] whaaaaaaaats up<br />
+[04:25:10] <span style="color:#722881">CAS: suuuuuup</span><br />
+[04:25:10] i need to write an essay about roosevelt<br />
+[04:25:15] meeeeeehhhhhh<br />
+[04:25:18] <span style="color:#722881">CAS: which one?</span><br />
+[04:25:19] glshghefhuqilraghoqrhueilarb<br />
+[04:25:23] teddy<br />
+[04:25:25] <span style="color:#722881">CAS: ah</span><br />
+[04:25:31] <span style="color:#722881">CAS: he's pretty cool</span><br />
+[04:25:36] i cant think of an intro<br />
+[04:25:44] <span style="color:#722881">CAS: ah</span><br />
+[04:25:58] communism is a party<br />
+[04:27:14] alright so<br />
+[04:27:34] i was fucking around with some terminal utilites i downloaded from cydia<br />
+[04:27:50] and i was messing around on the bus<br />
+[04:28:13] and the guy behind me is like "ARE YOU HACKING THE INTERNET?"<br />
+[04:28:43] and im like "no dude i messing around with this terminal utility i got on cydia"<br />
+[04:29:03] and hes all like "WHY ARE YOU USING THE HACKING PROGRAM THEN"<br />
+[04:29:10] <span style="color:#0000aa">Noodles: so your we're hacking the Internet?</span><br />
+[04:29:19] and im like "dude this is terminal"<br />
+[04:29:30] <span style="color:#cb7de6">CSJ: pfft ➜</span><br />
+[04:29:40] "im not even in the range of school wifi"<br />
+[04:30:37] anyway i pretend to be this epic hacker<br />
+[04:30:49] which i am, but not as much as ppl think i am<br />
+[04:31:36] so i just hack a few things, bypass a few proxies<br />
+[04:32:06] and everyone thinks im the next LOD<br />
+[04:32:23] <span style="color:#0000aa">Noodles: my school's proxy got accidentally broken.</span><br />
+[04:32:57] so my school cant block downloads on the macs b/c of the way they work<br />
+[04:33:11] but they block the DL page for TTB<br />
+[04:33:34] so i SSH'd into my mac and copied the .app<br />
+[04:33:40] and then ran it<br />
+[04:33:45] and it was that easy<br />
+[04:33:48] i love ssh<br />
+[04:34:02] i didnt even have to get my mac out of my backpack<br />
+[04:34:26] i swear my team is the smartest kids in the school<br />
+[04:34:56] <span style="color:#0000aa">Noodles: TTB?</span><br />
+[04:35:00] theres one hacker in my school who rlly knows his shit<br />
+[04:35:07] tor browser bundle<br />
+[04:35:18] and he works for the it department<br />
+[04:35:25] <span style="color:#0000aa">Noodles: oh</span><br />
+[04:35:35] im gonna try to get a job with my schools it department<br />
+[04:36:04] <span style="color:#0000aa">Noodles: I just flash drive it in because it doesn't block running programs.</span><br />
+[04:36:19] haha i wish my school was that incompetent<br />
+[04:36:30] i gotta run slax<br />
+[04:37:00] <span style="color:#0000aa">Noodles: It also helps that I have legit access to the administrator account</span><br />
+[04:37:04] i have at least 5 flash drives with various OSes on there<br />
+[04:37:07] why noodles<br />
+[04:37:10] why<br />
+[04:37:51] <span style="color:#0000aa">Noodles: Because class aide for the IT person in my school</span><br />
+[04:37:58] pfft<br />
+[04:38:01] casual<br />
+[04:41:25] <span style="color:#0000aa">Noodles: and once I accidentally booted up on of the computers in Unbuntu</span><br />
+[04:48:16] &gt;accentally<br />
+[04:48:48] me and my friends were singlehandedly responsible for breaking the windows install in all of the media center computers<br />
+[04:48:54] cuz were badass<br />
+[04:49:08] accidentally<br />
+[04:52:14] Roosevelt was a dynamic politician, and one of the most successful 3rd party candidate in American history. He marked a startling, but not wholly unwelcome change in the American economic perspective, and redefined the government’s role in the peoples lives.<br />

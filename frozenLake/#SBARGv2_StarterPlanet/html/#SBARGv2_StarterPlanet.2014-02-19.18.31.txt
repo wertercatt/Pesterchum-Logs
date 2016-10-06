@@ -1,0 +1,26 @@
+[06:31:19] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+[06:31:26] <span style="color:#d1cfcd"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[06:32:00] <span style="color:#d1cfcd"><span style="color:#722881">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[06:32:00] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  has ran out the door, shutting it behind her --</span><br />
+[06:32:16] <span style="color:#722881">CAS: /runs into hangar </span><br />
+[06:32:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is not screaming, shockingly enough. --</span><br />
+[06:32:37] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[06:32:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  exits bar and heads straight for the transportalizer, not even really noticing AS and FL --</span><br />
+[06:33:30] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  blinks at kimura --</span><br />
+[06:34:47] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  lets FL go, holds up small piece of paper asking how to get to sj's ship --</span><br />
+[06:34:51] <span style="color:#ee1e00">CCP: ...oh hey guys. heading to the ship too?</span><br />
+[06:35:13] <span style="color:#0080ff">CFL: ...I guess so!</span><br />
+[06:35:36] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  nods --</span><br />
+[06:35:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks outside. --</span><br />
+[06:36:09] <span style="color:#0080ff">CFL: Um, could we please get into the transportalizer?</span><br />
+[06:36:25] <span style="color:#0080ff">CFL: I think I see some crows looking this way.</span><br />
+[06:36:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // ...what crows? --</span><br />
+[06:37:04] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  thumps chest once with fist, grabs him and proceeds to try and foillow kimura --</span><br />
+[06:38:01] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... closes his eyes. This is going to be a long day. --</span><br />
+[06:38:46] <span style="color:#0080ff">CFL: (( CP, toasting you ))</span><br />
+[06:38:59] <span style="color:#ee1e00">CCP: ((sorry, trying to html here.))</span><br />
+[06:39:08] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  points to the transportalizer --</span><br />
+[06:39:13] <span style="color:#ee1e00">CCP: that leads to the ship</span><br />
+[06:39:22] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  nods and gets on the thing --</span><br />
+[06:39:31] <span style="color:#0080ff">CFL: (( <a href='#SBARGv2_QuinnPrime'>#SBARGv2_QuinnPrime</a> ))</span><br />
+[06:39:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The two are transportalized --</span><br />

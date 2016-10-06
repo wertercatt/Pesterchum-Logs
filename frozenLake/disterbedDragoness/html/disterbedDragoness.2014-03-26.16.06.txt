@@ -1,0 +1,2 @@
+[16:06:20] <span style="color:#d1cfcd">-- disterbedDragoness <span style="color:#000000">[DD]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 16:06 --</span><br />
+[16:06:25] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging disterbedDragoness <span style="color:#9f5f5f">[DD]</span> at 16:06 --</span><br />

@@ -1,0 +1,31 @@
+[03:04:52] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+[03:10:46] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  sets the jars behind him. --</span><br />
+[03:30:41] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[03:30:41] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  crash lands in a crouch outside the HQ --</span><br />
+[03:30:52] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is in an old room at the end of a hallway on the 2nd floor... a converted broom closet. --</span><br />
+[03:31:26] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:31:26] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is still on the couch from yesterday... but doesn't know what to do about this --</span><br />
+[03:31:26] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  teleports up into the closet using FL as an Anchor --</span><br />
+[03:31:26] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jams the door shut --</span><br />
+[03:31:30] <span style="color:#a80000">CFA: (\ Got yyou /)</span><br />
+[03:32:14] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  looks at FA and blinks. --</span><br />
+[03:32:21] <span style="color:#0080ff">CFL: Please go away.</span><br />
+[03:32:32] <span style="color:#a80000">CFA: (\ No /)</span><br />
+[03:32:48] <span style="color:#0080ff">CFL: ...</span><br />
+[03:33:38] <span style="color:#a80000">CFA: (\ Do yyou even understand the shit yyou're getting into /)</span><br />
+[03:33:41] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns away and goes back to his shades. --</span><br />
+[03:34:27] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  crouches down and forces him to look at her --</span><br />
+[03:35:09] <span style="color:#a80000">CFA: (\ Look at me motherfucker /)</span><br />
+[03:35:14] <span style="color:#a80000">CFA: (\ do yyou even have anyy idea? /)</span><br />
+[03:54:01] <span style="color:#d1cfcd"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+[04:12:41] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[04:26:50] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[04:26:50] <span style="color:#6507ff">CTT: *goes back τo sleep*</span><br />
+[04:50:48] <span style="color:#6507ff">CTT: *Is so glad τhaτ she's asleep*</span><br />
+[05:20:31] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[05:45:18] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[05:45:19] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[05:47:35] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[05:50:03] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[06:13:52] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:50:22] <span style="color:#d1cfcd"><span style="color:#000000">CWD</span> ceased responding to memo.</span><br />

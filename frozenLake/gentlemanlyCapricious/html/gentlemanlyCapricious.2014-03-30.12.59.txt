@@ -1,0 +1,5 @@
+[12:59:45] <span style="color:#d1cfcd">-- gentlemanlyCapricious <span style="color:#42075a">[GC]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 12:59 --</span><br />
+[13:00:12] <span style="color:#5e0a7f">GC: (♠_♥)Hi</span><br />
+[13:02:47] <span style="color:#0078f0">FL: I thought I turned random encounters off...</span><br />
+[13:02:59] <span style="color:#5e0a7f">GC: (♠_♥)I GuEsS YoU DiDnT</span><br />
+[13:03:08] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging gentlemanlyCapricious <span style="color:#5e0a7f">[GC]</span> at 13:03 --</span><br />

@@ -1,0 +1,2 @@
+[06:28:25] <span style="color:#d1cfcd">-- suddenlyEchoes <span style="color:#55aa00">[SE]</span> began messaging fLmun <span style="color:#0080ff">[FL]</span> at 18:28 --</span><br />
+[06:28:33] <span style="color:#d1cfcd">-- fLmun <span style="color:#0080ff">[FL]</span> stopped messaging suddenlyEchoes <span style="color:#55aa00">[SE]</span> at 18:28 --</span><br />

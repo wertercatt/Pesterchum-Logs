@@ -1,0 +1,3 @@
+[02:15:25] <span style="color:#4c2f13">-- cruX <span style="color:#802000">[CX]</span> began messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 14:15 --</span><br />
+[02:15:39] <span style="color:#802000">CX:  <a href='#LoSaCrystal_Alchemy'>#LoSaCrystal_Alchemy</a></span><br />
+[02:16:05] <span style="color:#4c2f13">-- cruX <span style="color:#802000">[CX]</span> stopped messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 14:16 --</span><br />

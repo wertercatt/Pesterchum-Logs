@@ -1,0 +1,5 @@
+[13:25:28] <span style="color:#d1cfcd">-- eunomicZenith <span style="color:#53b4ff">[EZ]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 13:25 --</span><br />
+[13:25:30] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> is now an idle chum! --</span><br />
+[13:25:30] <span style="color:#53b4ff">EZ: Hi FL.</span><br />
+[13:25:37] <span style="color:#53b4ff">EZ: Ah, okay.</span><br />
+[13:25:39] <span style="color:#d1cfcd">-- eunomicZenith <span style="color:#53b4ff">[EZ]</span> stopped messaging frozenLake <span style="color:#0070e0">[FL]</span> at 13:25 --</span><br />

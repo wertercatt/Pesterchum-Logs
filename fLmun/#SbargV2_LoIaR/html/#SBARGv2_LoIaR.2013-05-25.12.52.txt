@@ -1,0 +1,365 @@
+<span style="color:#646464"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is standing directly outside of the base. --</span><br />
+<span style="color:#646464"><span style="color:#c1bb10">CURRENT courageousScribe [CCS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  is wondering around and seems prefectly fine --</span><br />
+<span style="color:#646464"><span style="color:#005500">CURRENT neuroticVagabond [CNV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  quickly arrives in what appears to be a heavily damaged but still somewhat working hot air balloon, engines sputtering and sparking. Lands by the base, hopping out of it looking just a bit sad. --</span><br />
+<span style="color:#c1bb10">CCS: hey everyone alchemizing stations are in the basement right\l/</span><br />
+<span style="color:#0080ff">CFL: Yeah.</span><br />
+<span style="color:#c1bb10">CCS: ok\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hands a card over to NV. --</span><br />
+<span style="color:#005500">CNV: What's this again?</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  thinks / hits button for basement --</span><br />
+<span style="color:#0080ff">CFL: Put this by your base, and you will be able to go to the nexus... and back.</span><br />
+<span style="color:#005500">CNV: And nothing'll go wrong?</span><br />
+<span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  exits his second gate atop a rocket board, throttling toward the base before slowing to a stop. --</span><br />
+<span style="color:#0080ff">CFL: It's worked for me so far.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  gravity trainning equipment --</span><br />
+<span style="color:#c1bb10">CCS: *makes\l/</span><br />
+<span style="color:#0080ff">CFL: Hey RS.</span><br />
+<span style="color:#0080ff">CFL: Think you could pop by other peoples lands?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hands the remaining cards to RS. --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  takes the card, nodding. --</span><br />
+<span style="color:#9d001f">CRS: Yeah, probably.</span><br />
+<span style="color:#0080ff">CFL: Alright.</span><br />
+<span style="color:#9d001f">CRS: Always wanted to be a courier, heh.</span><br />
+<span style="color:#9d001f">CRS: Who'm I droppin' these off for?</span><br />
+<span style="color:#0080ff">CFL: Once you head through the transportalizers, the respective ones in the nexus will begin to function.</span><br />
+<span style="color:#0080ff">CFL: Well, If you can make it to anyone outside of the main chain, that would be great.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  heads back to the upper leaves of the base carrying three extra gauntlets and gravity stablizers --</span><br />
+<span style="color:#c1bb10">CCS: *levels\l/</span><br />
+<span style="color:#646464"><span style="color:#008b00">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  arrives on LoIaR --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  transportalizes in to the cafe and stumbles to the counter uterly exosted famashed --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  sits and sleepaly eats --</span><br />
+<span style="color:#0080ff">CFL: Anyway, I'm off.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  backflips through the third gate. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  walks past the cafe carrying three extra gravity gauntlets --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  accidently overshoots it. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls into the fourth gate. --</span><br />
+<span style="color:#008b00">CDS: ((utoh))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  dashes out of the cafe --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  portalizes to the alkhemy room --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  makes a bunch of rope. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  portalizes to the 4th gate platform --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  lowers rope through the gate. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  starts setting up a gravity trainning room --</span><br />
+<span style="color:#c1bb10">CCS: actually several gravity trainning rooms\l/</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  Yells for CS --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  actually several gravity trainning rooms --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  appears in the house and runs into a wall. --</span><br />
+<span style="color:#c1bb10">CCS: is inside and can't here ds's yelling\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  is inside and can't here ds's yelling --</span><br />
+<span style="color:#646464">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  sighs and hops back into the hot air balloon, turning over the card this way and that and taking right off. --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  groans, glancing up with a blink. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  investigates thud --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  teliports behind FL --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is lying on the floor. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  has set up the gravity trainning and starts trainning --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  helps FL up. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  what sounds like heavy stomping can be heard --</span><br />
+<span style="color:#0080ff">CFL: Thanks...</span><br />
+<span style="color:#008b00">CDS: don't do anything like that again please</span><br />
+<span style="color:#0080ff">CFL: ...It sounds like an ogre is in the house.</span><br />
+<span style="color:#008b00">CDS: You mite not be so..</span><br />
+<span style="color:#0080ff">CFL: Or near it.</span><br />
+<span style="color:#008b00">CDS: its coming from the base</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  teliports --</span><br />
+<span style="color:#0080ff">CFL: ...oh god.</span><br />
+<span style="color:#0080ff">CFL: CS WAS IN THERE!</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  sees CS gravity traning --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  charges into the base. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  is is defineatly comeing form upper levels --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  with his sword out. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  teliports back to FL --</span><br />
+<span style="color:#008b00">CDS: calm down</span><br />
+<span style="color:#008b00">CDS: its just CS gravity training.</span><br />
+<span style="color:#0080ff">CFL: ...oh.</span><br />
+<span style="color:#0080ff">CFL: ...WAIT HOW DO WE KNOW ITS NOT A SPY OGRE.</span><br />
+<span style="color:#008b00">CDS: ....</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  checks with Goggles of True Seeing. --</span><br />
+<span style="color:#0080ff">CFL: Wait, no, its CS.</span><br />
+<span style="color:#008b00">CDS: told you</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  Cs is still gravity trainning --</span><br />
+<span style="color:#008b00">CDS: ((how high did your turn it up?))</span><br />
+<span style="color:#008b00">CDS: ((2 gs?</span><br />
+<span style="color:#008b00">CDS: ))</span><br />
+<span style="color:#0080ff">CFL: So, how long do you think it will be until he falls and can't get up.</span><br />
+<span style="color:#008b00">CDS: no idea</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  contenues waching --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#c1bb10">CCS: ((level 4.5 with gravitational stableize to keep the gravity affects only in room))</span><br />
+<span style="color:#008b00">CDS: ((I don't think the floor is that strong))</span><br />
+<span style="color:#0080ff">CFL: ...So, how long do you think it will be until he can jump like mario?</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater, <span style="color:#9d001f">[CRS,]</span>  still outside, inspects the cards handed to him earlier with a blank expression, sighing. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  starts dointo push ups when the floor breaks --</span><br />
+<span style="color:#008b00">CDS: !</span><br />
+<span style="color:#c1bb10">CCS: *doing\l/</span><br />
+<span style="color:#0080ff">CFL: ...Oh, TT is going to kill you.</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  hears a crash inside, turning his gaze back to the base. --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#008b00">CDS: you mean SV</span><br />
+<span style="color:#008b00">CDS: calls down are you ok CS?</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets gravioty level to .1 and gently floats to the below floor --</span><br />
+<span style="color:#c1bb10">CCS: yeah I'm fine\l/</span><br />
+<span style="color:#0080ff">CFL: ...set the gravity to 1/17th and jump for me.</span><br />
+<span style="color:#c1bb10">CCS: we need to reenforce the floors though\l/</span><br />
+<span style="color:#008b00">CDS: SV is not going to be happy.</span><br />
+<span style="color:#0080ff">CFL: Uh, someone use the server to fix that floor?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  flotes down to CS --</span><br />
+<span style="color:#008b00">CDS: not neaded</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  jumps with gravity setting as is and hits the ceiling of the floor he just fell out of --</span><br />
+<span style="color:#008b00">CDS: the construction console in the loby can fix it.</span><br />
+<span style="color:#008b00">CDS: pfff</span><br />
+<span style="color:#008b00">CDS: you ok?</span><br />
+<span style="color:#c1bb10">CCS: can it also reenforce the floors of the three rooms I set the equipment in\l/</span><br />
+<span style="color:#008b00">CDS: yes</span><br />
+<span style="color:#c1bb10">CCS: and yes I didn't hit too hard since gravity is lighter and therefore i weight less\l/</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  gentaly pushes off the floor and joins CS on the celling. --</span><br />
+<span style="color:#c1bb10">CCS: this is cool isn't it\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  set gravity  to zero --</span><br />
+<span style="color:#008b00">CDS: Zero grav is always fun</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  walks on the celling --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  just floats around of a few minutes --</span><br />
+<span style="color:#008b00">CDS: aslong as you don't run out of emomentum in the middle of an open spac</span><br />
+<span style="color:#008b00">CDS: space*</span><br />
+<span style="color:#008b00">CDS: then you have to through your shoes or something.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs out into the room and crashes into the wall... then the ceiling... --</span><br />
+<span style="color:#008b00">CDS: You ok FL?</span><br />
+<span style="color:#c1bb10">CCS: well we are in a building so we'll be fine. I guess i should fix the floor and re-enforce them right?\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is curled up into a rotating ball. --</span><br />
+<span style="color:#008b00">CDS: yep</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  flotes serenly. --</span><br />
+<span style="color:#c1bb10">CCS: or put all this equipment in the basement so we can't fall through the floor\l/</span><br />
+<span style="color:#008b00">CDS: Your call</span><br />
+<span style="color:#008b00">CDS: ahhh this is relaxing</span><br />
+<span style="color:#008b00">CDS: reminds me of the womb</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  kicks off multiple walls to accelerate. --</span><br />
+<span style="color:#008b00">CDS: sort of.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  flys out of an open window. --</span><br />
+<span style="color:#0080ff">CFL: ...WAAAA-</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  FL is suddenly effected by gravity again. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls when outside of the anti-gravitys effect. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  FL falls from the 6th floor. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  rotates to he lands on the long fall boots that he ALWAYS WEARS NOW. --</span><br />
+<span style="color:#008b00">CDS: !!!!!!!</span><br />
+<span style="color:#0080ff">CFL: I'm okay!</span><br />
+<span style="color:#008b00">CDS: ok!</span><br />
+<span style="color:#008b00">CDS: Be more carful next time!</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  tosses a gem through the window. --</span><br />
+<span style="color:#c1bb10">CCS: alright funs over I got to fix this floor before TT sees and freaks out\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is yanked back through the window by the gem. --</span><br />
+<span style="color:#008b00">CDS: ok</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  uses space powers to move him self to the floor. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  transportalizes to the lobby. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  uses console to repare the damage --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  avoids the hole. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  set's gravity level to .25 and floats down --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  and reinforces the floor. --</span><br />
+<span style="color:#0080ff">CFL: ...Could you set it to one 1/17th?</span><br />
+<span style="color:#c1bb10">CCS: . then sets it to one for squal in room and out of room gravity\l/</span><br />
+<span style="color:#0080ff">CFL: I wanna have sonic gravity.</span><br />
+<span style="color:#0080ff">CFL: Like the CLASSIC sonic games.</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  then sets it to one for equal in room and out of room gravity --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  begins to walk to the cafe. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  you two feel the floor and the rest of the structure renforce itself. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  teliports to CS. --</span><br />
+<span style="color:#c1bb10">CCS:  yes i can you can sert the gravity level to anything. though the current max is about ten I think. I  don't know I'll never tried setting it higher than what the next trainning level was\l/</span><br />
+<span style="color:#0080ff">CFL: ...I'll see about making a sega genesis.</span><br />
+<span style="color:#008b00">CDS: There the floor should now withstand a single persion at 7 Gs.</span><br />
+<span style="color:#0080ff">CFL: ...wait, I'll just upgrade the UGC.</span><br />
+<span style="color:#008b00">CDS: I wouldent push it though.</span><br />
+<span style="color:#008b00">CDS: Now if you will exuse me I am extreamly tired.</span><br />
+<span style="color:#0080ff">CFL: ...what if I stand on one leg?</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008b00">[CDS]</span>  teliports to room and goes the fuck to sleep. --</span><br />
+<span style="color:#0080ff">CFL: Wouldn't that increase the pressure on the floor?</span><br />
+<span style="color:#008b00">CDS: ((yes))</span><br />
+<span style="color:#c1bb10">CCS: yes i think\l/</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: ...Lets play some games.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  inserts a sonic and knuckles cartridge --</span><br />
+<span style="color:#0080ff">CFL: ...hmm...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  inserts 12 more on top of each other, managing to push the cartridges down. --</span><br />
+<span style="color:#0080ff">CFL: ...Okay, alot bigger on the inside.</span><br />
+<span style="color:#0080ff">CFL: Mind stacking these?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  uncaptchas a load of cartridges. --</span><br />
+<span style="color:#0080ff">CFL: Blame imps.</span><br />
+<span style="color:#0080ff">CFL: They kept pressing the button at my house.</span><br />
+<span style="color:#0080ff">CFL: ...CS?</span><br />
+<span style="color:#c1bb10">CCS: oh sorry i was thinking \l/</span><br />
+<span style="color:#c1bb10">CCS: what where you saying?\l/</span><br />
+<span style="color:#0080ff">CFL: Mind stacking these?</span><br />
+<span style="color:#c1bb10">CCS: yeah sure\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  stacks things --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  points at the Universal Gaming Console. --</span><br />
+<span style="color:#0080ff">CFL: Lets see how many games we can fit in each other/</span><br />
+<span style="color:#c1bb10">CCS: uh no thanks i was planning on gravity trainning\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  manages to fit 400 more in before it stops going inward. --</span><br />
+<span style="color:#0080ff">CFL: ...Okay, found a limit.</span><br />
+<span style="color:#0080ff">CFL: ...Eject button?</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  reacts for the eject button. --</span><br />
+<span style="color:#0080ff">CFL: reaches*</span><br />
+<span style="color:#c1bb10">CCS: I'm, not sure if that is a good idea\l/</span><br />
+<span style="color:#0080ff">CFL: ...Your right.</span><br />
+<span style="color:#c1bb10">CCS: what's on my right?\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sees a gravity gauntlet --</span><br />
+<span style="color:#0080ff">CFL: 413 sonic and knuckles cartridges would be hard to explain shooting through the ceiling.</span><br />
+<span style="color:#c1bb10">CCS: oh yeah\l/</span><br />
+<span style="color:#0080ff">CFL: (( <a href='http://tinycartridge.com/post/27843184140/24-copies-of-sonic-knuckles-in-mega-lock-on-by'>http://tinycartridge.com/post/27843184140/24-copies-of-sonic-knuckles-in-mega-lock-on-by</a> ))</span><br />
+<span style="color:#c1bb10">CCS: well I'm going to set the gravity gauntlet for trainning now you may want to get out of the room\l/</span><br />
+<span style="color:#0080ff">CFL: ...okay.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs out of the room. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets gravity for 4.55 x --</span><br />
+<span style="color:#c1bb10">CCS: time to start trainning\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  trains --</span><br />
+<span style="color:#c1bb10">CCS: with monatage music but it isn't a monatage\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  with monatage music but it isn't a monatage --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  is wondering why no one is questioning why someone with memory loss is being left alone in a room with high tech gravity equipment --</span><br />
+<span style="color:#0080ff">CFL: *because FL is a derp.*</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  is playing his music really loads so anyone in or  near sword base can hear it --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  turns down music a bit --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  continues trainning --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  heads to the roof or seventh floor and points the console down at the floor. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  starts running around the room for cardio --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pushes the eject button. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  413 cartridges shoot through the floor, and accelrate even faster due to the 4.55 g's --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sees the floor partly break and set the gravity to .01 g so that when they hit him they have nearly no weight only speed which knocks him to the side --</span><br />
+<span style="color:#0080ff">CFL: ...Well.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  climbs through the hole. --</span><br />
+<span style="color:#c1bb10">CCS: hit's the floor surrounded by cartridges\l/</span><br />
+<span style="color:#0080ff">CFL: Alright.</span><br />
+<span style="color:#0080ff">CFL: ...better clean this up.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>   hit's the floor surrounded by cartridges --</span><br />
+<span style="color:#c1bb10">CCS: what was that for?\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  captchas all the cartridges. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  set gravity to one --</span><br />
+<span style="color:#0080ff">CFL: Because some people can't deal with hearing a practical ogre.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  unplugs the gravity generatior. --</span><br />
+<span style="color:#c1bb10">CCS: but you know it's me\l/</span><br />
+<span style="color:#0080ff">CFL: Plus some people are TRYING TO SLEEP.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  the g4ravity generatior is a magical gauntlet and can't really be un pluged --</span><br />
+<span style="color:#c1bb10">CCS: I never had to worry about bothering people while trainning at home\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets gravity to 3.5 x with fl still in the room --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  strains to grab onto the gauntlet. --</span><br />
+<span style="color:#0080ff">CFL: Turn.</span><br />
+<span style="color:#0080ff">CFL: It.</span><br />
+<span style="color:#0080ff">CFL: Off.</span><br />
+<span style="color:#0080ff">CFL: *pant*</span><br />
+<span style="color:#c1bb10">CCS: fine\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets gauntlet to one again --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  manages to stand up normally again. --</span><br />
+<span style="color:#0080ff">CFL: ...could you just do it at your place?</span><br />
+<span style="color:#0080ff">CFL: wait how far does the gauntlet go.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  examines the gauntlet --</span><br />
+<span style="color:#c1bb10">CCS: I would but yesterday everyone was like you need to go to sword base for some reason or another\l/</span><br />
+<span style="color:#0080ff">CFL: ...some reason or another?</span><br />
+<span style="color:#0080ff">CFL: Hold on.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  current sets only goes to ten g --</span><br />
+<span style="color:#0080ff">CFL: ...Okay, I was sorta worried about the max on that thing.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks outside to do memo. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets gravity to 2x and starts trainning while fl does the memo thing --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  cranks up gravity to 4.55x again for real trainning --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks back in --</span><br />
+<span style="color:#0080ff">CFL: Alright, CS, han-</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slams to the ground. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  does push ups --</span><br />
+<span style="color:#0080ff">CFL: -d over the gauntlets?</span><br />
+<span style="color:#c1bb10">CCS: what?\l/</span><br />
+<span style="color:#c1bb10">CCS: why?\l/</span><br />
+<span style="color:#0080ff">CFL: Well, until your mental facaltys are back to normal, those gauntlets are a risk.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  lowrs gravity to 2x --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  strains to stand up. --</span><br />
+<span style="color:#c1bb10">CCS: they are? why?\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  stand up fine --</span><br />
+<span style="color:#0080ff">CFL: Well, you might sort of forget what a human body can take... gravity wise.</span><br />
+<span style="color:#c1bb10">CCS: it's about five gs right?\l/</span><br />
+<span style="color:#0080ff">CFL: ...yeah.</span><br />
+<span style="color:#0080ff">CFL: fighter pilots can tate about 9...</span><br />
+<span style="color:#0080ff">CFL: but for most of us, its 5.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slowly stands up. --</span><br />
+<span style="color:#c1bb10">CCS: wait i'm going to do some research.\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  sets graivty to one and uses comgoggles --</span><br />
+<span style="color:#0080ff">CFL: Lets just put that into a vault until we get you back to normal.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  grabs the gauntlet. --</span><br />
+<span style="color:#c1bb10">CCS: well actuall apearently you can take up to 16 for some minutes without death\l/</span><br />
+<span style="color:#0080ff">CFL: comeon, how does this thing come off...</span><br />
+<span style="color:#c1bb10">CCS: well a minute\l/</span><br />
+<span style="color:#c1bb10">CCS: this thing caps out at ten though\l/</span><br />
+<span style="color:#c1bb10">CCS: I'm prefectly safe\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  settles for attempting to captcha it off of him. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  just takes it off --</span><br />
+<span style="color:#0080ff">CFL: Alright, lets put this away until we get a mind player to look at you.</span><br />
+<span style="color:#c1bb10">CCS: but how will i do my trainning?\l/</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#9d001f">CRS: Maybe.</span><br />
+<span style="color:#9d001f">CRS: Maybe not.</span><br />
+<span style="color:#0080ff">CFL: I think you should keep off of the training...</span><br />
+<span style="color:#0080ff">CFL: most people pass out at 5gs...</span><br />
+<span style="color:#0080ff">CFL: how was your vision?</span><br />
+<span style="color:#c1bb10">CCS: fine i'm near sighted but i'm fine\l/</span><br />
+<span style="color:#0080ff">CFL: ...lets just put this away.</span><br />
+<span style="color:#c1bb10">CCS: besides some rollercoasters get up to 67 gs and people rode those all the time\l/</span><br />
+<span style="color:#0080ff">CFL: Just hand over the gauntlet before it breaks and you make a black hole.</span><br />
+<span style="color:#c1bb10">CCS: *6 gs\l/</span><br />
+<span style="color:#c1bb10">CCS: but the gauntlet just channles the energy it doesn't make the gravity\l/</span><br />
+<span style="color:#0080ff">CFL: I don't think you understand.</span><br />
+<span style="color:#0080ff">CFL: RS?</span><br />
+<span style="color:#0080ff">CFL: Mind giving me a hand?</span><br />
+<span style="color:#9d001f">CRS: I can try.</span><br />
+<span style="color:#c1bb10">CCS: I understand fine you are trying to keep me from trainning\l/</span><br />
+<span style="color:#c1bb10">CCS: but I want to be prepared for anything\l/</span><br />
+<span style="color:#c1bb10">CCS: I already and train in 4.5 gs what makes you think if this come to a fight you can stop me?\l/</span><br />
+<span style="color:#0080ff">CFL: I don't know, I have a sword and your outnumbered?</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  tosses the gauntlet to Fl --</span><br />
+<span style="color:#c1bb10">CCS: I have a sword too\l/</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  throws it into a safe and spins the dial. --</span><br />
+<span style="color:#9d001f">CRS: I have a ton of boards.</span><br />
+<span style="color:#9d001f">CRS: No swords but I'll get there.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  un catalogs the demention sleyer which is about eight feet lond and should wieght about 100 punds or so but cs lifts it so easlily --</span><br />
+<span style="color:#c1bb10">CCS: 8slayer\l/</span><br />
+<span style="color:#c1bb10">CCS: *long\l/</span><br />
+<span style="color:#0080ff">CFL: ...I'll go now.</span><br />
+<span style="color:#c1bb10">CCS: you want to try lifting this sword fl?\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  places the desmention slayer of the ground --</span><br />
+<span style="color:#0080ff">CFL: ...Lets see... caculate the increase of man grit...</span><br />
+<span style="color:#646464">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  also pounds, long, captchalogues, weigh* --</span><br />
+<span style="color:#c1bb10">CCS: go ahead try to lift it\l/</span><br />
+<span style="color:#0080ff">CFL: ...I'll try.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  grabs it. --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  closes his eyes, and helfs it into the air. --</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#9d001f">CRS: That's fancy.</span><br />
+<span style="color:#9d001f">CRS: Very, very fancy. Big, too.</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  starts to topple over backwards. --</span><br />
+<span style="color:#9d001f">CRS: Compensating for anything?</span><br />
+<span style="color:#0080ff">CFL: crudcrudcrud-</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  trips --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  reaches a hand out and catches the back of the blade, keeping it held up --</span><br />
+<span style="color:#c1bb10">CCS: no just like my weapons strong enough for anything\l/</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  with one hand. --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  grabs the demention slayer and takes it away before they hurt themselves --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  catalogs it --</span><br />
+<span style="color:#c1bb10">CCS: I'm going to my room\l/</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  leaves --</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  in the other a board flaring with a burgundy fire. Totally passive look on his face as CS retakes the blade. --</span><br />
+<span style="color:#0080ff">CFL: ...alright, I think the safe should work...</span><br />
+<span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  the board dies down after a moment and he watches him leave, blinking simply for a few moments. --</span><br />
+<span style="color:#0080ff">CFL: ...lets put it in another safe to be safe.</span><br />
+<span style="color:#9d001f">CRS: ...</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  places the safe in a bigger safe... then inside of a cardboard box. --</span><br />
+<span style="color:#0080ff">CFL: (( <a href='http://xkcd.com/916/'>http://xkcd.com/916/</a> ))</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  sets another safe down by the box. --</span><br />
+<span style="color:#0080ff">CFL: There.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  heads to room beating they didn't remember to take the equipment form the other rooms. or form his catalog cards. he'll just train later --</span><br />
+<span style="color:#c1bb10">CCS: *betting\l/</span><br />
+<span style="color:#c1bb10">CCS: *from\l/</span><br />
+<span style="color:#0080ff">CFL: ...alright, lets just go and find CS, before he breaks a vase or something.</span><br />
+<span style="color:#9d001f">CRS: Sure, sure.</span><br />
+<span style="color:#646464">-- CURRENT courageousScribegoes <span style="color:#c1bb10">[CCSGOES]</span>  back to his room and digs into a pile of cloaks --</span><br />
+<span style="color:#0080ff">CFL: CS?</span><br />
+<span style="color:#0080ff">CFL: Where are you!?</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  ios in his cloaks --</span><br />
+<span style="color:#646464">-- CURRENT courageousScribe <span style="color:#c1bb10">[CCS]</span>  relaxing --</span><br />
+<span style="color:#646464">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  makes sure he goes through the third gate this time. --</span><br />

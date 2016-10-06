@@ -1,0 +1,2 @@
+[02:44:14] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging Nova <span style="color:#000000">[NN]</span> at 14:44 --</span><br />
+[02:44:16] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging Nova <span style="color:#000000">[NN]</span> at 14:44 --</span><br />

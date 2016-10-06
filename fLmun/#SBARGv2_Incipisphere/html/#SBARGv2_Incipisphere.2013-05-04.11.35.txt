@@ -1,0 +1,107 @@
+<span style="color:#646464"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+<span style="color:#646464"><span style="color:#5c315c">CURRENT melodiousPsyche [CMP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#5c315c">CMP: I-- </span><br />
+<span style="color:#0080ff">CFL: Morning.</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: hi there</span><br />
+<span style="color:#5c315c">CMP: ... </span><br />
+<span style="color:#5c315c">CMP: I hear something.</span><br />
+<span style="color:#cb7de6">CSJ: ???</span><br />
+<span style="color:#0080ff">CFL: (( <a href='#SBARGv2_LoIaR'>#SBARGv2_LoIaR</a> ))</span><br />
+<span style="color:#5c315c">CMP: Give me a second, I've been traveling between consort villages on my land right now and...</span><br />
+<span style="color:#5c315c">CMP: Looks like I was right.</span><br />
+<span style="color:#5c315c">CMP: Imp and ogre squad.</span><br />
+<span style="color:#5c315c">CMP: I'll be right back.</span><br />
+<span style="color:#cb7de6">CSJ: ((currently on lohan, would take too long to get there without extra equipment))</span><br />
+<span style="color:#646464"><span style="color:#000000">CMP</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: (( And that is why the return bracelet is awesome. And FL DID post the code awhile back. ))</span><br />
+<span style="color:#646464"><span style="color:#5c315c">CURRENT melodiousPsyche [CMP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#5c315c">CMP: God-- mit!</span><br />
+<span style="color:#0080ff">CFL: What?</span><br />
+<span style="color:#0080ff">CFL: Should I make my way over?</span><br />
+<span style="color:#5c315c">CMP: Sor-- usi-- earpiec-- no--</span><br />
+<span style="color:#0080ff">CFL: I'm coming.</span><br />
+<span style="color:#5c315c">CMP: I got it.</span><br />
+<span style="color:#5c315c">CMP: Fuck, okay, sorry about that.</span><br />
+<span style="color:#0080ff">CFL: ...How do I know its you and not a spy imp.</span><br />
+<span style="color:#646464"><span style="color:#4274c4">CURRENT shadowsPaintbrush [CSP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#4274c4">CSP: i CaN HeaD TherE IF YoU --- NEeD SOmE HElP ------ SMASHING HEADS!!</span><br />
+<span style="color:#0080ff">CFL: ...Screw it, I'm coming over regardless.</span><br />
+<span style="color:#5c315c">CMP: Already done smashing heads, hah.</span><br />
+<span style="color:#5c315c">CMP: No.</span><br />
+<span style="color:#0080ff">CFL: These Goggles of True Seeing might help.</span><br />
+<span style="color:#5c315c">CMP: I use headgear sort of thing, kind of like Rose's glasses?</span><br />
+<span style="color:#5c315c">CMP: Well right now I am.</span><br />
+<span style="color:#0080ff">CFL: I'm kinda thinking of upgrading to one of those... using eye tracking.</span><br />
+<span style="color:#5c315c">CMP: Eye tracking?</span><br />
+<span style="color:#5c315c">CMP: Also. /Spy imps/?</span><br />
+<span style="color:#0080ff">CFL: Yes.</span><br />
+<span style="color:#0080ff">CFL: They use the TF2 Prototyping.</span><br />
+<span style="color:#5c315c">CMP: ...</span><br />
+<span style="color:#0080ff">CFL: Crud.</span><br />
+<span style="color:#5c315c">CMP: /Who the fuck prototyped that/?</span><br />
+<span style="color:#0080ff">CFL: Not me,</span><br />
+<span style="color:#cb7de6">CSJ: let me check NN's list</span><br />
+<span style="color:#0080ff">CFL: I prototyped Cruxite as I didn't have enough time.</span><br />
+<span style="color:#5c315c">CMP: My land is already-- arghajksdhjksahd</span><br />
+<span style="color:#0080ff">CFL: Also, I can't find your map on the guide... maybe I could use an updated version?</span><br />
+<span style="color:#0080ff">CFL: I'm using V1.0</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://i.imgur.com/rppNOPa.jpg'>http://i.imgur.com/rppNOPa.jpg</a></span><br />
+<span style="color:#5c315c">CMP: Dammit, no /wonder/ some of the imp ambushes I didn't catch at all...</span><br />
+<span style="color:#4274c4">CSP: I'M StilL DissapointeD ThaT HE DIdn'T IncludE AnY MorE InformatioN AbouT ME AnD GT</span><br />
+<span style="color:#5c315c">CMP: Yeah, I kind of came in recently so it's kind of outdated for me, heh.</span><br />
+<span style="color:#5c315c">CMP: Woo, grist.</span><br />
+<span style="color:#cb7de6">CSJ: well, you need to tell the stuff to the person who's does the charts and stuff.</span><br />
+<span style="color:#cb7de6">CSJ: which would be SV</span><br />
+<span style="color:#cb7de6">CSJ: the dark orange text guy</span><br />
+<span style="color:#5c315c">CMP: Yeah, I know. Haven't found the time to do so...</span><br />
+<span style="color:#0080ff">CFL: Do you know the coloration of your land?</span><br />
+<span style="color:#5c315c">CMP: Eh?</span><br />
+<span style="color:#0080ff">CFL: Yes I'm going to fire myself in your direction.</span><br />
+<span style="color:#5c315c">CMP: ...</span><br />
+<span style="color:#cb7de6">CSJ: apparently someone prototyped a TF2 action figure set. They finally remembered to add it to the list on 4/28. I'm going to try and cross-reference that with the player list thing.</span><br />
+<span style="color:#0080ff">CFL: Slightly above terminal velocity.</span><br />
+<span style="color:#5c315c">CMP: Okay, Niki. And.</span><br />
+<span style="color:#5c315c">CMP: FL no.</span><br />
+<span style="color:#5c315c">CMP: Just. No.</span><br />
+<span style="color:#0080ff">CFL: I have long fall boots!</span><br />
+<span style="color:#5c315c">CMP: I don't care.</span><br />
+<span style="color:#0080ff">CFL: ... :c</span><br />
+<span style="color:#cb7de6">CSJ: looks like the playerlist hasn't been modified since the 17th</span><br />
+<span style="color:#5c315c">CMP: Mm.</span><br />
+<span style="color:#0080ff">CFL: I want to make a new player chart... that isn't a simple image.</span><br />
+<span style="color:#0080ff">CFL: Maybe some sort of thing thats similar to that one site that shows connections between musicians?</span><br />
+<span style="color:#5c315c">CMP: I don't know. </span><br />
+<span style="color:#0080ff">CFL: SJ, what is the hex color for your text?</span><br />
+<span style="color:#cb7de6">CSJ: I think I might remember</span><br />
+<span style="color:#cb7de6">CSJ:  <a href='#cb7de6'>#cb7de6</a> ?</span><br />
+<span style="color:#646464"><span style="color:#005500">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#005500">CCP: FL, look in the pesterlogs folder, there's an html version of all logs which includes the hex codes</span><br />
+<span style="color:#0080ff">CFL: Thank you.</span><br />
+<span style="color:#0080ff">CFL: You too.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSP</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CMP</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: CP, what is your land again?</span><br />
+<span style="color:#005500">CCP: land of snow and crystal</span><br />
+<span style="color:#0080ff">CFL: Hey, does anyone know who steamworkSovereign connected to?</span><br />
+<span style="color:#cb7de6">CSJ: are you checking NN's lists first?</span><br />
+<span style="color:#0080ff">CFL: I'm checking the little map.</span><br />
+<span style="color:#0080ff">CFL:  <a href='http://i.imgur.com/rppNOPa.jpg'>http://i.imgur.com/rppNOPa.jpg</a></span><br />
+<span style="color:#0080ff">CFL: But He/She is not on there.</span><br />
+<span style="color:#cb7de6">CSJ: hm, he's not on the second gates list either</span><br />
+<span style="color:#0080ff">CFL: That is the second gates list.</span><br />
+<span style="color:#cb7de6">CSJ: I was lookng at this one <a href='https://docs.google.com/spreadsheet/ccc?key=0Am0rFYqIxavFdDVEYUw0NzQ1SXRuOUhwR2t4UWNueEE#gid=1'>https://docs.google.com/spreadsheet/ccc?key=0Am0rFYqIxavFdDVEYUw0NzQ1SXRuOUhwR2t4UWNueEE#gid=1</a></span><br />
+<span style="color:#0080ff">CFL: Hey TT</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: hello</span><br />
+<span style="color:#cb7de6">CSJ: hi TT</span><br />
+<span style="color:#0080ff">CFL: I forget, did RS connect to you?</span><br />
+<span style="color:#6507ff">CTT: yes</span><br />
+<span style="color:#cb7de6">CSJ: what happened last night? you suddenly took off without warning.</span><br />
+<span style="color:#6507ff">CTT: ..i τhink.</span><br />
+<span style="color:#6507ff">CTT: iτ's...complicaτed.</span><br />
+<span style="color:#cb7de6">CSJ: if you don't want to tell any more details, that's okay.</span><br />
+<span style="color:#0080ff">CFL: Here.</span><br />
+<span style="color:#0080ff">CFL:  <a href='https://bubbl.us/?h=17157b/2cc0fb/152Kc.QlLL/WM'>https://bubbl.us/?h=17157b/2cc0fb/152Kc.QlLL/WM</a></span><br />
+<span style="color:#0080ff">CFL: Its not done, but I gotta go.</span><br />
+<span style="color:#0080ff">CFL: see ya.</span><br />

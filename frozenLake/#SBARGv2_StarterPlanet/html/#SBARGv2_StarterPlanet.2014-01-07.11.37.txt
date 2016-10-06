@@ -1,0 +1,58 @@
+[11:37:42] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[12:41:18] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+[12:41:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is running out of the town, leaving a trail of crumbling snow. --</span><br />
+[12:42:07] <span style="color:#d1cfcd"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+[12:42:07] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  reaches the colapse and sees a hole where the wind is gusting in. --</span><br />
+[12:42:24] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs into the forest. --</span><br />
+[12:42:31] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  begins reparing the breatch. --</span><br />
+[12:43:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // crack CRACK SPLOOSH --</span><br />
+[12:45:11] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[12:45:11] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  exits the bar, looking in the direction FL went... and engages Drill Wisp mode --</span><br />
+[12:45:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // DRILL! --</span><br />
+[12:45:58] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads... forest-ward I guess... and hope... --</span><br />
+[12:46:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // <a href='http://www.youtube.com/watch?v=RjDpirTPmc4'>http://www.youtube.com/watch?v=RjDpirTPmc4</a> --</span><br />
+[12:46:40] <span style="color:#d1cfcd"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[12:46:40] <span style="color:#d1cfcd">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  dat launch base sample --</span><br />
+[12:47:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  eventually gets there, changing back... and falling into whatever it was FL ended up in --</span><br />
+[12:47:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // CP breaks into the lake... might wanna drill here too. --</span><br />
+[12:48:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just uses the KSP Suit's jets, since Drill would hurt FL if he made contact --</span><br />
+[12:48:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Oh good, you found the cave. --</span><br />
+[12:49:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // And FL is soaking wet sitting next to some gold. --</span><br />
+[12:49:51] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  swims into the cave, searching for a frozen statue that looks like FL --</span><br />
+[12:50:17] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ...or just FL in general, really --</span><br />
+[12:51:57] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finds FL, walking over --</span><br />
+[12:52:02] <span style="color:#ee1e00">CCP: uh... you okay?</span><br />
+[12:52:30] <span style="color:#0080ff">CFL: why does everyone assume everything I make is dangerous.</span><br />
+[12:53:26] <span style="color:#ee1e00">CCP: well... you don't have the best track record with that kinda thing, unfortunately...</span><br />
+[12:53:43] <span style="color:#ee1e00">CCP: I mean, I thought it was cool... until you mentioned what /could/ happen.</span><br />
+[12:54:00] <span style="color:#ee1e00">CCP: if you had just not mentioned that part, IB probably would've accepted it just fine.</span><br />
+[12:54:05] <span style="color:#0080ff">CFL: Well of course I'm going to mention the worst case scenario.</span><br />
+[12:54:39] <span style="color:#0080ff">CFL: Hell, the microwave could explode, or the Replicators could make a dangerous virus that makes it impossible to understand one another.</span><br />
+[12:55:08] <span style="color:#ee1e00">CCP: . . . . . . . .</span><br />
+[12:56:24] <span style="color:#ee1e00">CCP: anyway, let's just get back to the bar already, before you /do/ turn into an ice statue of yourself...</span><br />
+[12:56:53] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  opens brushportal and waits for FL before heading through --</span><br />
+[01:01:16] <span style="color:#ee1e00">CCP: ((test))</span><br />
+[01:01:29] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[01:01:29] <span style="color:#cb7de6">CSJ: ((teaset))</span><br />
+[01:01:34] <span style="color:#2d8a18">CSL: ((fl have some toast))</span><br />
+[01:01:44] <span style="color:#ee1e00">CCP: ((ok, he's just afk then))</span><br />
+[01:06:19] <span style="color:#0080ff">CFL: (( back. ))</span><br />
+[01:06:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... sits by a geyser. --</span><br />
+[01:08:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks back through the portal at FL --</span><br />
+[01:08:44] <span style="color:#ee1e00">CCP: you sure you don't want to come in and warm up?</span><br />
+[01:09:30] <span style="color:#0080ff">CFL: I'll be fine.</span><br />
+[01:09:39] <span style="color:#0080ff">CFL: Just have the party without me.</span><br />
+[01:10:04] <span style="color:#ee1e00">CCP: ...</span><br />
+[01:11:37] <span style="color:#0080ff">CFL: Just close the portal.</span><br />
+[01:12:15] <span style="color:#ee1e00">CCP: sigh... well, you /can/ teleport yourself after all... ok.</span><br />
+[01:12:22] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  closes portal --</span><br />
+[01:12:39] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  hl2.exe has exploded --</span><br />
+[01:14:46] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  fineshes reparing and reenforcing the colapsed tunnel. --</span><br />
+[01:25:22] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  moves on to reenforce the rest of the tunnels --</span><br />
+[01:26:38] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[01:26:38] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[02:38:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  finally warps to his house. --</span><br />
+[04:17:57] <span style="color:#d1cfcd"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+[04:17:57] <span style="color:#d1cfcd"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+[05:00:14] <span style="color:#d1cfcd"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+[05:00:14] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  fineshes reinforcing the tunnels and goes to genes --</span><br />

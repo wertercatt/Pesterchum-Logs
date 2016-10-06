@@ -1,0 +1,10 @@
+[07:51:10] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[07:51:20] <span style="color:#000000">CFL: okay how do I flip back over</span><br />
+[07:51:22] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[07:51:28] <span style="color:#000000">CFL: do I do the password thing?</span><br />
+[07:51:35] <span style="color:#646464"><span style="color:#a8a87e">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[07:51:35] <span style="color:#a8a87e">CFF: badgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadgerbadger</span><br />
+[07:51:40] <span style="color:#000000">CFL: or something else?</span><br />
+[07:52:13] <span style="color:#ee1e00">CCP: FL, Help==&gt;NickServ, "ghost fLmun [password]"</span><br />
+[07:52:20] <span style="color:#000000">CFL: okay</span><br />
+[07:52:37] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />

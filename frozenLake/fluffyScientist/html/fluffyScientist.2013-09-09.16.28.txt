@@ -1,0 +1,8 @@
+[04:28:21] <span style="color:#d1cfcd">-- fluffyScientist <span style="color:#000000">[FS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:28 --</span><br />
+[04:28:27] <span style="color:#b9fffb">FS: Hello</span><br />
+[04:28:44] <span style="color:#0080ff">FL: Sup?</span><br />
+[04:29:07] <span style="color:#b9fffb">FS: Um Are You A Human Or A Troll?</span><br />
+[04:30:01] <span style="color:#0080ff">FL: Human, though I suppose that due to the twisted nature of paradox space... eh.</span><br />
+[04:30:38] <span style="color:#0080ff">FL: Note that connection out side of my session tends to cut out alot</span><br />
+[04:30:48] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span>  lost connection --</span><br />
+[04:30:49] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging fluffyScientist <span style="color:#b9fffb">[FS]</span> at 16:30 --</span><br />

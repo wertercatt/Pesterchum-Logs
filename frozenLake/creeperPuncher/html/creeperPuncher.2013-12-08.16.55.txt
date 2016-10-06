@@ -1,0 +1,27 @@
+[04:55:37] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 16:55 --</span><br />
+[04:55:48] <span style="color:#0080ff">FL: Kimura, where did you leave your door?</span><br />
+[04:56:33] <span style="color:#ee1e00">CP: which one? I had two in the Magicant...</span><br />
+[04:56:44] <span style="color:#0080ff">FL: Oh, there it is.</span><br />
+[04:56:49] <span style="color:#ee1e00">CP: one in the White Void Room, the other by the terminal Mew and Mewtwo came out of</span><br />
+[04:57:08] <span style="color:#0080ff">FL: I'll just move the door closer to the cage I set up.</span><br />
+[05:01:33] <span style="color:#ee1e00">CP: which door are you moving?</span><br />
+[05:01:50] <span style="color:#ee1e00">CP: or alternately, do you just need me to alchemize another pair of doors?</span><br />
+[05:01:52] <span style="color:#0080ff">FL: The one in the white void space.</span><br />
+[05:02:05] <span style="color:#0080ff">FL: I'm just gonna build this and set it up.</span><br />
+[05:02:09] <span style="color:#ee1e00">CP: mmk.</span><br />
+[05:03:04] <span style="color:#ee1e00">CP: ((I'm assuming FL knows about AC's prototyping?))</span><br />
+[05:03:34] <span style="color:#0080ff">FL: (( It was mentioned on the memo. ))</span><br />
+[05:03:54] <span style="color:#ee1e00">CP: ((mmk))</span><br />
+[05:04:42] <span style="color:#ee1e00">CP: anyway, let me know when you want me to send the other door to you... because I'm not getting anywhere near AC if there's a risk of him going Hulkerterror again...</span><br />
+[05:05:13] <span style="color:#0080ff">FL: Open the door, set it sideways, and drop him through it with a brush portal.</span><br />
+[05:05:35] <span style="color:#ee1e00">CP: ...oh.</span><br />
+[05:05:57] <span style="color:#ee1e00">CP: and then once he's through, slam the door and punch the light bulb out?</span><br />
+[05:06:08] <span style="color:#0080ff">FL: Well, I'll just captcha the door.</span><br />
+[05:06:20] <span style="color:#0080ff">FL: and close the cage.</span><br />
+[05:07:22] <span style="color:#0080ff">FL: After that, he shouldn't be getting out.</span><br />
+[05:07:59] <span style="color:#0080ff">FL: ...</span><br />
+[05:08:06] <span style="color:#ee1e00">CP: ...question. how are you accounting for him being able to timeshift? ...oh wait, is this cage in the Magicant or the former site of the <span style="color:#004dbc">Blue Hole</span>?</span><br />
+[05:08:45] <span style="color:#0080ff">FL: Its in the Magicant, and well... thats why I tested it.</span><br />
+[05:09:37] <span style="color:#0080ff">FL: The inside of the cage is Timelocked.</span><br />
+[05:09:50] <span style="color:#0080ff">FL: He won't be time warping in there.</span><br />
+[05:10:10] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 17:10 --</span><br />

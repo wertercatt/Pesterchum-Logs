@@ -1,0 +1,255 @@
+[05:52:13] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:11:51] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[06:13:39] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[06:19:12] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+[06:19:13] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[06:19:13] <span style="color:#d1cfcd">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[06:19:19] <span style="color:#0080ff">CFL: you done yet?</span><br />
+[06:19:37] <span style="color:#d1cfcd"><span style="color:#000000">CMP</span> ceased responding to memo.</span><br />
+[06:19:37] <span style="color:#d1cfcd"><span style="color:#000000">CMP</span> ceased responding to memo.</span><br />
+[06:19:42] <span style="color:#d1cfcd"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+[06:19:42] <span style="color:#2806ea">CEQ: all is well... I'm fairly sure.</span><br />
+[06:19:56] <span style="color:#0080ff">CFL: oh okay</span><br />
+[06:20:37] <span style="color:#0080ff">CFL: is there a way to mail order so Athena doesn't feel like I'm tresspassing if I want to pick up more books?</span><br />
+[06:22:19] <span style="color:#2806ea">CEQ: Uh, I think so... One sec, I'll bug SogBot to ask the consort shop about it.</span><br />
+[06:22:28] <span style="color:#d1cfcd"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+[06:22:28] <span style="color:#0000ff">CBB: ...huh...brb...</span><br />
+[06:22:33] <span style="color:#d1cfcd"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+[06:22:33] <span style="color:#d1cfcd"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+[06:22:46] <span style="color:#0080ff">CFL: Let me guess</span><br />
+[06:22:53] <span style="color:#0080ff">CFL: "they charge extra"</span><br />
+[06:23:11] <span style="color:#2806ea">CEQ: uh...</span><br />
+[06:23:29] <span style="color:#2806ea">CEQ: No, thankfully.</span><br />
+[06:24:08] <span style="color:#2806ea">CEQ: They apparently have a site or something where you can order from...</span><br />
+[06:24:35] <span style="color:#0080ff">CFL: they do?</span><br />
+[06:24:39] <span style="color:#0080ff">CFL: :o</span><br />
+[06:24:46] <span style="color:#2806ea">CEQ: ... why a consort shop has a site just for mail-ordering things, I have no idea.</span><br />
+[06:24:48] <span style="color:#2806ea">CEQ: yeah</span><br />
+[06:25:04] <span style="color:#2806ea">CEQ: one sec, lemmie get the link...</span><br />
+[06:27:31] <span style="color:#2806ea">CEQ: It is : www.colorrangegoods.com/order</span><br />
+[06:30:05] <span style="color:#0080ff">CFL: ...</span><br />
+[06:30:54] <span style="color:#2806ea">CEQ: chameleons. Color range. I don't make the names for their things.</span><br />
+[06:31:32] <span style="color:#0080ff">CFL: i'm trying to keep from laughing actually.</span><br />
+[06:32:15] <span style="color:#2806ea">CEQ: Hm.</span><br />
+[06:38:20] <span style="color:#0080ff">CFL: ...no spoon</span><br />
+[06:38:31] <span style="color:#2806ea">CEQ: ?</span><br />
+[06:38:34] <span style="color:#0080ff">CFL: I've been going over my entry log</span><br />
+[06:38:44] <span style="color:#0080ff">CFL: one of the messages was "no spoon"</span><br />
+[06:38:57] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[06:38:57] <span style="color:#6507ff">CTT: ..whaτ</span><br />
+[06:39:09] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:39:09] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[06:39:31] <span style="color:#0080ff">CFL: I'm serious</span><br />
+[06:42:10] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[06:42:10] <span style="color:#ee1e00">CCP: yeah. "no spoon", "could not load texture 5", and a bunch of other stuff</span><br />
+[06:46:28] <span style="color:#0080ff">CFL: oh god</span><br />
+[06:46:38] <span style="color:#0080ff">CFL: if only we knew back then</span><br />
+[06:46:39] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[06:46:53] <span style="color:#0080ff">CFL: "Chump Detected"</span><br />
+[06:47:43] <span style="color:#ee1e00">CCP: ........</span><br />
+[06:48:06] <span style="color:#ee1e00">CCP:  <a href='http://creeperpuncher.tumblr.com/post/58402837182/never-knew-i-needed-this-until-now'>http://creeperpuncher.tumblr.com/post/58402837182/never-knew-i-needed-this-until-now</a> &lt;== bwaaaaaaaah.wav, only appropriate reaction</span><br />
+[06:48:40] <span style="color:#d1cfcd"><span style="color:#55aa00">CURRENT suddenlyEchoes [CSE]</span> RIGHT NOW responded to memo.</span><br />
+[06:48:40] <span style="color:#55aa00">CSE: what</span><br />
+[06:54:04] <span style="color:#0080ff">CFL: Turbulence Whacked, Cords Frayed, Could Not Load Texture 5, Tutorial Files Destroyed!, Keystones Worn-down, No Spoon, Drywall Rotted, Knobs De-greased, Nails Bent, Porcelain Stolen, Chump Detected, Wingnuts Stripped, and Corridors Frozen</span><br />
+[06:57:36] <span style="color:#0080ff">CFL: Shocks Torn, Joints Locked, Channels Disconnected, Rotary Pestles Un-torqued, Jogging Wheels Halted</span><br />
+[06:58:05] <span style="color:#ee1e00">CCP: jogging wheels?</span><br />
+[06:59:24] <span style="color:#0080ff">CFL: Wrestlers Unshaven, Splines Unarticulated, Wifi Signals Lost, Marbles Misplaced, Goats Unbleated, Joist Infestation Detected, Tribble Population Critical...</span><br />
+[07:00:03] <span style="color:#0080ff">CFL: Cortical Matrix Dismantled, Enemy Spawnrate Unbound, Excessive Wibbliness Detected, CHANDELIER.exe Has Crashed...</span><br />
+[07:00:44] <span style="color:#ee1e00">CCP: tribble population pfft</span><br />
+[07:01:09] <span style="color:#ee1e00">CCP: wait, chandelier.exe has crashed? hopy shit, is it talking about what we had to do pre-entry?!</span><br />
+[07:02:07] <span style="color:#0080ff">CFL: You shouldn't have done that., Planetary Data Eroding, Critical: Mode Set-BACAFE, BNY35uDS5u, STOL, MODULE CORE HEMORRHAGE, VIRUS DETECTED: ID-x13lh79CH...</span><br />
+[07:02:47] <span style="color:#ee1e00">CCP: that is a LOT of errors.</span><br />
+[07:02:56] <span style="color:#0080ff">CFL: Error (firewall.ath), Errof: FenestratedPlane::(~ICU)</span><br />
+[07:04:04] <span style="color:#0080ff">CFL: thats it</span><br />
+[07:07:20] <span style="color:#0080ff">CFL: So, the Matrix, Startrek, Ben Drowned, and <span style="color:#bacafe">BaCafé</span>.</span><br />
+[07:10:51] <span style="color:#0080ff">CFL: any other references?</span><br />
+[07:11:08] <span style="color:#0080ff">CFL: that we can remove from this list?</span><br />
+[07:11:40] <span style="color:#ee1e00">CCP: Splines Unarticulated... obvious simcity ref</span><br />
+[07:15:41] <span style="color:#0080ff">CFL: the virus when inserted as land code is a Seer of Space</span><br />
+[07:16:36] <span style="color:#ee1e00">CCP: hm? it's nine characters though, which did you drop?</span><br />
+[07:16:39] <span style="color:#0080ff">CFL: removing the ID-x bit</span><br />
+[07:16:58] <span style="color:#0080ff">CFL: as its like 0x?????? or something like that</span><br />
+[07:17:05] <span style="color:#0080ff">CFL: I assume</span><br />
+[07:18:04] <span style="color:#0080ff">CFL: I'm scared about the foreshadowing...</span><br />
+[07:18:31] <span style="color:#2806ea">CEQ: indeed...</span><br />
+[07:18:33] <span style="color:#0080ff">CFL: Where are the Nightmare Marbles out there anyway?</span><br />
+[07:18:39] <span style="color:#0080ff">CFL: have we... misplaced them?</span><br />
+[07:18:55] <span style="color:#d1cfcd"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[07:18:55] <span style="color:#7ccfb2">CAG: … wtf is going on</span><br />
+[07:19:09] <span style="color:#55aa00">CSE: i dunno</span><br />
+[07:19:18] <span style="color:#7ccfb2">CAG: okay.</span><br />
+[07:19:22] <span style="color:#0080ff">CFL: We are trying to extract data from the entry error log</span><br />
+[07:19:33] <span style="color:#0080ff">CFL: as it had "Chump Detected" in it.</span><br />
+[07:19:40] <span style="color:#ee1e00">CCP: misplaced nightmare marbles? wat</span><br />
+[07:19:52] <span style="color:#0080ff">CFL: Well, Missplaced Marbles... so eh</span><br />
+[07:19:59] <span style="color:#0080ff">CFL: "Marbles Misplaced"</span><br />
+[07:23:17] <span style="color:#0080ff">CFL: ...What if the Tribble Population Critical isn't just a reference?</span><br />
+[07:23:26] <span style="color:#0080ff">CFL: What if we get too many pets?</span><br />
+[07:26:45] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  &gt;:/ --</span><br />
+[07:26:53] <span style="color:#0080ff">CFL: maybe thats why we were told not to make pokemon</span><br />
+[07:26:58] <span style="color:#0080ff">CFL: because of THIS</span><br />
+[07:27:09] <span style="color:#ee1e00">CCP: :(</span><br />
+[07:27:24] <span style="color:#2806ea">CEQ: Aw...</span><br />
+[07:29:31] <span style="color:#ee1e00">CCP: let's see... Crux, Kutone, Ruari, that snake someone mentioned, Gambit's kitten(s)... I'd say, not including the frogs, there's at most like ten pets if you round way up.</span><br />
+[07:29:41] <span style="color:#0080ff">CFL: Snake?</span><br />
+[07:29:44] <span style="color:#7ccfb2">CAG: Satan's IA's kitten.</span><br />
+[07:29:50] <span style="color:#ee1e00">CCP: oh.</span><br />
+[07:29:57] <span style="color:#7ccfb2">CAG: I gave her away.</span><br />
+[07:30:05] <span style="color:#0080ff">CFL: We did get some snakes from the dungeon at NV's land...</span><br />
+[07:30:10] <span style="color:#ee1e00">CCP: anyway, point is that's not even close to "population critical"...</span><br />
+[07:30:19] <span style="color:#0080ff">CFL: I named mine Monty.</span><br />
+[07:30:37] <span style="color:#0080ff">CFL: Plus there was the entire meteor of dogs I picked Crux up from...</span><br />
+[07:30:37] <span style="color:#ee1e00">CCP: snrk</span><br />
+[07:31:28] <span style="color:#ee1e00">CCP: still, I'd say we're pretty much fine for now.</span><br />
+[07:31:48] <span style="color:#0080ff">CFL: What about AI's taking up processing power?</span><br />
+[07:31:59] <span style="color:#2806ea">CEQ: good point...</span><br />
+[07:32:06] <span style="color:#d1cfcd"><span style="color:#aaaa7f">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[07:32:06] <span style="color:#aaaa7f">CFF: back!</span><br />
+[07:32:12] <span style="color:#aaaa7f">CFF: whut I miss?</span><br />
+[07:32:24] <span style="color:#0080ff">CFL: Foreshadowing detection</span><br />
+[07:32:25] <span style="color:#ee1e00">CCP: plus, you have to remember Bakagami was the one that initially coded our version of the game, including the launcher. he must've been warned by his futureself what would be coming...</span><br />
+[07:32:44] <span style="color:#0080ff">CFL: yeah...</span><br />
+[07:33:10] <span style="color:#0080ff">CFL: DT almost pulled off the VIRUS DETECTED: ID-x13lh79CH</span><br />
+[07:33:22] <span style="color:#ee1e00">CCP: O________O</span><br />
+[07:33:27] <span style="color:#0080ff">CFL: Unless it detected it without it running...</span><br />
+[07:33:33] <span style="color:#2806ea">CEQ: um...</span><br />
+[07:34:01] <span style="color:#ee1e00">CCP: well, antivirus programs do detect things even if they don't actually run so...</span><br />
+[07:34:11] <span style="color:#0080ff">CFL: yeah...</span><br />
+[07:34:23] <span style="color:#0080ff">CFL: but then we had the Error (firewall.ath)</span><br />
+[07:34:31] <span style="color:#0080ff">CFL: so... :/</span><br />
+[07:34:45] <span style="color:#0080ff">CFL: yeah. :\</span><br />
+[07:34:59] <span style="color:#ee1e00">CCP: still, about the pets specifically, I don't see any problems with it.</span><br />
+[07:35:06] <span style="color:#0080ff">CFL: Me neither</span><br />
+[07:35:19] <span style="color:#0080ff">CFL: At least right now.</span><br />
+[07:35:29] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>?</span><br />
+[07:36:00] <span style="color:#ee1e00">CCP: also you do realize that our dogs are probably reading this memo on our respective computhingies, right?</span><br />
+[07:36:02] <span style="color:#ee1e00">CCP: just fyi.</span><br />
+[07:36:19] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>what?</span><br />
+[07:36:20] <span style="color:#0080ff">CFL: As soon as people start hitting the 3 pet mark something is going wrong.</span><br />
+[07:38:24] <span style="color:#0080ff">CFL: oh god</span><br />
+[07:38:39] <span style="color:#0080ff">CFL: UNKNOWN ERROR flips to HELP ME</span><br />
+[07:38:49] <span style="color:#0080ff">CFL: we should have /known/</span><br />
+[07:39:05] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[07:39:05] <span style="color:#a80000">CFA: (\ ...The fuck are yyou guyys talking about? /)</span><br />
+[07:39:15] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>what are you buggers talking bout?</span><br />
+[07:39:33] <span style="color:#0080ff">CFL: Entry log reading.</span><br />
+[07:39:35] <span style="color:#d1cfcd"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+[07:39:35] <span style="color:#ceca54">CFS: ~}----  I was about to ask the exact same thing</span><br />
+[07:39:58] <span style="color:#0080ff">CFL: DefineEditText(48) and (49)</span><br />
+[07:40:18] <span style="color:#d1cfcd"><span style="color:#008282">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+[07:40:18] <span style="color:#008282">CCA: ∞ what are those? Σ</span><br />
+[07:41:48] <span style="color:#0080ff">CFL: lines in <a href='http://sbargv2.com/enter/load.swf'>http://sbargv2.com/enter/load.swf</a></span><br />
+[07:42:01] <span style="color:#0080ff">CFL: yes I'm decrypting this stuff</span><br />
+[07:43:59] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>why?</span><br />
+[07:44:14] <span style="color:#0080ff">CFL: because I need something to do.</span><br />
+[07:44:57] <span style="color:#0080ff">CFL: and finding ancient pleas for help, a secret class and a misnamed land... well, it gets interesting.</span><br />
+[07:45:09] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>a what now?</span><br />
+[07:45:48] <span style="color:#d1cfcd"><span style="color:#887000">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[07:45:48] <span style="color:#887000">CSL: that was the clown right</span><br />
+[07:45:58] <span style="color:#0080ff">CFL: Ornis crying for help in the loading flash, clown and "amparts".</span><br />
+[07:46:01] <span style="color:#0080ff">CFL: yeah</span><br />
+[07:46:21] <span style="color:#2806ea">CEQ: huh...</span><br />
+[07:46:29] <span style="color:#887000">CSL: kefka of time</span><br />
+[07:46:34] <span style="color:#aaaa7f">CFF: yikes<span style="color:#00ff00">...</span></span><br />
+[07:47:44] <span style="color:#0080ff">CFL: based on the position in the array I believe amparts was supposed to be /r/amparts</span><br />
+[07:48:46] <span style="color:#ee1e00">CCP: ........a subreddit? wat.</span><br />
+[07:49:18] <span style="color:#0080ff">CFL: nevermind</span><br />
+[07:49:38] <span style="color:#0080ff">CFL: I was trying to bring attention to the "R" but it didn't work.</span><br />
+[07:49:50] <span style="color:#0080ff">CFL: Basically, amparts should be Ramparts.</span><br />
+[07:49:56] <span style="color:#ee1e00">CCP: oh.</span><br />
+[07:50:07] <span style="color:#aaaa7f">CFF: I'm just clubbing at the moment.</span><br />
+[07:51:46] <span style="color:#0080ff">CFL: ................</span><br />
+[07:52:08] <span style="color:#ee1e00">CCP: .</span><br />
+[07:52:08] <span style="color:#ee1e00">CCP: .</span><br />
+[07:52:09] <span style="color:#ee1e00">CCP: .</span><br />
+[07:53:21] <span style="color:#0080ff">CFL: oh gog potato</span><br />
+[07:53:22] <span style="color:#aaaa7f">CFF: what?</span><br />
+[07:53:33] <span style="color:#887000">CSL: should we register /r/amparts as the official sbarg subreddit</span><br />
+[07:54:39] <span style="color:#0080ff">CFL: no</span><br />
+[07:54:52] <span style="color:#0080ff">CFL: ask ornis what /he/ wants.</span><br />
+[07:56:40] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[07:56:40] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[08:02:17] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:02:17] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[08:07:35] <span style="color:#aaaa7f">CFF: Soooooo borrrrrreeedddd<span style="color:#00ff00">...</span></span><br />
+[08:08:22] <span style="color:#2806ea">CEQ: mhm...</span><br />
+[08:08:33] <span style="color:#d1cfcd"><span style="color:#000000">CKM</span> ceased responding to memo.</span><br />
+[08:08:33] <span style="color:#d1cfcd"><span style="color:#000000">CKM</span> ceased responding to memo.</span><br />
+[08:09:02] <span style="color:#d1cfcd"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+[08:09:02] <span style="color:#008400">CDS: hello?</span><br />
+[08:09:16] <span style="color:#aaaa7f">CFF: hello!</span><br />
+[08:09:22] <span style="color:#008400">CDS: hi FF</span><br />
+[08:09:28] <span style="color:#0080ff">CFL: please bring something to do...</span><br />
+[08:09:29] <span style="color:#008400">CDS: so what have i been missing?</span><br />
+[08:09:32] <span style="color:#aaaa7f">CFF: How goes things?</span><br />
+[08:09:41] <span style="color:#ee1e00">CCP: sup DS</span><br />
+[08:09:47] <span style="color:#008400">CDS: well I found a realy deep hole on my planet</span><br />
+[08:09:52] <span style="color:#0080ff">CFL: Well I discovered foreshadowing when I looked back at a few things</span><br />
+[08:10:01] <span style="color:#008400">CDS: and thats where I have been</span><br />
+[08:10:04] <span style="color:#0080ff">CFL: Like "Chump Detected" and "HELP ME"</span><br />
+[08:10:05] <span style="color:#aaaa7f">CFF: Well<span style="color:#00ff00">...</span> two Denizen battles, drama, all the dungeons, and now song thingies.</span><br />
+[08:10:08] <span style="color:#ee1e00">CCP: huh.</span><br />
+[08:10:10] <span style="color:#2806ea">CEQ: mhm</span><br />
+[08:10:39] <span style="color:#008400">CDS: didnt we alredy fight the Denizen when chronos told us to?</span><br />
+[08:10:52] <span style="color:#ee1e00">CCP: that was Round One</span><br />
+[08:11:06] <span style="color:#008400">CDS: um... ok?</span><br />
+[08:11:20] <span style="color:#ee1e00">CCP: all of these have been Round Two, and most of them resulted in ascensions for their players</span><br />
+[08:11:21] <span style="color:#aaaa7f">CFF: Also uh<span style="color:#00ff00">...</span> at a later date, may need your help with fighting my Denizen.</span><br />
+[08:11:36] <span style="color:#2806ea">CEQ: Indeed...</span><br />
+[08:12:07] <span style="color:#ee1e00">CCP: also DS, what are your consorts again?</span><br />
+[08:12:10] <span style="color:#aaaa7f">CFF: Kind of need it for my last ladder thingy.</span><br />
+[08:12:14] <span style="color:#008400">CDS: Wolfs</span><br />
+[08:12:22] <span style="color:#ee1e00">CCP: ah</span><br />
+[08:12:46] <span style="color:#008400">CDS: and their culture is strangly simaler to Native Amarican culture.</span><br />
+[08:12:55] <span style="color:#ee1e00">CCP: yeah, I remembered someone having wolves for consorts... kinda wanted to actually meet them for the fun of it</span><br />
+[08:13:00] <span style="color:#008400">CDS: See my journal post on assention.</span><br />
+[08:13:05] <span style="color:#2806ea">CEQ: Huh</span><br />
+[08:13:11] <span style="color:#ee1e00">CCP: saw it. that's what reminded me about it</span><br />
+[08:13:23] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>Can I borrow some of those wolfs consorts? want them to eat someone's face.</span><br />
+[08:13:28] <span style="color:#d1cfcd"><span style="color:#887000">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[08:13:28] <span style="color:#887000">CSL: i still need to</span><br />
+[08:13:29] <span style="color:#887000">CSL: meet</span><br />
+[08:13:31] <span style="color:#887000">CSL: my denizen</span><br />
+[08:13:33] <span style="color:#008400">CDS: ((when I find the time CP classes just started back today))</span><br />
+[08:13:46] <span style="color:#ee1e00">CCP: ((yeah sure, totally understand))</span><br />
+[08:13:52] <span style="color:#008400">CDS: um no FF</span><br />
+[08:14:00] <span style="color:#887000">CSL: also ff that will only lead to adopting a wolfdaughter</span><br />
+[08:14:03] <span style="color:#887000">CSL: trust me</span><br />
+[08:14:12] <span style="color:#ee1e00">CCP: I still need to FIND my denizen... Cetus has been missing for at least two months now.</span><br />
+[08:14:17] <span style="color:#aaaa7f">CFF: The Guy is a grade a dick, DS. the universe will thank you.</span><br />
+[08:14:23] <span style="color:#d1cfcd"><span style="color:#ff0000">CURRENT avidCurator [CAC]</span> RIGHT NOW responded to memo.</span><br />
+[08:14:23] <span style="color:#ff0000">CAC: hi</span><br />
+[08:14:33] <span style="color:#008400">CDS: uh no</span><br />
+[08:14:33] <span style="color:#aaaa7f">CFF: hello?</span><br />
+[08:14:34] <span style="color:#ee1e00">CCP: think this dungeon I've been putting off for THREE months might help lead to her, or something.</span><br />
+[08:14:39] <span style="color:#2806ea">CEQ: Hm</span><br />
+[08:14:53] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span>yeah, CP, you MIGHT want to do that soon.</span><br />
+[08:15:06] <span style="color:#887000">CSL: ...motherfucker</span><br />
+[08:15:12] <span style="color:#887000">CSL: i bet my denizen kidnapped amy</span><br />
+[08:15:25] <span style="color:#008400">CDS: just let me know when your going CP.</span><br />
+[08:15:25] <span style="color:#ee1e00">CCP: I know. ((AS SOON AS I FINISH FUCKING WRITING THE THING! PLUS IT'S ONLY PART ONE OF A THREE-PART DUNGEON PLOT))</span><br />
+[08:15:36] <span style="color:#aaaa7f">CFF: ((...oh dear))</span><br />
+[08:15:50] <span style="color:#ff0000">CAC: ((You</span><br />
+[08:15:56] <span style="color:#ff0000">CAC: ((you're fucked))</span><br />
+[08:15:56] <span style="color:#ee1e00">CCP: I assume your consorts do speak english...</span><br />
+[08:16:16] <span style="color:#ee1e00">CCP: ((I'm typing the script right now actually :P))</span><br />
+[08:16:31] <span style="color:#ee1e00">CCP: ((also AC, tell me your color isn't 0xEE1E00.))</span><br />
+[08:16:49] <span style="color:#ff0000">CAC: (( I just chose default candy red))</span><br />
+[08:17:00] <span style="color:#6507ff">CTT: defyhτukijjjjjjjjjjjjjjjjjjj</span><br />
+[08:17:05] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[08:17:09] <span style="color:#ee1e00">CCP: you ok Kat?</span><br />
+[08:17:09] <span style="color:#008400">CDS: ?</span><br />
+[08:17:20] <span style="color:#ff0000">CAC: ((I feel like making a new character :P</span><br />
+[08:17:22] <span style="color:#aaaa7f">CFF: LC's trying to look human.</span><br />
+[08:17:22] <span style="color:#ff0000">CAC: ))</span><br />
+[08:17:38] <span style="color:#887000">CSL: ((i need to map out the battleship))</span><br />
+[08:17:49] <span style="color:#0080ff">CFL: (( I need to sleep, later. ))</span><br />
+[08:17:49] <span style="color:#ff0000">CAC: ((I LOVE MAPS!!!!!!!!!))</span><br />
+[08:18:19] <span style="color:#0080ff">CFL: (( try and solve this "puzzle" of my own design. ))</span><br />
+[08:18:38] <span style="color:#ee1e00">CCP: ((reason it took me so motherbarking long for this dungeon was because of work, and shenanigans, and then having to build the map in Minecraft...))</span><br />
+[08:19:09] <span style="color:#d1cfcd"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+[08:19:09] <span style="color:#d1cfcd"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />
+[08:19:21] <span style="color:#0080ff">CFL: (( <a href='http://flmun.tumblr.com/post/58505088300/010101010100010101010110010101010101001101010110010'>http://flmun.tumblr.com/post/58505088300/010101010100010101010110010101010101001101010110010</a> ))</span><br />
+[08:19:23] <span style="color:#d1cfcd"><span style="color:#00ff08">CURRENT sanguinaryPyro [CSP]</span> RIGHT NOW responded to memo.</span><br />
+[08:19:23] <span style="color:#00ff08">CSP: ((new character))</span><br />
+[08:19:24] <span style="color:#0080ff">CFL: (( HAVE FUN ))</span><br />

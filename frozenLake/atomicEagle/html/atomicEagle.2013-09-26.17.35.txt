@@ -1,0 +1,7 @@
+[05:35:15] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:35 --</span><br />
+[05:35:18] <span style="color:#d5d500">AE: okAy</span><br />
+[05:35:20] <span style="color:#d5d500">AE: whAt's going on?</span><br />
+[05:35:32] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging atomicEagle <span style="color:#d5d500">[AE]</span> at 17:35 --</span><br />
+[05:35:40] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:35 --</span><br />
+[05:35:40] <span style="color:#d5d500">AE: wow, rood</span><br />
+[05:35:41] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:35 --</span><br />

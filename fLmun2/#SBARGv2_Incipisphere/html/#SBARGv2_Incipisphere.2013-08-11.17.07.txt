@@ -1,0 +1,5 @@
+[05:07:03] <span style="color:#005500">CNV: { ll }</span><br />
+[05:07:05] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[05:07:09] <span style="color:#005500">CNV: { kk* }</span><br />
+[05:07:11] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[05:07:31] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

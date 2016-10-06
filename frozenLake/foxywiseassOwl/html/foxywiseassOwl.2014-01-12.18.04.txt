@@ -1,0 +1,3 @@
+[06:04:22] <span style="color:#646464">-- foxywiseassOwl <span style="color:#000000">[FO]</span> began pestering pesterClient279 <span style="color:#000000">[PC]</span> at 18:04 --</span><br />
+[06:04:25] <span style="color:#871b1d">FO: hello</span><br />
+[06:04:35] <span style="color:#646464">-- pesterClient279 <span style="color:#000000">[PC]</span> ceased pestering foxywiseassOwl <span style="color:#871b1d">[FO]</span> at 18:04 --</span><br />

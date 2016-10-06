@@ -1,0 +1,4 @@
+<span style="color:#646464"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT littleElephant [CLE]</span> RIGHT NOW responded to memo.</span><br />
+PESTERCHUM:ВРЕМЯ&gt;C:ВРЕМЯ&gt;i<br />
+<span style="color:#646464"><span style="color:#000000">CLE</span> ceased responding to memo.</span><br />

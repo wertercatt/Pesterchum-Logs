@@ -1,0 +1,2 @@
+[20:07:38] <span style="color:#d1cfcd">-- hoodedMadman <span style="color:#000000">[HM]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 20:07 --</span><br />
+[20:07:39] <span style="color:#d1cfcd">-- hoodedMadman <span style="color:#8f151b">[HM]</span> stopped messaging frozenLake <span style="color:#0078f0">[FL]</span> at 20:07 --</span><br />

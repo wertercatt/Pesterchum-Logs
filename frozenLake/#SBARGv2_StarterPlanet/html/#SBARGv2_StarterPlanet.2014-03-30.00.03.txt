@@ -1,0 +1,11 @@
+[00:03:57] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[16:35:57] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+[16:43:03] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[16:43:03] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks out the bar window, yawning --</span><br />
+[16:43:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is flying into space off in the distance. --</span><br />
+[16:43:53] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[16:52:12] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  cannot be seen unless someone is nearby him, scrying, or using a high powered telescope. --</span><br />
+[16:52:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // well, now at least --</span><br />
+[17:15:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is flying back down to the planet. --</span><br />
+[17:17:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  lands at the bar. --</span><br />
+[17:20:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks into the bar. --</span><br />

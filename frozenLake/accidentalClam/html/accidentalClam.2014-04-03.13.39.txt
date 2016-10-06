@@ -1,0 +1,3 @@
+[13:39:36] <span style="color:#d1cfcd">-- accidentalClam <span style="color:#000000">[AC]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 13:39 --</span><br />
+[13:40:04] <span style="color:#910637">AC: |3 hello</span><br />
+[13:43:24] <span style="color:#d1cfcd">-- accidentalClam <span style="color:#910637">[AC]</span> stopped messaging frozenLake <span style="color:#0078f0">[FL]</span> at 13:43 --</span><br />

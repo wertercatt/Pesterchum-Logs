@@ -1,0 +1,237 @@
+<span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hovers to the window. --</span><br />
+<span style="color:#d1cfcd"><span style="color:#d00000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d00000">CFA: (\ "Knickers in a twist" YYou stop that shit /)</span><br />
+<span style="color:#d1cfcd"><span style="color:#970025">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  walks into the cafe with a lazy stride, lazily waving with a grin. --</span><br />
+<span style="color:#970025">CRS: Hehehe.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  ties her hair up into the high pony-tail wth a red ribbon, captchalogging a hairbrush that was in her hand --</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  waves back --</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  heads FA a trio of cards. --</span><br />
+<span style="color:#970025">CRS: Full disclosure I'm an idiot who can't leave well enough alone</span><br />
+<span style="color:#970025">CRS: One of 'em the original, just in case you wanted that for whatever reason.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  takes the cards between her fingers, holding them out to examine them --</span><br />
+<span style="color:#d00000">CFA: (\ Huh /)</span><br />
+<span style="color:#970025">CRS: The one in the middle's the upgrade. Tweaked the engines for higher speed and functionallity in any terrain, space, heat, cold, whatever.</span><br />
+<span style="color:#d00000">CFA: (\ Dang... /)</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  opens the window and climbs inside. --</span><br />
+<span style="color:#970025">CRS: And beefed the durability up some for good measure. Natch.</span><br />
+<span style="color:#0080ff">CFL: Yeah, I can't take the door like a normal person, so sue me.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  stores the others, uncaptchalogging the upgraded board, letting it hover in front of her before stepping onto it, rocking back and forth a bit --</span><br />
+<span style="color:#970025">CRS: Dork.</span><br />
+<span style="color:#970025">CRS: And the third...</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  takes the third card out again, The wing of cards that was her modus open behind her still --</span><br />
+<span style="color:#d00000">CFA: (\ YYeah? /)</span><br />
+<span style="color:#970025">CRS: Well I went even crazier with that one. Alchemized it with a set of wings and tricked those out similarly.</span><br />
+<span style="color:#970025">CRS: Just in case a Rocket Board wasn't doing it for you, Rocket Wings, yo.</span><br />
+<span style="color:#d00000">CFA: (\ Oh shit, Hell yyes /)</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  switches the boards out and steps up onto the Winged one, grinning ear to ear --</span><br />
+<span style="color:#0080ff">CFL: So, lets see... what exactly does each of those cards symbolize again?</span><br />
+<span style="color:#970025">CRS: Capcha cards.</span><br />
+<span style="color:#0080ff">CFL: No, not those.</span><br />
+<span style="color:#970025">CRS: Could've lugged all of 'em around buuuut didn't feel like it</span><br />
+<span style="color:#0080ff">CFL: The tarot cards?</span><br />
+<span style="color:#970025">CRS: Oh, those.</span><br />
+<span style="color:#970025">CRS: Yeah.</span><br />
+<span style="color:#970025">CRS: Special tarots with varying abilities and a unified awesome quality for alchemy</span><br />
+<span style="color:#0080ff">CFL: Alright...</span><br />
+<span style="color:#0080ff">CFL: So, do I only get one card, or do I get a major arcana and a few minor arcana</span><br />
+<span style="color:#0080ff">CFL: ?</span><br />
+<span style="color:#970025">CRS: For now just one. Actually everyone's not around for free picking...</span><br />
+<span style="color:#970025">CRS: Hardly anyone is, really.</span><br />
+<span style="color:#0080ff">CFL: ...Then we wait.</span><br />
+<span style="color:#d1cfcd"><span style="color:#ff660d">CURRENT squealingVermin [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  transportalises in to the bacafé. (I presume that this is where the others are? )) --</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  (indeed) --</span><br />
+<span style="color:#0080ff">CFL: I figure if I'm going to get any of the minor arcana, it would be one of the wands cards.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is checking wikipedia on CompuTacts. --</span><br />
+<span style="color:#970025">CRS: First pick goes to everyone who was there, then the others, then if there're any left we loop</span><br />
+<span style="color:#970025">CRS: So the people who went'll probably get two at the least</span><br />
+<span style="color:#0080ff">CFL: Alright.</span><br />
+<span style="color:#0080ff">CFL: After all, there are like, 22 Major Arcana, and... 56 Minor Arcana.</span><br />
+<span style="color:#ff660d">CSV: Ah, you're finally handling the arcana</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  walks over to the others. --</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  stares into her Goggletop for a second before putting them up on her head --</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  doesn't know this one person standing near the others, he looks at her. --</span><br />
+<span style="color:#000000">CFL</span> made <span style="color:#000000">SV</span> an OP.<br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  looks back, raising an eyebrow --</span><br />
+<span style="color:#ff660d">CSV: Have we met before miss..?</span><br />
+<span style="color:#d00000">CFA: (\ Cant sayy we have /)</span><br />
+<span style="color:#0080ff">CFL: I say after our first picks, we choose at completely random... if thats okay.</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  reaches out his hand for a handshake in greeting to the lady. --</span><br />
+<span style="color:#d1cfcd"><span style="color:#ff3b00">CURRENT sVsprite [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT sVsprite <span style="color:#ff3b00">[CSV]</span>  pops up behind SV and reaches out with his spritely hand along with SV. --</span><br />
+<span style="color:#ff660d">CSV: The name is Hank.</span><br />
+<span style="color:#ff3b00">CSV: Hank's the name, being a sprite is my game.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  spins her board to accept the handshake, nodding, grinning --</span><br />
+<span style="color:#970025">CRS: Hahahaha</span><br />
+<span style="color:#0080ff">CFL: (( Basically, so we can give our characters cards that the normally wouldn't pick... like the Devil. ))</span><br />
+<span style="color:#d00000">CFA: (\ Dream self protyype? /)</span><br />
+<span style="color:#ff660d">CSV: Nope.</span><br />
+<span style="color:#ff3b00">CSV: Dead self.</span><br />
+<span style="color:#0080ff">CFL: Actually, its the other way around, FA.</span><br />
+<span style="color:#d00000">CFA: (\ Ahh /)</span><br />
+<span style="color:#ff660d">CSV: (( <a href='http://i.imgur.com/vdksN3B.png'>http://i.imgur.com/vdksN3B.png</a> ))</span><br />
+<span style="color:#d00000">CFA: (\ Huh, Well it's nice to meet yyou both, Call me Ashes, Or Ash /)</span><br />
+<span style="color:#d00000">CFA: (\ whatever suits yyour fancyy /)</span><br />
+<span style="color:#ff660d">CSV: Ah, we've met before than. I'm pleased to make acquaintance Ash.</span><br />
+<span style="color:#0080ff">CFL: Alright, Ash.</span><br />
+<span style="color:#ff660d">CSV: Then.*))</span><br />
+<span style="color:#ff660d">CSV: I'm SV in the memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  slips her hand in her jacket pocket, nodding --</span><br />
+<span style="color:#000000">CFL</span> made <span style="color:#000000">TT</span> an OP.<br />
+<span style="color:#ff3b00">CSV: Bitch he might me.</span><br />
+<span style="color:#d00000">CFA: (\ Cool, I'll remember th- /)</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  snrk --</span><br />
+<span style="color:#d1cfcd">-- CURRENT sVsprite <span style="color:#ff3b00">[CSV]</span>  fiddles around with Hank's hair. --</span><br />
+<span style="color:#d00000">CFA: (\ Sassyy sprite /)</span><br />
+<span style="color:#970025">CRS: Is there any other kind?</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  snorts. --</span><br />
+<span style="color:#d00000">CFA: (\ Anyywayy,I'd love to stayy and hang for a while, but myy Sprites freaking out because she's all alone back home /)</span><br />
+<span style="color:#ff3b00">CSV: SΦ what's gΦing Φn Φver here huh?</span><br />
+<span style="color:#ff3b00">CSV: ΦΦΦH! Ask her abΦut the pendant thingy.</span><br />
+<span style="color:#ff3b00">CSV: Like, yΦu can summΦn sprites with that thing.</span><br />
+<span style="color:#d00000">CFA: (\ IOh I know /)</span><br />
+<span style="color:#ff3b00">CSV: SV tries tΦ dΦ that, but like.. I never listen.</span><br />
+<span style="color:#d00000">CFA: (\ But she's injured right now /)</span><br />
+<span style="color:#ff660d">CSV: Injured?</span><br />
+<span style="color:#ff660d">CSV: From what, may I ask?</span><br />
+<span style="color:#d00000">CFA: (\ Because of the whole... Bakagami thing /)</span><br />
+<span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: ...</span><br />
+<span style="color:#ff660d">CSV: Bakagami?</span><br />
+<span style="color:#d00000">CFA: (\ I found Her on myy land yyesterdayy and she was hurt prettyy badlyy /)</span><br />
+<span style="color:#d00000">CFA: (\ Uh... Iunno, Ask Raz /)</span><br />
+<span style="color:#d00000">CFA: (\ RS* /)</span><br />
+<span style="color:#ff660d">CSV: You mean the resurrection of chronos?</span><br />
+<span style="color:#d00000">CFA: (\ SHHSHS /)</span><br />
+<span style="color:#d00000">CFA: (\ SHH /)</span><br />
+<span style="color:#ff660d">CSV: Oops, I ment voldemort</span><br />
+<span style="color:#d00000">CFA: (\ Thats whyy I said Bakagami /)</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  grins. --</span><br />
+<span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  CUE PUNCHING OF WALL --</span><br />
+<span style="color:#d00000">CFA: (\ Ha... /)</span><br />
+<span style="color:#d00000">CFA: (\ Anyywayy, yyeah, I gotta jet /)</span><br />
+<span style="color:#d00000">CFA: (\ I'll keep in touch /)</span><br />
+<span style="color:#ff660d">CSV: Alrighty then, see ya-</span><br />
+<span style="color:#ff3b00">CSV: LATER!</span><br />
+<span style="color:#970025">CRS: ...</span><br />
+<span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#d00000">[CFA]</span>  runs and front flips out the window, Taking off on her Rocketboard soon after --</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#970025">CRS: /,e :\</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  :\ * --</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulls out an inflatable sword, and attempts to bonk SVsprite with it. --</span><br />
+<span style="color:#d1cfcd">-- CURRENT sVsprite <span style="color:#ff3b00">[CSV]</span>  gets bonked. --</span><br />
+<span style="color:#ff3b00">CSV: BΦΦp!</span><br />
+<span style="color:#0080ff">CFL: That was rude.</span><br />
+<span style="color:#ff3b00">CSV: What is rudeness, hehehe.</span><br />
+<span style="color:#d1cfcd">-- CURRENT sVsprite <span style="color:#ff3b00">[CSV]</span>  poofs out. --</span><br />
+<span style="color:#6507ff">CTT: Θw....my fisτ...</span><br />
+<span style="color:#0080ff">CFL: I don't know, What is a man?</span><br />
+<span style="color:#0080ff">CFL: ...did I acutally just say that?</span><br />
+<span style="color:#970025">CRS: Nothing but a miserable pile of neurosis</span><br />
+<span style="color:#0080ff">CFL: (( I already know what I'm going to try to pick for FL. ))</span><br />
+<span style="color:#0080ff">CFL: (( I will pick some backups, though. ))</span><br />
+<span style="color:#ff660d">CSV: So.</span><br />
+<span style="color:#ff660d">CSV: On with the arcana thing.</span><br />
+<span style="color:#ff660d">CSV: My choice is pretty set</span><br />
+<span style="color:#6507ff">CTT: ..τhe whaτ</span><br />
+<span style="color:#970025">CRS: Tarot deck I got from Icarus.</span><br />
+<span style="color:#0080ff">CFL: Remember when we fought the real Icarus?</span><br />
+<span style="color:#6507ff">CTT: Θoooooh...</span><br />
+<span style="color:#6507ff">CTT: τhaτ.</span><br />
+<span style="color:#970025">CRS: You probably forgot but yeah, that was one of the rewards.</span><br />
+<span style="color:#0080ff">CFL: (( I was gonna pick the Tower and Hanged Man, because of symbolism. ))</span><br />
+<span style="color:#6507ff">CTT: ...I wonder how τhaτ buττmunch is doing</span><br />
+<span style="color:#0080ff">CFL: Likely building another robot for us to trash.</span><br />
+<span style="color:#970025">CRS: Hahahaha, right.</span><br />
+<span style="color:#970025">CRS: Sorry, but I'm probably picking absolutely first.</span><br />
+<span style="color:#970025">CRS: C'mon.</span><br />
+<span style="color:#0080ff">CFL: And this time, we are NOT letting him get away.</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  pushes a few tables together, pulling up a seat. --</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  sits down at the table. --</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  stands at the table. --</span><br />
+<span style="color:#6507ff">CTT: ((tbh idk which one I'll pick))</span><br />
+<span style="color:#970025">CRS: ((don't worry about it too much))</span><br />
+<span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  floats above said table --</span><br />
+<span style="color:#ff660d">CSV: ((For TT? I'd say The World ))</span><br />
+<span style="color:#6507ff">CTT: ((wait why))</span><br />
+<span style="color:#ff660d">CSV: ((      Fulfillment ----- Accomplishment ----- Success ----- Integration      Involvement ----- Prospering ----- Satisfaction ----- Repleteness      Contentment ----- Good feelings ----- Wholeness  ))</span><br />
+<span style="color:#970025">CRS: ...</span><br />
+<span style="color:#ff660d">CSV: (( Reading that rough again, does make me think that suits a breath player more. ))</span><br />
+<span style="color:#970025">CRS: Number 0, The Fool...</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  spreads the deck on the table, flipping them before pulling out The Fool. --</span><br />
+<span style="color:#970025">CRS: ...This one's mine.</span><br />
+<span style="color:#6507ff">CTT: Heh..</span><br />
+<span style="color:#ff660d">CSV: The Fool, the seeker.</span><br />
+<span style="color:#ff660d">CSV: Interesting!</span><br />
+<span style="color:#ff660d">CSV: My turn huh?</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  asks. --</span><br />
+<span style="color:#970025">CRS: Just a sec</span><br />
+<span style="color:#ff660d">CSV: Alrighty-o.</span><br />
+<span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  is thinking --</span><br />
+<span style="color:#970025">CRS: 22 Major Arcana...Well, 21, now that I've taken The Fool.</span><br />
+<span style="color:#970025">CRS: What's left are Magician, Priestess, Empress, Emperor, Hierophant, Lovers, Chariot, Justice, Hermit, Wheel of Fortune, Strength, Hanged Man, Death, Temperance, Devil, Tower, Star, Moon, Sun, Judgement, and Aeon.</span><br />
+<span style="color:#6507ff">CTT: ...▲eon?</span><br />
+<span style="color:#6507ff">CTT: whaτ</span><br />
+<span style="color:#ff660d">CSV: I call Judgement.</span><br />
+<span style="color:#970025">CRS: ...Actually there's something off there... But, nothing for it.</span><br />
+<span style="color:#970025">CRS: Yeah that sounds about right for Hank.</span><br />
+<span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#970025">[CRS]</span>  draws The Judgement card, handing it to Hank with a nod. --</span><br />
+<span style="color:#6507ff">CTT: Hrm...</span><br />
+<span style="color:#970025">CRS: I guess the only question becomes what it can do.</span><br />
+<span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  picks up the tower card, and looks at it. --</span><br />
+<span style="color:#0080ff">CFL: hmm...</span><br />
+<span style="color:#0080ff">CFL: Yeah, alright, this one.</span><br />
+<span style="color:#0080ff">CFL: I guess it doesn't matter, really.</span><br />
+<span style="color:#970025">CRS: Just pick whatever feels right.</span><br />
+<span style="color:#d1cfcd">-- CURRENT squealingVermin <span style="color:#ff660d">[CSV]</span>  takes the card. --</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CSV</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  looks pretty undecisive --</span><br />
+<span style="color:#0080ff">CFL: ...Well, I kinda felt... drawn to it...</span><br />
+<span style="color:#ff3b00">CSV: ((Me error'd out. btb))</span><br />
+<span style="color:#970025">CRS: And for the uninitated when it comes to Tarots, don't be put off by the ones like Death and Devil and Hanged Man and other such things.</span><br />
+<span style="color:#0080ff">CFL: Its a weird fealing.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CSV</span> ceased responding to memo.</span><br />
+<span style="color:#6507ff">CTT: I know...</span><br />
+<span style="color:#000000">CTT</span> made <span style="color:#000000">SV</span> an OP.<br />
+<span style="color:#970025">CRS: The meaning goes way deeper then is first known</span><br />
+<span style="color:#0080ff">CFL: (( feeling* ))</span><br />
+<span style="color:#6507ff">CTT: Hrm....</span><br />
+<span style="color:#0080ff">CFL: Uh, you in there?</span><br />
+<span style="color:#d1cfcd"><span style="color:#ff660d">CURRENT squealingVermin [CSV]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ff660d">CSV: ((Misses a giant chunk of text, are you referring to me? ))</span><br />
+<span style="color:#ff660d">CSV: ((As pesterchum did just crash on me ))</span><br />
+<span style="color:#6507ff">CTT: Hum....</span><br />
+<span style="color:#0080ff">CFL: (( No, I was refering to TT. ))</span><br />
+<span style="color:#6507ff">CTT: Huh-h?</span><br />
+<span style="color:#6507ff">CTT: I'm here..</span><br />
+<span style="color:#0080ff">CFL: ...Does it really take that long to pick?</span><br />
+<span style="color:#0080ff">CFL: Sorry, I'm just interested in what you decide to choose.</span><br />
+<span style="color:#0080ff">CFL: I'll shut up.</span><br />
+<span style="color:#6507ff">CTT: Thaτ's τhe problem...</span><br />
+<span style="color:#6507ff">CTT: I don'τ know which one...</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#6507ff">CTT: .n.</span><br />
+<span style="color:#970025">CRS: Don't worry about it too much. Lemme see...</span><br />
+<span style="color:#ff660d">CSV: (( I totally see TT going for XIII :DD ))</span><br />
+<span style="color:#6507ff">CTT: ((wait which one is that what))</span><br />
+<span style="color:#ff660d">CSV: ((Joking obviously, and DEATH</span><br />
+<span style="color:#6507ff">CTT: ((I was considering that one))</span><br />
+<span style="color:#970025">CRS: Wisdom, introspection, solitude, retreat and philosophical searches...</span><br />
+<span style="color:#970025">CRS: The Hermit.</span><br />
+<span style="color:#6507ff">CTT: huh..</span><br />
+<span style="color:#970025">CRS: Or, hidden knowledge or other untapped power, wisdom, female mystery, reservedness...</span><br />
+<span style="color:#970025">CRS: The Priestess</span><br />
+<span style="color:#6507ff">CTT: Hrm..</span><br />
+<span style="color:#6507ff">CTT: ((aah afk))</span><br />
+<span style="color:#0080ff">CFL: ...lets just play a game while waiting.</span><br />
+<span style="color:#6507ff">CTT: ((back also where are you getting these descriptions aaaa))</span><br />
+<span style="color:#ff660d">CSV: (( <a href='http://en.wikipedia.org/wiki/Major_Arcana'>http://en.wikipedia.org/wiki/Major_Arcana</a> ))</span><br />
+<span style="color:#6507ff">CTT: τhank</span><br />
+<span style="color:#6507ff">CTT: *(())</span><br />
+<span style="color:#970025">CRS: ((I'm actually getting them off the Megami Tensei wiki :V))</span><br />
+<span style="color:#970025">CRS: ((suplimenting with wiki pages for the true names and other assorted info/clarrification))</span><br />
+<span style="color:#6507ff">CTT: ((pft))</span><br />
+<span style="color:#0080ff">CFL: f</span><br />

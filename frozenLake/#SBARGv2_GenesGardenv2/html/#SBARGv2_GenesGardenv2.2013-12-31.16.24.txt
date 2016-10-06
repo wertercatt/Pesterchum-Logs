@@ -1,0 +1,268 @@
+[04:24:17] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:24:50] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[07:54:14] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[07:54:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  steps inside. --</span><br />
+[07:54:32] <span style="color:#d1cfcd"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+[07:54:32] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  re-enters the bar, and heads off to get some drinks. --</span><br />
+[07:56:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sits down at a table, holding his head. --</span><br />
+[07:57:01] <span style="color:#0080ff">CFL: ...I am a moron.</span><br />
+[07:57:21] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[07:57:21] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  enters --</span><br />
+[07:57:33] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  returns with several cans of soda, and turns to FL. --</span><br />
+[07:57:59] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[07:57:59] <span style="color:#ee1e00">CCP: it's okay FL, you couldn't test it so you didn't know it was going to fail like that.</span><br />
+[07:58:20] <span style="color:#0080ff">CFL: I should have accounted for murphys law.</span><br />
+[07:58:45] <span style="color:#0080ff">CFL: I /knew/ something would have gone wrong, its just too high of a chance knowing paradox space.</span><br />
+[07:58:45] <span style="color:#2806ea">CEQ: Eh. You made a miscalculation on something you couldnt test out before. Honestly, that sort of thing almost always is struck by murphy, so I don't really blame you much on that.</span><br />
+[08:00:08] <span style="color:#0080ff">CFL: I should have seen it coming.</span><br />
+[08:01:23] <span style="color:#2806ea">CEQ: Nah. Like I said: Murphy is bound to strike most always. Can't really blame yourself for bad luck or a miscalculation or two.</span><br />
+[08:02:17] <span style="color:#a2a280">CFF: ...You did do a test run, right?</span><br />
+[08:02:30] <span style="color:#a2a280">CFF: Or simulations?</span><br />
+[08:03:02] <span style="color:#2806ea">CEQ: He couldnt. It would have spoiled the surprise, if the test run would have been seen. Simluations can also take up time, so...</span><br />
+[08:09:13] <span style="color:#0080ff">CFL: And its not like I could have asked a time player, as that obviously would have caused a paradox.</span><br />
+[08:09:17] <span style="color:#a2a280">CFF: huh... oaky</span><br />
+[08:11:48] <span style="color:#0080ff">CFL: ...IB, could I have some lemonade?</span><br />
+[08:12:32] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks over to the jukebox, turning it on. (( <a href='http://plug.dj/ed91b7fc/'>http://plug.dj/ed91b7fc/</a> )) --</span><br />
+[08:13:01] <span style="color:#d1cfcd"><span style="color:#72a0ba">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+[08:13:01] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  slowly gets off of the bean bag and puts the blanket down. --</span><br />
+[08:13:25] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  goes to the bar and gets a lemonade for FL with a bit of a lag. --</span><br />
+[08:13:31] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  brings it to FL --</span><br />
+[08:13:55] <span style="color:#0080ff">CFL: Thanks.</span><br />
+[08:14:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sips the lemonade, wanting to make it last. --</span><br />
+[08:14:41] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  goes back to the bean bag and curls up on it, not bothering with the blanket --</span><br />
+[08:16:11] <span style="color:#ee1e00">CCP: ((not sure if I should even attempt to bother booting chrome just for the jukebox...))</span><br />
+[08:17:21] <span style="color:#0080ff">CFL: (( maybe you should see about finding a fix for firefox. ))</span><br />
+[08:18:52] <span style="color:#ee1e00">CCP: ((but before I could even attempt to install a fix, I'd have to deal with ALL FOUR HUNDRED of my tabs since Firefox Reset also perma-deletes Session Restore history.))</span><br />
+[08:20:24] <span style="color:#0080ff">CFL: (( okay um, maybe you need to get that addiction out of the way. ))</span><br />
+[08:20:38] <span style="color:#0080ff">CFL: (( close out the youtube tabs when you are done with them ))</span><br />
+[08:21:27] <span style="color:#ee1e00">CCP: ((I know what I need to do, it's just I need an /entire day where I'm not fucking DOING ANYTHING/ before I can actually do it.))</span><br />
+[08:22:40] <span style="color:#ee1e00">CCP: ((besides, since this problem has happened the past /several/ versions of both firefox AND flash player, I'm thinking it's not just the browser that's the problem, but the hardware.))</span><br />
+[08:23:07] <span style="color:#ee1e00">CCP: ((Chrome's custom, built-in flash player plays more nicely with my hardware than firefox's standalone flash so idk))</span><br />
+[08:23:14] <span style="color:#ee1e00">CCP: ((least that's the theory))</span><br />
+[08:24:57] <span style="color:#0080ff">CFL: (( ...noone is gonna play any music? ))</span><br />
+[08:25:33] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[08:25:33] <span style="color:#cb7de6">CSJ: ((busy building a playlist))</span><br />
+[08:25:50] <span style="color:#72a0ba">CIB: ((i added a song ))</span><br />
+[08:28:59] <span style="color:#72a0ba">CIB: ((need songs 2 happen. how do ))</span><br />
+[08:29:17] <span style="color:#0080ff">CFL: (( near the bottom left, there is a button to join the wait list. ))</span><br />
+[08:31:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sips. --</span><br />
+[08:33:30] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  listens to music --</span><br />
+[08:37:16] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[08:37:16] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[08:38:51] <span style="color:#0080ff">CFL: (( <a href='http://plug.dj/ed91b7fc/'>http://plug.dj/ed91b7fc/</a> ))</span><br />
+[08:38:55] <span style="color:#0080ff">CFL: (( for the jukebox ))</span><br />
+[08:38:57] <span style="color:#d1cfcd"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+[08:38:57] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  enters --</span><br />
+[08:39:03] <span style="color:#008400">CDS: hi!</span><br />
+[08:39:14] <span style="color:#cb7de6">CSJ: hey there shon. ➜</span><br />
+[08:39:21] <span style="color:#008400">CDS: ((did I miss the suprise party?))</span><br />
+[08:39:37] <span style="color:#ee1e00">CCP: ((surprise, yes. party, still sorta going on))</span><br />
+[08:39:41] <span style="color:#0080ff">CFL: (( ...there was a suprise party? ))</span><br />
+[08:39:48] <span style="color:#008400">CDS: ((forCP))</span><br />
+[08:39:54] <span style="color:#cb7de6">CSJ: ((I don't remember the surprise))</span><br />
+[08:39:58] <span style="color:#ee1e00">CCP: ((pseudo-surprise.))</span><br />
+[08:40:00] <span style="color:#0080ff">CFL: (( I mean, a party yes, but surprise I missed. ))</span><br />
+[08:40:12] <span style="color:#72a0ba">CIB: ((only me and EQ showed up ))</span><br />
+[08:40:24] <span style="color:#008400">CDS: Im sorry Im late I was... Indisposed.</span><br />
+[08:40:26] <span style="color:#ee1e00">CCP: ((as in, "IB kicked me out so the place could be decorated" was basically it))</span><br />
+[08:40:30] <span style="color:#cb7de6">CSJ: ((well, maybe you should have PM organized things &gt;_&gt;))</span><br />
+[08:40:36] <span style="color:#ee1e00">CCP: eh, it's understandable.</span><br />
+[08:40:44] <span style="color:#72a0ba">CIB: (( IB has been... "out of it" to say the least ))</span><br />
+[08:41:12] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  is curled up on a beanbag listening to the musics --</span><br />
+[08:41:13] <span style="color:#008400">CDS: ((I was going to help but dinner and a movie happened.))</span><br />
+[08:41:31] <span style="color:#008400">CDS: ((is there cake?))</span><br />
+[08:41:45] <span style="color:#ee1e00">CCP: ((yeah. two of them.))</span><br />
+[08:41:54] <span style="color:#008400">CDS: ((what do they look like?))</span><br />
+[08:41:57] <span style="color:#0080ff">CFL: (( one is cake flavor ))</span><br />
+[08:42:04] <span style="color:#0080ff">CFL: (( and betty crocker. ))</span><br />
+[08:42:41] <span style="color:#72a0ba">CIB: ((genercakes))</span><br />
+[08:42:51] <span style="color:#008400">CDS: Oh Cake!</span><br />
+[08:43:10] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  walks over to them. --</span><br />
+[08:43:15] <span style="color:#008400">CDS: Why is there two?</span><br />
+[08:43:36] <span style="color:#ee1e00">CCP: well, FL made one, then IB made a different one.</span><br />
+[08:43:50] <span style="color:#0080ff">CFL: ...Oh uh, DS, I hope the explosion didn't send shrappenal to spacedock.</span><br />
+[08:44:07] <span style="color:#008400">CDS: Explosion?</span><br />
+[08:44:34] <span style="color:#008400">CDS: No I didnt get any reports of Damage.</span><br />
+[08:44:37] <span style="color:#0080ff">CFL: Yeah, apparently beam writing tends to be rather explosive.</span><br />
+[08:44:39] <span style="color:#0080ff">CFL: Ah, good.</span><br />
+[08:44:43] <span style="color:#2806ea">CEQ: Uh... nothing to worry about then okay good.</span><br />
+[08:44:50] <span style="color:#ee1e00">CCP: that's a relief.</span><br />
+[08:45:13] <span style="color:#0080ff">CFL: I almost got killed by a toilet seat.</span><br />
+[08:45:22] <span style="color:#008400">CDS: If it did the dock has A diflector shield in place to protect it from solar wind.</span><br />
+[08:45:39] <span style="color:#0080ff">CFL: Alright.</span><br />
+[08:45:51] <span style="color:#008400">CDS: Charlie was that a refrence?</span><br />
+[08:45:57] <span style="color:#008400">CDS: To Dead like me?</span><br />
+[08:46:04] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  gets a slise of cake. --</span><br />
+[08:46:33] <span style="color:#0080ff">CFL: ...oh my god why is it that everyone except the people that were there get the reference.</span><br />
+[08:46:58] <span style="color:#0080ff">CFL: Like, what the hell.</span><br />
+[08:47:13] <span style="color:#008400">CDS: The main charecter died because a russhen space tolet de orbited.</span><br />
+[08:47:54] <span style="color:#008400">CDS: and Hit her while she was standing on a... street? or was it a park?</span><br />
+[08:48:01] <span style="color:#008400">CDS: And was it new york?</span><br />
+[08:49:06] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  sits down. --</span><br />
+[08:49:17] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  // how good is the cake? --</span><br />
+[08:49:59] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  quietly taps foot to music --</span><br />
+[08:50:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  cues up the next song... and dives for cover. --</span><br />
+[08:50:11] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //Cake Flavor is essentially plain white cake --</span><br />
+[08:50:23] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boggles vacantly at FL --</span><br />
+[08:50:30] <span style="color:#2806ea">CEQ: ...?</span><br />
+[08:50:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A large amount of cruxite is deployed as shielding. --</span><br />
+[08:50:58] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[08:50:59] <span style="color:#008400">CDS: ??</span><br />
+[08:51:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  checks his watch. --</span><br />
+[08:51:15] <span style="color:#008400">CDS: Any way Happy Birthday Kimura</span><br />
+[08:51:26] <span style="color:#ee1e00">CCP: thanks.</span><br />
+[08:53:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  applies more cruxite as shielding. --</span><br />
+[08:53:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flinches --</span><br />
+[08:53:29] <span style="color:#008400">CDS: ((hay CP what is the name of that straw cone hat thate japanise ware?))</span><br />
+[08:53:35] <span style="color:#2806ea">CEQ: ... Are you serious right now, FL?</span><br />
+[08:53:43] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  whispers "this is my jam~" --</span><br />
+[08:53:47] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  shrugs -- wait, she actually likes that song? --</span><br />
+[08:53:55] <span style="color:#ee1e00">CCP: ((I'm not sure actually...))</span><br />
+[08:54:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is under a fuckton of cruxite. --</span><br />
+[08:54:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // do /you/ think hes serious? --</span><br />
+[08:54:40] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  just sighs, and turns to her book again --</span><br />
+[08:54:42] <span style="color:#ee1e00">CCP: ((...also I think my stomach just /imploded/ from the amount of icing on this cake. urp.))</span><br />
+[08:56:09] <span style="color:#0080ff">CFL: ...can you feel the sunshine?</span><br />
+[08:56:41] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is tempted to chuck something at FL's cruxite fort. --</span><br />
+[08:57:12] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  burps, interrupting EQ's throw if that was gonna be a thing --</span><br />
+[08:57:50] <span style="color:#0080ff">CFL: 20...</span><br />
+[08:58:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gets out of the fort. --</span><br />
+[08:58:30] <span style="color:#2806ea">CEQ: Happy?</span><br />
+[08:58:36] <span style="color:#ee1e00">CCP: ...excuse me.</span><br />
+[08:58:42] <span style="color:#ee1e00">CCP: also FL, why were you hiding?</span><br />
+[08:59:17] <span style="color:#0080ff">CFL: Well I /knew/ what your reaction was going to be to the song.</span><br />
+[08:59:48] <span style="color:#0080ff">CFL: Infact, I should still be hiding incase of delayed vengence.</span><br />
+[09:00:03] <span style="color:#ee1e00">CCP: my only reaction was a cake burp. I don't know what you were expecting...</span><br />
+[09:00:28] <span style="color:#cb7de6">CSJ: what, that it's kinda cool and doesn't sound like it's actually associated with a creepy doll? ➜</span><br />
+[09:02:20] <span style="color:#0080ff">CFL: ...point made.</span><br />
+[09:02:55] <span style="color:#008400">CDS: any way Happy birthday Kimura.</span><br />
+[09:03:16] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  decapachalogs a wraped present. --</span><br />
+[09:04:09] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  takes it --</span><br />
+[09:04:16] <span style="color:#ee1e00">CCP: thanks</span><br />
+[09:04:21] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  unwraps it... --</span><br />
+[09:05:36] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  its a Rice pady hat. --</span><br />
+[09:06:13] <span style="color:#ee1e00">CCP: huh, cool. now I can do this.</span><br />
+[09:06:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  hatstack --</span><br />
+[09:06:33] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  mutters "what is this TF2?" --</span><br />
+[09:06:34] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the hat beeps --</span><br />
+[09:06:41] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[09:06:56] <span style="color:#0080ff">CFL: ...take it off.</span><br />
+[09:07:00] <span style="color:#0080ff">CFL: throw it</span><br />
+[09:07:06] <span style="color:#0080ff">CFL: BEEPING IS NOT GOOD</span><br />
+[09:07:07] <span style="color:#2806ea">CEQ: Eh..?</span><br />
+[09:07:09] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  a holografic screen apperes generated by hidden projecters in the brim. --</span><br />
+[09:07:24] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  covers his face expecting an explosion --</span><br />
+[09:07:28] <span style="color:#ee1e00">CCP: ...oh, it's a hat-top?</span><br />
+[09:07:36] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  it is where CP's face should be but hat stack. --</span><br />
+[09:08:02] <span style="color:#008400">CDS: its a bit more then that.</span><br />
+[09:08:29] <span style="color:#008400">CDS: ((coming up with this on the fly while playing a doctor at the same time D:))</span><br />
+[09:09:48] <span style="color:#ee1e00">CCP: ((totally understandable))</span><br />
+[09:10:38] <span style="color:#0080ff">CFL: ...So, how is /this/ music?</span><br />
+[09:11:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  taps a few buttons on his modus' wardrobifier screen, the two hats switching out before only the hat-top being equipped... also assuming there's holes for his ears to stick through --</span><br />
+[09:11:09] <span style="color:#cb7de6">CSJ: pretty sweet. ➜</span><br />
+[09:11:12] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  shrugs, and then walks over to the jukebox herself. --</span><br />
+[09:11:26] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ofcorse --</span><br />
+[09:12:00] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  // is taking the oppetunity to play something that may be kinda eerie so be warned --</span><br />
+[09:12:00] <span style="color:#ee1e00">CCP: so, what other features does it have besides being a hat-top?</span><br />
+[09:12:17] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  it interfaces with your modus giving you an visual inventory. --</span><br />
+[09:12:28] <span style="color:#008400">CDS: Say Activate EFS.</span><br />
+[09:12:44] <span style="color:#ee1e00">CCP: uh... "activate EFS"?</span><br />
+[09:13:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  jaw drops. --</span><br />
+[09:13:23] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  is far too much of a hungergames junkie. --</span><br />
+[09:13:31] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  should stop, huh? --</span><br />
+[09:13:35] <span style="color:#008400">CDS: a small indicator coms up showing a few green bars where evryone is</span><br />
+[09:13:52] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  slowly gets off of the bean bag --</span><br />
+[09:13:56] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //EQ, I don't get it. --</span><br />
+[09:14:01] <span style="color:#008400">CDS: its has a few things from fall out inside</span><br />
+[09:14:06] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  walks towards the stairwell --</span><br />
+[09:14:08] <span style="color:#ee1e00">CCP: huh, cool.</span><br />
+[09:14:29] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //Uh... read the hunger games. This song... well, its an interesting plot-point. --</span><br />
+[09:14:31] <span style="color:#d1cfcd">-- CURRENT imagineBreaker <span style="color:#72a0ba">[CIB]</span>  heads up to the roof. <a href='#SBARGv2_BarRoof'>#SBARGv2_BarRoof</a> --</span><br />
+[09:14:41] <span style="color:#2806ea">CEQ: ...?</span><br />
+[09:14:43] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is crying a litle. --</span><br />
+[09:14:46] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // little* --</span><br />
+[09:15:08] <span style="color:#0080ff">CFL: ...I should go, huh.</span><br />
+[09:15:09] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //...oh, thought you meant it was a refrance relative to DS' gift. gotcha. --</span><br />
+[09:15:28] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //tbh, I'm not even paying attention to the jukebox that much --</span><br />
+[09:15:32] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  follows IB up to the roof... half because she is wondering what is going on, and half because she is not sure how to handle FL right now. --</span><br />
+[09:15:38] <span style="color:#d1cfcd">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  //ah, fair enough. --</span><br />
+[09:16:57] <span style="color:#ee1e00">CCP: okay, so... got DS' gift, watched FL's gift get eaten by paradox space... SJ, Future You dropped something off earlier right?</span><br />
+[09:17:02] <span style="color:#cb7de6">CSJ: yeah. ➜</span><br />
+[09:17:13] <span style="color:#008400">CDS: what was it?</span><br />
+[09:17:55] <span style="color:#ee1e00">CCP: FL's gift was a satellite array for laser-skywriting, but the image was horizontally inverted.</span><br />
+[09:18:22] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  opens the 3DS Camera app and shows DS a pic of "Happy Birthday Kimura" written in the sky backwards --</span><br />
+[09:19:51] <span style="color:#008400">CDS: nice</span><br />
+[09:20:16] <span style="color:#d1cfcd"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+[09:20:16] <span style="color:#d1cfcd"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+[09:20:45] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  DS's pocket beeps. --</span><br />
+[09:20:51] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  beep beep. --</span><br />
+[09:20:52] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks around for Future SJ's gift --</span><br />
+[09:21:05] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  opens it and wispers in to it. --</span><br />
+[09:21:06] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it's over there by the table --</span><br />
+[09:21:48] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  picks it up, brings it over, and unwraps it... --</span><br />
+[09:21:59] <span style="color:#008400">CDS: !</span><br />
+[09:22:05] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  inside of the package is..... --</span><br />
+[09:22:27] <span style="color:#008400">CDS: ((I will probebly come up with more functions latter CP))</span><br />
+[09:22:27] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  a box with a note attatched --</span><br />
+[09:22:36] <span style="color:#008400">CDS: ?</span><br />
+[09:22:50] <span style="color:#ee1e00">CCP: ((mmk))</span><br />
+[09:22:52] <span style="color:#ee1e00">CCP: ...?</span><br />
+[09:23:31] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  reads note --</span><br />
+[09:23:46] <span style="color:#0080ff">CFL: Bet it says not to open it yet</span><br />
+[09:24:02] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the note says: "Happy Birthday Kim! tell Niki to get out of the room and don't tell her about the present's contents for 2 days. You're awesome and I hope this didn't cause too much trouble." --</span><br />
+[09:25:04] <span style="color:#0080ff">CFL: ...was I right?</span><br />
+[09:25:15] <span style="color:#ee1e00">CCP: ...ok, sounds like for stable-loop reasons, Current SJ has to leave...</span><br />
+[09:25:23] <span style="color:#008400">CDS: figures</span><br />
+[09:25:24] <span style="color:#cb7de6">CSJ: seriously??? ➜</span><br />
+[09:25:27] <span style="color:#ee1e00">CCP: ...or I could just open it when I get home.</span><br />
+[09:25:38] <span style="color:#008400">CDS: that may disterb the loop</span><br />
+[09:25:45] <span style="color:#0080ff">CFL: ...I hate time travel.</span><br />
+[09:25:59] <span style="color:#008400">CDS: I think you need to open it here.</span><br />
+[09:26:15] <span style="color:#0080ff">CFL: Just give niki the note.</span><br />
+[09:26:18] <span style="color:#cb7de6">CSJ: ((I'll tell you the contents of the present over PM, where it's opened doesn't particularly matter))</span><br />
+[09:26:25] <span style="color:#0080ff">CFL: She can copy it.</span><br />
+[09:26:25] <span style="color:#ee1e00">CCP: ((mmk))</span><br />
+[09:27:00] <span style="color:#ee1e00">CCP: I think the only factor is keeping her from knowing what it is before coming up with the idea on her own...</span><br />
+[09:27:14] <span style="color:#0080ff">CFL: ...</span><br />
+[09:27:20] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  nodds --</span><br />
+[09:27:26] <span style="color:#008400">CDS: that makes since.</span><br />
+[09:27:40] <span style="color:#0080ff">CFL: So Niki risks the fabric of space time because she couldn't think of a gift in time?</span><br />
+[09:28:03] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  blushes --</span><br />
+[09:28:06] <span style="color:#0080ff">CFL: ...And I thought /I/ was selfish.</span><br />
+[09:28:33] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[09:28:33] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  2hadie latche5 onto FL'2 face --</span><br />
+[09:28:40] <span style="color:#0080ff">CFL: Like, what would happen if I ripped that b-</span><br />
+[09:28:48] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has a doll to the face. --</span><br />
+[09:28:49] <span style="color:#008400">CDS: Right I am being summened.</span><br />
+[09:28:58] <span style="color:#0080ff">CFL: ...what.</span><br />
+[09:29:07] <span style="color:#ee1e00">CCP: mmk, later DS.</span><br />
+[09:29:12] <span style="color:#ee1e00">CCP: also Shadie, what.</span><br />
+[09:29:19] <span style="color:#d1cfcd"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[09:29:19] <span style="color:#d1cfcd">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  [MUFFLED AMIGA CHIPTUNES IN THE DISTANCE] --</span><br />
+[09:29:56] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ports out --</span><br />
+[09:30:12] <span style="color:#d1cfcd">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  shows up at the bar --</span><br />
+[09:30:13] <span style="color:#2d8a18">CSL: yo</span><br />
+[09:30:32] <span style="color:#cb7de6">CSJ: hey there Ben. ➜</span><br />
+[09:30:34] <span style="color:#ee1e00">CCP: sup</span><br />
+[09:30:39] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[09:30:39] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[09:30:47] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  2hadie i5 on FL'5 face --</span><br />
+[09:30:50] <span style="color:#2d8a18">CSL: so hows it going</span><br />
+[09:30:55] <span style="color:#2d8a18">CSL: ...shit, i dont have a present</span><br />
+[09:31:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stands up with the doll on his face. --</span><br />
+[09:31:25] <span style="color:#0080ff">CFL: ...man, you would be perfect for blindfolding people.</span><br />
+[09:31:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  wobbles forward and trips over the table. --</span><br />
+[09:32:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  panics and holds his hands out infront of him so his face doesn't crash. --</span><br />
+[09:33:01] <span style="color:#2d8a18">CSL: ...wild party</span><br />
+[09:33:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  crawls across the floor. --</span><br />
+[09:33:42] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  2hadie de-latche5 from FL --</span><br />
+[09:33:50] <span style="color:#ee1e00">CCP: whoa, you okay?</span><br />
+[09:33:58] <span style="color:#2d8a18">CSL: so yeah, i hope its not a problem i dont have a gift</span><br />
+[09:34:02] <span style="color:#2d8a18">CSL: ...im that guy, sorry</span><br />
+[09:34:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stands up. --</span><br />
+[09:34:47] <span style="color:#ee1e00">CCP: it's okay SL.</span><br />
+[09:34:59] <span style="color:#0080ff">CFL: ...Alright I'm gonna run before I cause the end of the universe.</span><br />
+[09:35:07] <span style="color:#0080ff">CFL: Bye.</span><br />
+[09:35:12] <span style="color:#ee1e00">CCP: later FL.</span><br />
+[09:35:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  exits out of the door. --</span><br />
+[09:35:15] <span style="color:#cb7de6">CSJ: um, seeya? ➜</span><br />

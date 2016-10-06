@@ -1,0 +1,8 @@
+[12:47:01] <span style="color:#d1cfcd">-- gingeredCoelacanth <span style="color:#000000">[GC]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 12:47 --</span><br />
+[12:47:08] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> is now an idle chum! --</span><br />
+[12:47:08] <span style="color:#b93d00">GC: Hello~~</span><br />
+[12:47:16] <span style="color:#b93d00">GC: hi~~</span><br />
+[12:47:39] <span style="color:#b93d00">GC: ...~~</span><br />
+[12:47:55] <span style="color:#b93d00">GC: ill be going now~~</span><br />
+[12:48:00] <span style="color:#b93d00">GC: bye~~</span><br />
+[12:48:03] <span style="color:#d1cfcd">-- gingeredCoelacanth <span style="color:#b93d00">[GC]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 12:48 --</span><br />

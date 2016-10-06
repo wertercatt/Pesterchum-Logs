@@ -1,0 +1,279 @@
+[03:51:29] <span style="color:#d1cfcd"><span style="color:#000000">CDJ</span> ceased responding to memo.</span><br />
+[03:51:33] <span style="color:#0080ff">CFL: There.</span><br />
+[03:51:50] <span style="color:#ee1e00">CCP: what was that about anyway?</span><br />
+[03:52:16] <span style="color:#0080ff">CFL: Remember that old game where you need to get the other person to say uncle</span><br />
+[03:52:30] <span style="color:#0080ff">CFL: well, I played it, and sam won.</span><br />
+[03:53:45] <span style="color:#ee1e00">CCP: oh, like at the end of EEnE Big Picture Show?</span><br />
+[03:53:52] <span style="color:#a2a280">CFF: Huh... okay.</span><br />
+[03:55:24] <span style="color:#0080ff">CFL: More like that one episode of Johnny Test.</span><br />
+[03:55:27] <span style="color:#0080ff">CFL: But yeah.</span><br />
+[04:11:54] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[04:22:20] <span style="color:#0080ff">CFL: ...So, how is ash?</span><br />
+[04:23:06] <span style="color:#ee1e00">CCP: no idea :/</span><br />
+[04:32:40] <span style="color:#0080ff">CFL: :&lt;</span><br />
+[04:45:48] <span style="color:#0080ff">CFL: (( Did. ))</span><br />
+[04:45:54] <span style="color:#0080ff">CFL: (( Did you just get that? ))</span><br />
+[04:47:22] <span style="color:#ee1e00">CCP: ((what? CFL: :&lt;, or...?))</span><br />
+[04:47:41] <span style="color:#0080ff">CFL: (( the pesterchumKickstarter thing ))</span><br />
+[04:47:46] <span style="color:#d1cfcd"><span style="color:#300661">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[04:47:46] <span style="color:#300661">CTT: ((I did))</span><br />
+[04:47:59] <span style="color:#ee1e00">CCP: ((yeah, saw that in General.))</span><br />
+[04:48:35] <span style="color:#ee1e00">CCP: ((also, wow. SBARGv1 was a record number of concurrent users.))</span><br />
+[04:55:23] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[05:13:03] <span style="color:#0080ff">CFL: What exactly happened last night?</span><br />
+[05:15:17] <span style="color:#ee1e00">CCP: I'm... not sure. other than PK's land getting terraformed into a non-glitchy state.</span><br />
+[05:15:26] <span style="color:#0080ff">CFL: I mean</span><br />
+[05:17:05] <span style="color:#0080ff">CFL: Apparently Morrigan said something to Amy, and well...</span><br />
+[05:17:42] <span style="color:#ee1e00">CCP: oh, about Ask? haven't heard anything since :/</span><br />
+[05:17:48] <span style="color:#ee1e00">CCP: *Ash</span><br />
+[05:17:52] <span style="color:#0080ff">CFL: ...</span><br />
+[05:17:53] <span style="color:#0080ff">CFL: :&lt;</span><br />
+[05:17:53] <span style="color:#ee1e00">CCP: **why can I not keyboard today</span><br />
+[05:19:32] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[05:19:32] <span style="color:#9d001f">CRS: Huh...</span><br />
+[05:25:59] <span style="color:#d1cfcd"><span style="color:#300661">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[05:25:59] <span style="color:#300661">CTT: huh..?</span><br />
+[05:26:19] <span style="color:#ee1e00">CCP: ...?</span><br />
+[05:56:01] <span style="color:#300661">CTT: Hm.</span><br />
+[05:56:46] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[05:56:46] <span style="color:#a2a280">CFF: ...?</span><br />
+[05:56:56] <span style="color:#ee1e00">CCP: what happen?</span><br />
+[05:57:18] <span style="color:#a2a280">CFF: I dunno.</span><br />
+[06:08:07] <span style="color:#d1cfcd"><span style="color:#2d8a18">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[06:08:07] <span style="color:#2d8a18">CSL: (( <a href='http://www.youtube.com/watch?v=0a4J-q1t_20'>http://www.youtube.com/watch?v=0a4J-q1t_20</a> ))</span><br />
+[06:09:46] <span style="color:#ee1e00">CCP: (( . . . . . . . . ))</span><br />
+[06:10:05] <span style="color:#2d8a18">CSL: ((chris-chan's child))</span><br />
+[06:10:38] <span style="color:#ee1e00">CCP: ((btw SL, did you get pestered about the pesterchum-kickstarter yet?))</span><br />
+[06:10:47] <span style="color:#2d8a18">CSL: ((no?))</span><br />
+[06:10:59] <span style="color:#ee1e00">CCP: (( <a href='http://www.kickstarter.com/projects/2126540265/pesterchum-413-by-ghostdunk'>http://www.kickstarter.com/projects/2126540265/pesterchum-413-by-ghostdunk</a> ))</span><br />
+[06:11:44] <span style="color:#2d8a18">CSL: ((we got mentioned on a kickstarter!))</span><br />
+[06:11:47] <span style="color:#ee1e00">CCP: ((basically, ghostDunk needs money to maintain the server and stuff and also to /upgrade pesterchum/. AND IT ALREADY PASSED THE FUNDING GOAL.))</span><br />
+[06:12:07] <span style="color:#ee1e00">CCP: ((and yeah, SBARGv1 was apparently the largest number of people online at once))</span><br />
+[06:12:38] <span style="color:#9d001f">CRS: ((Beautiful time, that.))</span><br />
+[06:13:05] <span style="color:#2d8a18">CSL: ((if i had money i would totes donate towards the ios goal))</span><br />
+[06:13:19] <span style="color:#2d8a18">CSL: ((&gt;implying its not happening anyway))</span><br />
+[06:17:09] <span style="color:#2d8a18">CSL: ((4:30 in that video, the sheer sadness in his eyes))</span><br />
+[06:18:34] <span style="color:#0080ff">CFL: SL?</span><br />
+[06:18:41] <span style="color:#2d8a18">CSL: hm?</span><br />
+[06:18:47] <span style="color:#0080ff">CFL: what happened last night?</span><br />
+[06:19:13] <span style="color:#2d8a18">CSL: nothing afaik</span><br />
+[06:19:20] <span style="color:#0080ff">CFL: ...</span><br />
+[06:19:29] <span style="color:#2d8a18">CSL: what</span><br />
+[06:19:54] <span style="color:#0080ff">CFL: Do I need to assume that the reason noone is talking about it is that Ash died and fell in lava so you couldn't revive her?</span><br />
+[06:20:04] <span style="color:#2d8a18">CSL: what no</span><br />
+[06:20:08] <span style="color:#2d8a18">CSL: i didnt even go</span><br />
+[06:20:15] <span style="color:#0080ff">CFL: what.</span><br />
+[06:20:20] <span style="color:#d1cfcd"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[06:20:20] <span style="color:#7ccfb2">CAG: Dude, nothing happened. At all.</span><br />
+[06:20:21] <span style="color:#0080ff">CFL: /what/.</span><br />
+[06:20:22] <span style="color:#d1cfcd"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+[06:20:22] <span style="color:#2806ea">CEQ: what</span><br />
+[06:20:24] <span style="color:#2d8a18">CSL: and i would hope someone would tell me if ash died</span><br />
+[06:20:35] <span style="color:#0080ff">CFL: /you didn't go/</span><br />
+[06:20:37] <span style="color:#0080ff">CFL: ...</span><br />
+[06:20:41] <span style="color:#0080ff">CFL: WHAT THE /FUCK/</span><br />
+[06:20:46] <span style="color:#ee1e00">CCP: /no one went/ actually</span><br />
+[06:20:54] <span style="color:#0080ff">CFL: /WHY/</span><br />
+[06:20:59] <span style="color:#2d8a18">CSL: shhh</span><br />
+[06:21:00] <span style="color:#0080ff">CFL: WHY WOULD NOONE GO</span><br />
+[06:21:01] <span style="color:#2d8a18">CSL: relax</span><br />
+[06:21:06] <span style="color:#2d8a18">CSL: jesus dude</span><br />
+[06:21:06] <span style="color:#ee1e00">CCP: I kept waiting for SOMEONE to say /where/ to go &gt;_&gt;</span><br />
+[06:21:09] <span style="color:#2806ea">CEQ: I am very confused</span><br />
+[06:21:24] <span style="color:#a2a280">CFF: Uh... WHAT!?!?!</span><br />
+[06:21:33] <span style="color:#a2a280">CFF: What is this about Ash being DEAD!?!?!</span><br />
+[06:21:39] <span style="color:#7ccfb2">CAG: (( Ash isn't even on, is she? ))</span><br />
+[06:21:45] <span style="color:#7ccfb2">CAG: FF, it's FL being a moron.</span><br />
+[06:21:48] <span style="color:#2d8a18">CSL: NO ONE IS DEAD</span><br />
+[06:21:53] <span style="color:#7ccfb2">CAG: As far as any of us know, she's fine -.-</span><br />
+[06:21:59] <span style="color:#2d8a18">CSL: ((shes on skype))</span><br />
+[06:22:10] <span style="color:#7ccfb2">CAG: (( oh true ))</span><br />
+[06:22:23] <span style="color:#0080ff">CFL: And as far as any of us know, she could be repeatedly dying in lava.</span><br />
+[06:23:01] <span style="color:#7ccfb2">CAG: … dude, other people have stopped responding or potentially gotten into trouble before, and they haven't been found until they got themselves out.</span><br />
+[06:23:05] <span style="color:#2d8a18">CSL: charles you are in no position to be lecturing us about the value of life frankly</span><br />
+[06:23:17] <span style="color:#7ccfb2">CAG: She's incidentally able to teleport.</span><br />
+[06:23:21] <span style="color:#2d8a18">CSL: ...you have a boner for her dont you</span><br />
+[06:23:28] <span style="color:#0080ff">CFL: SL.</span><br />
+[06:23:37] <span style="color:#0080ff">CFL: Shut. Up.</span><br />
+[06:23:47] <span style="color:#2d8a18">CSL: naaaaaaaailed it</span><br />
+[06:23:59] <span style="color:#0080ff">CFL: or I start Balloon shipping again.</span><br />
+[06:24:15] <span style="color:#2d8a18">CSL: what</span><br />
+[06:24:24] <span style="color:#ee1e00">CCP: lol</span><br />
+[06:24:42] <span style="color:#2d8a18">CSL: what is it</span><br />
+[06:25:14] <span style="color:#0080ff">CFL: Remember when I made shitty meanings for all the charms that I doubt were even close?</span><br />
+[06:25:25] <span style="color:#a2a280">CFF: ...</span><br />
+[06:25:29] <span style="color:#2d8a18">CSL: oh pfft</span><br />
+[06:25:34] <span style="color:#7ccfb2">CAG: Remember when no one cared?</span><br />
+[06:25:34] <span style="color:#9d001f">CRS: Wow.</span><br />
+[06:25:44] <span style="color:#a2a280">CFF: ...</span><br />
+[06:25:49] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  sighs --</span><br />
+[06:25:52] <span style="color:#2d8a18">CSL: &gt;implying that your shitty balloon definition was anything short of accurate for me and amy</span><br />
+[06:26:21] <span style="color:#9d001f">CRS: Charles has his faults but lack of value of life isn't one of them.</span><br />
+[06:26:27] <span style="color:#2d8a18">CSL: HA</span><br />
+[06:26:30] <span style="color:#9d001f">CRS: Incidently he totally has a boner for her.</span><br />
+[06:26:35] <span style="color:#2d8a18">CSL: yes</span><br />
+[06:26:46] <span style="color:#9d001f">CRS: Similarly incidently you totally do or at least did. Probably do.</span><br />
+[06:27:10] <span style="color:#2d8a18">CSL: im taken</span><br />
+[06:27:12] <span style="color:#7ccfb2">CAG: I thought SL was more like "anything that moves".</span><br />
+[06:27:26] <span style="color:#2d8a18">CSL: what</span><br />
+[06:27:34] <span style="color:#a2a280">CFF: Uh... what?</span><br />
+[06:27:41] <span style="color:#9d001f">CRS: Pretty much Gambit.</span><br />
+[06:27:47] <span style="color:#2d8a18">CSL: why</span><br />
+[06:27:48] <span style="color:#2806ea">CEQ: snrk</span><br />
+[06:27:51] <span style="color:#a2a280">CFF: Where is CC, anywho?</span><br />
+[06:28:48] <span style="color:#2d8a18">CSL: ((his player's been having computer problems idk what were going with ic))</span><br />
+[06:29:00] <span style="color:#2d8a18">CSL: ((...*her))</span><br />
+[06:29:04] <span style="color:#2d8a18">CSL: ((wtf))</span><br />
+[06:29:34] <span style="color:#0080ff">CFL: (( SL co- No, thats stupid. ))</span><br />
+[06:29:51] <span style="color:#2d8a18">CSL: ((well then i want to hear it))</span><br />
+[06:31:04] <span style="color:#0080ff">CFL: (( SL, are you aware of what a Freudian Slip is? ))</span><br />
+[06:31:14] <span style="color:#2d8a18">CSL: ((oh no))</span><br />
+[06:31:16] <span style="color:#2d8a18">CSL: ((yes))</span><br />
+[06:31:57] <span style="color:#0080ff">CFL: (( I'm not saying you are, but that slip did- I'm sorry, I can't finish it. ))</span><br />
+[06:32:16] <span style="color:#2d8a18">CSL: ((you have to now))</span><br />
+[06:32:22] <span style="color:#0080ff">CFL: (( The raw amount of conflict I am having is eating away at my own brain. ))</span><br />
+[06:32:46] <span style="color:#ee1e00">CCP: ((Error 404 computer hamsters not found))</span><br />
+[06:32:46] <span style="color:#a2a280">CFF: ((...OR SL could swing both ways.))</span><br />
+[06:33:09] <span style="color:#0080ff">CFL: (( ...Thank you for saying it FF. ))</span><br />
+[06:33:19] <span style="color:#2d8a18">CSL: ((why the fuck not))</span><br />
+[06:33:27] <span style="color:#a2a280">CFF: ((No Problem!))</span><br />
+[06:33:30] <span style="color:#2d8a18">CSL: ((but what does that have to do with cc being missing))</span><br />
+[06:33:37] <span style="color:#a2a280">CFF: ((nothing.))</span><br />
+[06:33:45] <span style="color:#0080ff">CFL: (( you did do the "his" player slip. ))</span><br />
+[06:33:58] <span style="color:#2d8a18">CSL: ((but what does that have to do with cc being missing))</span><br />
+[06:34:15] <span style="color:#0080ff">CFL: (( ...you know, nevermind. ))</span><br />
+[06:34:38] <span style="color:#2d8a18">CSL: ((...you want sl to kill cc because hes gay))</span><br />
+[06:34:54] <span style="color:#0080ff">CFL: (( NO. ))</span><br />
+[06:34:55] <span style="color:#a2a280">CFF: ((god no, SL! Seesh!))</span><br />
+[06:35:07] <span style="color:#2d8a18">CSL: ((then what does that have to do with cc being missing))</span><br />
+[06:35:13] <span style="color:#0080ff">CFL: (( NOTHING. ))</span><br />
+[06:35:25] <span style="color:#9d001f">CRS: ((...))</span><br />
+[06:35:28] <span style="color:#2d8a18">CSL: ((then weve accomplished nothing))</span><br />
+[06:35:34] <span style="color:#a2a280">CFF: ((lets... just move on,))</span><br />
+[06:35:35] <span style="color:#0080ff">CFL: (( It was a sidetrack from the main topic. ))</span><br />
+[06:35:50] <span style="color:#0080ff">CFL: (( That you shoved me down. ))</span><br />
+[06:37:28] <span style="color:#ee1e00">CCP: ((shoved down the stairs <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' />))</span><br />
+[06:39:18] <span style="color:#0080ff">CFL: (( On another note, it would be nice if /we could work on the chain a little bit more/ on Overseer. ))</span><br />
+[06:39:38] <span style="color:#0080ff">CFL: (( Mostly so I can get to more consort shops. ))</span><br />
+[06:39:55] <span style="color:#ee1e00">CCP: ((I'm still wondering if I want to join that or not once v2 ends...))</span><br />
+[06:47:34] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[06:47:34] <span style="color:#cb7de6">CSJ: so, I take it absolutely nothing happened today? ➜</span><br />
+[06:48:14] <span style="color:#2806ea">CEQ: I'm thinking that is the case, yup.</span><br />
+[06:49:22] <span style="color:#ee1e00">CCP: eh, pretty much. I posted a thingy ((the canonicity of which is HIGHLY in question)), but that's about it.</span><br />
+[06:49:44] <span style="color:#2d8a18">CSL: ((incredibly canon))</span><br />
+[06:52:09] <span style="color:#ee1e00">CCP: ((SL, my reasoning is: the pesterchum snippet that started the thing, and that I posted at the beginning of the post? it was OOC.))</span><br />
+[06:52:34] <span style="color:#2d8a18">CSL: ((incredibly canon))</span><br />
+[06:52:59] <span style="color:#ee1e00">CCP: ((if the comment had originated ICly, heck yeah it could be canon. but that's kind of a monkey wrench, or at least another hole in the Wall for FL to duct tape over.))</span><br />
+[06:53:45] <span style="color:#0080ff">CFL: (( /werehog/ ))</span><br />
+[06:54:35] <span style="color:#ee1e00">CCP: ((........?))</span><br />
+[06:55:47] <span style="color:#0080ff">CFL: (( nevermind ))</span><br />
+[07:02:29] <span style="color:#0080ff">CFL: (( I'm about to make you guys deal with a furby dungeon. ))</span><br />
+[07:02:38] <span style="color:#0080ff">CFL: (( If this fourth wall breaking keeps up. ))</span><br />
+[07:02:53] <span style="color:#2d8a18">CSL: ((please))</span><br />
+[07:02:56] <span style="color:#2d8a18">CSL: ((yes))</span><br />
+[07:04:16] <span style="color:#ee1e00">CCP: ((if you wanna traumatize CP and make it impossible for me to use him for tumblr RPing when v2 ends...))</span><br />
+[07:04:59] <span style="color:#0080ff">CFL: (( I think we found a theme for a Halloween dungeon! ))</span><br />
+[07:05:25] <span style="color:#2806ea">CEQ: ((oh gosh))</span><br />
+[07:05:34] <span style="color:#2d8a18">CSL: ((yes pls))</span><br />
+[07:05:42] <span style="color:#ee1e00">CCP: ((SL, you still have your halloween dungeon script?))</span><br />
+[07:06:01] <span style="color:#2d8a18">CSL: ((not so much script as list of ideas but yes))</span><br />
+[07:06:21] <span style="color:#ee1e00">CCP: ((also could we please not run it on halloween itself? I'll be at EvCC all day, and most of us will be ToTing in the evening))</span><br />
+[07:06:42] <span style="color:#2d8a18">CSL: ((toting?))</span><br />
+[07:06:51] <span style="color:#ee1e00">CCP: ((trick or treating))</span><br />
+[07:07:01] <span style="color:#2d8a18">CSL: ((oh))</span><br />
+[07:07:04] <span style="color:#ee1e00">CCP: ((sorry, thought "ToT" was a well-known acronym))</span><br />
+[07:07:04] <span style="color:#2d8a18">CSL: ((yes that))</span><br />
+[07:08:12] <span style="color:#ee1e00">CCP: ((speaking of, note to future me: check if pesterchum works from there still. it did when v2 began, but idk if they fixed the firewall over Summer Quarter...))</span><br />
+[07:12:28] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[07:26:26] <span style="color:#0080ff">CFL: Rather... quiet in the memo.</span><br />
+[07:26:26] <span style="color:#d1cfcd"><span style="color:#c86420">CURRENT perfectionistOriginator [CPO]</span> RIGHT NOW responded to memo.</span><br />
+[07:26:26] <span style="color:#c86420">CPO: RS, FL, I need your help.</span><br />
+[07:26:32] <span style="color:#0080ff">CFL: wow</span><br />
+[07:27:00] <span style="color:#0080ff">CFL: I assume the fact that you picked the two of us means that its a Heart hero thing.</span><br />
+[07:28:04] <span style="color:#ee1e00">CCP: ...I was just about to ask, but makes sense.</span><br />
+[07:34:57] <span style="color:#0080ff">CFL: so um</span><br />
+[07:35:00] <span style="color:#0080ff">CFL: where are you</span><br />
+[07:35:11] <span style="color:#0080ff">CFL: and what exactly do you need help with</span><br />
+[07:35:34] <span style="color:#0080ff">CFL: ...did I just lose connection</span><br />
+[07:35:41] <span style="color:#0080ff">CFL: what was the last thing I said?</span><br />
+[07:35:48] <span style="color:#d1cfcd">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[07:35:48] <span style="color:#c86420">CPO: Yes.</span><br />
+[07:35:48] <span style="color:#ee1e00">CCP: yup</span><br />
+[07:35:49] <span style="color:#c86420">CPO: Are you coming?</span><br />
+[07:36:00] <span style="color:#0080ff">CFL: Yeah, i think I am coming...</span><br />
+[07:36:03] <span style="color:#0080ff">CFL: where are you?</span><br />
+[07:36:18] <span style="color:#0080ff">CFL: and what exactly do you need help with?</span><br />
+[07:36:18] <span style="color:#c86420">CPO: My land, near my spire.</span><br />
+[07:37:04] <span style="color:#0080ff">CFL: ...and?</span><br />
+[07:37:04] <span style="color:#c86420">CPO: I'll show you.</span><br />
+[07:37:10] <span style="color:#0080ff">CFL: ...Alright.</span><br />
+[07:37:17] <span style="color:#0080ff">CFL: (( Link? ))</span><br />
+[07:37:39] <span style="color:#c86420">CPO: ((#SBARGv2_LoZaL))</span><br />
+[07:38:07] <span style="color:#0080ff">CFL: (( <a href='#SBARGv2_LoZaL'>#SBARGv2_LoZaL</a> ? ))</span><br />
+[07:38:32] <span style="color:#c86420">CPO: ((Something happen?))</span><br />
+[07:39:10] <span style="color:#0080ff">CFL: (( No, Its just the lack of spacing made a lack of a link ))</span><br />
+[07:39:27] <span style="color:#0080ff">CFL: (( Don't worry. ))</span><br />
+[07:40:05] <span style="color:#c86420">CPO: ((Oh, okay))</span><br />
+[07:46:39] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[07:46:39] <span style="color:#a2a280">CFF: Did I miss anything?</span><br />
+[07:47:15] <span style="color:#c86420">CPO: I enlisted the help of people with certain qualities.</span><br />
+[07:47:16] <span style="color:#2806ea">CEQ: Something is going on on LoZaL, apparently.</span><br />
+[07:49:40] <span style="color:#a2a280">CFF: Uh... okay? What qualities?</span><br />
+[07:50:02] <span style="color:#c86420">CPO: Have you seen TTGL?</span><br />
+[07:50:16] <span style="color:#a2a280">CFF: ...WHAT DID YOU DO!?!?!</span><br />
+[07:50:23] <span style="color:#cb7de6">CSJ: ??? ➜</span><br />
+[07:50:32] <span style="color:#2806ea">CEQ: Oh... oh joy.</span><br />
+[07:51:31] <span style="color:#c86420">CPO: It's nothing big, or drasic. Calm down.</span><br />
+[07:51:42] <span style="color:#c86420">CPO: I'm just a bit stumped.</span><br />
+[07:52:17] <span style="color:#a2a280">CFF: ...Uh Huh. Whats the Bloody problem, then?</span><br />
+[07:52:53] <span style="color:#ee1e00">CCP: WHOA! guys, v2 upd8! anon ask... saying something about the Ultimate Reward never being recieved????????</span><br />
+[07:53:06] <span style="color:#cb7de6">CSJ: WHAT. ➜</span><br />
+[07:53:06] <span style="color:#c86420">CPO: Link?</span><br />
+[07:53:19] <span style="color:#ee1e00">CCP:  <a href='http://sbargv2.tumblr.com/post/65480272334/the-ultimate-reward-will-never-be-received'>http://sbargv2.tumblr.com/post/65480272334/the-ultimate-reward-will-never-be-received</a></span><br />
+[07:53:19] <span style="color:#2d8a18">CSL: jesuuuuuuuus</span><br />
+[07:53:31] <span style="color:#2d8a18">CSL: probably just a troll</span><br />
+[07:53:36] <span style="color:#ee1e00">CCP: five boondollars says the anon is Bakagami.</span><br />
+[07:53:44] <span style="color:#2806ea">CEQ: well</span><br />
+[07:56:00] <span style="color:#c86420">CPO: I want to hear what Ornis has to say about this.</span><br />
+[07:56:23] <span style="color:#2806ea">CEQ: -As do I.</span><br />
+[07:56:35] <span style="color:#2d8a18">CSL: oh god finally watching the new jontron</span><br />
+[07:57:04] <span style="color:#2d8a18">CSL: *NON-SPECIFIC ORGASM*</span><br />
+[07:57:25] <span style="color:#cb7de6">CSJ: . . . ➜</span><br />
+[07:57:35] <span style="color:#2806ea">CEQ: snrk</span><br />
+[07:57:55] <span style="color:#2d8a18">CSL: (( <a href='http://www.youtube.com/watch?v=oiHvu4RfNNw'>http://www.youtube.com/watch?v=oiHvu4RfNNw</a> ))</span><br />
+[07:58:02] <span style="color:#2d8a18">CSL: ((why did i ooc that))</span><br />
+[07:58:03] <span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=oiHvu4RfNNw'>http://www.youtube.com/watch?v=oiHvu4RfNNw</a></span><br />
+[07:58:42] <span style="color:#300661">CTT: waτ</span><br />
+[07:59:01] <span style="color:#a2a280">CFF: the fuck?</span><br />
+[07:59:02] <span style="color:#300661">CTT: are you geττing a boner over..uhhh..</span><br />
+[07:59:08] <span style="color:#2d8a18">CSL: no!</span><br />
+[07:59:12] <span style="color:#2d8a18">CSL: watch the video</span><br />
+[07:59:14] <span style="color:#a2a280">CFF: But Seriously, PO, whats the problem?</span><br />
+[08:01:01] <span style="color:#c86420">CPO: We can handle it.</span><br />
+[08:04:11] <span style="color:#a2a280">CFF: ...if you say so.</span><br />
+[08:04:16] <span style="color:#a2a280">CFF: Whos' 327?</span><br />
+[08:04:22] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[08:04:53] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[08:05:57] <span style="color:#c86420">CPO: Who?</span><br />
+[08:06:08] <span style="color:#2d8a18">CSL: what pumpkin</span><br />
+[08:11:39] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[08:11:51] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[08:18:32] <span style="color:#2d8a18">CSL: HOLY SHIT</span><br />
+[08:18:33] <span style="color:#2d8a18">CSL: guys</span><br />
+[08:18:36] <span style="color:#2d8a18">CSL: on beta earth</span><br />
+[08:18:48] <span style="color:#2d8a18">CSL: there is a new monty mole game coming out january 2014</span><br />
+[08:19:44] <span style="color:#ee1e00">CCP: ????????</span><br />
+[08:20:14] <span style="color:#2d8a18">CSL: monty mole was an excellent series of commodore 64/amiga/zx spectrum platformers</span><br />
+[08:20:45] <span style="color:#2d8a18">CSL: and one of the main inspirations for vvvvvv, though the gravity flipping thing didnt come from monty</span><br />
+[08:21:58] <span style="color:#ee1e00">CCP: huh, interesting... oh wait, now I remember, the room names and instakill enemies from "Monty on the Run" which you played that one time!</span><br />
+[08:22:07] <span style="color:#2d8a18">CSL: yes</span><br />
+[08:22:11] <span style="color:#2d8a18">CSL: and a new one is coming out</span><br />
+[08:22:28] <span style="color:#2d8a18">CSL: and /theyre bringing back rob hubbard/</span><br />
+[08:22:56] <span style="color:#2d8a18">CSL: for reference, this is hubbards /very first video game composition/: <a href='http://www.youtube.com/watch?v=mmmEBO2lDVI'>http://www.youtube.com/watch?v=mmmEBO2lDVI</a></span><br />
+[08:23:04] <span style="color:#2d8a18">CSL: and /he got better/</span><br />
+[08:23:36] <span style="color:#2d8a18">CSL: his other compositions: <a href='http://www.youtube.com/watch?v=D9CwsOOjNAo'>http://www.youtube.com/watch?v=D9CwsOOjNAo</a></span><br />
+[08:24:03] <span style="color:#2d8a18">CSL:  <a href='http://www.youtube.com/watch?v=DQG8vkNG8aM&fmt=18'>http://www.youtube.com/watch?v=DQG8vkNG8aM&fmt=18</a></span><br />
+[08:24:18] <span style="color:#2d8a18">CSL: fuck just watch the compilation <a href='http://www.youtube.com/watch?v=QE589HrGPkI'>http://www.youtube.com/watch?v=QE589HrGPkI</a></span><br />
+[08:25:04] <span style="color:#2d8a18">CSL: /hes coming back to the vgm scene/</span><br />
+[08:25:14] <span style="color:#2d8a18">CSL: omg you have no idea how exciting this is to me</span><br />
+[08:29:56] <span style="color:#0080ff">CFL: night</span><br />

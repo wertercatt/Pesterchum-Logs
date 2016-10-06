@@ -1,0 +1,1170 @@
+[02:59:13] <span style="color:#646464"><span style="color:#ffc080">CDJ</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+[02:59:13] <span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[02:59:13] <span style="color:#646464">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[02:59:20] <span style="color:#ffc080">CDJ: um, quick question</span><br />
+[02:59:28] <span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[02:59:28] <span style="color:#cb7de6">CSJ: what's up? ➜</span><br />
+[02:59:29] <span style="color:#646464"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[02:59:29] <span style="color:#ee1e00">CCP: hm?</span><br />
+[02:59:42] <span style="color:#cb7de6">CSJ: is anything on fire over there? ➜</span><br />
+[02:59:43] <span style="color:#ffc080">CDJ: how do you subtract sounds from another on Audacity?</span><br />
+[03:00:25] <span style="color:#ee1e00">CCP: idk, I don't have it</span><br />
+[03:00:26] <span style="color:#ffc080">CDJ: Because the two sides of everything.wav aren't exactly the same</span><br />
+[03:00:47] <span style="color:#ffc080">CDJ: Plus, its like the only one thats stereo.</span><br />
+[03:00:49] <span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />
+[03:00:52] <span style="color:#ee1e00">CCP: but I /think/ what it is is you flip one wave upside-down then overlay it on the other</span><br />
+[03:02:35] <span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[03:02:35] <span style="color:#9d001f">CRS: I had Arthenial</span><br />
+[03:04:35] <span style="color:#646464"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[03:04:35] <span style="color:#7ccfb2">CAG: You can use the invert command.</span><br />
+[03:04:47] <span style="color:#7ccfb2">CAG: I don't know how to put it into practise but this is what Google tells me should be true.</span><br />
+[03:05:09] <span style="color:#7ccfb2">CAG: If you have them in two separate tracks they may cancel out automatically or I don't know I don't Audacity.</span><br />
+[03:06:53] <span style="color:#646464"><span style="color:#114c1b">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[03:06:53] <span style="color:#114c1b">CFD: Where do you think the remaining frogs are being hidden?</span><br />
+[03:07:04] <span style="color:#ffc080">CDJ: I'm just.</span><br />
+[03:07:21] <span style="color:#ffc080">CDJ: Well, I checked SBARGhqv2, and well, it had something like this</span><br />
+[03:08:46] <span style="color:#ffc080">CDJ:  <a href='http://sbarghqv2.tumblr.com/post/42927533062/anomalousentity-sbargv2s-twocanplay-wav'>http://sbarghqv2.tumblr.com/post/42927533062/anomalousentity-sbargv2s-twocanplay-wav</a></span><br />
+[03:09:29] <span style="color:#cb7de6">CSJ: ...swiss cheese??? ➜</span><br />
+[03:13:05] <span style="color:#ee1e00">CCP: ((brb shower))</span><br />
+[03:13:18] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is an away chum. --</span><br />
+[03:13:37] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[03:14:26] <span style="color:#646464"><span style="color:#114c1b">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[03:14:26] <span style="color:#114c1b">CFD: ...Thats Not good. 'Gotcha'?</span><br />
+[03:14:46] <span style="color:#ffc080">CDJ: no, that was a long time ago</span><br />
+[03:14:50] <span style="color:#ffc080">CDJ: with a different wav</span><br />
+[03:14:57] <span style="color:#ffc080">CDJ: I wanna just try the same process on this one!</span><br />
+[03:15:23] <span style="color:#114c1b">CFD: oh... okay.</span><br />
+[03:18:31] <span style="color:#ffc080">CDJ: Isn't it weird that the two don't match?!</span><br />
+[03:18:54] <span style="color:#ffc080">CDJ: And that its like, the /only one/ that is stereo?</span><br />
+[03:18:54] <span style="color:#cb7de6">CSJ: kinda, yeah... ➜</span><br />
+[03:19:39] <span style="color:#114c1b">CFD: ...?</span><br />
+[03:38:28] <span style="color:#ffc080">CDJ: so um, could someone do that?</span><br />
+[03:38:48] <span style="color:#114c1b">CFD: I... Don't really know how to.</span><br />
+[03:45:38] <span style="color:#114c1b">CFD: Maybe we should ask for the Guardians help? or something. I dunno.</span><br />
+[03:47:58] <span style="color:#ffc080">CDJ: he has enough to worry about!</span><br />
+[03:48:25] <span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />
+[03:48:32] <span style="color:#114c1b">CFD: Well, What do you buggers think, then?</span><br />
+[03:48:40] <span style="color:#646464"><span style="color:#000000">CAG</span> ceased responding to memo.</span><br />
+[03:48:58] <span style="color:#cb7de6">CSJ: might be worth a shot. ➜</span><br />
+[03:49:48] <span style="color:#114c1b">CFD: Yeah... but before any of us do that, we should ask RS and FA.</span><br />
+[03:50:00] <span style="color:#9d001f">CRS: Hm?</span><br />
+[03:50:01] <span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[03:50:01] <span style="color:#a80000">CFA: (\ Ask us what? /)</span><br />
+[03:50:37] <span style="color:#114c1b">CFD: The Bloody Frog puzzle- do we alert the guardian to what we have found, and ask for fucking help?</span><br />
+[03:50:42] <span style="color:#ffc080">CDJ: Could you two combine an inverted track onto another track then spectrogram it?</span><br />
+[03:50:48] <span style="color:#9d001f">CRS: Well yeah why the fuck not.</span><br />
+[03:50:59] <span style="color:#a80000">CFA: (\ YYes, we should /)</span><br />
+[03:50:59] <span style="color:#114c1b">CFD: And what DJ said as well.</span><br />
+[03:51:01] <span style="color:#9d001f">CRS: Could I get a link to that stuff too, just outta curiousity?</span><br />
+[03:51:19] <span style="color:#cb7de6">CSJ:  <a href='http://piratepad.net/SBARGv2Frogs'>http://piratepad.net/SBARGv2Frogs</a> &lt;== here's this thing ➜</span><br />
+[03:51:48] <span style="color:#114c1b">CFD: The others found 19 out of 23.</span><br />
+[03:52:09] <span style="color:#114c1b">CFD: I feel as if ONE of them has to be the golden dart frog.</span><br />
+[03:53:00] <span style="color:#114c1b">CFD: And... I'm kind of ifty on asking the guardian. don't 100 percent sure I trust his feathery ass.</span><br />
+[03:53:35] <span style="color:#ffc080">CDJ: not*</span><br />
+[03:53:52] <span style="color:#114c1b">CFD: ...?</span><br />
+[03:54:00] <span style="color:#ffc080">CDJ: I'm /don't/ sure.</span><br />
+[03:54:20] <span style="color:#114c1b">CFD: ...you mean Not.</span><br />
+[03:54:45] <span style="color:#ffc080">CDJ: ...</span><br />
+[03:55:00] <span style="color:#ffc080">CDJ: I guess I can't point out a typo by making fun of it</span><br />
+[03:55:10] <span style="color:#114c1b">CFD: ....what?</span><br />
+[03:55:26] <span style="color:#114c1b">CFD: oh right, that.</span><br />
+[03:55:31] <span style="color:#114c1b">CFD: I am maid of typos.</span><br />
+[03:58:33] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[04:00:41] <span style="color:#646464"><span style="color:#5555ff">CURRENT monsterousMartyr [CMM]</span> RIGHT NOW responded to memo.</span><br />
+[04:00:41] <span style="color:#5555ff">CMM: hello.</span><br />
+[04:00:48] <span style="color:#ffc080">CDJ: hey?</span><br />
+[04:01:06] <span style="color:#cb7de6">CSJ: I'm reading through old pesterlogs to find clues and apparently there was a SBARGv2_Puzzlesolving memo at one time. ➜</span><br />
+[04:01:13] <span style="color:#ffc080">CDJ: are you going to die or something?</span><br />
+[04:01:23] <span style="color:#5555ff">CMM: huh? me?</span><br />
+[04:02:40] <span style="color:#5555ff">CMM: well that was odd.</span><br />
+[04:02:58] <span style="color:#ffc080">CDJ: Well, its your name.</span><br />
+[04:03:01] <span style="color:#646464"><span style="color:#114c1b">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[04:03:01] <span style="color:#114c1b">CFD: ....?</span><br />
+[04:03:10] <span style="color:#114c1b">CFD: And uh... hello, new person.</span><br />
+[04:03:22] <span style="color:#5555ff">CMM: hello, FD.</span><br />
+[04:03:38] <span style="color:#646464"><span style="color:#dba521">CURRENT marshmallowVirologist [CMV]</span> RIGHT NOW responded to memo.</span><br />
+[04:03:38] <span style="color:#dba521">CMV: hiya!</span><br />
+[04:03:39] <span style="color:#5555ff">CMM: oh, i just chose it because...on second thought i don't want to talk about it.</span><br />
+[04:04:32] <span style="color:#5555ff">CMM: oh and hello MV.</span><br />
+[04:04:33] <span style="color:#ffc080">CDJ: donts be a martyr without a cause</span><br />
+[04:04:41] <span style="color:#5555ff">CMM: i don't plan to.</span><br />
+[04:05:28] <span style="color:#114c1b">CFD: ...Okay?</span><br />
+[04:06:35] <span style="color:#5555ff">CMM: so...who came to my land yesterday, again?</span><br />
+[04:07:51] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[04:08:07] <span style="color:#5555ff">CMM: why the terezi face?</span><br />
+[04:08:13] <span style="color:#9d001f">CRS: Hm?</span><br />
+[04:08:22] <span style="color:#5555ff">CMM: oh, hello RS.</span><br />
+[04:08:31] <span style="color:#9d001f">CRS: Hey there...</span><br />
+[04:08:36] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  reads up what he missed because shower --</span><br />
+[04:08:39] <span style="color:#ee1e00">CCP: oh.</span><br />
+[04:08:40] <span style="color:#9d001f">CRS: What are you, another rewbie? This late in the game?</span><br />
+[04:09:02] <span style="color:#5555ff">CMM: not new, just...well, didn't think to try pesterchum.</span><br />
+[04:09:11] <span style="color:#114c1b">CFD: ...Uh huh/</span><br />
+[04:09:12] <span style="color:#ee1e00">CCP: good to see you survived the stabs yesterday MM... or whatever that shroom trip on LoWaC was.</span><br />
+[04:09:46] <span style="color:#5555ff">CMM: oh, you mean how i kind of lost my temper after getting a knife to the arm, lifted by the neck, and then stabbed the sword guy to death with his own swords?</span><br />
+[04:09:54] <span style="color:#5555ff">CMM: can we not talk about that?</span><br />
+[04:10:09] <span style="color:#ffc080">CDJ: ...</span><br />
+[04:10:15] <span style="color:#ffc080">CDJ: okay this dude is awesome</span><br />
+[04:10:16] <span style="color:#646464"><span style="color:#008282">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+[04:10:16] <span style="color:#008282">CCA: ((Speaking of things to do I'm running a dungeon tomorrow. You can sign up here <a href='http://piratepad.net/lTUcii1Du9'>http://piratepad.net/lTUcii1Du9</a> ))</span><br />
+[04:10:25] <span style="color:#5555ff">CMM: huh?</span><br />
+[04:10:44] <span style="color:#ee1e00">CCP: ((so, 4pm PST tomorrow?))</span><br />
+[04:10:54] <span style="color:#008282">CCA: ((yes))</span><br />
+[04:11:07] <span style="color:#ffc080">CDJ: I think its time to put the plan into action.</span><br />
+[04:11:07] <span style="color:#114c1b">CFD: ...what.</span><br />
+[04:11:09] <span style="color:#9d001f">CRS: ...The hell happened yesterday?</span><br />
+[04:11:14] <span style="color:#ee1e00">CCP: ((I should be home before then))</span><br />
+[04:11:18] <span style="color:#008282">CCA: ∞ people got stabbed apparently Σ</span><br />
+[04:11:19] <span style="color:#cb7de6">CSJ: um, what??? ➜</span><br />
+[04:11:28] <span style="color:#114c1b">CFD: No shit, CA.</span><br />
+[04:11:31] <span style="color:#5555ff">CMM: there was a guy who had a lot of swords coming from his body.</span><br />
+[04:11:42] <span style="color:#9d001f">CRS: Wait.</span><br />
+[04:11:51] <span style="color:#5555ff">CMM: he tried killing me but...well, i messed up.</span><br />
+[04:11:58] <span style="color:#9d001f">CRS: Something happened with Calvin?</span><br />
+[04:11:59] <span style="color:#dba521">CMV: ..........???</span><br />
+[04:12:06] <span style="color:#5555ff">CMM: calvin?</span><br />
+[04:12:15] <span style="color:#ffc080">CDJ: Even if Prometheus only has 11 classpects, he still would be incredibly powerful.</span><br />
+[04:12:30] <span style="color:#ee1e00">CCP: DJ, hm?</span><br />
+[04:12:36] <span style="color:#ffc080">CDJ: And we do not need to be fighting /three/ bosses at the same time.</span><br />
+[04:13:17] <span style="color:#9d001f">CRS: ...</span><br />
+[04:13:56] <span style="color:#646464"><span style="color:#0000c1">CURRENT matrixAssassin [CMA]</span> RIGHT NOW responded to memo.</span><br />
+[04:13:56] <span style="color:#0000c1">CMA: What exactly are you even talking about?</span><br />
+[04:14:06] <span style="color:#114c1b">CFD: ...what.</span><br />
+[04:14:13] <span style="color:#ffc080">CDJ: Remember what I was going on about yesterday?</span><br />
+[04:14:19] <span style="color:#0000c1">CMA: No.</span><br />
+[04:14:29] <span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+[04:14:38] <span style="color:#ee1e00">CCP: the 12 dead torsos the Alchemiter Cult is trying to get, FL being one of them?</span><br />
+[04:14:40] <span style="color:#ffc080">CDJ: We managed to figure out that Prometheus is replacing the Heart of FL's Land.</span><br />
+[04:14:47] <span style="color:#9d001f">CRS: Prometheus wanting to pull a Xehanort.</span><br />
+[04:15:01] <span style="color:#5555ff">CMM: xehanort?</span><br />
+[04:15:12] <span style="color:#ffc080">CDJ: Or worse, a CR move.</span><br />
+[04:15:46] <span style="color:#ffc080">CDJ: You know, from Kid Radd</span><br />
+[04:15:52] <span style="color:#114c1b">CFD: ....the fucking hell? he trying to pull a frankistien?</span><br />
+[04:16:38] <span style="color:#ffc080">CDJ: Think about it, hes trying to collect one corpse of every classpect.</span><br />
+[04:17:22] <span style="color:#9d001f">CRS: Never read Kid Radd and I don't know what that is.</span><br />
+[04:17:23] <span style="color:#114c1b">CFD: ...yeah, that sounds like some kind of crazy science shit...</span><br />
+[04:17:28] <span style="color:#ffc080">CDJ: Now, I'm not so sure, but this might be a Chronos level threat.</span><br />
+[04:17:44] <span style="color:#ffc080">CDJ: Depends on how powerful Chronos is compared to a denizen.</span><br />
+[04:18:03] <span style="color:#5555ff">CMM: i don't understand any of this.</span><br />
+[04:18:14] <span style="color:#9d001f">CRS: Sorry, MM.</span><br />
+[04:18:29] <span style="color:#114c1b">CFD: Me nither MM.</span><br />
+[04:18:32] <span style="color:#5555ff">CMM: can someone PM me the details/</span><br />
+[04:18:33] <span style="color:#5555ff">CMM: ?*</span><br />
+[04:18:37] <span style="color:#9d001f">CRS: Long story short this Prometheus Denizen is trying to gather a body of twelve unique classpects to</span><br />
+[04:18:38] <span style="color:#114c1b">CFD: SO anyways. whats ya  name man?</span><br />
+[04:18:40] <span style="color:#5555ff">CMM: ((NOTE: No need. I'm mostly caught up.))</span><br />
+[04:18:42] <span style="color:#9d001f">CRS: Either possess or combine them</span><br />
+[04:18:45] <span style="color:#ee1e00">CCP: Denizens are mega-powerful, but are mortal and in control of one aspect. Chronos is (conditionally) immortal and has two aspects.</span><br />
+[04:18:59] <span style="color:#5555ff">CMM: i'm kyle angelo.</span><br />
+[04:19:07] <span style="color:#ee1e00">CCP: ...and a denizen having ALL the aspects is dearfrogswhat</span><br />
+[04:19:23] <span style="color:#114c1b">CFD: I am the dreamself of FF, or Jovin Castle.</span><br />
+[04:19:30] <span style="color:#5555ff">CMM: CP, if you're explaining denizens to me, i've already read homestuck. thank you though.</span><br />
+[04:19:43] <span style="color:#5555ff">CMM: but chronos sounds unfamiliar.</span><br />
+[04:19:47] <span style="color:#ee1e00">CCP: MM, no, it was in response to DJ.</span><br />
+[04:19:51] <span style="color:#5555ff">CMM: sorry!</span><br />
+[04:19:55] <span style="color:#ffc080">CDJ: Basically, the Seer in Kid Radd used Chimera Point to combine with a bunch of videogame characters so that his every attack did 9999 damage, and that he had 9999 hp... which operated like old school heros and thus it was 9999 /hits/.</span><br />
+[04:19:57] <span style="color:#114c1b">CFD: ...Also, does he have a rage player yet?</span><br />
+[04:20:02] <span style="color:#5555ff">CMM: and it's nice to meet you, dream jovin.</span><br />
+[04:20:04] <span style="color:#5555ff">CMM: ...rage?</span><br />
+[04:20:34] <span style="color:#ee1e00">CCP: according to the Alchemiter Cultist's list, he has all the claspects except Rogue of Heart (FL)</span><br />
+[04:20:39] <span style="color:#114c1b">CFD: Thank you. I'm a Rage player, and I'm looking for my currently missing Ass.</span><br />
+[04:20:53] <span style="color:#114c1b">CFD: And can you give me this list, please?</span><br />
+[04:20:56] <span style="color:#dba521">CMV: how does he like</span><br />
+[04:21:07] <span style="color:#dba521">CMV: already have all the classpects except rogue of heart</span><br />
+[04:21:18] <span style="color:#5555ff">CMM: ...are you the type of rage player that will hurt people?</span><br />
+[04:21:31] <span style="color:#ffc080">CDJ: paste bined</span><br />
+[04:21:32] <span style="color:#ffc080">CDJ:  <a href='http://pastebin.com/YBj2c2JX'>http://pastebin.com/YBj2c2JX</a></span><br />
+[04:21:43] <span style="color:#ee1e00">CCP: dead torsos from Dead Lands of players we haven't met, apparently.</span><br />
+[04:21:58] <span style="color:#114c1b">CFD: Fuck no!... unless they need hurting. but i'm a pretty chill dude, and one of the few sane folks in dis crazy fucking session.</span><br />
+[04:22:08] <span style="color:#5555ff">CMM: oh.</span><br />
+[04:22:15] <span style="color:#5555ff">CMM: so that means...</span><br />
+[04:22:27] <span style="color:#dba521">CMV: i'm the rage player that likes to hurt people raaaaawr!</span><br />
+[04:22:37] <span style="color:#dba521">CMV: kidding i'm not a rage player</span><br />
+[04:23:07] <span style="color:#9d001f">CRS: ...</span><br />
+[04:23:07] <span style="color:#5555ff">CMM: that wasn't funny...</span><br />
+[04:23:09] <span style="color:#114c1b">CFD: ...Look, I will not hurt you, if that what you are asking, unless you kill someone, and shut ya fat ass up, MV. you are totally a rage playa.</span><br />
+[04:23:09] <span style="color:#ffc080">CDJ: I thought you were</span><br />
+[04:23:21] <span style="color:#ffc080">CDJ: So um-</span><br />
+[04:23:25] <span style="color:#ffc080">CDJ: oh hell</span><br />
+[04:23:32] <span style="color:#5555ff">CMM: no, jovin, i'm not asking that.</span><br />
+[04:23:34] <span style="color:#dba521">CMV: just because i got angry ONE TIME and beat up kimura doesn't make me rage!</span><br />
+[04:23:39] <span style="color:#5555ff">CMM: it's just...i don't want to hurt people.</span><br />
+[04:23:40] <span style="color:#dba521">CMV: i could be a really angsty blood hero or something</span><br />
+[04:23:47] <span style="color:#ffc080">CDJ: GUYS</span><br />
+[04:23:53] <span style="color:#114c1b">CFD: ...and what about all the ther times youdid crazy shit?</span><br />
+[04:23:57] <span style="color:#114c1b">CFD: and yes, DJ?</span><br />
+[04:24:05] <span style="color:#ffc080">CDJ: look to the right</span><br />
+[04:24:12] <span style="color:#dba521">CMV: when do i do crazy shit??</span><br />
+[04:24:13] <span style="color:#ee1e00">CCP: ...!</span><br />
+[04:24:17] <span style="color:#dba521">CMV: never, that's when!</span><br />
+[04:24:18] <span style="color:#114c1b">CFD: And it's understandable MM. What aaspect are you?</span><br />
+[04:24:25] <span style="color:#5555ff">CMM: ...rage.</span><br />
+[04:24:40] <span style="color:#114c1b">CFD: And don't worry, he's a fake. and a what of rage?</span><br />
+[04:24:55] <span style="color:#9d001f">CRS: Seer of Breath, Witch of Mind, Mage of Blood, Prince of Time, and Thief of Void...</span><br />
+[04:24:57] <span style="color:#5555ff">CMM: ((NOTE: Prepare to shit brix. This is not a lie by the way.))</span><br />
+[04:25:00] <span style="color:#5555ff">CMM: page of rage.</span><br />
+[04:25:14] <span style="color:#646464"><span style="color:#000000">CNC</span> ceased responding to memo.</span><br />
+[04:25:19] <span style="color:#ffc080">CDJ: oh sweet christ</span><br />
+[04:25:48] <span style="color:#646464"><span style="color:#000000">CURRENT notChronos [CNC]</span> RIGHT NOW responded to memo.</span><br />
+[04:25:48] I'm far from "fake", I'm just not who you keep think I am.<br />
+[04:25:55] <span style="color:#9d001f">CRS: *thinking</span><br />
+[04:26:06] <span style="color:#9d001f">CRS: With a hint like that it's obvious, though.</span><br />
+[04:26:18] <span style="color:#114c1b">CFD: ...huh. I'm the Same. Thought I was Heart at first but... thats a stupid story. welcome tot he club, kyle.</span><br />
+[04:26:29] <span style="color:#5555ff">CMM: wait, we're the same classpect?</span><br />
+[04:26:46] <span style="color:#5555ff">CMM: that's a cool coincidence.</span><br />
+[04:26:46] <span style="color:#646464"><span style="color:#000000">CNC</span> ceased responding to memo.</span><br />
+[04:26:53] <span style="color:#114c1b">CFD: ...Yep!</span><br />
+[04:27:06] <span style="color:#5555ff">CMM: thank you, jovin.</span><br />
+[04:27:47] <span style="color:#114c1b">CFD: No Problem, man. is nice to meet ya, lass.</span><br />
+[04:28:39] <span style="color:#114c1b">CFD: ...wait, you re a dude, right?</span><br />
+[04:28:46] <span style="color:#5555ff">CMM: yeah, why?</span><br />
+[04:29:30] <span style="color:#114c1b">CFD: I suck at genders, is why.</span><br />
+[04:29:51] <span style="color:#5555ff">CMM: kyle is a guy name, so you must be really bad at genders.</span><br />
+[04:29:53] <span style="color:#5555ff">CMM: ...sorry.</span><br />
+[04:29:55] <span style="color:#646464"><span style="color:#000000">CURRENT notChronos [CNC]</span> RIGHT NOW responded to memo.</span><br />
+[04:29:55] You talk all high and mighty now, just you wait, just you all wait.<br />
+[04:30:39] <span style="color:#5555ff">CMM: huh?</span><br />
+[04:30:42] <span style="color:#114c1b">CFD: Yeag, I am. Also, peopel tend to not stay the same gender around here, for some reason.</span><br />
+[04:30:56] <span style="color:#5555ff">CMM: i'll try to not change.</span><br />
+[04:31:39] <span style="color:#114c1b">CFD: Good... I think.</span><br />
+[04:31:49] <span style="color:#ee1e00">CCP: it's harder than you think, MM. I might be one of the few regulars who's managed to avoid getting genderflipped.</span><br />
+[04:33:04] <span style="color:#dba521">CMV: that's weird!</span><br />
+[04:33:08] <span style="color:#cb7de6">CSJ: GUYS, I FOUND A FROG THING! <a href='http://sbargv2.com/captchalogue/FOURTHTHEENDISNEARCARD.html'>http://sbargv2.com/captchalogue/FOURTHTHEENDISNEARCARD.html</a> was looking through old pesterlogs to find the other rotating captchalogue cards. ➜</span><br />
+[04:33:21] <span style="color:#646464"><span style="color:#000000">CNC</span> ceased responding to memo.</span><br />
+[04:33:32] <span style="color:#ee1e00">CCP: ........</span><br />
+[04:33:51] <span style="color:#ee1e00">CCP: /what the hell puzzle was THAT from/????????</span><br />
+[04:33:56] <span style="color:#dba521">CMV: mink frog</span><br />
+[04:34:07] <span style="color:#114c1b">CFD: YES! GOOD JOB!</span><br />
+[04:34:23] <span style="color:#cb7de6">CSJ: really close to pre-entry. If it wasn't for that stalker website, I probably wouldn't have remembered. ➜</span><br />
+[04:34:28] <span style="color:#cb7de6">CSJ: *entry ➜</span><br />
+[04:34:28] <span style="color:#114c1b">CFD: Put it on the damn piratepad, please!</span><br />
+[04:34:31] <span style="color:#cb7de6">CSJ: okay ➜</span><br />
+[04:34:40] <span style="color:#ffc080">CDJ: done</span><br />
+[04:34:46] <span style="color:#cb7de6">CSJ: thanks ➜</span><br />
+[04:34:59] <span style="color:#ee1e00">CCP: ...FROGDAMMIT FIREFOX STOP TRYING TO USE VLC TO OPEN WAV FILES, I TOLD YOU TO USE WMP!</span><br />
+[04:35:02] <span style="color:#ffc080">CDJ: 3 remain</span><br />
+[04:37:36] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[04:38:46] <span style="color:#9d001f">CRS: Nice.</span><br />
+[04:38:50] <span style="color:#9d001f">CRS: So just three to go...</span><br />
+[04:39:12] <span style="color:#ffc080">CDJ: Anyone know where to find the Ornis green sun image?</span><br />
+[04:39:54] <span style="color:#cb7de6">CSJ: man, how long ago was that ➜</span><br />
+[04:42:37] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:42:58] <span style="color:#ee1e00">CCP: it was somethingsomething/HELPME/something.html...</span><br />
+[04:43:44] <span style="color:#ee1e00">CCP: FROG!!!!!!!! <a href='http://sbargv2.com/eoa2/HELPME.html'>http://sbargv2.com/eoa2/HELPME.html</a> <a href='http://sbargv2.com/eoa2/American_Toad.wav'>http://sbargv2.com/eoa2/American_Toad.wav</a></span><br />
+[04:43:55] <span style="color:#cb7de6">CSJ: :O ➜</span><br />
+[04:44:02] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  thank you, firefox awesomebar! --</span><br />
+[04:44:04] <span style="color:#cb7de6">CSJ: we're on a roll! ➜</span><br />
+[04:45:12] <span style="color:#ffc080">CDJ: 2 more!</span><br />
+[04:48:09] <span style="color:#cb7de6">CSJ: so, any places left to look? ➜</span><br />
+[04:48:16] <span style="color:#dba521">CMV: that's a toad</span><br />
+[04:48:35] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:48:42] <span style="color:#ee1e00">CCP: frogs, toads, same diff in this case.</span><br />
+[04:50:38] <span style="color:#ffc080">CDJ: Well, can anyone solve the Life puzzle?</span><br />
+[04:51:20] <span style="color:#ee1e00">CCP: what was the Life one? plants?</span><br />
+[04:51:46] <span style="color:#ffc080">CDJ: yeah</span><br />
+[04:51:52] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:53:22] <span style="color:#ee1e00">CCP: ok why is the Life solution not on the pad with the other puzzle solutions? &gt;_&gt;</span><br />
+[04:53:39] <span style="color:#cb7de6">CSJ: let me check with the timebar ➜</span><br />
+[04:54:18] <span style="color:#ffc080">CDJ: Could one of you do the subtraction with the stereo frog?</span><br />
+[04:55:42] <span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[04:55:42] <span style="color:#a80000">CFA: (\ aaagggh Fuck /)</span><br />
+[04:55:51] <span style="color:#a80000">CFA: (\ im getting worried about the other 4 frogs fff /)</span><br />
+[04:55:57] <span style="color:#ee1e00">CCP: *two</span><br />
+[04:56:05] <span style="color:#cb7de6">CSJ: it looks like the answer for the Life puzzle was found before the pad was started, considering it was pasted immediately with hope time void and rage. ➜</span><br />
+[04:56:49] <span style="color:#cb7de6">CSJ: the highlights say midnightOger pasted those there. ➜</span><br />
+[04:58:04] <span style="color:#ee1e00">CCP: ok. what's the answers?</span><br />
+[04:58:12] <span style="color:#646464"><span style="color:#aa007f">CURRENT powerKitten [CPK]</span> RIGHT NOW responded to memo.</span><br />
+[04:58:12] <span style="color:#aa007f">CPK: hi</span><br />
+[04:58:22] <span style="color:#cb7de6">CSJ: it doesn't say them -_-; ➜</span><br />
+[04:58:25] <span style="color:#ee1e00">CCP: sup PK</span><br />
+[04:58:26] <span style="color:#cb7de6">CSJ: hi kitty ➜</span><br />
+[04:58:39] <span style="color:#ffc080">CDJ: PK, what do you know about your own land?</span><br />
+[04:58:53] <span style="color:#ffc080">CDJ: Other than supposedly I shouldn't use it.</span><br />
+[04:59:01] <span style="color:#ffc080">CDJ: Or get anywhere near it.</span><br />
+[04:59:10] <span style="color:#ffc080">CDJ: Or even think about it.</span><br />
+[04:59:21] <span style="color:#aa007f">CPK: Wel</span><br />
+[04:59:27] <span style="color:#aa007f">CPK: It has copper</span><br />
+[04:59:29] <span style="color:#aa007f">CPK: and lasers</span><br />
+[04:59:31] <span style="color:#aa007f">CPK: :P</span><br />
+[05:00:26] <span style="color:#aa007f">CPK: Theres a homespire and a bunch of consort villages very full of shops</span><br />
+[05:00:56] <span style="color:#ffc080">CDJ: I was refering to the dungeons</span><br />
+[05:01:02] <span style="color:#ffc080">CDJ: how exactly do they work?</span><br />
+[05:01:04] <span style="color:#aa007f">CPK: And it used to be very random but after the resest its very mild in dungeons</span><br />
+[05:01:10] <span style="color:#aa007f">CPK: and as far as I can tell</span><br />
+[05:01:17] <span style="color:#aa007f">CPK: the dungeons work because they do</span><br />
+[05:03:34] <span style="color:#646464"><span style="color:#0dc7ca">CURRENT phantomEclipsedream [CPE]</span> RIGHT NOW responded to memo.</span><br />
+[05:03:34] <span style="color:#0dc7ca">CPE: Heyo</span><br />
+[05:03:41] <span style="color:#646464"><span style="color:#884f00">CURRENT winstonEclipsesprite [CWE]</span> RIGHT NOW responded to memo.</span><br />
+[05:03:41] <span style="color:#884f00">CWE: Salutation</span><br />
+[05:03:48] <span style="color:#646464"><span style="color:#00006c">CURRENT paramountWaterloo [CPW]</span> RIGHT NOW responded to memo.</span><br />
+[05:03:48] <span style="color:#00006c">CPW: ......hello.</span><br />
+[05:04:03] <span style="color:#ee1e00">CCP: sup x3 combo</span><br />
+[05:04:06] <span style="color:#dba521">CMV: whoa people</span><br />
+[05:04:13] <span style="color:#aa007f">CPK: amazing</span><br />
+[05:04:16] <span style="color:#ffc080">CDJ: We found more frogs!</span><br />
+[05:04:21] <span style="color:#884f00">CWE: Extravagant!</span><br />
+[05:04:24] <span style="color:#aa007f">CPK: HOW MANY ARE LEFT</span><br />
+[05:04:28] <span style="color:#cb7de6">CSJ: 2 ➜</span><br />
+[05:04:29] <span style="color:#0dc7ca">CPE: we have?</span><br />
+[05:04:31] <span style="color:#0dc7ca">CPE: sweet</span><br />
+[05:04:38] <span style="color:#aa007f">CPK: Good job</span><br />
+[05:04:48] <span style="color:#aa007f">CPK: we are now that much closer to not failing horribly</span><br />
+[05:05:02] <span style="color:#646464"><span style="color:#000000">CHB</span> ceased responding to memo.</span><br />
+[05:05:14] <span style="color:#00006c">CPW: ......So.</span><br />
+[05:05:22] <span style="color:#00006c">CPW: ......if anyone hasnt heard.</span><br />
+[05:05:40] <span style="color:#cb7de6">CSJ: ? ➜</span><br />
+[05:05:42] <span style="color:#00006c">CPW: ......My Denizen is hosting a little tourney.</span><br />
+[05:05:48] <span style="color:#0dc7ca">CPE: as is mine</span><br />
+[05:05:48] <span style="color:#646464"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+[05:05:50] <span style="color:#ffc080">CDJ: ...</span><br />
+[05:06:00] <span style="color:#0dc7ca">CPE: in well, cohorts</span><br />
+[05:06:11] <span style="color:#ffc080">CDJ: Sounds like a lot of confusion.</span><br />
+[05:06:24] <span style="color:#884f00">CWE: Why Heavens no!</span><br />
+[05:06:28] <span style="color:#9d001f">CRS: ...Seriously?</span><br />
+[05:06:29] <span style="color:#ee1e00">CCP: PW, hm?</span><br />
+[05:06:33] <span style="color:#9d001f">CRS: /Another/ one?</span><br />
+[05:06:35] <span style="color:#aa007f">CPK: Apollo is just being a poem as usual</span><br />
+[05:06:40] <span style="color:#aa007f">CPK: *poet</span><br />
+[05:06:53] <span style="color:#9d001f">CRS: okay doesn' this make like 3 fuck we're not even done with /this/ tourney</span><br />
+[05:07:01] <span style="color:#00006c">CPW: ......Vulcan and Vesta i guess made up their mind and wanted to see who would be a worthy adversary.</span><br />
+[05:07:16] <span style="color:#884f00">CWE: Indeed</span><br />
+[05:07:23] <span style="color:#ee1e00">CCP: think this is the /fourth/ tourney overall, and Ash's one is the only one that actually finished I think...</span><br />
+[05:07:25] <span style="color:#884f00">CWE: it shall be a splendid event</span><br />
+[05:07:54] <span style="color:#ee1e00">CCP: so PW, when and where?</span><br />
+[05:07:54] <span style="color:#00006c">CPW: ......I'm actually not completely positive on a tourney of player versus player.</span><br />
+[05:08:00] <span style="color:#a80000">CFA: (\ Ended in a draw ecaws FF and FS are never online at the same time /)</span><br />
+[05:08:03] <span style="color:#00006c">CPW: ......oh quite soon actually.</span><br />
+[05:08:06] <span style="color:#00006c">CPW: ......a few hours .</span><br />
+[05:08:19] <span style="color:#00006c">CPW: ......like i was saying.</span><br />
+[05:08:26] <span style="color:#a80000">CFA: (\ Robs tourneyy is still in effect /)</span><br />
+[05:08:35] <span style="color:#a80000">CFA: (\ do yyo9u plan on participating anyy longer in that? /)</span><br />
+[05:08:37] <span style="color:#00006c">CPW: ......it's either player verus player, or players versus enemy.</span><br />
+[05:08:41] <span style="color:#9d001f">CRS: Tch. If that Judge guy got his ass one that's one match we could knock out, at least...</span><br />
+[05:08:50] <span style="color:#9d001f">CRS: Oi assumin' you even remember you signed up for it</span><br />
+[05:09:18] <span style="color:#0dc7ca">CPE: Well knowing that huge bitch, im going to enter just to scare her of my strngth</span><br />
+[05:09:22] <span style="color:#0dc7ca">CPE: strength*</span><br />
+[05:09:45] <span style="color:#884f00">CWE: scare her with?* maybe i dont fucking care</span><br />
+[05:09:51] <span style="color:#a80000">CFA: (\ Wait /)</span><br />
+[05:09:51] <span style="color:#a80000">CFA: (\ wait /)</span><br />
+[05:09:53] <span style="color:#884f00">CWE: pardon my language</span><br />
+[05:09:55] <span style="color:#a80000">CFA: (\ ...Am i hearing this right? /)</span><br />
+[05:10:00] <span style="color:#a80000">CFA: (\ YYou guyys found two more frogs? /)</span><br />
+[05:10:12] <span style="color:#cb7de6">CSJ: check the piratepad ➜</span><br />
+[05:10:19] <span style="color:#a80000">CFA: (\ :o /)</span><br />
+[05:10:24] <span style="color:#884f00">CWE: I still have my rude outbursts every now and then</span><br />
+[05:10:42] <span style="color:#646464"><span style="color:#000000">CCF</span> ceased responding to memo.</span><br />
+[05:10:51] <span style="color:#aa007f">CPK: get the 2 new found frogs FA</span><br />
+[05:11:10] <span style="color:#646464"><span style="color:#114c1b">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[05:11:10] <span style="color:#114c1b">CFD: ghagfahgfas! stupid connection. and two? you found another one?</span><br />
+[05:11:27] <span style="color:#0dc7ca">CPE: Hey their Fool</span><br />
+[05:11:47] <span style="color:#114c1b">CFD: Sup, Man.  see you be dreaming as well.</span><br />
+[05:11:53] <span style="color:#aa007f">CPK: im not</span><br />
+[05:11:54] <span style="color:#ee1e00">CCP: anyway, I'll be over whenever the thing starts I guess.</span><br />
+[05:11:57] <span style="color:#0dc7ca">CPE: Well, I died</span><br />
+[05:12:00] <span style="color:#ffc080">CDJ: Mink_Frog and American_Toad</span><br />
+[05:12:05] <span style="color:#884f00">CWE: That is how I came to exist chap</span><br />
+[05:12:07] <span style="color:#cb7de6">CSJ: wait, does that mean somebody's gonna have to take a trip to the green sun? ➜</span><br />
+[05:12:13] <span style="color:#0dc7ca">CPE: did you not hear about that</span><br />
+[05:12:26] <span style="color:#114c1b">CFD: ...huh. okay.</span><br />
+[05:12:27] <span style="color:#00006c">CPW: ......On LCA.</span><br />
+[05:12:28] <span style="color:#aa007f">CPK: I dont sleep now because seriously GTsleep sucks</span><br />
+[05:12:57] <span style="color:#cb7de6">CSJ: what, don't like regular dreams? ➜</span><br />
+[05:13:05] <span style="color:#a80000">CFA: (\ .......WHYY IS THERE A FROG ALL THE WAYY OUT NEAR THE  <span style="color:#00ff00">GREEN MOTHERFUCKING SUN</span>  /)</span><br />
+[05:13:20] <span style="color:#114c1b">CFD: ...the fuck.</span><br />
+[05:13:23] <span style="color:#ffc080">CDJ: Maybe ornis ate a frog?</span><br />
+[05:13:30] <span style="color:#cb7de6">CSJ: o_O ➜</span><br />
+[05:13:34] <span style="color:#0dc7ca">CPE:  <a href='#yolo'>#yolo</a>, haha</span><br />
+[05:13:36] <span style="color:#cb7de6">CSJ: O_o;;;;; ➜</span><br />
+[05:13:37] <span style="color:#114c1b">CFD: Also, won't that be too close to canon</span><br />
+[05:13:42] <span style="color:#a80000">CFA: (\ NO NO NO FROGGYY NO /)</span><br />
+[05:13:48] <span style="color:#a80000">CFA: (\ HANG ON MOMMAS COMING /)</span><br />
+[05:13:58] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  ceased responding to memo --</span><br />
+[05:14:01] <span style="color:#cb7de6">CSJ: . . . ➜</span><br />
+[05:14:45] <span style="color:#884f00">CWE: well one can only assume where she is headed now</span><br />
+[05:14:51] <span style="color:#aa007f">CPK: the green sun</span><br />
+[05:14:53] <span style="color:#aa007f">CPK: to grab frog</span><br />
+[05:14:53] <span style="color:#0dc7ca">CPE: yep</span><br />
+[05:14:54] <span style="color:#cb7de6">CSJ: if she ever gets there. ➜</span><br />
+[05:15:10] <span style="color:#0dc7ca">CPE: i guess if she wants to go, fine by me</span><br />
+[05:15:16] <span style="color:#9d001f">CRS: ...</span><br />
+[05:15:18] <span style="color:#9d001f">CRS: jesus</span><br />
+[05:15:27] <span style="color:#0dc7ca">CPE: i aint gonna stop that girl</span><br />
+[05:15:29] <span style="color:#dba521">CMV: she calls really random things children</span><br />
+[05:15:40] <span style="color:#114c1b">CFD: Uh... FA, you gonna be okay?</span><br />
+[05:15:51] <span style="color:#9d001f">CRS: it's almost worrying how mcuh she fixates on those things.</span><br />
+[05:16:03] <span style="color:#dba521">CMV: on the bright side she'll probably be a really obsessive mum</span><br />
+[05:16:07] <span style="color:#ffc080">CDJ: /almost/</span><br />
+[05:16:08] <span style="color:#ffc080">CDJ: ...</span><br />
+[05:16:19] <span style="color:#ffc080">CDJ: HOW IS THAT ON THE BRIGHT SIDE OF THINGS</span><br />
+[05:16:23] <span style="color:#114c1b">CFD: ...We kind of NEED those frogs, ya know.</span><br />
+[05:16:24] <span style="color:#9d001f">CRS: That's a bright side?</span><br />
+[05:16:30] <span style="color:#dba521">CMV: it's better than her ignoring her kids D:</span><br />
+[05:16:33] <span style="color:#0dc7ca">CPE: Hey PW, ill head over right now and chill with you until the thing</span><br />
+[05:16:39] <span style="color:#9d001f">CRS: some would beg to differ.</span><br />
+[05:16:43] <span style="color:#00006c">CPW: ......alright Max.</span><br />
+[05:16:51] <span style="color:#9d001f">CRS: Oi PW, you still on for the LoSaE Exhibition?</span><br />
+[05:17:00] <span style="color:#114c1b">CFD: Also, just to let you know, I still can't findmyself.</span><br />
+[05:17:00] <span style="color:#00006c">CPW: ......me?.</span><br />
+[05:17:03] <span style="color:#9d001f">CRS: Yeah</span><br />
+[05:17:05] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[05:17:07] <span style="color:#00006c">CPW: ......hm.</span><br />
+[05:17:20] <span style="color:#00006c">CPW: ......well since this tourney thing just came up for me, i guess i could.</span><br />
+[05:17:32] <span style="color:#00006c">CPW: ......i would probably be too tired to do mine later .</span><br />
+[05:18:07] <span style="color:#0dc7ca">CPE: its cool man, maybe you would have had to bow out due to number shit</span><br />
+[05:18:11] <span style="color:#00006c">CPW: ......hm.</span><br />
+[05:18:17] <span style="color:#00006c">CPW: ......i guess ill take you up on the offer RS.</span><br />
+[05:18:29] <span style="color:#dba521">CMV: is there a bad amount of attention</span><br />
+[05:18:33] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[05:18:51] <span style="color:#9d001f">CRS: To put it mildly, fuck yeah.</span><br />
+[05:18:53] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[05:18:56] <span style="color:#9d001f">CRS: And hey, <a href='http://challonge.com/w7j5myp6'>http://challonge.com/w7j5myp6</a></span><br />
+[05:19:27] <span style="color:#00006c">CPW: ((ill have to sign up im assuming?))</span><br />
+[05:19:27] <span style="color:#9d001f">CRS: Just an FYI on the bracket, your first match is against WE/Judge/Mr. Dreadlocks 3</span><br />
+[05:19:47] <span style="color:#00006c">CPW: ......okay.</span><br />
+[05:19:54] <span style="color:#9d001f">CRS: ...seriously how many black people with dreads can one session have?</span><br />
+[05:20:04] <span style="color:#9d001f">CRS: I mean at least he's not like me 'n Mike in any other way but still</span><br />
+[05:20:05] <span style="color:#9d001f">CRS: dang</span><br />
+[05:20:10] <span style="color:#ffc080">CDJ: An infinite amount?</span><br />
+[05:20:13] <span style="color:#ffc080">CDJ: A million?</span><br />
+[05:20:13] <span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[05:20:13] <span style="color:#a2a280">CFF: ...?</span><br />
+[05:20:19] <span style="color:#ffc080">CDJ: Who knows?</span><br />
+[05:20:28] <span style="color:#ee1e00">CCP: ((PW, if you mean RS' thing, you were /on the list the whole time/))</span><br />
+[05:20:28] <span style="color:#cb7de6">CSJ: :o Jovin! ➜</span><br />
+[05:20:33] <span style="color:#ee1e00">CCP: hey FF</span><br />
+[05:20:34] <span style="color:#cb7de6">CSJ: where were you? ➜</span><br />
+[05:20:34] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[05:20:43] <span style="color:#cb7de6">CSJ: your dreamself was worried! ➜</span><br />
+[05:20:44] <span style="color:#00006c">CPW: ((i dont see myself, let me see))</span><br />
+[05:20:53] <span style="color:#00006c">CPW: ((nvm found it))</span><br />
+[05:20:57] <span style="color:#aa007f">CPK: Hey FF</span><br />
+[05:21:01] <span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[05:21:05] <span style="color:#00006c">CPW: ......alright, is Judge online?.</span><br />
+[05:21:15] <span style="color:#ffc080">CDJ: So, are we going to go after Prometheus?</span><br />
+[05:21:21] <span style="color:#646464"><span style="color:#114c1b">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[05:21:21] <span style="color:#114c1b">CFD: ((WRONG PROFILE! IGNORE.))</span><br />
+[05:21:27] <span style="color:#00006c">CPW: ......Besides, once i beat him, itd half to go against MV .</span><br />
+[05:21:28] <span style="color:#114c1b">CFD: ((SORRY.))</span><br />
+[05:21:33] <span style="color:#cb7de6">CSJ: ((okay))</span><br />
+[05:21:35] <span style="color:#dba521">CMV: YOOO</span><br />
+[05:21:39] <span style="color:#00006c">CPW: ......and then probably ash.</span><br />
+[05:21:53] <span style="color:#ee1e00">CCP: but yeah, no idea how a frog got in orbit around the <span style="color:#00ed4f">Green Mother Barking Sun</span>...</span><br />
+[05:21:54] <span style="color:#00006c">CPW: ......and eventually RS if we both make it.</span><br />
+[05:22:07] <span style="color:#ee1e00">CCP: and DJ, when?</span><br />
+[05:22:09] <span style="color:#cb7de6">CSJ: ...just got a blank note. ➜</span><br />
+[05:22:15] <span style="color:#ffc080">CDJ: Now?</span><br />
+[05:22:20] <span style="color:#ffc080">CDJ: wait, a blank note?</span><br />
+[05:22:45] <span style="color:#cb7de6">CSJ: not sure why, but doesn't seem too important ➜</span><br />
+[05:22:47] <span style="color:#114c1b">CFD: ...why?</span><br />
+[05:23:05] <span style="color:#ffc080">CDJ: Just... odd.</span><br />
+[05:23:17] <span style="color:#cb7de6">CSJ: heck if I know.  ➜</span><br />
+[05:23:27] <span style="color:#ffc080">CDJ: Not sure why a time hero would have a subconsious desire to send back blank notes.</span><br />
+[05:23:56] <span style="color:#ffc080">CDJ: Do you like the chance of papercuts or something?</span><br />
+[05:24:02] <span style="color:#0dc7ca">CPE: i have a blank note framed up in my spire</span><br />
+[05:24:06] <span style="color:#646464"><span style="color:#000000">CPK</span> ceased responding to memo.</span><br />
+[05:24:09] <span style="color:#0dc7ca">CPE: :D</span><br />
+[05:24:18] <span style="color:#cb7de6">CSJ: um, no? ➜</span><br />
+[05:24:19] <span style="color:#a80000">CFA: (\ Update, I found it and got the fuck out of there /)</span><br />
+[05:24:23] <span style="color:#a80000">CFA: (\ Frogs secure /)</span><br />
+[05:24:36] <span style="color:#a80000">CFA: (\ now ima start tryying to find that other one /)</span><br />
+[05:24:38] <span style="color:#884f00">CWE: Jolly good show</span><br />
+[05:24:41] <span style="color:#cb7de6">CSJ: how the heck did you get out there so quickly??? ➜</span><br />
+[05:24:44] <span style="color:#a80000">CFA: (\ Captchacards a bit ambiguous /)</span><br />
+[05:24:48] <span style="color:#a80000">CFA: (\ Space o-o /)</span><br />
+[05:24:59] <span style="color:#a80000">CFA: (\ SJ yyou know full well how fast I can flyy /)</span><br />
+[05:25:05] <span style="color:#a80000">CFA: (\ also teleporting /)</span><br />
+[05:25:08] <span style="color:#ee1e00">CCP: how'd you know where in the Ring to go?</span><br />
+[05:25:18] <span style="color:#a80000">CFA: (\ I just.... did? /)</span><br />
+[05:25:29] <span style="color:#a80000">CFA: (\ Iunno, something was leading me too it /)</span><br />
+[05:25:31] <span style="color:#00006c">CPW: ......so, just to re-iterate, tourney thingy, in about and hour and a half.</span><br />
+[05:25:33] <span style="color:#114c1b">CFD: ...the green sun is probably a big clue.</span><br />
+[05:25:37] <span style="color:#a80000">CFA: (\ Spaceyy thing probablyy /)</span><br />
+[05:25:41] <span style="color:#00006c">CPW: ......you can come hang out with me and stuff on LCA.</span><br />
+[05:25:47] <span style="color:#00006c">CPW: ......until the time.</span><br />
+[05:25:56] <span style="color:#00006c">CPW: ......my thing.</span><br />
+[05:26:04] <span style="color:#ee1e00">CCP: where on LoCaA are we meeting again?</span><br />
+[05:26:09] <span style="color:#00006c">CPW: ......dwelling spire.</span><br />
+[05:26:20] <span style="color:#00006c">CPW: ......has a chapel at the bottom.</span><br />
+[05:26:29] <span style="color:#ffc080">CDJ: PW, sorry, but we kinda have something else planned sorta.</span><br />
+[05:26:30] <span style="color:#a80000">CFA: (\ I kinda of have more important things to be doing right now then joining a second tourneyy /)</span><br />
+[05:26:37] <span style="color:#00006c">CPW: ......just, dont bother any angels on the way in.</span><br />
+[05:26:41] <span style="color:#ffc080">CDJ: ...</span><br />
+[05:26:44] <span style="color:#ffc080">CDJ: NOPE</span><br />
+[05:26:50] <span style="color:#ffc080">CDJ: NOPENOPENOPENOPE</span><br />
+[05:26:59] <span style="color:#ee1e00">CCP: ........</span><br />
+[05:27:16] <span style="color:#00006c">CPW: ......everyone always freaks out upon that word.</span><br />
+[05:27:20] <span style="color:#00006c">CPW: ......hehe.</span><br />
+[05:27:26] <span style="color:#114c1b">CFD: ...</span><br />
+[05:27:30] <span style="color:#114c1b">CFD: You have angels?</span><br />
+[05:27:32] <span style="color:#ffc080">CDJ: I'M JUST GONNA NOPE MY WAY OVER TO LOSACROSSROADS</span><br />
+[05:27:33] <span style="color:#ee1e00">CCP: PW, your land is Land of ??? and Angels?</span><br />
+[05:27:37] <span style="color:#00006c">CPW: ......Land of Char and ANgels.</span><br />
+[05:27:37] <span style="color:#114c1b">CFD: ...can I have one?</span><br />
+[05:27:42] <span style="color:#ee1e00">CCP: ah.</span><br />
+[05:27:51] <span style="color:#646464"><span style="color:#aa007f">CURRENT powerKitten [CPK]</span> RIGHT NOW responded to memo.</span><br />
+[05:27:51] <span style="color:#aa007f">CPK: windows 7 happened again</span><br />
+[05:28:03] <span style="color:#0dc7ca">CPE: ((brb all accounts, gotta help sis with the maths))</span><br />
+[05:28:08] <span style="color:#ee1e00">CCP: DJ, I'll be there shortly. I don't want to go angeldark either!</span><br />
+[05:28:10] <span style="color:#114c1b">CFD: eat it, and get the new one. or the new anime one that appeared.</span><br />
+[05:28:16] <span style="color:#ffc080">CDJ: if anyone wants to help me hunt down prometheus and prevent a X3 or X4 Boss Battle, head on over.</span><br />
+[05:28:39] <span style="color:#ffc080">CDJ: (( <a href='#SBARGv2_LoSaCrossroads'>#SBARGv2_LoSaCrossroads</a> ))</span><br />
+[05:28:45] <span style="color:#ee1e00">CCP: ...but I might send a LakituCam to watch the tourney, ***darkness is /not/ transmitted by remote viewing.</span><br />
+[05:29:30] <span style="color:#114c1b">CFD: I would... but ((in class)) need to search for myself.</span><br />
+[05:30:26] <span style="color:#ffc080">CDJ: everyone head over to FL's spire</span><br />
+[05:30:32] <span style="color:#dba521">CMV: ...</span><br />
+[05:30:41] <span style="color:#dba521">CMV: five bucks says charles randomly revives </span><br />
+[05:30:43] <span style="color:#dba521">CMV: starting now</span><br />
+[05:30:45] <span style="color:#dba521">CMV: but i'll come with</span><br />
+[05:30:54] <span style="color:#ffc080">CDJ: We are going to kick some Denizen butt!</span><br />
+[05:33:45] <span style="color:#cb7de6">CSJ:  <a href='http://adventure.fardo.gs/adventure/photostuck/2096'>http://adventure.fardo.gs/adventure/photostuck/2096</a> found a thing ➜</span><br />
+[05:33:56] <span style="color:#cb7de6">CSJ: has some coordinates ➜</span><br />
+[05:33:57] <span style="color:#aa007f">CPK: I bet 60000 DerpGrist</span><br />
+[05:35:03] <span style="color:#0dc7ca">CPE: ((back))</span><br />
+[05:35:36] <span style="color:#00006c">CPW: ......oh hush up about darkness.</span><br />
+[05:35:50] <span style="color:#cb7de6">CSJ: try plugging those coords into the appearifyer or something ➜</span><br />
+[05:35:51] <span style="color:#00006c">CPW: ......they dont bother anyone, and quite frankly i dont really care about them.</span><br />
+[05:36:24] <span style="color:#0dc7ca">CPE: sorry, zoned out, what were ou saying CP</span><br />
+[05:36:34] <span style="color:#0dc7ca">CPE: or, erm DJ</span><br />
+[05:36:42] <span style="color:#0dc7ca">CPE:  a X4 boss battle?</span><br />
+[05:37:07] <span style="color:#ffc080">CDJ: Black Queen, Black King, Chronos, and we are trying to avoid adding Prometheus to that.</span><br />
+[05:37:25] <span style="color:#0dc7ca">CPE: oh</span><br />
+[05:37:45] <span style="color:#0dc7ca">CPE: well, it's not like chronos would go around and gather as much denizens as he could to aid him</span><br />
+[05:37:48] <span style="color:#ee1e00">CCP: Black Queen's actually optional.</span><br />
+[05:37:52] <span style="color:#aa007f">CPK: why do we have the kill BQ</span><br />
+[05:38:02] <span style="color:#cb7de6">CSJ: burger queen? ➜</span><br />
+[05:38:12] <span style="color:#aa007f">CPK:  <img src='smilies/mspa_reader.gif' alt=':gun:' title=':gun:' /></span><br />
+[05:38:16] <span style="color:#aa007f">CPK: to you SJ</span><br />
+[05:38:21] <span style="color:#0dc7ca">CPE:  <img src='smilies/facepalm.png' alt=':facepalm:' title=':facepalm:' /></span><br />
+[05:38:27] <span style="color:#cb7de6">CSJ:  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> ➜</span><br />
+[05:38:45] <span style="color:#aa007f">CPK:  <img src='smilies/lilcal.png' alt=':cal:' title=':cal:' /> wants a fistbunp </span><br />
+[05:38:54] <span style="color:#00006c">CPW: ......CP, if you truly wanted to attend, you could just portal yourself and others in.</span><br />
+[05:38:59] <span style="color:#ffc080">CDJ: I think it would be wise to gather as many people as possible.</span><br />
+[05:39:07] <span style="color:#00006c">CPW: ......the arena is the expansive basement.</span><br />
+[05:39:39] <span style="color:#ee1e00">CCP: PW, it depends on how long the Promethius thing takes.</span><br />
+[05:39:44] <span style="color:#0dc7ca">CPE: shucks</span><br />
+[05:39:49] <span style="color:#00006c">CPW: ......darn.</span><br />
+[05:39:53] <span style="color:#00006c">CPW: ......hopefully not too long.</span><br />
+[05:40:05] <span style="color:#ee1e00">CCP: at the very least, I'll send Issun and/or a LakituCam so I can watch.</span><br />
+[05:40:11] <span style="color:#00006c">CPW: ((i posted this on monday, seeing no other available days on the dungoen pad))</span><br />
+[05:40:35] <span style="color:#646464"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[05:40:35] <span style="color:#0000aa">Noodles: I know where another is located, give me a minute to retrieve it.</span><br />
+[05:40:44] <span style="color:#cb7de6">CSJ: :o ? ➜</span><br />
+[05:40:52] <span style="color:#ee1e00">CCP: hm?</span><br />
+[05:40:53] <span style="color:#0dc7ca">CPE: so the other one we need basically?</span><br />
+[05:41:10] <span style="color:#ee1e00">CCP: PE, there's /two/ frogs left</span><br />
+[05:41:13] <span style="color:#aa007f">CPK: and we can find that by removing all the wavs from main wav</span><br />
+[05:41:23] <span style="color:#0dc7ca">CPE: but didnt ash just go and get one?</span><br />
+[05:41:30] <span style="color:#aa007f">CPK: CP, Noodles just found one</span><br />
+[05:43:43] <span style="color:#0000aa">Noodles: wait, not there...</span><br />
+[05:43:51] <span style="color:#0dc7ca">CPE: annnnd nevermind</span><br />
+[05:44:59] <span style="color:#a80000">CFA: (\ Im tryying to pinpoint that captchacard one /)</span><br />
+[05:45:38] <span style="color:#ffc080">CDJ: Perhaps in someone's sylladex?</span><br />
+[05:45:45] <span style="color:#ffc080">CDJ: Also, allow me to do this.</span><br />
+[05:46:08] <span style="color:#646464">-- CURRENT divineJoker <span style="color:#ffc080">[CDJ]</span>  has sent PlayerTabs.app to the memo! --</span><br />
+[05:46:34] <span style="color:#ffc080">CDJ: Should work on iDevices.</span><br />
+[05:46:42] <span style="color:#ee1e00">CCP: ........</span><br />
+[05:46:56] <span style="color:#cb7de6">CSJ: I posted some old coordinates to where the physical captchacards were. ➜</span><br />
+[05:47:00] <span style="color:#0000aa">Noodles: ...</span><br />
+[05:47:13] <span style="color:#a80000">CFA: (\ Can yyou send me those, Niki? /)</span><br />
+[05:47:13] <span style="color:#cb7de6">CSJ: from that stalker website ➜</span><br />
+[05:47:19] <span style="color:#ffc080">CDJ: Gonna need to use it if you guys get lost.</span><br />
+[05:47:30] <span style="color:#00006c">CPW: ......CP.</span><br />
+[05:47:38] <span style="color:#00006c">CPW: ......You are at your planet right.</span><br />
+[05:47:45] <span style="color:#cb7de6">CSJ:  <a href='http://adventure.fardo.gs/adventure/photostuck/2096'>http://adventure.fardo.gs/adventure/photostuck/2096</a>  posting again for those who can't scroll ➜</span><br />
+[05:47:47] <span style="color:#ffc080">CDJ: No, he isn't</span><br />
+[05:47:51] <span style="color:#ee1e00">CCP: no, I'm on LoSaCrossroads.</span><br />
+[05:48:01] <span style="color:#00006c">CPW: ......Oh, okay, ill be over shortly then.</span><br />
+[05:48:12] <span style="color:#ffc080">CDJ: We are about to take down a corrupted denizen.</span><br />
+[05:48:17] <span style="color:#00006c">CPW: ......ive decided to help.</span><br />
+[05:48:24] <span style="color:#00006c">CPW: ......awesome.</span><br />
+[05:48:44] <span style="color:#ffc080">CDJ: The more the merrier.</span><br />
+[05:48:52] <span style="color:#cb7de6">CSJ: anways, I still have that piece of white fruitcake saved ➜</span><br />
+[05:49:35] <span style="color:#aa007f">CPK: Welp my god</span><br />
+[05:49:38] <span style="color:#ffc080">CDJ: One of us (me) will closely tail the consort, while the rest of you need to follow my GPS signal.</span><br />
+[05:50:09] <span style="color:#aa007f">CPK: Apollo just flew by and buried the spire in POEMS</span><br />
+[05:50:09] <span style="color:#ffc080">CDJ: (( gotta eat dinner ))</span><br />
+[05:50:25] <span style="color:#0dc7ca">CPE: POEMS?</span><br />
+[05:50:32] <span style="color:#aa007f">CPK: Im so bloody confused</span><br />
+[05:50:42] <span style="color:#cb7de6">CSJ: welp, start reading ➜</span><br />
+[05:50:43] <span style="color:#00006c">CPW: ((brb))</span><br />
+[05:50:46] <span style="color:#ee1e00">CCP: wat.</span><br />
+[05:51:04] <span style="color:#646464"><span style="color:#000000">CURRENT temporalTragedy [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[05:51:04] <span style="color:#000000">CTT: Hahaha.</span><br />
+[05:51:07] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#aa007f">[CPK]</span>  reads poems --</span><br />
+[05:51:09] <span style="color:#aa007f">CPK: HI TT</span><br />
+[05:51:49] <span style="color:#9d001f">CRS: Handle change, huh Kat?</span><br />
+[05:52:43] <span style="color:#ffc080">CDJ: (( okay, back sooner than I expected ))</span><br />
+[05:52:54] <span style="color:#00006c">CPW: ((back))</span><br />
+[05:53:12] <span style="color:#000000">CTT: .</span><br />
+[05:53:19] <span style="color:#ffc080">CDJ: I'll let you know if it seems the Consort is going into a dead end.</span><br />
+[05:53:20] <span style="color:#0dc7ca">CPE: is that Kat?</span><br />
+[05:54:07] <span style="color:#0dc7ca">CPE: ((yuck, i fucking hate gobstoppers))</span><br />
+[05:54:42] <span style="color:#000000">CTT: who τhe fuck cares if I'm τhe real deal or noτ</span><br />
+[05:54:48] <span style="color:#0dc7ca">CPE: it's Kat</span><br />
+[05:55:04] <span style="color:#0dc7ca">CPE: ((FUCK MY FINGER)</span><br />
+[05:55:04] <span style="color:#9d001f">CRS: Well I'd say most everyone in here</span><br />
+[05:55:11] <span style="color:#0dc7ca">CPE: ((OW OW OW OW))</span><br />
+[05:55:15] <span style="color:#cb7de6">CSJ: ((o_O???))</span><br />
+[05:55:20] <span style="color:#a80000">CFA: (\ YYeah reallyy /)</span><br />
+[05:55:22] <span style="color:#000000">CTT: Pffτ. ▲nd my mom is a supermodel.</span><br />
+[05:55:24] <span style="color:#0dc7ca">CPE: ((Bit it whilst eating chocolate))</span><br />
+[05:55:28] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[05:55:30] <span style="color:#a80000">CFA: (\ ....huh /)</span><br />
+[05:55:32] <span style="color:#a80000">CFA: (\ ? /)</span><br />
+[05:56:12] <span style="color:#646464"><span style="color:#000000">CPK</span> ceased responding to memo.</span><br />
+[05:56:12] <span style="color:#ffc080">CDJ: Alright, gonna set the corpse here...</span><br />
+[05:56:41] <span style="color:#ffc080">CDJ: Alright, got a tail on this consort.</span><br />
+[05:56:47] <span style="color:#0dc7ca">CPE: Corps!?</span><br />
+[05:57:02] <span style="color:#000000">CTT: ....you didn'τ realize τhaτ was sarcasm, didn'τ you</span><br />
+[05:57:08] <span style="color:#0dc7ca">CPE: nope</span><br />
+[05:57:11] <span style="color:#0dc7ca">CPE: :p</span><br />
+[05:57:28] <span style="color:#9d001f">CRS: I don't even know</span><br />
+[05:57:37] <span style="color:#0dc7ca">CPE: ((am i the only one who vaccums up the M&amp;M's from my hand instead of placing them in my mouth?))</span><br />
+[05:57:52] <span style="color:#ffc080">CDJ: (hopefully he can't spot me under this cardboard box)</span><br />
+[05:57:59] <span style="color:#a80000">CFA: (\ I did but /)</span><br />
+[05:58:01] <span style="color:#a80000">CFA: (\ it made no sense /)</span><br />
+[05:58:32] <span style="color:#ffc080">CDJ: ...</span><br />
+[05:58:42] <span style="color:#114c1b">CFD: ,,,</span><br />
+[05:58:44] <span style="color:#9d001f">CRS: Whadaya mean it makes plenty of sense. Make an unrealistic statement to point out the fallacy of a more relevant thing</span><br />
+[05:58:47] <span style="color:#ffc080">CDJ: okay, the consort just stepped through a wall at this train station.</span><br />
+[05:58:48] <span style="color:#114c1b">CFD: So Kat broke. lovely.</span><br />
+[05:58:53] <span style="color:#ffc080">CDJ: I repeat.</span><br />
+[05:58:56] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  eye roll --</span><br />
+[05:59:06] <span style="color:#ffc080">CDJ: A consort has /walked through a wall/</span><br />
+[05:59:18] <span style="color:#a80000">CFA: (\ DJ stop smoking whatever it is yyou're smoking /)</span><br />
+[05:59:20] <span style="color:#0dc7ca">CPE: I dont even understand</span><br />
+[05:59:38] <span style="color:#ffc080">CDJ: ...</span><br />
+[05:59:47] <span style="color:#ee1e00">CCP: DJ. wall in a train station?</span><br />
+[05:59:54] <span style="color:#ffc080">CDJ: okay, looks like an old room with a phonograph.</span><br />
+[05:59:55] <span style="color:#ee1e00">CCP: bro, you found a Magicant entrance.</span><br />
+[06:00:10] <span style="color:#ffc080">CDJ: Just following through the wall...</span><br />
+[06:00:14] <span style="color:#ffc080">CDJ: I'll leave a trail!</span><br />
+[06:00:16] <span style="color:#0dc7ca">CPE: (can I get a "Hellll yeah!")</span><br />
+[06:00:31] <span style="color:#ffc080">CDJ: You guys better get moving!</span><br />
+[06:00:37] <span style="color:#cb7de6">CSJ: okay okay ➜</span><br />
+[06:00:38] <span style="color:#0dc7ca">CPE: (earthbound ftw)</span><br />
+[06:00:40] <span style="color:#ee1e00">CCP: I think I know where you're talking about.</span><br />
+[06:00:52] <span style="color:#00006c">CPW: ......oh.</span><br />
+[06:01:04] <span style="color:#00006c">CPW: ......i finally check to see where DJ probably was.</span><br />
+[06:01:11] <span style="color:#00006c">CPW: ......i see he is off somewhere else.</span><br />
+[06:01:31] <span style="color:#114c1b">CFD: SO... anyways. Kat. how ya doing?</span><br />
+[06:01:50] <span style="color:#114c1b">CFD: And how ya doing ash? not getting too close to the sun, are ya?</span><br />
+[06:02:38] <span style="color:#000000">CTT: Iτ's preττy much known how I'm doing, I won'τ repeaτ iτ.</span><br />
+[06:02:56] <span style="color:#9d001f">CRS: ...</span><br />
+[06:02:58] <span style="color:#9d001f">CRS: Tch.</span><br />
+[06:03:01] <span style="color:#ee1e00">CCP: lol</span><br />
+[06:03:18] <span style="color:#114c1b">CFD: ...I kind of missed that. what she be doing?</span><br />
+[06:05:15] <span style="color:#0dc7ca">CPE: LORD GEEZUS I'M BORED</span><br />
+[06:05:25] <span style="color:#a80000">CFA: (\ I got awayy from the sun before it could roast me /)</span><br />
+[06:05:26] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  halts rambunctiousness --</span><br />
+[06:05:34] <span style="color:#884f00">CWE: for whatever reason ole chap</span><br />
+[06:05:40] <span style="color:#114c1b">CFD: Join the club, PE. and good, Ash.</span><br />
+[06:06:02] <span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  heh --</span><br />
+[06:06:06] <span style="color:#646464">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  continues it --</span><br />
+[06:06:10] <span style="color:#0dc7ca">CPE: Well, im just sitting here watching myself essentially fly around and shit</span><br />
+[06:06:19] <span style="color:#884f00">CWE: yourself as a dog and a sprite</span><br />
+[06:06:21] <span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[06:06:31] <span style="color:#0dc7ca">CPE: uuuuggghhhh</span><br />
+[06:11:04] <span style="color:#000000">CTT: huh.</span><br />
+[06:11:39] <span style="color:#646464"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[06:11:39] <span style="color:#9d001f">CRS: Huh?</span><br />
+[06:11:43] <span style="color:#9d001f">CRS: Huh what?</span><br />
+[06:11:56] <span style="color:#884f00">CWE: ?tawh huH</span><br />
+[06:13:24] <span style="color:#114c1b">CFD: ...?</span><br />
+[06:13:42] <span style="color:#000000">CTT: ...?</span><br />
+[06:15:02] <span style="color:#000000">CTT: yeees?</span><br />
+[06:15:24] <span style="color:#9d001f">CRS: ...</span><br />
+[06:16:48] <span style="color:#000000">CTT: ...whaτ.</span><br />
+[06:17:03] <span style="color:#0dc7ca">CPE: i dont even know anymore</span><br />
+[06:17:12] <span style="color:#9d001f">CRS: That's an excellent question</span><br />
+[06:17:55] <span style="color:#9d001f">CRS: So Kay what' up with you, what're you up to nowadays?</span><br />
+[06:18:04] <span style="color:#0dc7ca">CPE: *Kat</span><br />
+[06:18:16] <span style="color:#0dc7ca">CPE: SHAZAM, *grammar nazi powers activate</span><br />
+[06:18:22] <span style="color:#0dc7ca">CPE: *</span><br />
+[06:30:13] <span style="color:#ffc080">CDJ: Okay, sorry, I just made it through a furby room and was too stunned to talk for a bit</span><br />
+[06:30:34] <span style="color:#ee1e00">CCP: ...how? we're kinda trapped on the other side of it :/</span><br />
+[06:30:43] <span style="color:#ffc080">CDJ: Thankfully, there was an actual tunnel on the other end of the door.</span><br />
+[06:30:54] <span style="color:#ffc080">CDJ: ..I just walked through.</span><br />
+[06:31:01] <span style="color:#cb7de6">CSJ: tunnel? ➜</span><br />
+[06:31:03] <span style="color:#ffc080">CDJ: Whats your problem?</span><br />
+[06:31:20] <span style="color:#0dc7ca">CPE: furby room? *shudder*</span><br />
+[06:31:23] <span style="color:#ffc080">CDJ: Yeah, there was a tunnel, with a bit of dirt on one end.</span><br />
+[06:31:32] <span style="color:#884f00">CWE: GEE GOLLY A TOY</span><br />
+[06:31:36] <span style="color:#884f00">CWE: TOY TOY TOY TOY</span><br />
+[06:31:42] <span style="color:#000000">CTT: people should know by now/</span><br />
+[06:31:43] <span style="color:#884f00">CWE: *regains compusure*</span><br />
+[06:31:43] <span style="color:#cb7de6">CSJ: let's just say some of us have seen things while around furbies. ➜</span><br />
+[06:31:46] <span style="color:#884f00">CWE: sorry</span><br />
+[06:32:49] <span style="color:#000000">CTT: I τhink τhey're cuτe.</span><br />
+[06:33:20] <span style="color:#00006c">CPW: ......im sure if MV captchas the buckets of furbies, you can have them.</span><br />
+[06:33:21] <span style="color:#5555ff">CMM: did anyone need me while i was afk? i was doing some last minute things.</span><br />
+[06:33:32] <span style="color:#dba521">CMV: yeah you want these?</span><br />
+[06:33:34] <span style="color:#dba521">CMV: they're...toys.</span><br />
+[06:33:44] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[06:33:44] <span style="color:#000000">CTT: bring τhem τo LoIaR.</span><br />
+[06:34:40] <span style="color:#dba521">CMV: alright!</span><br />
+[06:35:10] <span style="color:#000000">CTT: heh.</span><br />
+[06:35:53] <span style="color:#114c1b">CFD: ...</span><br />
+[06:35:59] <span style="color:#114c1b">CFD: This will end well.</span><br />
+[06:36:15] <span style="color:#114c1b">CFD: Tell em if things devolve into a catfight.</span><br />
+[06:36:17] <span style="color:#114c1b">CFD: *me</span><br />
+[06:36:55] <span style="color:#000000">CTT: considering τhe session we're in, τhaτ will be preττy soon.</span><br />
+[06:37:08] <span style="color:#cb7de6">CSJ: we made iyt ➜</span><br />
+[06:37:21] <span style="color:#cb7de6">CSJ: we made it through the room ➜</span><br />
+[06:37:22] <span style="color:#a80000">CFA: (\ Considering the maturityy of some of these people yyou mean /)</span><br />
+[06:37:29] <span style="color:#114c1b">CFD: Yep.</span><br />
+[06:37:31] <span style="color:#00006c">CPW: ......shoosh.</span><br />
+[06:37:42] <span style="color:#cb7de6">CSJ: lisa did not rear us apart ➜</span><br />
+[06:37:46] <span style="color:#cb7de6">CSJ: *tear ➜</span><br />
+[06:39:05] <span style="color:#000000">CTT: ....were you in a room τhaτ referenced The Room</span><br />
+[06:39:22] <span style="color:#cb7de6">CSJ: unfortunately no ➜</span><br />
+[06:39:28] <span style="color:#000000">CTT: ▲h.</span><br />
+[06:41:33] <span style="color:#9d001f">CRS: LISA YOU'RE TEARING ME APART</span><br />
+[06:42:11] <span style="color:#646464"><span style="color:#008282">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+[06:42:11] <span style="color:#008282">CCA: ∞ zing Σ</span><br />
+[06:42:28] <span style="color:#000000">CTT: ...any oτher news or can I leave now</span><br />
+[06:42:29] <span style="color:#0dc7ca">CPE: heyo</span><br />
+[06:42:35] <span style="color:#0dc7ca">CPE: there was news?</span><br />
+[06:43:20] <span style="color:#dba521">CMV: i'll bring the furbies to loair later!</span><br />
+[06:43:25] <span style="color:#dba521">CMV: loiar whatever</span><br />
+[06:43:34] <span style="color:#dba521">CMV: i'll leave the bins by that hq place okay?</span><br />
+[06:43:37] <span style="color:#000000">CTT: be careful of underlings.</span><br />
+[06:43:42] <span style="color:#000000">CTT: heheh.</span><br />
+[06:43:59] <span style="color:#dba521">CMV: i'll be okay, nbd!</span><br />
+[06:45:22] <span style="color:#000000">CTT: if you can handle a zerg rush, okay.</span><br />
+[06:45:39] <span style="color:#646464"><span style="color:#000000">CMM</span> ceased responding to memo.</span><br />
+[06:47:35] <span style="color:#0000aa">Noodles: oh hi Mark</span><br />
+[06:49:49] <span style="color:#dba521">CMV: zerg rush smurf rush idek</span><br />
+[06:49:50] <span style="color:#dba521">CMV: idec</span><br />
+[06:52:36] <span style="color:#000000">CTT: Won'τ be long now.</span><br />
+[06:53:45] <span style="color:#0dc7ca">CPE: hey Kat</span><br />
+[06:53:54] <span style="color:#0dc7ca">CPE: are you still participating in RS's tournament</span><br />
+[06:54:48] <span style="color:#000000">CTT: Θh, I compleτely forgoτ abouτ τhaτ.</span><br />
+[06:55:02] <span style="color:#0dc7ca">CPE: i checking the roster</span><br />
+[06:55:10] <span style="color:#0dc7ca">CPE:  <a href='http://challonge.com/w7j5myp6'>http://challonge.com/w7j5myp6</a></span><br />
+[06:55:20] <span style="color:#0dc7ca">CPE: and PW needed to fight Judge</span><br />
+[06:55:32] <span style="color:#0dc7ca">CPE: but what if you and judge switched</span><br />
+[06:55:38] <span style="color:#0dc7ca">CPE: so you could do it now</span><br />
+[06:55:51] <span style="color:#0dc7ca">CPE: you both</span><br />
+[06:55:53] <span style="color:#0dc7ca">CPE: could do it</span><br />
+[06:56:27] <span style="color:#0dc7ca">CPE: /</span><br />
+[06:56:39] <span style="color:#000000">CTT: I don'τ know if I have τime for a τournamenτ before my plan..</span><br />
+[06:56:57] <span style="color:#dba521">CMV: your plan?</span><br />
+[06:56:58] <span style="color:#0dc7ca">CPE: plan?</span><br />
+[06:57:00] <span style="color:#ee1e00">CCP: plan?</span><br />
+[06:57:07] <span style="color:#dba521">CMV: plan plan plan?</span><br />
+[06:57:16] <span style="color:#ffc080">CDJ: oh god why</span><br />
+[06:57:16] <span style="color:#a80000">CFA: (\ if yyou're gonna sayy 'Doom the session' /)</span><br />
+[06:57:21] <span style="color:#114c1b">CFD: ...uh huh.</span><br />
+[06:57:26] <span style="color:#a80000">CFA: (\ Stop now before yyou get the entire fucking group on yyyyour tail /)</span><br />
+[06:57:41] <span style="color:#114c1b">CFD: ...please tell me we don't have to beat the emo out of you, Kat.</span><br />
+[06:57:46] <span style="color:#0dc7ca">CPE: plus that would ruin pre scheduled plans</span><br />
+[06:57:57] <span style="color:#a80000">CFA: (\ When do we NOT have to beat the emo out of her? /)</span><br />
+[06:58:08] <span style="color:#000000">CTT: implying having τhe group afτer me /isn'τ/ whaτ I'm planning.</span><br />
+[06:58:49] <span style="color:#a80000">CFA: (\ Do we have to put yyou in time out like we had to do for FL? /)</span><br />
+[06:59:09] <span style="color:#114c1b">CFD: ...sigh.</span><br />
+[06:59:27] <span style="color:#0dc7ca">CPE: if you guys fought now</span><br />
+[06:59:29] <span style="color:#cb7de6">CSJ: adrgh ➜</span><br />
+[06:59:31] <span style="color:#0dc7ca">CPE: the winner could then go fight MV</span><br />
+[06:59:44] <span style="color:#000000">CTT: whaτ do you mean by τhaτ?</span><br />
+[06:59:52] <span style="color:#a80000">CFA: (\ heavyy lockdown /)</span><br />
+[07:00:02] <span style="color:#a80000">CFA: (\ In a room byy yyourself with no access to anyything /)</span><br />
+[07:00:12] <span style="color:#000000">CTT: No. I wanτ someτhing /worse/.</span><br />
+[07:00:27] <span style="color:#a80000">CFA: (\ So yyou WANT To be locked down in an Anti-aspect chamber /)</span><br />
+[07:00:28] <span style="color:#0000c1">CMA: Do you wish for an end...?</span><br />
+[07:00:28] <span style="color:#a80000">CFA: (\ okayy /)</span><br />
+[07:01:25] <span style="color:#000000">CTT: /worse/</span><br />
+[07:01:58] <span style="color:#646464"><span style="color:#fe8130">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+[07:01:58] <span style="color:#fe8130">CPO: Hey.</span><br />
+[07:02:02] <span style="color:#dba521">CMV: hey</span><br />
+[07:02:09] <span style="color:#0dc7ca">CPE: heyo</span><br />
+[07:02:16] <span style="color:#884f00">CWE: Salutations</span><br />
+[07:02:21] <span style="color:#ee1e00">CCP: sup</span><br />
+[07:02:25] <span style="color:#000000">CTT: M▲, yes.</span><br />
+[07:02:38] <span style="color:#0000c1">CMA: If you mean what I think you mean, Kat, not a lot of people would be willing to let that happen. Then again, you probably don't care about that anyway.</span><br />
+[07:02:40] <span style="color:#114c1b">CFD: Sup!</span><br />
+[07:02:47] <span style="color:#0dc7ca">CPE: aint nobody got time for that</span><br />
+[07:03:13] <span style="color:#fe8130">CPO: What's going on?</span><br />
+[07:03:19] <span style="color:#114c1b">CFD: ...please don't make us god tier ya bloody ass.</span><br />
+[07:03:20] <span style="color:#a80000">CFA: (\ Kats tryying to be Chronos /)</span><br />
+[07:03:37] <span style="color:#dba521">CMV: kat's really sad and fa's jumping to mad conclusions</span><br />
+[07:03:44] <span style="color:#0000c1">CMA: That's a shallow comparison.</span><br />
+[07:03:46] <span style="color:#a80000">CFA: (\ Its... more of a Joke but /)</span><br />
+[07:03:47] <span style="color:#a80000">CFA: (\ okayy /)</span><br />
+[07:03:54] <span style="color:#dba521">CMV: which is like totes normal though so you're not missin much mike</span><br />
+[07:03:59] <span style="color:#0000c1">CMA: It wasn't funny, obviously.</span><br />
+[07:04:03] <span style="color:#000000">CTT: don'τ. godτier me.</span><br />
+[07:04:03] <span style="color:#a80000">CFA: (\ Dun care /)</span><br />
+[07:04:07] <span style="color:#000000">CTT: ever.</span><br />
+[07:04:11] <span style="color:#ee1e00">CCP: why?</span><br />
+[07:04:17] <span style="color:#000000">CTT: I'm done.</span><br />
+[07:04:27] <span style="color:#a80000">CFA: (\ Then go be done somewhere else /)</span><br />
+[07:04:49] <span style="color:#000000">CTT: No.</span><br />
+[07:05:03] <span style="color:#fe8130">CPO: I see.</span><br />
+[07:05:27] <span style="color:#0000c1">CMA: I think she'd rather be rid of everything than wander elsewhere with it all still weighing on her conscience.</span><br />
+[07:05:42] <span style="color:#0000c1">CMA: ... Unless I miss my guess.</span><br />
+[07:05:57] <span style="color:#a80000">CFA: (\ ....What in the fucks the point of that? /)</span><br />
+[07:06:07] <span style="color:#a80000">CFA: (\ kill everyyone just to wander aimlesslyy and live with the guilt /)</span><br />
+[07:06:18] <span style="color:#0000c1">CMA: Other way around, ash.</span><br />
+[07:06:57] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  siiiigh --</span><br />
+[07:07:17] <span style="color:#a80000">CFA: (\ God its like anyy time one person screws up something in kats life /)</span><br />
+[07:07:21] <span style="color:#a80000">CFA: (\ the entire session suffers /)</span><br />
+[07:07:41] <span style="color:#114c1b">CFD: ...Tell me about it. Sorry Kat.</span><br />
+[07:07:55] <span style="color:#000000">CTT: I refuse τo go down quieτly, and I won'τ allow myself τo be cannon fodder for Chronos.</span><br />
+[07:08:05] <span style="color:#000000">CTT: If I go down a scoundrel, τhen so be iτ.</span><br />
+[07:08:08] <span style="color:#a80000">CFA: (\ Then dont be /)</span><br />
+[07:08:08] <span style="color:#114c1b">CFD: Uh Huh.</span><br />
+[07:08:15] <span style="color:#a80000">CFA: (\ Dont be cannon fodder then /)</span><br />
+[07:08:22] <span style="color:#a80000">CFA: (\ be something bigger then that /)</span><br />
+[07:08:29] <span style="color:#a80000">CFA: (\ but for fucks sake dont be a Villian /)</span><br />
+[07:08:34] <span style="color:#114c1b">CFD: Let me ask you a question. what happened to ya head plant, what class are you?</span><br />
+[07:08:50] <span style="color:#000000">CTT: says τhe one who demoτed me τo "a life player who can'τ do τhings righτ".</span><br />
+[07:08:54] <span style="color:#0000c1">CMA: ... That was two, FD.</span><br />
+[07:09:09] <span style="color:#0dc7ca">CPE: (who was it who wanted to be informed of a catfight again?)</span><br />
+[07:09:19] <span style="color:#114c1b">CFD: Kat, FA was in a bad mood at the time. and that was me, PE.</span><br />
+[07:09:20] <span style="color:#ee1e00">CCP: (hm?)</span><br />
+[07:09:38] <span style="color:#000000">CTT: Excuses, excuses.</span><br />
+[07:09:40] <span style="color:#a80000">CFA: (\ What jovin said /)</span><br />
+[07:09:44] <span style="color:#a80000">CFA: (\ No, seriouslyy /)</span><br />
+[07:09:49] <span style="color:#a80000">CFA: (\ I even came to yyou and apologized /)</span><br />
+[07:09:55] <span style="color:#a80000">CFA: (\ but yyou were having none of it /)</span><br />
+[07:09:56] <span style="color:#dba521">CMV: i kinda feel for kat</span><br />
+[07:10:05] <span style="color:#dba521">CMV: i'll give her furbies to make up for it</span><br />
+[07:10:08] <span style="color:#000000">CTT: You only apologized so τhaτ I'd revive FL.</span><br />
+[07:10:18] <span style="color:#000000">CTT: I won'τ become someone's τool.</span><br />
+[07:10:23] <span style="color:#114c1b">CFD: ...you know what. Give me a while, Kat. I'll have something ready in in a bit...</span><br />
+[07:10:23] <span style="color:#a80000">CFA: (\ True there were ulterior motives but even then /)</span><br />
+[07:10:28] <span style="color:#a80000">CFA: (\ What I said was genuine /)</span><br />
+[07:10:35] <span style="color:#000000">CTT: more lies.</span><br />
+[07:10:38] <span style="color:#a80000">CFA: (\ no /)</span><br />
+[07:10:39] <span style="color:#a80000">CFA: (\ not lies /)</span><br />
+[07:10:40] <span style="color:#646464">-- CURRENT phantomEclipsedreamdoesntevenfuckingknow <span style="color:#0dc7ca">[CPEDOESNTEVENFUCKINGKNOW]</span>  --</span><br />
+[07:11:08] <span style="color:#a80000">CFA: (\ Whyy the fuck would I lie about soething like that /)</span><br />
+[07:11:14] <span style="color:#a80000">CFA: (\ What would I have to gain from it? /)</span><br />
+[07:11:28] <span style="color:#dba521">CMV: .....charles getting revived?</span><br />
+[07:11:41] <span style="color:#dba521">CMV: which he probably is in a few minutes anyway</span><br />
+[07:11:53] <span style="color:#a80000">CFA: (\ The entire session alreadyy hates me for some god awful reason, other then that what would I have had to gain? /)</span><br />
+[07:11:59] <span style="color:#114c1b">CFD: ...</span><br />
+[07:12:07] <span style="color:#114c1b">CFD: This is stupid.</span><br />
+[07:12:14] <span style="color:#fe8130">CPO: ^</span><br />
+[07:12:19] <span style="color:#a80000">CFA: (\ yyou act like im upset about it, jovin /)</span><br />
+[07:12:44] <span style="color:#a80000">CFA: (\ point is /)</span><br />
+[07:13:00] <span style="color:#a80000">CFA: (\ What I told yyou was the truth, Despite myy desperate attempts at reviving charles /)</span><br />
+[07:13:25] <span style="color:#000000">CTT: and is τhere any reason why I should believe τhaτ</span><br />
+[07:13:40] <span style="color:#114c1b">CFD: No, I mean... Bah, I'll just make things worse.</span><br />
+[07:13:46] <span style="color:#cb7de6">CSJ: lkhfdlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll ➜</span><br />
+[07:13:54] <span style="color:#a80000">CFA: (\ Becaws what reason would I have to lie to yyou? /)</span><br />
+[07:13:54] <span style="color:#00006c">CPW: ......zlkjgdslkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.</span><br />
+[07:13:54] <span style="color:#0000c1">CMA: ...?</span><br />
+[07:14:12] <span style="color:#a80000">CFA: (\ Casting aside the whole charles revival thing /)</span><br />
+[07:14:33] <span style="color:#a80000">CFA: (\ I realized what I had said was out of line /)</span><br />
+[07:15:00] <span style="color:#a80000">CFA: (\ I realized stomping all over yyour attempts in myy narrowminded struggle was wrong /)</span><br />
+[07:15:09] <span style="color:#a80000">CFA: (\ I wasnt thinking straight until WELL after the incident /)</span><br />
+[07:15:36] <span style="color:#000000">CTT: you realized iτ τoo laτe τhen.</span><br />
+[07:15:44] <span style="color:#a80000">CFA: (\ its the first time I've seen someone perma-die, yyou have to understand /)</span><br />
+[07:15:46] <span style="color:#114c1b">CFD: ...kat. </span><br />
+[07:16:26] <span style="color:#a80000">CFA: (\ See Jovin, this is whyy I didnt want to to begin with. becaws she was gonna pull shit like this /)</span><br />
+[07:16:44] <span style="color:#820061">CFD: You are a fucking STUPID, CENTERED GIRL.</span><br />
+[07:16:53] <span style="color:#820061">CFD: Not you FA, TT.</span><br />
+[07:16:54] <span style="color:#dba521">CMV: golly gee</span><br />
+[07:17:02] <span style="color:#a80000">CFA: (\ I know /)</span><br />
+[07:17:08] <span style="color:#0dc7ca">CPE: damn</span><br />
+[07:17:28] <span style="color:#820061">CFD: LOOK AROUND you, TT. look How how SUFFERING and DEATH we ALL go through.</span><br />
+[07:17:30] <span style="color:#820061">CFD: YET.</span><br />
+[07:17:51] <span style="color:#820061">CFD: Do you HEAR us bitching and moaning about it, or making stupid ass plans?</span><br />
+[07:18:01] <span style="color:#9d001f">CRS: ...I hear that on a regular basis actually.</span><br />
+[07:18:10] <span style="color:#820061">CFD: NO! WE FUCKING DEAL WITH IT.</span><br />
+[07:18:25] <span style="color:#820061">CFD: AND RS, SHUT THE FUCK UP.</span><br />
+[07:18:35] <span style="color:#820061">CFD: I BE RANTING HERE.</span><br />
+[07:18:40] <span style="color:#9d001f">CRS: yeah yeah</span><br />
+[07:18:45] <span style="color:#820061">CFD: ANYWAYS. WHERE WAS I.</span><br />
+[07:18:49] <span style="color:#000000">CTT: you musτ be deaf τhen.</span><br />
+[07:19:05] <span style="color:#a80000">CFA: (\ he means revenge plots, kat /)</span><br />
+[07:19:07] <span style="color:#820061">CFD: OH RIGHT, BECAUSE YOU WAS CALLED USELESS, YES?</span><br />
+[07:19:25] <span style="color:#820061">CFD: THEN WHY DIDN'T YOU PROVE US WRONG?</span><br />
+[07:19:40] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  grabs popcorn --</span><br />
+[07:19:45] <span style="color:#820061">CFD: MAYBE IT'S BECAUSE YOU FEEL THAT USELESS.</span><br />
+[07:20:01] <span style="color:#820061">CFD: OR YOU NEVER HAD A CHANCE TO BE USEFUL.</span><br />
+[07:20:09] <span style="color:#000000">CTT: Because someone else will sτep in and do a beττer job, as usual.</span><br />
+[07:20:15] <span style="color:#000000">CTT: Iτ's clockwork, faτe.</span><br />
+[07:20:19] <span style="color:#820061">CFD: OR... maybe. just maybe, you ARE THAT USELESS.</span><br />
+[07:20:36] <span style="color:#dba521">CMV: this is definitely helping</span><br />
+[07:20:37] <span style="color:#820061">CFD: AND IF YOU RE THAT USELESS....</span><br />
+[07:20:51] <span style="color:#820061">CFD: HOW CAN YOUR FUCKING PLAN WORK, HMMMM?</span><br />
+[07:21:14] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks and grabs some of WE's popcorn --</span><br />
+[07:21:25] <span style="color:#000000">CTT: Iτ's noτ τhe facτ on if my plan will work or noτ.</span><br />
+[07:21:40] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  wonders how in paradox space FA got onto the land of char and angels --</span><br />
+[07:21:49] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  without implying so --</span><br />
+[07:21:51] <span style="color:#820061">CFD: YOUR PARENTS MUST BE SOOOOOOOOO PROUD.</span><br />
+[07:21:56] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  fictitous popcorn, yum --</span><br />
+[07:22:02] <span style="color:#000000">CTT: my parenτs are dead.</span><br />
+[07:22:03] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  unless time shit --</span><br />
+[07:22:09] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  or erm, space shit --</span><br />
+[07:22:26] <span style="color:#820061">CFD: SO ARE MINE, BUT THEY ARE STILL DISAPPOINTED IN YOU.</span><br />
+[07:22:27] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  waits for kat to backhand Jovin --</span><br />
+[07:22:51] <span style="color:#000000">CTT: When weren'τ τhey.</span><br />
+[07:22:54] <span style="color:#9d001f">CRS: ...</span><br />
+[07:23:07] <span style="color:#9d001f">CRS: And I thought I was bad at talking to people.</span><br />
+[07:23:30] <span style="color:#0000c1">CMA: I'm kind of just waiting for this to turn into something that looks like it's actually helping.</span><br />
+[07:23:30] <span style="color:#820061">CFD: BITE ME. I HAD A BAD COUPLE OF DAYS. BOTH OF ME.</span><br />
+[07:23:39] <span style="color:#646464">-- CURRENT phantomEclipsedream <span style="color:#0dc7ca">[CPE]</span>  just fucking realized that FD is purple from rage aspects --</span><br />
+[07:23:57] <span style="color:#0000c1">CMA: At this point, it ain't lookin' like that's gonna happen.</span><br />
+[07:24:23] <span style="color:#646464"><span style="color:#000000">CURRENT notChronos [CNC]</span> RIGHT NOW responded to memo.</span><br />
+[07:24:23] When does it ever?<br />
+[07:24:43] <span style="color:#0000c1">CMA: I dunno, you tell me.</span><br />
+[07:25:43] <span style="color:#646464"><span style="color:#000000">CNC</span> ceased responding to memo.</span><br />
+[07:26:32] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[07:27:32] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[07:27:35] <span style="color:#000000">CTT: ...are we done yeτ.</span><br />
+[07:27:53] <span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  FF's internet copped out --</span><br />
+[07:28:03] <span style="color:#646464"><span style="color:#820061">CURRENT foolishDream [CFD]</span> RIGHT NOW responded to memo.</span><br />
+[07:28:03] <span style="color:#820061">CFD: BACK. WHERE WAS I.</span><br />
+[07:28:20] <span style="color:#000000">CTT: Θkay, we're noτ done yeτ.</span><br />
+[07:28:44] <span style="color:#820061">CFD: OH RIGHT. ABOUT TT being USELESS. ANYWAYS.</span><br />
+[07:29:11] <span style="color:#820061">CFD: AS MUCH AS IT WOULD MOST LIKELY PLEASE YOU TO BE USELESS IN ALL MANNERS...</span><br />
+[07:29:18] <span style="color:#820061">CFD: YOU ARE NOT.</span><br />
+[07:30:06] <span style="color:#820061">CFD: FOR ONE THING, HANK, OR BOB, OR WHATEVER SV'S NAME WAS- HE HAD A GOOD JUDGE OF PEOPLES CHARACHTERs</span><br />
+[07:30:45] <span style="color:#820061">CFD: AND I DON'T THINK HE WOULDN'T HAVE ASKED YOU TO BE THE HUB OF EVERYTHING IF HE DIDN'T SEE SOMETHING USEFUL ABOUT YOU.</span><br />
+[07:31:14] <span style="color:#000000">CTT: buτ τhaτ was jusτ iτ.</span><br />
+[07:31:22] <span style="color:#820061">CFD: THAT, AND IT TOOK YOU FOUR-SIX MONTHS TO KICK US ALL OUT.</span><br />
+[07:31:31] <span style="color:#820061">CFD: MOST PEOPLE WOULD HAVE DONE IT IN A MONTH.</span><br />
+[07:31:42] <span style="color:#820061">CFD: WE WERE LOUSY NIGHEBOORS.</span><br />
+[07:32:47] <span style="color:#000000">CTT: Thaτ was τhen.</span><br />
+[07:33:04] <span style="color:#a80000">CFA: (\ its the concept of the matter, kat /)</span><br />
+[07:33:19] <span style="color:#820061">CFD: THAT, AND YOU WHERE STRONG ENOUGH TO RESIST MINDPLANT FOR GOD KNOWS HOW LONG.</span><br />
+[07:33:31] <span style="color:#820061">CFD: ...IT'S STILL NOT INFECTING YA DREAM BODY, RIGHT?</span><br />
+[07:33:35] <span style="color:#820061">CFD: ANYWAYS.</span><br />
+[07:34:12] <span style="color:#820061">CFD: MOST PEOPLE ARE NOT THAT STRONG WILLED. SURE, YOU BROKE IN THE END, BUT UNDER SUCH THINGS ANYONE WOULD- ONLY BE A MATTER OF TIME.</span><br />
+[07:34:29] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[07:34:38] <span style="color:#820061">CFD: THAT, AND WHEN YOU DID DO THE HEALLY THING, BACK BEFORE SL SHOWED UP, YOU DID GOOD.</span><br />
+[07:35:02] <span style="color:#000000">CTT: I only did τhaτ once.</span><br />
+[07:35:05] <span style="color:#000000">CTT: /once/.</span><br />
+[07:35:18] <span style="color:#820061">CFD: AND YOU CAN DO IT AGAIN!</span><br />
+[07:35:19] <span style="color:#000000">CTT: ..or was iτ τwice.</span><br />
+[07:35:25] <span style="color:#9d001f">CRS: It was enough.</span><br />
+[07:35:27] <span style="color:#000000">CTT: why boτher.</span><br />
+[07:35:31] <span style="color:#820061">CFD: DO YOU KNOW HOW OFTEN W GET OUR ASS KICKED.</span><br />
+[07:35:58] <span style="color:#820061">CFD: DO YOU WANNA KNOW WHY YOU STOPPED BEING SO GOOD AND STUFF?</span><br />
+[07:36:12] <span style="color:#820061">CFD: BECAUSE YOU BAGAN TO DOUBT YOURSELF.</span><br />
+[07:36:13] <span style="color:#9d001f">CRS: You're a Witch of Life and it's nice to know you're in our corner. Not some big mystery</span><br />
+[07:36:28] <span style="color:#820061">CFD: ...WAIT, SHE'S A WITCH?</span><br />
+[07:36:32] <span style="color:#a80000">CFA: (\ YYeah /)</span><br />
+[07:36:32] <span style="color:#9d001f">CRS: You wanna get hung up on how seldom you think you've achieved things but the fact of the matter is you /have/</span><br />
+[07:36:34] <span style="color:#820061">CFD: THOUGHT SHE DIDN'Y KNOE.</span><br />
+[07:36:41] <span style="color:#820061">CFD: *KNOW</span><br />
+[07:36:42] <span style="color:#9d001f">CRS: And you /can/ still.</span><br />
+[07:36:53] <span style="color:#a80000">CFA: (\ Ni jovin, YYOU didnt know /)</span><br />
+[07:37:04] <span style="color:#820061">CFD: ...HUH. OKAY.</span><br />
+[07:37:22] <span style="color:#820061">CFD: KNOWING IS HALF THE BATTLE, i GUESS.</span><br />
+[07:37:23] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[07:37:25] <span style="color:#9d001f">CRS: If you're sad, or think you're useless, then /act/! Have some faith in yourself and don't let anything stop you!</span><br />
+[07:37:40] <span style="color:#820061">CFD: THE OTHER HALF IS KICKING ASS AND BELIEVING IN YASELF.</span><br />
+[07:37:40] <span style="color:#9d001f">CRS: Not hesitation and not another person.</span><br />
+[07:38:40] <span style="color:#820061">CFD: THE ONLY THING HOLDING BACK KAT, THE AWESOME WITCH OF LIFE, IS TEMPORALTRAGEDY, WHOSE BEING STUPID AND FORCEFEDDING HERSELF USELESS PILLS.</span><br />
+[07:38:58] <span style="color:#820061">CFD: THAT, AND i DON'T THINK YOUR SPRITE WOULD BE HAPPY WITH YOU.</span><br />
+[07:39:22] <span style="color:#820061">CFD: SO... i THINK THATS everything I can think of at the moment.</span><br />
+[07:39:23] <span style="color:#000000">CTT: She has someone else.</span><br />
+[07:39:33] <span style="color:#cb7de6">CSJ: who? ➜</span><br />
+[07:39:39] <span style="color:#820061">CFD: any comment from the peanuts gallery?</span><br />
+[07:39:53] <span style="color:#ee1e00">CCP: wat.</span><br />
+[07:39:55] <span style="color:#a2a280">CFD: and I think she means FO.</span><br />
+[07:39:56] <span style="color:#884f00">CWE: BRAVO BRAVO</span><br />
+[07:40:00] <span style="color:#884f00">CWE: Jolly good show ole bean</span><br />
+[07:40:11] <span style="color:#cb7de6">CSJ: shut up WE ➜</span><br />
+[07:40:15] <span style="color:#884f00">CWE: :(</span><br />
+[07:40:19] <span style="color:#dba521">CMV: charles is alive again everybody owes me five</span><br />
+[07:40:25] <span style="color:#a2a280">CFD: ...</span><br />
+[07:40:25] <span style="color:#646464">-- CURRENT winstonEclipsesprite <span style="color:#884f00">[CWE]</span>  whimpers away --</span><br />
+[07:40:36] <span style="color:#646464">-- CURRENT foolishDream <span style="color:#a2a280">[CFD]</span>  pats WE. --</span><br />
+[07:40:43] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also pats WE --</span><br />
+[07:40:54] <span style="color:#a2a280">CFD: don't listen to Sj. she's just pissed she trips all the damn time.</span><br />
+[07:41:11] <span style="color:#a2a280">CFD: and... wait a second, this isn't my color.</span><br />
+[07:41:15] <span style="color:#a2a280">CFD: Give me a sex.</span><br />
+[07:41:18] <span style="color:#a2a280">CFD: *SEC!</span><br />
+[07:41:26] <span style="color:#ee1e00">CCP: lololololololololololololol</span><br />
+[07:41:30] <span style="color:#cb7de6">CSJ: freudian slip much? ➜</span><br />
+[07:41:43] <span style="color:#005d00">CFD: Bite me.</span><br />
+[07:41:52] <span style="color:#884f00">CWE: *nom*</span><br />
+[07:42:00] <span style="color:#005d00">CFD: they thingies are together on the type board.</span><br />
+[07:42:23] <span style="color:#005d00">CFD: So... what do you have to say to that, kat?</span><br />
+[07:43:26] <span style="color:#000000">CTT: I am τired.</span><br />
+[07:43:36] <span style="color:#005d00">CFD: ...yeah, we all are.</span><br />
+[07:43:46] <span style="color:#005d00">CFD: but we are NEARLY at the finish line.</span><br />
+[07:44:05] <span style="color:#005d00">CFD: it would be lame, if you died now.</span><br />
+[07:44:14] <span style="color:#ffc080">CDJ: ...</span><br />
+[07:44:22] <span style="color:#005d00">CFD: and why the hell am I the only one doing the talking, here?!?</span><br />
+[07:44:37] <span style="color:#000000">CTT: Implying τhere's anyτhing good aτ τhe finish line.</span><br />
+[07:44:46] <span style="color:#ee1e00">CCP: ((PE, just checking for reasons of making color codes work in tumblr posts: your regular and dreamself handles are both the same text color, right? <span style="color:#0dc7ca">0x0DC7CA</span>?))</span><br />
+[07:44:55] <span style="color:#0dc7ca">CPE: yes</span><br />
+[07:45:01] <span style="color:#0dc7ca">CPE: ((yes but real PE is dead))</span><br />
+[07:45:07] <span style="color:#005d00">CFD: It gotta be better then this stupid place, at least.</span><br />
+[07:45:20] <span style="color:#646464"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[07:45:20] <span style="color:#7ccfb2">?AG: Hey, this place can be pretty cool.</span><br />
+[07:45:23] <span style="color:#0dc7ca">CPE: ((this is Derse PE, and WE is Winston Sprite and PE's Corpse))</span><br />
+[07:45:43] <span style="color:#0dc7ca">CPE: ((since Winston Sprite was never post prototyped until then))</span><br />
+[07:45:44] <span style="color:#ee1e00">CCP: ((just wanted to check. it's dumb I even have to fuck with theme CSS to make colored text work on tumblr...))</span><br />
+[07:45:45] <span style="color:#005d00">CFD: oh hey. you finally show ya ass up.</span><br />
+[07:46:05] <span style="color:#0dc7ca">CPE: huzah</span><br />
+[07:46:06] <span style="color:#7ccfb2">CAG: Oh, shove it. Did you need me for something?</span><br />
+[07:46:20] <span style="color:#005d00">CFD: TT's having a bad... lets say month. and not really. by the way, FL's alive again.</span><br />
+[07:46:24] <span style="color:#7ccfb2">CAG: (( Also, I've currently lost my laptop. And am hiding in the CS lab. ))</span><br />
+[07:46:36] <span style="color:#7ccfb2">CAG: What? damn. Can we rekill him?</span><br />
+[07:46:51] <span style="color:#005d00">CFD: ((oh fuck! hope you find it! thats not good. and why are you hiding.))</span><br />
+[07:47:18] <span style="color:#7ccfb2">CAG: (( Technically the building is closed. I'm /supposed/ to have clearance, as a CoE major, but idk. ))</span><br />
+[07:47:34] <span style="color:#005d00">CFD: ((oh... well... good luck.))</span><br />
+[07:48:04] <span style="color:#005d00">CFD: So... anyways. What do you have to say to kat, TT?</span><br />
+[07:48:04] <span style="color:#00006c">CPW: ......im laying on the ground of this dirty cave.</span><br />
+[07:48:11] <span style="color:#00006c">CPW: ......i am too fucking tired to move.</span><br />
+[07:48:19] <span style="color:#00006c">CPW: ......or talk.</span><br />
+[07:48:40] <span style="color:#00006c">CPW: ......can someone just, carry my back up to the surface?.</span><br />
+[07:48:47] <span style="color:#000000">CTT: Your speech did absoluτely jack shiτ.</span><br />
+[07:49:04] <span style="color:#ffc080">CDJ: FL IS ALIVE EVERYTHING IS GOOD</span><br />
+[07:49:05] <span style="color:#fe8130">CPO: I gotcha.</span><br />
+[07:49:05] <span style="color:#ffc080">CDJ: :D</span><br />
+[07:49:09] <span style="color:#7ccfb2">CAG: Oh! Hey, TT's still alive. Cool.</span><br />
+[07:49:16] <span style="color:#7ccfb2">CAG: ... DJ, that's terrible news.</span><br />
+[07:49:23] <span style="color:#7ccfb2">CAG: note to self, kill him later</span><br />
+[07:49:29] <span style="color:#ffc080">CDJ: :|</span><br />
+[07:49:32] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  deathglares at Gambit --</span><br />
+[07:49:38] <span style="color:#0dc7ca">CPE: Note to self: dont let Gambit kill Charles</span><br />
+[07:49:39] <span style="color:#646464">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is unaffected. --</span><br />
+[07:50:15] <span style="color:#005d00">CFD: I figured, TT. but... better to have tried and have it fail and not have it work at all.</span><br />
+[07:50:22] <span style="color:#00006c">CPW: ......so i guess the fight thing will be canceled due to it being later than i wanted to start.</span><br />
+[07:50:29] <span style="color:#00006c">CPW: ......and that I am worn out .</span><br />
+[07:50:44] <span style="color:#00006c">CPW: ......so i guess we can do it on a rainy day when we are bored.</span><br />
+[07:50:49] <span style="color:#ffc080">CDJ: Um, FL just mentioned something about a library mess?</span><br />
+[07:50:56] <span style="color:#ffc080">CDJ: What is he talking about?</span><br />
+[07:50:56] <span style="color:#cb7de6">CSJ: if there are any rainy days left ➜</span><br />
+[07:51:14] <span style="color:#00006c">CPW: ......metaphorically.</span><br />
+[07:51:23] <span style="color:#7ccfb2">CAG: Ask him.</span><br />
+[07:51:31] <span style="color:#ffc080">CDJ: Okay?</span><br />
+[07:51:43] <span style="color:#884f00">CWE: I shall inform VF and HB then Alex</span><br />
+[07:51:45] <span style="color:#7ccfb2">CAG: ... if he hurt the library I am going to murder him even more than I'm already going to.</span><br />
+[07:51:46] <span style="color:#ffc080">CDJ: I thought you would know, after all, thats why he thought you wanted him dead</span><br />
+[07:52:02] <span style="color:#7ccfb2">CAG: What? No, I want him dead because he stopped being dead and he was better off that way.</span><br />
+[07:52:04] <span style="color:#884f00">CWE: I shall also depart from the chat, See you all at anotehr time!</span><br />
+[07:52:08] <span style="color:#646464"><span style="color:#000000">CWE</span> ceased responding to memo.</span><br />
+[07:52:28] <span style="color:#000000">CTT: does he mean τhe missing spellbooks</span><br />
+[07:52:41] <span style="color:#ee1e00">CCP: yeah, think so...</span><br />
+[07:52:44] <span style="color:#7ccfb2">CAG: Oh yeah TT you still have those, right? Please take care of them.</span><br />
+[07:52:53] <span style="color:#7ccfb2">CAG: ... did you leave a checkout slip btw?</span><br />
+[07:53:05] <span style="color:#000000">CTT: maybe.</span><br />
+[07:53:08] <span style="color:#00006c">CPW: ......spell books.</span><br />
+[07:53:17] <span style="color:#00006c">CPW: ......, hey i could really use some of those.</span><br />
+[07:53:26] <span style="color:#7ccfb2">CAG: Okay. Just remember that the due date is in a couple months.</span><br />
+[07:53:56] <span style="color:#00006c">CPW: ......yes ma'am.</span><br />
+[07:54:14] <span style="color:#7ccfb2">CAG: I was talking to TT. There isn't really much left in the magic section.</span><br />
+[07:54:20] <span style="color:#00006c">CPW: ......aww.</span><br />
+[07:54:25] <span style="color:#7ccfb2">CAG: But if you'd like I could put a couple on hold for you.</span><br />
+[07:54:32] <span style="color:#00006c">CPW: ......not even basic spell books?.</span><br />
+[07:54:34] <span style="color:#ffc080">CDJ: A couple months?</span><br />
+[07:54:35] <span style="color:#005d00">CFD: ...you do know there not gonna be the libray in about a month, yes?</span><br />
+[07:54:41] <span style="color:#7ccfb2">CAG: TT has most of them checked out at the moment and FD, nonsense.</span><br />
+[07:54:49] <span style="color:#7ccfb2">CAG: I shall take that if nothing else to the new world.</span><br />
+[07:54:50] <span style="color:#00006c">CPW: ......or summoning books?.</span><br />
+[07:54:59] <span style="color:#005d00">CFD: ...uh huh.</span><br />
+[07:55:04] <span style="color:#7ccfb2">CAG: You doubt me?</span><br />
+[07:55:12] <span style="color:#7ccfb2">CAG: And there are a few basic ones, PW.</span><br />
+[07:55:22] <span style="color:#00006c">CPW: ......I would like to check those out then.</span><br />
+[07:55:36] <span style="color:#005d00">CFD: ...not really no. you could 'move/steal' a house if you where motivated to.</span><br />
+[07:55:41] <span style="color:#005d00">CFD: *were!</span><br />
+[07:56:00] <span style="color:#7ccfb2">CAG: The library is located on the second floor of the LOIAR HQ.</span><br />
+[07:56:19] <span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[07:56:32] <span style="color:#005d00">CFD: uh huh...</span><br />
+[07:57:23] <span style="color:#005d00">CFD: Anyways, I have to get going for now. Goign to a consort village and they get annoyed when I type and talk. be back in a hour or so ((have to catch a ride home.))</span><br />
+[07:58:12] <span style="color:#000000">CTT: I'm noτ even allowed τhe privelege τo die. Sigh.</span><br />
+[07:58:18] <span style="color:#646464"><span style="color:#000000">CFD</span> ceased responding to memo.</span><br />
+[07:58:24] <span style="color:#7ccfb2">CAG: Do you want to?</span><br />
+[07:59:25] <span style="color:#00006c">CPW: ......Night everybody.</span><br />
+[07:59:28] <span style="color:#646464"><span style="color:#000000">CPW</span> ceased responding to memo.</span><br />
+[07:59:32] <span style="color:#0dc7ca">CPE: night...</span><br />
+[07:59:44] <span style="color:#0dc7ca">CPE: hm, i guess I'll rest up too</span><br />
+[07:59:53] <span style="color:#0dc7ca">CPE: have me dreamless sleep :(</span><br />
+[07:59:59] <span style="color:#646464"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[08:00:00] <span style="color:#0dc7ca">CPE: see ya guys</span><br />
+[08:00:03] <span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+[08:00:43] <span style="color:#9d001f">CRS: ...</span><br />
+[08:00:57] <span style="color:#9d001f">CRS: There's not a single thing worth living for, Kat? Not a one?</span><br />
+[08:02:30] <span style="color:#000000">CTT: none.</span><br />
+[08:02:41] <span style="color:#7ccfb2">CAG: Then why don't you just kill /yourself/?</span><br />
+[08:02:51] <span style="color:#7ccfb2">CAG: No one knows where you are.</span><br />
+[08:02:57] <span style="color:#cb7de6">CSJ: AG, did you seriously just say that? ➜</span><br />
+[08:03:17] <span style="color:#0000c1">CMA: See, I was wondering about the same thing...</span><br />
+[08:03:17] <span style="color:#7ccfb2">CAG: Yes. If she wants to die so badly, it's something she could do.</span><br />
+[08:03:21] <span style="color:#0000c1">CMA: I just didn't say it.</span><br />
+[08:03:29] <span style="color:#cb7de6">CSJ: isn't it like, against memo rules to say something like that? ➜</span><br />
+[08:03:29] <span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  reaches through the memo by means of a portal vidwindow, and PUNCHES Gambit --</span><br />
+[08:03:44] <span style="color:#646464">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  remains unaffected. --</span><br />
+[08:04:00] <span style="color:#7ccfb2">CAG: ... To ask someone why they're not taking the most expeditious solution to a problem?</span><br />
+[08:04:28] <span style="color:#000000">CTT: as much as I wanτ τo, every τime I τry, iτ ends up failing.</span><br />
+[08:04:53] <span style="color:#0000c1">CMA: So you want someone to do it for you instead.</span><br />
+[08:05:59] <span style="color:#000000">CTT: and I know (almosτ) nobody would. Θr oτher complicaτions.</span><br />
+[08:06:14] <span style="color:#ffc080">CDJ: Well, I got good news and bad news.</span><br />
+[08:06:21] <span style="color:#7ccfb2">CAG: What complications would those be?</span><br />
+[08:06:33] <span style="color:#9d001f">CRS: ...</span><br />
+[08:06:37] <span style="color:#ffc080">CDJ: The bad news is that LoSaCrossroads is pretty much destroyed from the earthquakes.</span><br />
+[08:06:51] <span style="color:#ffc080">CDJ: And the good news is that I knocked out FL before he murdered MV.</span><br />
+[08:07:06] <span style="color:#dba521">CMV: he wouldn't have murdered me unless he wanted his ass handed to him</span><br />
+[08:07:26] <span style="color:#ffc080">CDJ: /Thousands/.</span><br />
+[08:07:50] <span style="color:#ffc080">CDJ: There were /thousands/ of buildings on LoSaC.</span><br />
+[08:08:03] <span style="color:#dba521">CMV: and the GIANT BATTLE down there didn't do any damage okay</span><br />
+[08:08:06] <span style="color:#ffc080">CDJ: And it was /still/ over populated!</span><br />
+[08:08:10] <span style="color:#dba521">CMV: no it was just me i'm the planet genocider</span><br />
+[08:08:42] <span style="color:#7ccfb2">CAG: Congrats on the new title.</span><br />
+[08:08:49] <span style="color:#ffc080">CDJ: It would have been worse if it had been destroyed... well, its not that bad I suppose.</span><br />
+[08:09:07] <span style="color:#ffc080">CDJ: I suppose the 10% can repopulate the land.</span><br />
+[08:09:18] <span style="color:#ffc080">CDJ: As I'm pretty sure 90% of consorts died.</span><br />
+[08:09:33] <span style="color:#ee1e00">CCP: yeesh...</span><br />
+[08:10:18] <span style="color:#dba521">CMV: yeah okay whatever</span><br />
+[08:10:23] <span style="color:#008282">CCA: ∞ I just got back. Who got a new title? Σ</span><br />
+[08:10:23] <span style="color:#ffc080">CDJ: so... 90000 consort lives lost?</span><br />
+[08:10:25] <span style="color:#dba521">CMV: let's just make up a figure on the spot without knowing SHIT</span><br />
+[08:10:38] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:10:41] <span style="color:#ffc080">CDJ: Estimate of 100 consorts per building.</span><br />
+[08:10:49] <span style="color:#ffc080">CDJ: Estimate of 1000 buildings.</span><br />
+[08:11:55] <span style="color:#ffc080">CDJ: Considering the wreckage thats visible, its... yeah.</span><br />
+[08:12:07] <span style="color:#ffc080">CDJ: I only see 2 buildings that are still standing at this angle.</span><br />
+[08:14:27] <span style="color:#dba521">CMV: and we'll assume they never had any kind of readiness or shit for earthquakes</span><br />
+[08:14:33] <span style="color:#dba521">CMV: wcs let's go everybody's dead</span><br />
+[08:17:03] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:18:05] <span style="color:#ee1e00">CCP: so. final tally on the recaplog to end all recaplogs: 83,729 characters in length, not including what I have to add explanation-wise when I post it on tumblr.</span><br />
+[08:18:22] <span style="color:#000000">CTT: sigh.</span><br />
+[08:18:30] <span style="color:#000000">CTT: I'll be under τhe lake.</span><br />
+[08:18:36] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[08:19:21] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[08:19:31] <span style="color:#ffc080">CDJ: ...did you guys know any of the consorts?</span><br />
+[08:19:46] <span style="color:#7ccfb2">CAG: ... actually.</span><br />
+[08:19:48] <span style="color:#7ccfb2">CAG: Yeah.</span><br />
+[08:19:50] <span style="color:#cb7de6">CSJ: no, not really ➜</span><br />
+[08:20:07] <span style="color:#7ccfb2">CAG: Is the black market completely smushed?</span><br />
+[08:20:19] <span style="color:#ffc080">CDJ: (( Spoilers, of all the Black Market consorts, the crazy cat lady is the only one thats still alive. ))</span><br />
+[08:20:28] <span style="color:#ee1e00">CCP: (( :O ))</span><br />
+[08:20:47] <span style="color:#ffc080">CDJ: (( Of course, Gambit, as a void player, can read these! SO MENTAL BREAK DOWN FOR YOU! ))</span><br />
+[08:21:01] <span style="color:#cb7de6">CSJ: ((D_J))</span><br />
+[08:21:07] <span style="color:#ffc080">CDJ: (( MUAHAHAHAHA ))</span><br />
+[08:21:12] <span style="color:#ee1e00">CCP: ((/me slaps DJ))</span><br />
+[08:21:21] <span style="color:#ffc080">CDJ: (( ow :&lt; ))</span><br />
+[08:21:50] <span style="color:#9d001f">CRS: (( you are an awful person and you should feel it))</span><br />
+[08:21:57] <span style="color:#ffc080">CDJ: (( But yeah, isn't it ironic how the one you bought nothing from is the only one thats still alive? ))</span><br />
+[08:22:42] <span style="color:#cb7de6">CSJ: ((wait, as in there was a transaction in order to aquire a nothing, or just straight up ignoring?))</span><br />
+[08:23:13] <span style="color:#ffc080">CDJ: (( NOONE BOUGHT THE CAT LADYS SWEATERS OR RUGS ))</span><br />
+[08:23:59] <span style="color:#000000">CTT: Under τhe lake in Elysium.</span><br />
+[08:24:13] <span style="color:#ffc080">CDJ: Black Market?</span><br />
+[08:24:18] <span style="color:#7ccfb2">CAG: Yeah.</span><br />
+[08:24:31] <span style="color:#7ccfb2">CAG: Far underground, by the train station.</span><br />
+[08:24:58] <span style="color:#ffc080">CDJ: ...I bet that had the least damage.</span><br />
+[08:25:18] <span style="color:#ffc080">CDJ: (( Okay, everyone in the black market lives. /EXCEPT FOR VASE LADY/ ))</span><br />
+[08:25:55] <span style="color:#ffc080">CDJ: Might take a bit to dig them out though.</span><br />
+[08:26:00] <span style="color:#008282">CCA: ∞ hohohohohoho Σ</span><br />
+[08:26:18] <span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[08:28:28] <span style="color:#7ccfb2">CAG: 'kay.</span><br />
+[08:29:59] <span style="color:#ee1e00">CCP: hey Gambit (and everyone else), mega recaplog post is finally done. <a href='http://creeperpuncher.tumblr.com/post/66242437674/losac-part-longest-textwall-in-sbargv2-probably'>http://creeperpuncher.tumblr.com/post/66242437674/losac-part-longest-textwall-in-sbargv2-probably</a></span><br />
+[08:30:06] <span style="color:#7ccfb2">CAG: yaaay! :D</span><br />
+[08:30:26] <span style="color:#ee1e00">CCP: but seriously, final score: 84kb of solid text.</span><br />
+[08:31:01] <span style="color:#ee1e00">CCP: and I'm taking a dinner 8r8k, brb.</span><br />
+[08:32:20] <span style="color:#646464"><span style="color:#339966">CURRENT destitutePilot [CDP]</span> RIGHT NOW responded to memo.</span><br />
+[08:32:20] <span style="color:#339966">CDP: (( doge overlord is here for OBSERVATION PURPOSES ))</span><br />
+[08:32:32] <span style="color:#339966">CDP: (( aka NN-is-on-phone-and-im-placeholder ))</span><br />
+[08:33:46] <span style="color:#ffc080">CDJ: I'm gonna say goodbye, I gotta give FL his shades back.</span><br />
+[08:33:47] <span style="color:#646464"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[08:33:47] <span style="color:#cb7de6">CSJ: so much text.... ➜</span><br />

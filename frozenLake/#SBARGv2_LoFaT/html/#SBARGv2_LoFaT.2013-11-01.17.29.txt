@@ -1,0 +1,71 @@
+[05:29:38] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[05:32:38] <span style="color:#d1cfcd"><span style="color:#000000">CBB</span> ceased responding to memo.</span><br />
+[06:29:14] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOFAT.</span><br />
+[06:29:25] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[06:29:25] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  they arrive back at her house, the crate's sitting inside the house. no rubble in sight. but there is a suspicious looking thing on the crate that's beeping quickly --</span><br />
+[06:29:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slides out of the portal, slowly. --</span><br />
+[06:29:43] <span style="color:#a80000">CFA: (\ ....!! /)</span><br />
+[06:30:09] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  rushes over to the crate and examines the device rather frantically --</span><br />
+[06:31:24] <span style="color:#d1cfcd"><span style="color:#00027c">CURRENT subtleResonance [CSR]</span> RIGHT NOW responded to memo.</span><br />
+[06:31:24] <span style="color:#d1cfcd">-- CURRENT subtleResonance <span style="color:#00027c">[CSR]</span>  It's a small metal box with a countdown: 7...6...5... --</span><br />
+[06:31:29] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[06:31:29] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  falls out of the portal, already having Copland scan the crate for traps or anything unusual-- FUCK! --</span><br />
+[06:32:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  leaps for the device, captchaing it and running. --</span><br />
+[06:32:09] <span style="color:#a80000">CFA: (\ Son of a bitch!! /)</span><br />
+[06:32:15] <span style="color:#a80000">CFA: (\ ....FL what /)</span><br />
+[06:32:20] <span style="color:#0080ff">CFL: I'M SORRY</span><br />
+[06:32:28] <span style="color:#ee1e00">CCP: COPLAND, UBERCHARGE GO!</span><br />
+[06:32:30] <span style="color:#d1cfcd">-- CURRENT subtleResonance <span style="color:#00027c">[CSR]</span>  the box explodes when it hits 0 --</span><br />
+[06:32:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  the beam locks onto FL just in time --</span><br />
+[06:32:46] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  temp invincibility engaged --</span><br />
+[06:32:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs out of the house, gettting ubercharged right as the explosion escapes out of his sylladex. --</span><br />
+[06:33:18] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  runs after him, trying to stay in range of the ballistic FL --</span><br />
+[06:33:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  blinks. --</span><br />
+[06:33:27] <span style="color:#0080ff">CFL: ...I'm alive.</span><br />
+[06:33:32] <span style="color:#0080ff">CFL: And glowy.</span><br />
+[06:33:52] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[06:33:52] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  steps out of the front door to FA's House, blinking in surpised, having taken a nap after zoning out and doing... I don't know, getting back to the spire. --</span><br />
+[06:33:56] <span style="color:#a2a280">CFF: ...What the Fuck?</span><br />
+[06:34:08] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  faceplants on the ground in pain, his body wasn't healed enough for running like that. the ubercharge ends a few seconds later. --</span><br />
+[06:34:13] <span style="color:#ee1e00">CCP: ow.</span><br />
+[06:35:20] <span style="color:#d1cfcd">-- CURRENT subtleResonance <span style="color:#00027c">[CSR]</span>  floats on down and stands in front of FL. --</span><br />
+[06:35:31] <span style="color:#00027c">CSR: Next time you attack me, Cakeboy, be prepared to lose a limb.</span><br />
+[06:35:34] <span style="color:#d1cfcd">-- CURRENT subtleResonance <span style="color:#00027c">[CSR]</span>  flies off --</span><br />
+[06:35:37] <span style="color:#0080ff">CFL: ...</span><br />
+[06:35:45] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:35:45] <span style="color:#d1cfcd"><span style="color:#000000">CSR</span> ceased responding to memo.</span><br />
+[06:35:55] <span style="color:#0080ff">CFL: He says that like I haven't already lost some and got them back.</span><br />
+[06:36:21] <span style="color:#ee1e00">CCP: ........is everyone okay?</span><br />
+[06:36:39] <span style="color:#a2a280">CFF: Uh... yeah. what the FUCK did I miss?</span><br />
+[06:37:10] <span style="color:#d1cfcd"><span style="color:#39b873">CURRENT issunJar [CIJ]</span> RIGHT NOW responded to memo.</span><br />
+[06:37:10] <span style="color:#d1cfcd">-- CURRENT issunJar <span style="color:#39b873">[CIJ]</span>  deploys a zipboard and helps him onto it somehow --</span><br />
+[06:37:29] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  checks the entire box over, Noting all the frogs are still there --</span><br />
+[06:37:33] <span style="color:#0080ff">CFL: ...</span><br />
+[06:37:38] <span style="color:#a80000">CFA: (\ ...motherfucker lied to me... /)</span><br />
+[06:37:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hovers back torward the house. --</span><br />
+[06:37:49] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  slumps against the bos, sighing in relief --</span><br />
+[06:38:02] <span style="color:#a2a280">CFF: ...</span><br />
+[06:38:18] <span style="color:#a2a280">CFF: Okay then?</span><br />
+[06:39:45] <span style="color:#0080ff">CFL: So, good news.</span><br />
+[06:39:53] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just kind of lays there, exhausted beyond all reason --</span><br />
+[06:39:55] <span style="color:#0080ff">CFL: I'm alive, and he frogs are there.</span><br />
+[06:40:58] <span style="color:#ee1e00">CCP: ((brb groceries))</span><br />
+[06:41:20] <span style="color:#a2a280">CFF: Uh huh... I can see that.</span><br />
+[06:41:28] <span style="color:#a2a280">CFF: You doing okay, Ash?</span><br />
+[06:42:07] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  just resting her head against the crate, Tears streaming from her eyes --</span><br />
+[06:43:02] <span style="color:#a2a280">CFF: ...</span><br />
+[06:43:13] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hugs her gently --</span><br />
+[06:46:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  floats over slowly --</span><br />
+[06:47:10] <span style="color:#ee1e00">CCP: ........at least we saved all of them........</span><br />
+[06:47:26] <span style="color:#a80000">CFA: (\ Ayye... /)</span><br />
+[06:47:32] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  returns FF's hug --</span><br />
+[06:48:45] <span style="color:#a2a280">CFF: ...Why the fuck would he even do that, anyways? </span><br />
+[06:48:58] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pats her shoulder. --</span><br />
+[06:49:55] <span style="color:#39b873">CIJ: Either he's working for Bakagami, or he's a troll who gives no shits about ANYTHING, even losing this game.</span><br />
+[06:50:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  joins in the hug pile. --</span><br />
+[06:50:53] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[06:50:53] <span style="color:#9d001f">CRS: He's not working for Chronos... He's just kind of a bint.</span><br />
+[06:51:07] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also joins hug pile --</span><br />
+[06:52:29] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  raises her left arm to hug them all, breath hitching as she shakes her head --</span><br />
+[07:03:26] <span style="color:#0080ff">CFL: ...Ash, how good are you at cleaning things up?</span><br />
+[07:03:31] <span style="color:#0080ff">CFL: Sorry.</span><br />

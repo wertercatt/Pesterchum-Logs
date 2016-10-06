@@ -1,0 +1,2 @@
+[02:08:19] <span style="color:#d1cfcd">-- calicoCat <span style="color:#000000">[CC]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 14:08 --</span><br />
+[02:08:21] <span style="color:#d1cfcd">-- calicoCat <span style="color:#50a100">[CC]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 14:08 --</span><br />

@@ -1,0 +1,5 @@
+[20:41:43] <span style="color:#d1cfcd">-- ryanCraft <span style="color:#000000">[RC]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 20:41 --</span><br />
+[20:41:46] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging ryanCraft <span style="color:#074d00">[RC]</span> at 20:41 --</span><br />
+[20:41:56] <span style="color:#d1cfcd">-- ryanCraft <span style="color:#074d00">[RC]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 20:41 --</span><br />
+[20:41:56] <span style="color:#074d00">RC: hey</span><br />
+[20:41:59] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging ryanCraft <span style="color:#074d00">[RC]</span> at 20:41 --</span><br />

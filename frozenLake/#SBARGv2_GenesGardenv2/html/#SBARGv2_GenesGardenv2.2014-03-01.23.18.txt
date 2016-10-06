@@ -1,0 +1,351 @@
+[11:18:14] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[11:18:14] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[11:40:05] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[11:40:23] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flares into the bar, water dripping onto the carpet. --</span><br />
+[11:40:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // if its a carpet, that is. --</span><br />
+[11:40:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // the floor. --</span><br />
+[11:40:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // yeah that works --</span><br />
+[11:41:33] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[11:41:33] <span style="color:#ee1e00">CCP: sup.</span><br />
+[11:42:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... sighs. --</span><br />
+[12:08:39] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[12:08:39] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  faint maniacal laughter --</span><br />
+[12:09:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  double facepalms --</span><br />
+[12:12:00] <span style="color:#0080ff">CFL: I swear if this insanity doesn't stop soon, I'm going to burn down a forest in an uncontrolable rage.</span><br />
+[12:12:11] <span style="color:#ee1e00">CCP: ........</span><br />
+[12:13:40] <span style="color:#d1cfcd"><span style="color:#8f8b12">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+[12:13:40] <span style="color:#8f8b12">CSB: Better not be near here.</span><br />
+[12:13:46] <span style="color:#0080ff">CFL: Maybe I'll start with that gigantic eyesore thats likely taking all the nutrients from all the other trees.</span><br />
+[12:17:08] <span style="color:#ee1e00">CCP: the what now, FL?</span><br />
+[12:17:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gestures at the falling cherry blossoms outside. --</span><br />
+[12:20:21] <span style="color:#ee1e00">CCP: ...no. bad FL. you're not burning /any/ trees down.</span><br />
+[12:20:51] <span style="color:#0080ff">CFL: Oh come on, it came out of nowhere, its likely a bad sign.</span><br />
+[12:22:37] <span style="color:#ee1e00">CCP: or maybe the tree was already there and just recently bloomed.</span><br />
+[12:22:46] <span style="color:#ee1e00">CCP: that's... kinda how cherry blossoms /work/.</span><br />
+[12:25:08] <span style="color:#0080ff">CFL: ...I don't remember seeing it before it bloomed.</span><br />
+[12:26:12] <span style="color:#0080ff">CFL: I think I would remember one tree thats bigger than all the rest.</span><br />
+[12:27:25] <span style="color:#ee1e00">CCP: either way, I can't let you burn it FL... at least not until we find out if it actually is a threat to the rest of the forest.</span><br />
+[12:28:24] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  internal monologue: "hell, for all we know, it's actually a Guardian Sapling, and cutting it down would destroy the whole forest........" --</span><br />
+[12:28:39] <span style="color:#0080ff">CFL: Yeah, and who do we know that can actually confirm it?</span><br />
+[12:29:00] <span style="color:#0080ff">CFL: Kat? Shes currently off in tentacle growth land.</span><br />
+[12:29:36] <span style="color:#0080ff">CFL: Angel? She wouldn't tell us the truth even if it /was/ a danger.</span><br />
+[12:29:52] <span style="color:#ee1e00">CCP: ...wait, why wouldn't she?</span><br />
+[12:30:01] <span style="color:#0080ff">CFL: Cause she kinda hates us, remember?</span><br />
+[12:30:48] <span style="color:#ee1e00">CCP: bleh...</span><br />
+[12:32:00] <span style="color:#ee1e00">CCP: okay FL, let me put it this way. if both Lifers we know that are still around won't help us... then we'll wait and see if anything happens with the tree.</span><br />
+[12:32:20] <span style="color:#0080ff">CFL: Alright, fine.</span><br />
+[12:32:25] <span style="color:#ee1e00">CCP: and if something does and damages the forest, I'll accept your "I told you so" and help rebuild the forest.</span><br />
+[12:32:35] <span style="color:#0080ff">CFL: If trees start dying around it, I'm burning it.</span><br />
+[12:34:22] <span style="color:#0080ff">CFL: ...Hey, Kimura, you know what would be fun to do?</span><br />
+[12:34:36] <span style="color:#0080ff">CFL: Some sort of sky block map.</span><br />
+[12:37:43] <span style="color:#0080ff">CFL: Wait, no. Better idea.</span><br />
+[12:37:59] <span style="color:#0080ff">CFL: Flatgrass Map with generate structures on.</span><br />
+[12:38:26] <span style="color:#0080ff">CFL: And see how far we can get in survival.</span><br />
+[12:38:47] <span style="color:#0080ff">CFL: (( CP? ))</span><br />
+[12:38:50] <span style="color:#ee1e00">CCP: yeah, we probably should resume doing minecraft at some point...</span><br />
+[12:39:04] <span style="color:#0080ff">CFL: Or Starbound.</span><br />
+[12:39:26] <span style="color:#ee1e00">CCP: bluh... still haven't been able to have time to learn that game...</span><br />
+[12:39:52] <span style="color:#0080ff">CFL: Heck, maybe we could use some computing power over here to get the bitcoins to exchange to get money to buy that... other game that is gonna be coming out soon.</span><br />
+[12:40:00] <span style="color:#0080ff">CFL: What was it called again...</span><br />
+[12:40:06] <span style="color:#ee1e00">CCP: ...huh?</span><br />
+[12:40:32] <span style="color:#0080ff">CFL: Its like minecraft and starbound combined...</span><br />
+[12:40:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is trying to figure it out in his head. --</span><br />
+[12:40:46] <span style="color:#ee1e00">CCP: ((also, since I'm a SHSL Procrastinator on /literally everything/ lately, I don't think minecraft's gonna be able to be a thing until I can finish the group photo stuff...))</span><br />
+[12:41:02] <span style="color:#ee1e00">CCP: ...oh wait, are you talking about Seed of Andromeda or something?</span><br />
+[12:41:06] <span style="color:#0080ff">CFL: Latura?</span><br />
+[12:41:53] <span style="color:#ee1e00">CCP: oh, that. well, I still haven't heard anything new about it, so my Beta Earth self hasn't gotten a release out yet.</span><br />
+[12:42:07] <span style="color:#ee1e00">CCP: ((dammit Shadow, get the freakin' account system built so we CAN release!))</span><br />
+[12:43:37] <span style="color:#ee1e00">CCP: also, multiplayer's not a thing with it either, last I /did/ hear...</span><br />
+[12:44:15] <span style="color:#0080ff">CFL: Oh, dangit.</span><br />
+[12:48:40] <span style="color:#0080ff">CFL: Maybe we could play doom?</span><br />
+[12:50:47] <span style="color:#ee1e00">CCP: I guess that's a thing that's possible... considering how well SRB2 worked once I got the ports aligned correctly...</span><br />
+[12:52:16] <span style="color:#0080ff">CFL: I wish we had some other people that practiced magic.</span><br />
+[12:56:17] <span style="color:#0080ff">CFL: ...Hey, Kimura.</span><br />
+[12:56:21] <span style="color:#ee1e00">CCP: hm?</span><br />
+[12:56:31] <span style="color:#0080ff">CFL: Have you ever tried to draw... other stuff with your tail?</span><br />
+[12:57:11] <span style="color:#ee1e00">CCP: stuff besides the brush techniques? sure.</span><br />
+[12:57:22] <span style="color:#ee1e00">CCP: comes out... about the same actually.</span><br />
+[12:58:32] <span style="color:#0080ff">CFL: Okay uh...</span><br />
+[12:58:47] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  replicates two metal cups. --</span><br />
+[12:59:00] <span style="color:#0080ff">CFL: Um, try and draw a U on these.</span><br />
+[12:59:13] <span style="color:#0080ff">CFL: Connecting them.</span><br />
+[12:59:28] <span style="color:#ee1e00">CCP: oh, the Magnetism move or...?</span><br />
+[12:59:36] <span style="color:#0080ff">CFL: Yeah, Magnetism.</span><br />
+[12:59:45] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  does so, and it works --</span><br />
+[01:00:03] <span style="color:#0080ff">CFL: Okay, so you can use Chibi's Brush Techs.</span><br />
+[01:00:25] <span style="color:#0080ff">CFL: ...Hold on, I just thought of an exploit.</span><br />
+[01:00:42] <span style="color:#ee1e00">CCP: yeah. I learned them about the same time as my custom techniques like Waterbomb.</span><br />
+[01:03:34] <span style="color:#0080ff">CFL: Okay, but I would need to keep it moving some how...</span><br />
+[01:04:00] <span style="color:#0080ff">CFL: How long does it last?</span><br />
+[01:04:43] <span style="color:#ee1e00">CCP: uh... until the two objects are next to each other, or as close as they can get if there's an obstruction like a wall.</span><br />
+[01:05:12] <span style="color:#0080ff">CFL: Oh, so the magnetism doesn't stay that way... dammit.</span><br />
+[01:05:34] <span style="color:#ee1e00">CCP: yeah, fraid so. what were you thinking of trying?</span><br />
+[01:05:53] <span style="color:#0080ff">CFL: Using Magnetism to power an electrical generator.</span><br />
+[01:07:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[01:10:39] <span style="color:#0080ff">CFL: I mean, I could likely create a magical steam engine from the junk in my fetch modus...</span><br />
+[01:11:39] <span style="color:#ee1e00">CCP: just as long as you don't accidentally build Thomas the Tank Engine :P</span><br />
+[01:11:47] <span style="color:#0080ff">CFL: Cause the trains on my land had these magical flames...</span><br />
+[01:12:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  uncaptchas some bottled flames, white and black. --</span><br />
+[01:12:55] <span style="color:#ee1e00">CCP: ooh...</span><br />
+[01:13:12] <span style="color:#0080ff">CFL: The White flames seem to create heat, while the black ones absorb it.</span><br />
+[01:13:28] <span style="color:#0080ff">CFL: Always found them in pairs.</span><br />
+[01:15:57] <span style="color:#ee1e00">CCP: I guess that's logical. like matter-antimatter particle pairs at the event horizon of a black hole, or something like that?</span><br />
+[01:16:36] <span style="color:#0080ff">CFL: I figured it was like Black and White Hole pairs.</span><br />
+[01:17:04] <span style="color:#ee1e00">CCP: ...actually, that works better.</span><br />
+[01:24:23] <span style="color:#0080ff">CFL: Seven Twenty Four One Three.</span><br />
+[01:24:42] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  confused headtilt --</span><br />
+[01:26:13] <span style="color:#0080ff">CFL: (( Bandcamp is borked for me, How would I fix it. ))</span><br />
+[01:26:34] <span style="color:#ee1e00">CCP: ((I got no clue. try different browser?))</span><br />
+[01:27:39] <span style="color:#0080ff">CFL: (( .../fuck/ ))</span><br />
+[01:33:24] <span style="color:#0080ff">CFL: (( <a href='http://unofficialmspafans.bandcamp.com/track/720413'>http://unofficialmspafans.bandcamp.com/track/720413</a> ))</span><br />
+[01:33:44] <span style="color:#0080ff">CFL: (( yeah lets just pretend bandcamp isn't stuck in shit mode for me. ))</span><br />
+[01:35:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  manages to get the song playing on the Jukebox. --</span><br />
+[01:36:10] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  urfquaek --</span><br />
+[01:36:23] <span style="color:#0080ff">CFL: ...</span><br />
+[01:36:26] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  notices the shaking, and shrugs --</span><br />
+[01:36:42] <span style="color:#ee1e00">CCP: we gotta find the cause of /that/, too.</span><br />
+[01:36:58] <span style="color:#0080ff">CFL: ...Okay, since when did we put the village on a fucking fault line.</span><br />
+[01:37:29] <span style="color:#ee1e00">CCP: ...we didn't?</span><br />
+[01:37:34] <span style="color:#0080ff">CFL: ...</span><br />
+[01:38:05] <span style="color:#0080ff">CFL: Lets see, giant tree growing out of nowhere, the earth coming alive, quaking...</span><br />
+[01:38:14] <span style="color:#8f8b12">CSB: Personally, I'd say the earthquakes are more important than the tree.</span><br />
+[01:38:59] <span style="color:#0080ff">CFL: ...What came first?</span><br />
+[01:39:03] <span style="color:#0080ff">CFL: The quakes, or the tree?</span><br />
+[01:39:09] <span style="color:#ee1e00">CCP: the quakes.</span><br />
+[01:39:31] <span style="color:#0080ff">CFL: Okay, so it can't be the trees roots tearing through the ground under us.</span><br />
+[01:39:33] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  was about to do a "YOU'VE GOT THAT WRONG!" pose if FL blamed the tree for the quakes, but nvm :P --</span><br />
+[01:39:49] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  //snrk. --</span><br />
+[01:40:00] <span style="color:#ee1e00">CCP: ...in fact, I think the quakes started when Kat first disappeared...</span><br />
+[01:40:04] <span style="color:#0080ff">CFL: ...</span><br />
+[01:40:25] <span style="color:#0080ff">CFL: ...In hindsight it should have been pretty obvious.</span><br />
+[01:40:40] <span style="color:#0080ff">CFL: Who wants to bet she is responsible for the tree as well?</span><br />
+[01:41:00] <span style="color:#ee1e00">CCP: ........</span><br />
+[01:41:58] <span style="color:#0080ff">CFL: Kimura, it makes sense when you treat events as if they were happening in a movie, book, or video game.</span><br />
+[01:42:15] <span style="color:#ee1e00">CCP: I suppose so...</span><br />
+[01:42:23] <span style="color:#ee1e00">CCP: but what would she have to do with the tree?</span><br />
+[01:42:48] <span style="color:#0080ff">CFL: Life powers, Touhou references...</span><br />
+[01:43:48] <span style="color:#0080ff">CFL: Like I'm pretty sure a giant cherry blossom was a major plot point in one of the games.</span><br />
+[01:44:48] <span style="color:#ee1e00">CCP: now that you mention it... yeah, I guess it does make sense.</span><br />
+[01:45:21] <span style="color:#0080ff">CFL: Heck, one is the namesake of the seventh game in the series.</span><br />
+[01:45:36] <span style="color:#ee1e00">CCP: still, considering the Starterquakes have been going on for a month and the tree only appeared a week ago, the latter is definitely not the cause of the former.</span><br />
+[01:46:04] <span style="color:#0080ff">CFL: Yeah, but we know Kat is a massive touhou fan.</span><br />
+[01:46:26] <span style="color:#0080ff">CFL: And it would be likely she would make a giant cherry blossom as a reference.</span><br />
+[01:47:11] <span style="color:#ee1e00">CCP: yeah, true...</span><br />
+[01:47:20] <span style="color:#ee1e00">CCP: question is, what is she trying to tell us?</span><br />
+[01:48:01] <span style="color:#0080ff">CFL: Um... the tree is needed to break a seal?</span><br />
+[01:48:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking on the wiki. --</span><br />
+[01:53:23] <span style="color:#0080ff">CFL: seal around a soul... her soul maybe... Meh.</span><br />
+[01:54:03] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  //*FL forgets to read about the actual tree* --</span><br />
+[01:54:51] <span style="color:#0080ff">CFL: No, that doesn't make a lick of sense... I'ma going over it again.</span><br />
+[01:59:48] <span style="color:#0080ff">CFL: ooooh shit.</span><br />
+[01:59:59] <span style="color:#0080ff">CFL: OHHHH SHIT.</span><br />
+[02:00:54] <span style="color:#ee1e00">CCP: what? what is it?</span><br />
+[02:01:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is blinking. --</span><br />
+[02:01:11] <span style="color:#0080ff">CFL: nopenopenopenope</span><br />
+[02:01:47] <span style="color:#0080ff">CFL: Kimura?</span><br />
+[02:02:02] <span style="color:#ee1e00">CCP: come on, tell me what's wrong.</span><br />
+[02:02:30] <span style="color:#0080ff">CFL: ...</span><br />
+[02:03:59] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finally checks the memo... --</span><br />
+[02:10:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks out of the bar. --</span><br />
+[02:10:43] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[02:23:15] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  BIG EARTHQUAKE --</span><br />
+[02:24:39] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  rolls eyes about all these earthquakes --</span><br />
+[02:24:41] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  EARTHQUAEK INTENSIFIES --</span><br />
+[02:25:06] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  to the point where the building starts to creak maybe --</span><br />
+[02:26:13] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  uses godtier power to make the building nice and stable --</span><br />
+[02:48:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  reenters the bar, panting... and carrying a currently unconscious FL --</span><br />
+[02:54:19] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  muffled creepy giggles --</span><br />
+[02:54:25] <span style="color:#ee1e00">CCP: ........</span><br />
+[02:54:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is shaking from nightmares. --</span><br />
+[02:55:03] <span style="color:#ee1e00">CCP: welp, AD's boned. she's still at the tree of foreboding, and I can't go back there without risking my own safety.</span><br />
+[02:55:41] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[02:55:41] <span style="color:#9d001f">CRS: Excuse me.</span><br />
+[02:55:52] <span style="color:#ee1e00">CCP: hm?</span><br />
+[02:56:01] <span style="color:#8f8b12">CSB: What the hell happened out there.</span><br />
+[02:56:03] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  fades into visibility, hands stuffed in the from pocket of his sweater --</span><br />
+[02:56:12] <span style="color:#9d001f">CRS: What's this about AD?</span><br />
+[02:57:24] <span style="color:#ee1e00">CCP: okay. after FL looked up a thing about Touhou in connection to that cherry blossom tree a couple miles out of town, he, AD, and I went to go try and destroy the tree.</span><br />
+[02:57:52] <span style="color:#ee1e00">CCP: but shit started happening, and I grabbed FL and ran. I thought AD was doing her own abscondy thing, but...</span><br />
+[02:58:44] <span style="color:#8f8b12">CSB: ..Is it at least safe to stop stablizing the bar? </span><br />
+[02:59:05] <span style="color:#ee1e00">CCP: yeah, the quakes seem to have stopped once we stopped Firebursting the tree.</span><br />
+[02:59:09] <span style="color:#9d001f">CRS: ...</span><br />
+[03:00:12] <span style="color:#9d001f">CRS: It's literally always something</span><br />
+[03:00:13] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  massive gust of vapor funnels back to self --</span><br />
+[03:00:39] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  walks out of the bar. --</span><br />
+[03:00:45] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  pauses by the door. --</span><br />
+[03:00:55] <span style="color:#9d001f">CRS: Hand on... So, giant cherry blossom tree?</span><br />
+[03:00:59] <span style="color:#9d001f">CRS: No way I can miss it, right?</span><br />
+[03:01:51] <span style="color:#ee1e00">CCP: yeah, long as you're at or above treetop level it should be visible from a long way away.</span><br />
+[03:02:08] <span style="color:#9d001f">CRS: Awesome. </span><br />
+[03:02:28] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  wobbles a little --</span><br />
+[03:02:30] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  shakes his head before walking out, a faint smile lighting up his face on the way out --</span><br />
+[03:06:58] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[03:11:34] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[03:28:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  manages to smack his head on a tableleg, waking up. --</span><br />
+[03:29:27] <span style="color:#0080ff">CFL: OnO</span><br />
+[03:29:53] <span style="color:#ee1e00">CCP: sup FL. you okay?</span><br />
+[03:37:48] <span style="color:#0080ff">CFL: ...ye-no.</span><br />
+[03:38:56] <span style="color:#0080ff">CFL: (( CRS ceased responding to memo. CTT ceased responding to memo. -- CURRENT frozenLake [CFL] manages to smack his head on a tableleg, waking up. -- CFL: OnO CCP: sup FL. you okay? CFL: ...ye-no. ))</span><br />
+[03:40:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sighs. --</span><br />
+[03:41:24] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[03:43:00] <span style="color:#0080ff">CFL: ...We need to get rid of the tree before it infects more of the planet.</span><br />
+[03:45:20] <span style="color:#0080ff">CFL: Think about it, it has managed to spread its effect to the nearby region.</span><br />
+[04:14:28] <span style="color:#d1cfcd"><span style="color:#722881">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[04:14:28] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  pregnant lady in PJs comes downstairs because she got tired of communicating just through chat memo --</span><br />
+[04:15:27] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is panicing. --</span><br />
+[04:15:42] <span style="color:#0080ff">CFL: fuckfuckfuckfuck</span><br />
+[04:16:24] <span style="color:#0080ff">CFL: Someone needs to go down there and repair it.</span><br />
+[04:16:36] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  watches FL panic while still being in the memo on her muffles --</span><br />
+[04:22:26] <span style="color:#722881">CAS: ((o, how bad is the life-drainy stuff? that i'm hearing about?))</span><br />
+[04:23:31] <span style="color:#ee1e00">CCP: ((only within close proximity to the tree, so the village is fine))</span><br />
+[04:23:53] <span style="color:#722881">CAS: ((ok thanks :)))</span><br />
+[04:25:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  brbs out of the bar --</span><br />
+[04:36:34] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[04:36:34] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  BIG URFQUAKE --</span><br />
+[04:38:11] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  is knocked down onto her buttox --</span><br />
+[04:40:52] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  winces --</span><br />
+[04:48:47] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  holds onto the floor. --</span><br />
+[04:50:33] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  how the hell do you hold onto a floor? --</span><br />
+[04:53:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // very carefully --</span><br />
+[04:53:53] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  -.-; --</span><br />
+[04:53:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // or by just digging your fingers into the carpet. --</span><br />
+[04:54:22] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  we can still GT float right? --</span><br />
+[04:55:57] <span style="color:#d1cfcd"><span style="color:#5c6f61">CURRENT artfulDeviant [CAD]</span> RIGHT NOW responded to memo.</span><br />
+[04:55:57] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  walks into the bar. --</span><br />
+[04:56:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is just using the GT float thrust to hold onto the floor. --</span><br />
+[04:56:36] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  just GT floats --</span><br />
+[04:56:38] <span style="color:#5c6f61">CAD: H-hey Charles. I have a question.</span><br />
+[04:57:02] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  approaches FL while stabalizing herself with the chairs and tables. --</span><br />
+[04:57:37] <span style="color:#5c6f61">CAD: Do you know a way to stop magic? Or aspects?</span><br />
+[04:57:52] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[04:57:52] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  walks in, gaze focused on the ceiling. --</span><br />
+[04:58:30] <span style="color:#0080ff">CFL: ...Does anyone know mets number?</span><br />
+[04:58:45] <span style="color:#5c6f61">CAD: Met?</span><br />
+[04:59:33] <span style="color:#0080ff">CFL: has the chumhandle of imagineBreaker.</span><br />
+[04:59:38] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  not that the earthquakes have not stopped --</span><br />
+[05:01:05] <span style="color:#5c6f61">CAD: Can Met help?</span><br />
+[05:01:08] <span style="color:#9d001f">CRS: That's getting /real/ old, real fast.</span><br />
+[05:01:23] <span style="color:#9d001f">CRS: He gave up Imagine Breaker to leave the session, didn't he?</span><br />
+[05:01:42] <span style="color:#9d001f">CRS: He couldn't make it out with his Aspect code fucked to hell...</span><br />
+[05:01:43] <span style="color:#0080ff">CFL: ...DAMMIT.</span><br />
+[05:01:48] <span style="color:#9d001f">CRS: I mean unless I missed something.</span><br />
+[05:01:51] <span style="color:#9d001f">CRS: Oh nah, you did.</span><br />
+[05:02:01] <span style="color:#0080ff">CFL: Wait, don't you ave one?</span><br />
+[05:02:03] <span style="color:#5c6f61">CAD: ...?</span><br />
+[05:02:15] <span style="color:#9d001f">CRS: ...</span><br />
+[05:02:16] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  smirks. --</span><br />
+[05:02:31] <span style="color:#0080ff">CFL: Durring that bossfight were there was basically a bargain bin of them?</span><br />
+[05:02:35] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  loops his patently unbandaged arm. --</span><br />
+[05:02:41] <span style="color:#9d001f">CRS: Used to.</span><br />
+[05:02:51] <span style="color:#0080ff">CFL: ...</span><br />
+[05:02:56] <span style="color:#5c6f61">CAD: Wait so</span><br />
+[05:02:56] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sighs. --</span><br />
+[05:02:57] <span style="color:#9d001f">CRS: Under certain circumstances I might again.</span><br />
+[05:02:58] <span style="color:#5c6f61">CAD: a way</span><br />
+[05:03:02] <span style="color:#5c6f61">CAD: USED TO exist?</span><br />
+[05:03:38] <span style="color:#9d001f">CRS: What's magic?</span><br />
+[05:04:03] <span style="color:#5c6f61">CAD: ?</span><br />
+[05:04:23] <span style="color:#9d001f">CRS: I mean</span><br />
+[05:04:27] <span style="color:#9d001f">CRS: What do you think magic is?</span><br />
+[05:04:29] <span style="color:#0080ff">CFL: Manipulation of physics on the quantum level, which we do not understand.</span><br />
+[05:04:37] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  looks at AD, then FL and anyone else in the area. --</span><br />
+[05:04:41] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  reenters bar --</span><br />
+[05:04:46] <span style="color:#5c6f61">CAD: It's a force of nature? Maybe?</span><br />
+[05:04:53] <span style="color:#5c6f61">CAD: It's unexplainable.</span><br />
+[05:04:57] <span style="color:#5c6f61">CAD: Like our powers.</span><br />
+[05:05:22] <span style="color:#ee1e00">CCP: "in Asgard, magic and science are the same thing."</span><br />
+[05:05:26] <span style="color:#722881">CAS: ..it is a science we have yet to understand</span><br />
+[05:05:26] <span style="color:#9d001f">CRS: Actually...</span><br />
+[05:05:59] <span style="color:#5c6f61">CAD: Shouldn't we ask this, Met guy?</span><br />
+[05:06:10] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  looks at RS --</span><br />
+[05:06:27] <span style="color:#5c6f61">CAD: Or girl</span><br />
+[05:06:32] <span style="color:#5c6f61">CAD: Did you say he or she.</span><br />
+[05:06:34] <span style="color:#0080ff">CFL: Naw, she ditched us.</span><br />
+[05:06:43] <span style="color:#5c6f61">CAD: Ditched you?</span><br />
+[05:06:43] <span style="color:#0080ff">CFL: Um, its... complicated.</span><br />
+[05:06:58] <span style="color:#ee1e00">CCP: ...I thought he defaulted to male when not working at the bar?</span><br />
+[05:07:08] <span style="color:#5c6f61">CAD: Whuh...?</span><br />
+[05:07:11] <span style="color:#9d001f">CRS: Force of nature, now that's interesting. Science we can't understand. Good answer.</span><br />
+[05:07:22] <span style="color:#722881">CAS: thank you</span><br />
+[05:07:44] <span style="color:#9d001f">CRS: ...Well that's weird.</span><br />
+[05:07:46] <span style="color:#0080ff">CFL: Yea, but she was female when we ditched her on Earth... Theta?</span><br />
+[05:07:56] <span style="color:#0080ff">CFL: Well, she told us to leave.</span><br />
+[05:08:00] <span style="color:#0080ff">CFL: Its complicated.</span><br />
+[05:08:07] <span style="color:#5c6f61">CAD: I....</span><br />
+[05:08:13] <span style="color:#5c6f61">CAD: Wait back up.</span><br />
+[05:08:28] <span style="color:#5c6f61">CAD: Who is this person?</span><br />
+[05:08:35] <span style="color:#5c6f61">CAD: Are they a Player?</span><br />
+[05:08:39] <span style="color:#9d001f">CRS: Yeah</span><br />
+[05:08:43] <span style="color:#0080ff">CFL: Met, also known as Metreu, or Mike.</span><br />
+[05:08:52] <span style="color:#9d001f">CRS: Or, used to be. I dunno if you stop being a Player after the game's done, or what...</span><br />
+[05:09:04] <span style="color:#5c6f61">CAD: A Player who USED TO be able to stop aspect powers...?</span><br />
+[05:09:16] <span style="color:#9d001f">CRS: Witch of Time, Witch of Null for a bit, then Witch of Time again.</span><br />
+[05:09:52] <span style="color:#5c6f61">CAD: And then she... He... ditched you guys</span><br />
+[05:09:55] <span style="color:#5c6f61">CAD: to live on Earth</span><br />
+[05:10:01] <span style="color:#0080ff">CFL: Well, a copy of it.</span><br />
+[05:10:07] <span style="color:#5c6f61">CAD: A Copy.</span><br />
+[05:10:11] <span style="color:#0080ff">CFL: In a copy of our old galaxy.</span><br />
+[05:10:13] <span style="color:#9d001f">CRS: Is that what he's been doing?</span><br />
+[05:10:24] <span style="color:#9d001f">CRS: ...Maybe putting his life together.</span><br />
+[05:10:24] <span style="color:#5c6f61">CAD: ...wow.</span><br />
+[05:10:42] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  just takes a sitting position while GT floating and listens --</span><br />
+[05:10:48] <span style="color:#5c6f61">CAD: Sounds sort of... outrageous? in a way?</span><br />
+[05:10:57] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  shakes her head. "Anyway..." --</span><br />
+[05:10:59] <span style="color:#9d001f">CRS: ...This is a facinating conversation.</span><br />
+[05:11:11] <span style="color:#9d001f">CRS: It's also one I'm /not/ sure we should be having right now seeing as...</span><br />
+[05:11:21] <span style="color:#9d001f">CRS: Earthquakes?</span><br />
+[05:11:21] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  glances down --</span><br />
+[05:11:23] <span style="color:#0080ff">CFL: Its lovely how we are talking about this considering the FUCKING QUAKE UNDER US.</span><br />
+[05:11:23] <span style="color:#5c6f61">CAD: I was getting there.</span><br />
+[05:11:33] <span style="color:#5c6f61">CAD: I ask</span><br />
+[05:11:38] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  those are still a thing, right? --</span><br />
+[05:11:38] <span style="color:#5c6f61">CAD: Shouldn't we ask him?</span><br />
+[05:11:42] <span style="color:#5c6f61">CAD: I mean.</span><br />
+[05:11:47] <span style="color:#5c6f61">CAD: Maybe he knows something?</span><br />
+[05:13:09] <span style="color:#9d001f">CRS: Maybe.</span><br />
+[05:14:13] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  scratches his cheek --</span><br />
+[05:14:43] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  floats off the floor to get away from the shaking. --</span><br />
+[05:14:51] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  thinks to herself. --</span><br />
+[05:15:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... rolls over. --</span><br />
+[05:15:17] <span style="color:#5c6f61">CAD: (( afk a sec ))</span><br />
+[05:19:01] <span style="color:#ee1e00">CCP: ...</span><br />
+[05:19:27] <span style="color:#5c6f61">CAD: ...can someone leave him a message...?</span><br />
+[05:19:43] <span style="color:#5c6f61">CAD: Or should we just...</span><br />
+[05:19:48] <span style="color:#5c6f61">CAD: fly to copy earth</span><br />
+[05:19:53] <span style="color:#9d001f">CRS: ...</span><br />
+[05:19:57] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  glances upward. --</span><br />
+[05:20:01] <span style="color:#9d001f">CRS: I dunno.</span><br />
+[05:20:10] <span style="color:#ee1e00">CCP: it's... in another galaxy.</span><br />
+[05:20:18] <span style="color:#9d001f">CRS: He's not on pester and that's... yeah, far off.</span><br />
+[05:20:30] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  starts messing aroound with her computerized muffles* --</span><br />
+[05:20:43] <span style="color:#0080ff">CFL: ... Which means the FTL Collector is the fastest ship we got.</span><br />
+[05:20:56] <span style="color:#5c6f61">CAD: What about the Quinn?</span><br />
+[05:20:59] <span style="color:#9d001f">CRS: I don't mean to toot my own horn but maybe my aloof douchiness was hiding the fact that I might know about this kind of thing too... And</span><br />
+[05:20:59] <span style="color:#9d001f">CRS: ...If he wants to be off living his lfie, away from all this...</span><br />
+[05:21:09] <span style="color:#0080ff">CFL: The FTL Collector is /in/ the Quinn.</span><br />
+[05:21:20] <span style="color:#5c6f61">CAD: Oh.</span><br />
+[05:21:30] <span style="color:#9d001f">CRS: ...Iunno. Dragging him back to /maybe/ help, seems kinda dickish.</span><br />
+[05:21:44] <span style="color:#5c6f61">CAD: I meant ask for advice.</span><br />
+[05:21:52] <span style="color:#5c6f61">CAD: Not drag him over here.</span><br />
+[05:21:54] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  floats up close to rs --</span><br />
+[05:22:17] <span style="color:#722881">CAS: perhaps i could presuade your douchiness to be more specific?</span><br />
+[05:22:26] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is getting mesages on his shades. --</span><br />
+[05:22:32] <span style="color:#0080ff">CFL: Oh god dammit.</span><br />
+[05:22:53] <span style="color:#5c6f61">CAD: What is it?</span><br />
+[05:23:20] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[05:23:26] <span style="color:#0080ff">CFL: Oh, I'm just getting "nagged"</span><br />
+[05:23:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  does finger quotes for the last word. --</span><br />
+[05:24:20] <span style="color:#722881">CAS: oh...fluffyinventor is online...</span><br />
+[05:24:31] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[05:24:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at AD. --</span><br />
+[05:25:27] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[05:25:27] <span style="color:#9d001f">CRS: Akashic Diviner.</span><br />
+[05:26:00] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#722881">[CAS]</span>  blinks --</span><br />
+[05:26:04] <span style="color:#722881">CAS: ...what?</span><br />
+[05:26:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs out of the bar, stumbling, --</span><br />
+[05:26:24] <span style="color:#5c6f61">CAD: ?</span><br />
+[05:26:26] <span style="color:#5c6f61">CAD: Charles?</span><br />
+[05:26:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  races out of the bar as well, heading hangar-ward --</span><br />
+[05:26:36] <span style="color:#9d001f">CRS: One of, if not /the/ strongest board I've got. It's a naturalizer... Squashes unnatural effects.</span><br />
+[05:26:42] <span style="color:#9d001f">CRS: ...</span><br />
+[05:26:48] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  follows FL with his eyes, blinking. --</span><br />

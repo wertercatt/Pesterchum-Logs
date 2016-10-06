@@ -1,0 +1,2 @@
+[05:05:48] <span style="color:#d1cfcd">-- lightningChains <span style="color:#000000">[LC]</span> began messaging fLmun <span style="color:#0080ff">[FL]</span> at 17:05 --</span><br />
+[05:05:51] <span style="color:#d1cfcd">-- lightningChains <span style="color:#ffd500">[LC]</span> stopped messaging fLmun <span style="color:#0080ff">[FL]</span> at 17:05 --</span><br />

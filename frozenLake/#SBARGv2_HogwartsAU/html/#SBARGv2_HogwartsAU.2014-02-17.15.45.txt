@@ -1,0 +1,142 @@
+[03:45:45] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 HOGWARTSAU.</span><br />
+[03:48:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Recycling Hex Decimals --</span><br />
+[03:48:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Binding Trace Enchantments --</span><br />
+[03:48:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Ensuring Transplanar Synergy --</span><br />
+[03:48:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Simulating Program Execution --</span><br />
+[03:48:51] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+[03:48:51] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  //wtf --</span><br />
+[03:49:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The Area spawn into a valley, unable to move... details begin to rez in. --</span><br />
+[03:49:56] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // alley* --</span><br />
+[03:50:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // glrhgslk --</span><br />
+[03:50:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Everyone spawns in an alleyway, which is still loading. --</span><br />
+[03:51:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Everyone is switched into standard human forms, wearing robes. pockets are filled with wizarding money. --</span><br />
+[03:51:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // "Welcome to Diagon Alley." --</span><br />
+[03:52:26] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // That was said by a random wizard who is on his way out. There are other wizards around. You can move now. --</span><br />
+[03:53:09] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[03:53:09] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks down at her robes for a moment --</span><br />
+[03:53:28] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:53:28] <span style="color:#ee1e00">CCP: ...well. this should be interesting.</span><br />
+[03:53:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The robes seem to be rather old, with patches on them. --</span><br />
+[03:53:41] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  looks around the immediate area --</span><br />
+[03:54:30] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also looks around --</span><br />
+[03:55:14] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // From your current position, you can see the Cauldron Shop, Apothicary, Stationary Shop and Quality Quidditch Supplies, which is displaying the Clean Sweep 6. --</span><br />
+[03:55:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // You have some lists in your pockets, along with wizarding money that accounts to 20 galleons each. --</span><br />
+[03:56:13] <span style="color:#cb7de6">CSJ: so.... where do we go now? ➜</span><br />
+[03:57:10] <span style="color:#ee1e00">CCP: my best guess would be... do the shops in order and get whatever's on the lists?</span><br />
+[03:57:22] <span style="color:#cb7de6">CSJ: wait, what lists? ➜</span><br />
+[03:57:49] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls out the shopping list he felt in his pocket --</span><br />
+[03:57:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  digs in the pockets of his robe, pulling out a small pouch of money and a list. --</span><br />
+[03:57:54] <span style="color:#ee1e00">CCP: these lists?</span><br />
+[03:58:24] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  checks her own pockets and pulls out pretty much the same things? --</span><br />
+[03:58:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // yep. --</span><br />
+[03:58:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // <a href='http://pastebin.com/Mka4ATGJ'>http://pastebin.com/Mka4ATGJ</a> --</span><br />
+[03:58:57] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //good thing pastebin isn't dead like piratepad --</span><br />
+[03:59:09] <span style="color:#cb7de6">CSJ: huh, let's see here... ➜</span><br />
+[03:59:19] <span style="color:#0080ff">CFL: Lets see...</span><br />
+[03:59:31] <span style="color:#0080ff">CFL: ...we have a slight glitch.</span><br />
+[03:59:40] <span style="color:#ee1e00">CCP: hm... uniforms, various books, magic stuff... wait what?</span><br />
+[04:00:12] <span style="color:#0080ff">CFL: We have sylladexes. Empty, but we have them.</span><br />
+[04:00:46] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  attempts to access sylladex. what modus is it set to? --</span><br />
+[04:01:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  instinctively waves for the SAO Modus, does it work? --</span><br />
+[04:01:01] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Array. --</span><br />
+[04:01:03] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  checks his list for a moment --</span><br />
+[04:01:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Everyone has array. --</span><br />
+[04:01:25] <span style="color:#ee1e00">CCP: ...okay, so not our usual modi.</span><br />
+[04:01:39] <span style="color:#000000">CFI: wtf is α crystαl fαil</span><br />
+[04:02:04] <span style="color:#ee1e00">CCP: crystal fail?</span><br />
+[04:02:24] <span style="color:#0080ff">CFL: um...</span><br />
+[04:02:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  checks his list --</span><br />
+[04:02:39] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  is reading the list, pronouncing phial incorectly --</span><br />
+[04:02:43] <span style="color:#0080ff">CFL: ...Oh, phial.</span><br />
+[04:03:10] <span style="color:#0080ff">CFL: Its basically little bottles and vials used in making potions.</span><br />
+[04:03:54] <span style="color:#ee1e00">CCP: makes sense.</span><br />
+[04:05:08] <span style="color:#cb7de6">CSJ: so... which store first... ➜</span><br />
+[04:05:11] <span style="color:#0080ff">CFL: ...29 Knuts is equal to a sickle, which 17 of are equal to a galleon.</span><br />
+[04:05:31] <span style="color:#000000">CFI: wtf</span><br />
+[04:05:50] <span style="color:#ee1e00">CCP: ...money system that doesn't go in multiples of ten? hoo boy.</span><br />
+[04:06:37] <span style="color:#0080ff">CFL: so...</span><br />
+[04:07:15] <span style="color:#0080ff">CFL: seven times nine... sixty three... plus seventy...</span><br />
+[04:07:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  taps the air trying to add up. --</span><br />
+[04:07:59] <span style="color:#d1cfcd"><span style="color:#5c6f61">CURRENT artfulDeviant [CAD]</span> RIGHT NOW responded to memo.</span><br />
+[04:07:59] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  suddenly spawns --</span><br />
+[04:08:11] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  had a lag. --</span><br />
+[04:08:16] <span style="color:#0080ff">CFL: one hundred thirty three...</span><br />
+[04:08:21] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  jumps a bit at AD's sudden rezzing-in --</span><br />
+[04:08:33] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  shakes her head a little dizzy. "woah..." --</span><br />
+[04:08:40] <span style="color:#5c6f61">CAD: Lag.</span><br />
+[04:08:52] <span style="color:#ee1e00">CCP: weird.</span><br />
+[04:09:02] <span style="color:#000000">CFI: greαt.</span><br />
+[04:09:15] <span style="color:#5c6f61">CAD: What's going on?</span><br />
+[04:09:22] <span style="color:#0080ff">CFL: two hundred eighty...</span><br />
+[04:09:37] <span style="color:#0080ff">CFL: four hundred thirteen</span><br />
+[04:09:50] <span style="color:#cb7de6">CSJ: crazy money math hour apparently... ➜</span><br />
+[04:10:03] <span style="color:#0080ff">CFL: wait no, thats off...</span><br />
+[04:10:15] <span style="color:#5c6f61">CAD: I see...?</span><br />
+[04:10:27] <span style="color:#0080ff">CFL: ...four hundred ninety three.</span><br />
+[04:10:42] <span style="color:#0080ff">CFL: Thats how many knuts there are in a galleon.</span><br />
+[04:11:06] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  begins walking off towards the apothicary --</span><br />
+[04:11:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // from the apothicary door, you can see loads of ingredients... nothing on your list though. --</span><br />
+[04:12:17] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  attempts to walk inside the door anyways --</span><br />
+[04:12:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Flourish and Blotts and Madam Malkins can be seen down the street. --</span><br />
+[04:12:22] <span style="color:#5c6f61">CAD: ...is it bad I know nothing about this place...?</span><br />
+[04:12:33] <span style="color:#5c6f61">CAD: Like, at all.</span><br />
+[04:12:35] <span style="color:#cb7de6">CSJ: eh, it's alright. ➜</span><br />
+[04:12:47] <span style="color:#ee1e00">CCP: nope. I know nothing either, except for watching the first movie once.</span><br />
+[04:12:58] <span style="color:#cb7de6">CSJ: same here pretty much. ➜</span><br />
+[04:12:59] <span style="color:#5c6f61">CAD: I haven't seen any of the movies...</span><br />
+[04:13:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Seth successfully walks in the shop. --</span><br />
+[04:13:26] <span style="color:#5c6f61">CAD: Or read the books...</span><br />
+[04:13:32] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  browses through the selection --</span><br />
+[04:13:44] <span style="color:#5c6f61">CAD: All I know is magic is involved.</span><br />
+[04:13:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Warning, glitch detected! Correcting! --</span><br />
+[04:14:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Everyone's money pouches get a few pounds heavier. --</span><br />
+[04:14:43] <span style="color:#ee1e00">CCP: ...did more money just rez in?</span><br />
+[04:14:46] <span style="color:#5c6f61">CAD: woah!</span><br />
+[04:15:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Seth, are those price tags spazzing out? --</span><br />
+[04:15:58] <span style="color:#000000">CFI: wtf</span><br />
+[04:16:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to the same shop FI went into, and enters --</span><br />
+[04:16:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows, and spots the glitching price tag. --</span><br />
+[04:17:04] <span style="color:#0080ff">CFL: ...Oh crud.</span><br />
+[04:17:07] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  checks out her robes? --</span><br />
+[04:17:08] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  follows the group --</span><br />
+[04:17:30] <span style="color:#ee1e00">CCP: what's happening?</span><br />
+[04:17:32] <span style="color:#000000">CFI: is this supposed to hαppen?</span><br />
+[04:17:57] <span style="color:#000000">CFI: does the guy who run this shitty store usuαlly do this?</span><br />
+[04:18:03] <span style="color:#000000">CFI: *runs</span><br />
+[04:18:16] <span style="color:#0080ff">CFL: n-no.</span><br />
+[04:18:32] <span style="color:#5c6f61">CAD: ...</span><br />
+[04:18:39] <span style="color:#5c6f61">CAD: Broken?</span><br />
+[04:18:39] <span style="color:#cb7de6">CSJ: hey, what are you guys looking at? ➜</span><br />
+[04:19:04] <span style="color:#ee1e00">CCP: the price tags are pulling a Snowman Bingo</span><br />
+[04:19:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gestures at the price tag, that is glitching in price. Knuts. Galleons. Knuts. Knuts. Galleons. --</span><br />
+[04:19:32] <span style="color:#cb7de6">CSJ: wat ➜</span><br />
+[04:19:35] <span style="color:#0080ff">CFL: ...This didn't happen last time.</span><br />
+[04:20:06] <span style="color:#5c6f61">CAD: Uhh...</span><br />
+[04:20:26] <span style="color:#000000">CFI: mαybe αnother store won't hαve broken fucking pricetαgs</span><br />
+[04:21:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // One of the walls of the alley falls apart, revealing an empty void. --</span><br />
+[04:21:15] <span style="color:#ee1e00">CCP: well, according to the list, nothing in here is what we need anyw--</span><br />
+[04:21:21] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[04:21:28] <span style="color:#5c6f61">CAD: Is there an eject button?</span><br />
+[04:21:33] <span style="color:#5c6f61">CAD: Cause I would like to use it now.</span><br />
+[04:21:39] <span style="color:#ee1e00">CCP: tell me Diagon Alley isn't leaking into the Digital Void.</span><br />
+[04:22:00] <span style="color:#ee1e00">CCP: and AD, yes, there's a voice command. same one as what you turn a holodeck off in Star Trek with.</span><br />
+[04:22:05] <span style="color:#0080ff">CFL: ...everyone, check your fetch modus!</span><br />
+[04:22:13] <span style="color:#cb7de6">CSJ: me checks her modus ➜</span><br />
+[04:22:14] <span style="color:#5c6f61">CAD: Holodeck Off?</span><br />
+[04:22:23] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  * checks her modus --</span><br />
+[04:22:27] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // There is random junk appearing inside. --</span><br />
+[04:22:30] <span style="color:#5c6f61">CAD: I don't watch star trek!</span><br />
+[04:22:31] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves for it again, before remembering it's not SAO Modus, and... fuck, how does he abstract modus interface --</span><br />
+[04:22:38] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  powerwalks the fuck out of the glitches store --</span><br />
+[04:22:56] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  grabs a random piece of paper, writes "Computer, End Program." on it, and shows it to AD --</span><br />
+[04:22:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs out of the store. People on the street are exploding into pixels. --</span><br />
+[04:23:07] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  then promptly nopes out of the store with FI --</span><br />
+[04:23:09] <span style="color:#000000">CFI: whαt</span><br />
+[04:23:11] <span style="color:#000000">CFI: the</span><br />
+[04:23:13] <span style="color:#000000">CFI: fuck</span><br />
+[04:23:14] <span style="color:#5c6f61">CAD: Computer, End Program!</span><br />
+[04:23:22] <span style="color:#0080ff">CFL: ...I need to do it.</span><br />
+[04:23:27] <span style="color:#5c6f61">CAD: DO IT THEN!</span><br />
+[04:23:32] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  panics --</span><br />
+[04:23:34] <span style="color:#0080ff">CFL: AU Machine, FORCE TERMINATE SESSION!</span><br />
+[04:23:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // the AU ends. --</span><br />

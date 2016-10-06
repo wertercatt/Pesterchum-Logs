@@ -1,0 +1,5 @@
+[18:28:54] <span style="color:#d1cfcd">-- awesomeSwordfish <span style="color:#aa00ff">[AS]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 18:28 --</span><br />
+[18:29:00] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> is now an idle chum! --</span><br />
+[18:29:00] <span style="color:#aa00ff">AS: ((ooc poke?))</span><br />
+[18:56:49] <span style="color:#aa00ff">AS: poke</span><br />
+[18:58:35] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging awesomeSwordfish <span style="color:#aa00ff">[AS]</span> at 18:58 --</span><br />

@@ -1,0 +1,11 @@
+[10:42:40] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 10:42 --</span><br />
+[10:42:43] <span style="color:#0080ff">FL: no</span><br />
+[10:42:45] <span style="color:#d5d500">AE: you know whAt's cool?</span><br />
+[10:42:48] <span style="color:#0080ff">FL: not talking about this</span><br />
+[10:42:49] <span style="color:#d5d500">AE: bEing AlivE</span><br />
+[10:42:49] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging atomicEagle <span style="color:#d5d500">[AE]</span> at 10:42 --</span><br />
+[10:42:52] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 10:42 --</span><br />
+[10:42:52] <span style="color:#d5d500">AE: it's cool mAn</span><br />
+[10:42:55] <span style="color:#d5d500">AE: so don't throw it AwAy</span><br />
+[10:42:57] <span style="color:#d5d500">AE: lifE is good</span><br />
+[10:42:59] <span style="color:#d1cfcd">-- atomicEagle <span style="color:#d5d500">[AE]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 10:42 --</span><br />

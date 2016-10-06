@@ -1,0 +1,95 @@
+[01:02:57] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[01:20:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at one of the bags connected to the needle in him. --</span><br />
+[02:07:51] <span style="color:#d1cfcd"><span style="color:#005500">CURRENT neuroticVagabond [CNV]</span> RIGHT NOW responded to memo.</span><br />
+[02:07:51] <span style="color:#d1cfcd">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  teleports in to the clinic, looking around. --</span><br />
+[02:08:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Oh look, tons of doors. --</span><br />
+[02:08:41] <span style="color:#005500">CNV: God damnit.</span><br />
+[02:08:56] <span style="color:#d1cfcd">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  makes all the doors open and close with Space powers. Ooh spooky haunted clinic. --</span><br />
+[02:09:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A glimse of FL can be seen through one of the doors. --</span><br />
+[02:10:35] <span style="color:#005500">CNV: There you are.</span><br />
+[02:10:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has a bag of fluid hooked up to his arm. --</span><br />
+[02:14:46] <span style="color:#005500">CNV: ..What'd you even do?</span><br />
+[02:26:44] <span style="color:#d1cfcd">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  walks over to hand deliver that pepperoni pizza anyway. --</span><br />
+[02:27:01] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hands the red jello over to NV in return. --</span><br />
+[02:27:18] <span style="color:#0080ff">CFL: I don't know who brought me here. Hopefully I should be able to leave soon.</span><br />
+[02:28:42] <span style="color:#005500">CNV: What're you even doing here anyway?</span><br />
+[02:28:46] <span style="color:#005500">CNV: How hurt did you even get?</span><br />
+[02:28:53] <span style="color:#d1cfcd">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  takes the red jello, sitting down nearby and eating it. --</span><br />
+[02:30:30] <span style="color:#0080ff">CFL: I don't know... I can't really remember the battle though.</span><br />
+[02:30:51] <span style="color:#005500">CNV: I remember it, kinda.</span><br />
+[02:40:08] <span style="color:#005500">CNV: You nuked her jail I think.</span><br />
+[02:48:00] <span style="color:#0080ff">CFL: ...How did I pull that off?</span><br />
+[02:48:27] <span style="color:#005500">CNV: You threw some stupid video game nuke at her and she threw it tipped it into the prison.</span><br />
+[02:48:53] <span style="color:#0080ff">CFL: ...But I don't have any nukes on me.</span><br />
+[02:49:31] <span style="color:#0080ff">CFL: Well, I suppose alot of it /could/ explode though...</span><br />
+[02:52:36] <span style="color:#005500">CNV: It was some kinda hub.</span><br />
+[02:52:38] <span style="color:#005500">CNV: Hope you didn't need it for anything.</span><br />
+[02:52:48] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  eyes widen. --</span><br />
+[02:53:04] <span style="color:#0080ff">CFL: ...its fine. theres only 12 left now I guess.</span><br />
+[02:53:12] <span style="color:#0080ff">CFL: Unless we can get Brad to void in more.</span><br />
+[02:53:59] <span style="color:#005500">CNV: Maybe.</span><br />
+[02:56:02] <span style="color:#0080ff">CFL: ...why do I only have four in my fetch modus then?</span><br />
+[02:56:42] <span style="color:#0080ff">CFL: Like, I know I have one hooked up to the AU Machine, and another hooked up to the server...</span><br />
+[02:56:55] <span style="color:#0080ff">CFL: ...That leaves six unaccounted for.</span><br />
+[02:57:48] <span style="color:#005500">CNV: Oh, I think you used a lot for the nuke.</span><br />
+[02:57:54] <span style="color:#005500">CNV: It was turning into a mini black hole or something.</span><br />
+[02:58:02] <span style="color:#005500">CNV: You tried to kill all of us including her like 3 times?</span><br />
+[02:58:32] <span style="color:#0080ff">CFL: ...</span><br />
+[02:59:06] <span style="color:#0080ff">CFL: Sad thing is, there is an equal chance that you are lying to me as there is you telling the truth.</span><br />
+[02:59:13] <span style="color:#005500">CNV: And then she took your grimdark and gave it to Isaac who needed a group hug to be cured.</span><br />
+[02:59:16] <span style="color:#005500">CNV: I'm completely serious, that's the problem.</span><br />
+[02:59:48] <span style="color:#0080ff">CFL: Yeah... gog dammit.</span><br />
+[03:02:03] <span style="color:#0080ff">CFL: ...who else was there?</span><br />
+[03:02:24] <span style="color:#005500">CNV: Jacien, Niki, Isaac, Rob, me, Empy, Griffin even showed up at the end of it all.</span><br />
+[03:02:35] <span style="color:#005500">CNV: Kim of course, and of course Cal.</span><br />
+[03:02:50] <span style="color:#0080ff">CFL: Cal is the one that we fought, right?</span><br />
+[03:02:55] <span style="color:#005500">CNV: Yeah.</span><br />
+[03:05:01] <span style="color:#0080ff">CFL: ...</span><br />
+[03:05:09] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  chews on a slice of pizza. --</span><br />
+[03:07:39] <span style="color:#005500">CNV: You want me to keep you company or can I head back to the bar?</span><br />
+[03:13:42] <span style="color:#0080ff">CFL: You can head back.</span><br />
+[03:14:25] <span style="color:#005500">CNV: Alright, later.</span><br />
+[03:14:27] <span style="color:#d1cfcd">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  poofs out. --</span><br />
+[03:14:28] <span style="color:#d1cfcd"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+[05:03:00] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[05:03:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters the building --</span><br />
+[05:03:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  waves from an open door. --</span><br />
+[05:04:07] <span style="color:#ee1e00">CCP: sup FL.</span><br />
+[05:04:13] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over --</span><br />
+[05:04:23] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hands a USB storage device to Kimura. --</span><br />
+[05:04:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  takes it --</span><br />
+[05:04:56] <span style="color:#ee1e00">CCP: ...I wonder if we should give one to IB, as well.</span><br />
+[05:05:10] <span style="color:#0080ff">CFL: That would be wise. Here.</span><br />
+[05:05:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hands Kimura another one. --</span><br />
+[05:05:19] <span style="color:#ee1e00">CCP: he and I are the only non-Spacers that know how to get to Augataur so...</span><br />
+[05:05:34] <span style="color:#0080ff">CFL: Make sure to deliver that to him.</span><br />
+[05:05:39] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  captchas both, making a note to give one to him next time he's online --</span><br />
+[05:05:41] <span style="color:#ee1e00">CCP: can do.</span><br />
+[05:06:01] <span style="color:#ee1e00">CCP: so, how are you doing after yesterday?</span><br />
+[05:06:13] <span style="color:#0080ff">CFL: Can't remember a damned thing.</span><br />
+[05:06:24] <span style="color:#0080ff">CFL: And I got a needle in my arm.</span><br />
+[05:06:39] <span style="color:#ee1e00">CCP: ow.</span><br />
+[05:06:48] <span style="color:#0080ff">CFL: My guess is that the Wolves went on break a few hours ago.</span><br />
+[05:07:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  checks watch --</span><br />
+[05:07:07] <span style="color:#ee1e00">CCP: yeah, it's about that time.</span><br />
+[05:07:44] <span style="color:#0080ff">CFL: ...and haven't gotten back.</span><br />
+[05:08:19] <span style="color:#ee1e00">CCP: eh, if they're anything like me, they have a bad sense of punctuality :P</span><br />
+[05:09:11] <span style="color:#0080ff">CFL: ...I figure one missing patient won't mean much to them.</span><br />
+[05:09:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slowly gets out of the bed. --</span><br />
+[05:09:44] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to help FL if he starts to fall over --</span><br />
+[05:10:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stands up straight, pulling out the needle. --</span><br />
+[05:11:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slaps a bandaid on it. --</span><br />
+[05:11:56] <span style="color:#ee1e00">CCP: ...do you at least remember what injuries they were treating you for?</span><br />
+[05:12:47] <span style="color:#0080ff">CFL: Anger Issues, Amnesia... maybe I should look at the list.</span><br />
+[05:13:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks over to a piece of paper, looking at it. --</span><br />
+[05:15:06] <span style="color:#0080ff">CFL: ...I can't make heads or tails of this.</span><br />
+[05:15:11] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[05:15:43] <span style="color:#ee1e00">CCP: lemme look... is it weird handwriting, er, paw-writing, or medical technobabble?</span><br />
+[05:17:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Medical Technobabble in paw prints. --</span><br />
+[05:17:44] <span style="color:#ee1e00">CCP: ........yeah nope.</span><br />
+[05:20:04] <span style="color:#ee1e00">CCP: but anger issues and amnesia sounds about right.</span><br />
+[05:20:52] <span style="color:#0080ff">CFL: I think they said I had other stuff too but I can't what</span><br />
+[05:21:37] <span style="color:#0080ff">CFL: Anyway, to the bar?</span><br />
+[05:21:45] <span style="color:#ee1e00">CCP: I'm guessing physical injuries. you got brutalized pretty badly by Cal or whatever we're calling her now.</span><br />
+[05:21:49] <span style="color:#ee1e00">CCP: and yeah, sure.</span><br />
+[05:22:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads out of the clinic torwards the bar. --</span><br />

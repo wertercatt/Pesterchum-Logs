@@ -1,0 +1,53 @@
+[16:17:02] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+[17:52:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  kicks a tumbleweed in the desert. --</span><br />
+[17:54:48] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[17:54:48] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //TFW you finally realize you thought you were in the bar memo but were actually in the planet memo --</span><br />
+[18:06:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  appears back in the village... bleeding with a massive gash in his leg. --</span><br />
+[18:10:34] <span style="color:#0078f0">CFL: (( -- CURRENT frozenLake [CFL] appears back in the village... bleeding with a massive gash in his leg. -- ))</span><br />
+[18:10:40] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  exits the bar and walks over, staring at FL --</span><br />
+[18:10:46] <span style="color:#ee1e00">CCP: seriously, what.</span><br />
+[18:10:55] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0078f0">[CFL'S]</span>  pupils are dialated. --</span><br />
+[18:12:50] <span style="color:#ee1e00">CCP: ...you drank the cactus juice, didn't you.</span><br />
+[18:13:25] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // The gash seems to have been torn open from deeper puncture wounds... ouch. --</span><br />
+[18:14:07] <span style="color:#ee1e00">CCP: sigh.</span><br />
+[18:14:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // There also appears to be slight traces of web on him. --</span><br />
+[18:14:51] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just breaks a Splash Potion of Cure Horrifying Wounds over FL's head, not even bothering with the medigun today --</span><br />
+[18:16:09] <span style="color:#0078f0">CFL: (( does it cure poison effects? ))</span><br />
+[18:17:07] <span style="color:#ee1e00">CCP: ((no, but it would heal that giant gash))</span><br />
+[18:17:27] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0078f0">[CFL'S]</span>  gash closes up... FL still staring into space. --</span><br />
+[18:18:04] <span style="color:#d1cfcd"><span style="color:#c8382d">CURRENT vermillionShark [CVS]</span> RIGHT NOW responded to memo.</span><br />
+[18:18:04] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  half hangs out of a voidal opening in space, slightly above FL and looks down at him --</span><br />
+[18:18:09] <span style="color:#c8382d">CVS: Sup.</span><br />
+[18:18:21] <span style="color:#ee1e00">CCP: well, you'll just have to wait out the cactus juice or whatever effect on your own, I'm not full-healing you anymore from your stupidity.</span><br />
+[18:18:25] <span style="color:#ee1e00">CCP: and sup Viv.</span><br />
+[18:18:38] <span style="color:#c8382d">CVS: What happened again?</span><br />
+[18:19:17] <span style="color:#ee1e00">CCP: he ended up in a desert, came back the long way, something something cactus juice and giant spiders.</span><br />
+[18:22:22] <span style="color:#c8382d">CVS: Ah</span><br />
+[18:47:46] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  floats around in her voidy thing --</span><br />
+[18:47:57] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  the lower half of her body not visible of course --</span><br />
+[19:18:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  starts bleeding again. --</span><br />
+[19:18:25] <span style="color:#ee1e00">CCP: ...</span><br />
+[19:18:32] <span style="color:#0078f0">CFL: ...okay, I /know/ I should feel that...</span><br />
+[19:21:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // Okay thats alot of blood. --</span><br />
+[19:21:47] <span style="color:#0078f0">CFL: ...uhhh</span><br />
+[19:23:23] <span style="color:#ee1e00">CCP: ........</span><br />
+[19:23:56] <span style="color:#ee1e00">CCP: sigh.</span><br />
+[19:24:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  go go gadget medigun, I guess --</span><br />
+[19:26:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is healed... He slowly gets up, uncovering... some skin that has melted to the ground from his back. Ick. --</span><br />
+[19:26:53] <span style="color:#ee1e00">CCP: ...</span><br />
+[19:30:39] <span style="color:#0078f0">CFL: ...Okay what the actual hell.</span><br />
+[19:30:49] <span style="color:#0078f0">CFL: (( test ))</span><br />
+[19:31:03] <span style="color:#c8382d">CVS: (( test ))</span><br />
+[19:31:46] <span style="color:#0078f0">CFL: (( what did I miss ))</span><br />
+[19:32:14] <span style="color:#ee1e00">CCP: ((nothing))</span><br />
+[19:32:16] <span style="color:#c8382d">CVS: (( doesnt look like anything ))</span><br />
+[19:32:44] <span style="color:#0078f0">CFL: ...Okay what the actual hell.</span><br />
+[19:32:54] <span style="color:#c8382d">CVS: Gross yo</span><br />
+[19:32:56] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is staring at the flesh on the ground. --</span><br />
+[19:58:23] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  runs over to a conveniently placed trashcans and throws up in it. --</span><br />
+[20:02:45] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+[20:03:58] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  vanishes --</span><br />
+[20:07:01] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads inside --</span><br />
+[20:31:36] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  nyooms outside, pawbonks FL, and runs back in --</span><br />
+[20:31:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is busy laughing his ass off. --</span><br />
+[20:59:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  heads to the mountain./ --</span><br />

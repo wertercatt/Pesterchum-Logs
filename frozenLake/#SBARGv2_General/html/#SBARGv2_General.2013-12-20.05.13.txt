@@ -1,0 +1,7 @@
+[05:13:32] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+[05:13:33] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[05:13:33] <span style="color:#d1cfcd">[#SBARGv2_General] OOC memo for SBARGv2. <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC.</span><br />
+[05:16:31] <span style="color:#d1cfcd"><span style="color:#000000">CDP</span> ceased responding to memo.</span><br />
+[05:44:15] <span style="color:#d1cfcd">[#SBARGv2_General] OOC memo for SBARGv2. <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC.</span><br />
+[06:00:45] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[06:02:38] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />

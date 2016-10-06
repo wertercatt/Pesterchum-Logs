@@ -1,0 +1,34 @@
+[14:59:55] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[15:56:19] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[17:49:53] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[19:30:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  flops on the couch --</span><br />
+[19:36:18] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[19:36:18] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  brushportals in --</span><br />
+[20:18:50] <span style="color:#d1cfcd"><span style="color:#aa00ff">CURRENT awesomeSwordfish [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[20:18:50] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  walks jogs into bar --</span><br />
+[20:19:10] <span style="color:#ee1e00">CCP: sup</span><br />
+[20:19:40] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[20:19:40] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  You hear a muffled thump outside, followed by him walking in --</span><br />
+[20:19:43] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  squints as if with headache --</span><br />
+[20:19:51] <span style="color:#aa00ff">CAS: hi</span><br />
+[20:20:34] <span style="color:#a2a280">CFF: Hello</span><br />
+[20:20:41] <span style="color:#aa00ff">CAS: ok hi everyone</span><br />
+[20:21:17] <span style="color:#d1cfcd"><span style="color:#ea8028">CURRENT timidEmbers [CTE]</span> RIGHT NOW responded to memo.</span><br />
+[20:21:17] <span style="color:#d1cfcd">-- CURRENT timidEmbers <span style="color:#ea8028">[CTE]</span>  peeks out from blankets --</span><br />
+[20:21:29] <span style="color:#aa00ff">CAS: i have...headache...</span><br />
+[20:21:40] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  might smell of alchohol to kim --</span><br />
+[20:21:50] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sniff sniff --</span><br />
+[20:21:56] <span style="color:#ee1e00">CCP: ...have you been drinking?</span><br />
+[20:22:04] <span style="color:#a2a280">CFF: ...I beleive so.</span><br />
+[20:22:10] <span style="color:#a2a280">CFF: You are Samm, yes?</span><br />
+[20:22:16] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  nods a bit --</span><br />
+[20:23:17] <span style="color:#aa00ff">CAS: booze yes, samm yes</span><br />
+[20:23:22] <span style="color:#aa00ff">CAS: headache...oh yea</span><br />
+[20:23:25] <span style="color:#a2a280">CFF: It is nice to meet you in person.</span><br />
+[20:23:53] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  extends a hand to her --</span><br />
+[20:24:04] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  heads for the door. --</span><br />
+[20:24:06] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  takes hand and shakes it a bit --</span><br />
+[20:24:16] <span style="color:#d1cfcd">-- CURRENT awesomeSwordfish <span style="color:#aa00ff">[CAS]</span>  watches charles go curiously --</span><br />
+[20:24:30] <span style="color:#0078f0">CFL: gotta... work.</span><br />
+[20:24:36] <span style="color:#aa00ff">CAS: oh ok</span><br />
+[20:24:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks out --</span><br />

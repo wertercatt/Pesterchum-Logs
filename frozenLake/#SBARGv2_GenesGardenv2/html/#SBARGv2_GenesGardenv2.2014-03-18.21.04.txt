@@ -1,0 +1,209 @@
+[09:04:28] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[03:12:27] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[03:12:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flares into the bar, looking at the stairs... yep. --</span><br />
+[03:13:20] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:13:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  yawns from under a rather large pile of beanbags and pillows, almost more of a cave thing --</span><br />
+[03:13:45] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  (which is clearly not trying to one-up SB's blanket nest nope not at all :P) --</span><br />
+[03:14:01] <span style="color:#d1cfcd"><span style="color:#8f8b12">CURRENT submissiveBehemoth [CSB]</span> RIGHT NOW responded to memo.</span><br />
+[03:14:01] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  pfttt --</span><br />
+[03:17:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the nest and cave. --</span><br />
+[03:17:47] <span style="color:#0080ff">CFL: ...I wonder if I still have enough to rebuild...</span><br />
+[03:18:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  uncaptchas a large amount of cruxite dowels, with random carvings. --</span><br />
+[03:18:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is trying to make a fort. --</span><br />
+[03:20:17] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  squints at them both --</span><br />
+[03:21:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sets some broken dowels to the side. --</span><br />
+[03:25:25] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[03:31:51] <span style="color:#ee1e00">CCP: sup.</span><br />
+[03:32:25] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has managed to make the beginning shell. --</span><br />
+[03:32:27] <span style="color:#0080ff">CFL: hey.</span><br />
+[03:32:56] <span style="color:#0080ff">CFL: This would be alot easier if we still had the cruxtruder... oh well.</span><br />
+[03:51:25] <span style="color:#d1cfcd"><span style="color:#9f8a89">CURRENT compactPowerhouse [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:51:25] <span style="color:#d1cfcd">-- CURRENT compactPowerhouse <span style="color:#9f8a89">[CCP]</span>  pokes head out from blankets and yawns --</span><br />
+[03:54:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  uncaptchas a large thing of wood, and sticks it on top of the cruxite. --</span><br />
+[04:08:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  puts the rest of the cruxite on the wood. --</span><br />
+[04:08:23] <span style="color:#0080ff">CFL: Tada.</span><br />
+[04:08:50] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sticks his head out of the cave and looks at FL's fort --</span><br />
+[04:08:53] <span style="color:#ee1e00">CCP: not bad.</span><br />
+[04:09:14] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // It decides to take that moment to completely crumble into dust. --</span><br />
+[04:09:27] <span style="color:#0080ff">CFL: O_O</span><br />
+[04:10:02] <span style="color:#0080ff">CFL: why</span><br />
+[04:10:05] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  wheezing laugh --</span><br />
+[04:10:08] <span style="color:#0080ff">CFL: WHY</span><br />
+[04:10:12] <span style="color:#0080ff">CFL: whyyyyyyyy</span><br />
+[04:13:18] <span style="color:#ee1e00">CCP: ........</span><br />
+[04:13:34] <span style="color:#ee1e00">CCP: aw, it's okay FL...</span><br />
+[04:13:47] <span style="color:#0080ff">CFL: I think Paradox Space hates me.</span><br />
+[04:13:54] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets out of his cave and walks over, is FL's fort just collapsed rubble or legit dust? --</span><br />
+[04:15:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Legit dust, except for the wooden board that made up the support of the roof. --</span><br />
+[04:15:39] <span style="color:#ee1e00">CCP: ...dang... the cruxite disintegrated.</span><br />
+[04:15:57] <span style="color:#ee1e00">CCP: could it maybe be the same reason alchemy no longer works?</span><br />
+[04:16:22] <span style="color:#0080ff">CFL: ...what if thats gonna happen to us?</span><br />
+[04:19:21] <span style="color:#ee1e00">CCP: ........</span><br />
+[04:19:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at FL like "dude, you've cracked" --</span><br />
+[04:20:06] <span style="color:#0080ff">CFL: ...okay, maybe I'm a /little/ paranoid...</span><br />
+[04:21:45] <span style="color:#ee1e00">CCP: oh, you're just realizing that now huh?</span><br />
+[04:22:17] <span style="color:#0080ff">CFL: How many times have I died stupid deaths?</span><br />
+[04:22:28] <span style="color:#0080ff">CFL: That weren't directly caused by me?</span><br />
+[04:23:36] <span style="color:#ee1e00">CCP: okay, not counting the 50 heart transplants, and not counting the self-inflicted explosions... maybe 10-20?</span><br />
+[04:23:55] <span style="color:#ee1e00">CCP: or only 3-5 if you also take out the ones where /someone killed you for your stupidity/</span><br />
+[04:24:07] <span style="color:#ee1e00">CCP: like Adeelah and Isaac using you as a punching bag</span><br />
+[04:27:37] <span style="color:#0080ff">CFL: Alright, lets see... Car Crash, Tree Shard to the face... and something I can't remember.</span><br />
+[05:15:52] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT spellboundSteward [CSS]</span> RIGHT NOW responded to memo.</span><br />
+[05:15:52] <span style="color:#d1cfcd">-- CURRENT spellboundSteward <span style="color:#000000">[CSS]</span>  floats upstairs --</span><br />
+[05:15:57] <span style="color:#000000">CSS: <span style="color:#ef6c00">Boo.....</span></span><br />
+[05:41:47] <span style="color:#d1cfcd"><span style="color:#c8382d">CURRENT vermillionShark [CVS]</span> RIGHT NOW responded to memo.</span><br />
+[05:41:47] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  walks down the stairs in her actual clothes now and not those pajamas like the last 3 days. --</span><br />
+[05:42:43] <span style="color:#000000">CSS: <span style="color:#ef6c00">.....</span></span><br />
+[05:42:53] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  ties her hair up with a purple ribbon. --</span><br />
+[05:43:27] <span style="color:#c8382d">CVS: You seem like you have a lot of nothing to say, as usual.</span><br />
+[05:43:46] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  turns her glasses on. --</span><br />
+[05:43:55] <span style="color:#d1cfcd"><span style="color:#225604">CURRENT crazedPyrotechnic [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[05:43:55] <span style="color:#d1cfcd">-- CURRENT crazedPyrotechnic <span style="color:#225604">[CCP]</span>  casually walks in-- --</span><br />
+[05:44:00] <span style="color:#225604">CCP: no jammies today? Huh.</span><br />
+[05:44:05] <span style="color:#c8382d">CVS: Nope.</span><br />
+[05:44:05] <span style="color:#225604">CCP: That's new.</span><br />
+[05:44:10] <span style="color:#c8382d">CVS: Not really.</span><br />
+[05:44:21] <span style="color:#c8382d">CVS: I've been known to wear less.</span><br />
+[05:44:25] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  looks around the bar. --</span><br />
+[05:45:10] <span style="color:#000000">CSS: <span style="color:#ef6c00">Is that so...</span></span><br />
+[05:45:15] <span style="color:#c8382d">CVS: Eeeyup.</span><br />
+[05:45:38] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  pulls back a chair and sits down, feet on the table. --</span><br />
+[05:45:49] <span style="color:#000000">CSS: <span style="color:#ef6c00">Very well...</span></span><br />
+[05:50:06] <span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
+[05:55:08] <span style="color:#225604">CCP: so</span><br />
+[05:55:16] <span style="color:#000000">CSS: <span style="color:#ef6c00">So...</span></span><br />
+[05:55:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  throws his hands in the air --</span><br />
+[05:55:21] <span style="color:#0080ff">CFL: FINALLY!</span><br />
+[05:55:24] <span style="color:#225604">CCP: gramps tells me we have even yet more villains on the way--</span><br />
+[05:55:37] <span style="color:#225604">CCP: oh what</span><br />
+[05:55:38] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  munches peanuts --</span><br />
+[05:55:40] <span style="color:#c8382d">CVS: Oh boy. I hope they take debit.</span><br />
+[05:55:50] <span style="color:#000000">CSS: <span style="color:#ef6c00">I don't know abut villains...</span></span><br />
+[05:55:54] <span style="color:#d1cfcd">-- CURRENT spellboundSteward <span style="color:#000000">[CSS]</span>  about --</span><br />
+[05:55:56] <span style="color:#0080ff">CFL: Oh, I just beat a hard game.</span><br />
+[05:56:02] <span style="color:#225604">CCP: gramps is just itching to play card games against world-threatening villains again</span><br />
+[05:56:11] <span style="color:#225604">CCP: ...i'm not sure he's ever done that actually</span><br />
+[05:56:16] <span style="color:#225604">CCP: but he's always wanted to.</span><br />
+[05:59:40] <span style="color:#c8382d">CVS: Welp. I gotta get going somewhere.</span><br />
+[05:59:53] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  gets up and walks out. --</span><br />
+[06:00:42] <span style="color:#225604">CCP: oh</span><br />
+[06:00:44] <span style="color:#225604">CCP: have fun</span><br />
+[06:01:04] <span style="color:#ee1e00">CCP: seeya</span><br />
+[07:16:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sighs --</span><br />
+[07:18:14] <span style="color:#ee1e00">CCP: hm?</span><br />
+[07:19:26] <span style="color:#0080ff">CFL: Just a little bored.</span><br />
+[07:19:36] <span style="color:#0080ff">CFL: Wanna bring that dragon back home?</span><br />
+[07:19:51] <span style="color:#0080ff">CFL: I think the cold weather has started its hibernation or something</span><br />
+[07:20:29] <span style="color:#ee1e00">CCP: yeah, I suppose we could. you gonna captcha him or should I?</span><br />
+[07:20:37] <span style="color:#8f8b12">CSB: ..Do humans just go around catching large animals and bringing them home? Is that a thing?</span><br />
+[07:21:11] <span style="color:#000000">CSS: <span style="color:#ef6c00">No...</span></span><br />
+[07:21:16] <span style="color:#000000">CSS: <span style="color:#ef6c00">They don't...</span></span><br />
+[07:21:34] <span style="color:#000000">CSS: <span style="color:#ef6c00">The people here shouldn't be used to figure out what humans are like...</span></span><br />
+[07:21:39] <span style="color:#ee1e00">CCP: ...I think in FL's case it was unavoidable? it was holding onto him when he flared out</span><br />
+[07:21:52] <span style="color:#8f8b12">CSB: Oh.</span><br />
+[07:25:14] <span style="color:#0080ff">CFL: ...So, Pinkie Pie can boost when added to SRB2.</span><br />
+[07:26:20] <span style="color:#000000">CSS: <span style="color:#ef6c00">.....</span></span><br />
+[07:26:53] <span style="color:#000000">CSS: <span style="color:#ef6c00">You make pies out of fingers...</span></span><br />
+[07:26:59] <span style="color:#0080ff">CFL: Sorry, just talking to myself-</span><br />
+[07:27:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  snerks --</span><br />
+[07:29:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks over to the dragon, captchaing it. --</span><br />
+[07:29:28] <span style="color:#0080ff">CFL: Alright, to the planet?</span><br />
+[07:30:59] <span style="color:#ee1e00">CCP: yeah.</span><br />
+[07:31:13] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  starts walking out toward the hangar --</span><br />
+[07:31:33] <span style="color:#0080ff">CFL: (( <a href='#SBARGv2_BlackSwampPlanet'>#SBARGv2_BlackSwampPlanet</a> ))</span><br />
+[07:31:56] <span style="color:#ee1e00">CCP: ((...right as I make the QuinnPrime memo &gt;_&gt;))</span><br />
+[07:31:58] <span style="color:#0080ff">CFL: (( Since the quinn prime is there, and we will be going off of the QP. ))</span><br />
+[07:34:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows, a bit delayed. --</span><br />
+[07:35:32] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  returns and sits down. --</span><br />
+[07:39:00] <span style="color:#c8382d">CVS: Quiet in here.</span><br />
+[07:41:59] <span style="color:#000000">CSS: <span style="color:#ef6c00">It is.....</span></span><br />
+[07:44:37] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[08:17:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks into the bar. --</span><br />
+[08:17:59] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[08:19:23] <span style="color:#d1cfcd"><span style="color:#41dd11">CURRENT courteousCalamity [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[08:19:23] <span style="color:#d1cfcd">-- CURRENT courteousCalamity <span style="color:#41dd11">[CCC]</span>  FINALLY rolls out of where he was sleeping and stretches slowly --</span><br />
+[08:20:06] <span style="color:#000000">CSS: <span style="color:#ef6c00">.....</span></span><br />
+[08:20:44] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  chews on tail --</span><br />
+[08:21:25] <span style="color:#41dd11">CCC: nmmm...sorry...</span><br />
+[08:21:28] <span style="color:#d1cfcd">-- CURRENT courteousCalamity <span style="color:#41dd11">[CCC]</span>  yawns --</span><br />
+[08:23:07] <span style="color:#d1cfcd">-- CURRENT spellboundSteward <span style="color:#000000">[CSS]</span>  pat SB --</span><br />
+[08:23:10] <span style="color:#000000">CSS: <span style="color:#ef6c00">Hungry...</span></span><br />
+[08:23:51] <span style="color:#8f8b12">CSB: Hm?</span><br />
+[08:24:21] <span style="color:#d1cfcd">-- CURRENT courteousCalamity <span style="color:#41dd11">[CCC]</span>  blinks at SS --</span><br />
+[08:24:28] <span style="color:#41dd11">CCC: wha? hungry?</span><br />
+[08:24:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads to the food replicator. --</span><br />
+[08:26:24] <span style="color:#000000">CSS: <span style="color:#ef6c00">I'm asking if you're hungry...</span></span><br />
+[08:26:27] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  looks at the clock. --</span><br />
+[08:26:29] <span style="color:#d1cfcd">-- CURRENT spellboundSteward <span style="color:#000000">[CSS]</span>  pat pat pta --</span><br />
+[08:26:38] <span style="color:#8f8b12">CSB: Oh.. No.</span><br />
+[08:26:44] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  checks time on her glasses interface. --</span><br />
+[08:26:53] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  takes them off and leans back. --</span><br />
+[08:27:33] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  mutters to herself. --</span><br />
+[08:28:17] <span style="color:#000000">CSS: <span style="color:#ef6c00">Why the chewing then...</span></span><br />
+[08:28:23] <span style="color:#000000">CSS: <span style="color:#ef6c00">Are you nervous about something...</span></span><br />
+[08:28:49] <span style="color:#8f8b12">CSB: No. Just a habit.</span><br />
+[08:29:19] <span style="color:#c8382d">CVS: Hey, big guy.</span><br />
+[08:29:26] <span style="color:#c8382d">CVS: Mind if I sit over there?</span><br />
+[08:29:40] <span style="color:#8f8b12">CSB: Go for it.</span><br />
+[08:29:55] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  heads over and flops down in the blanket nest thingy --</span><br />
+[08:31:00] <span style="color:#c8382d">CVS: This will be number 2.</span><br />
+[08:31:21] <span style="color:#d1cfcd">-- CURRENT vermillionShark <span style="color:#c8382d">[CVS]</span>  puts her arms behind her head and lays back, closing her eyes --</span><br />
+[08:33:13] <span style="color:#000000">CSS: <span style="color:#ef6c00">.....</span></span><br />
+[08:33:21] <span style="color:#000000">CSS: <span style="color:#ef6c00">I'm going to get more rest...</span></span><br />
+[08:37:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  makes some muffin mix. --</span><br />
+[08:37:18] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  perks up --</span><br />
+[08:37:25] <span style="color:#0080ff">CFL: Alright, looks like mixing the flour and stuff actually works on the replicator.</span><br />
+[08:37:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads outside. --</span><br />
+[08:37:56] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  comes back in, with some berries. --</span><br />
+[08:38:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  dumps them into the mix. --</span><br />
+[08:38:13] <span style="color:#000000">CSS: <span style="color:#ef6c00">Adal...</span></span><br />
+[08:38:15] <span style="color:#000000">CSS: <span style="color:#ef6c00">What...</span></span><br />
+[08:38:43] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  tail wags --</span><br />
+[08:39:29] <span style="color:#000000">CSS: <span style="color:#ef6c00">.....</span></span><br />
+[08:39:50] <span style="color:#000000">CSS: <span style="color:#ef6c00">You're excited that I'm going back downstairs...</span></span><br />
+[08:39:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a dusty cookilizer. --</span><br />
+[08:39:57] <span style="color:#8f8b12">CSB: What</span><br />
+[08:39:58] <span style="color:#8f8b12">CSB: No</span><br />
+[08:40:11] <span style="color:#000000">CSS: <span style="color:#ef6c00">Then...</span></span><br />
+[08:40:33] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  intent staring in direction of muffin mix --</span><br />
+[08:40:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... throws it in the cookilizer, ducking. --</span><br />
+[08:41:02] <span style="color:#000000">CSS: <span style="color:#ef6c00">You said that you're not hungry...</span></span><br />
+[08:41:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Perfectly cooked muffins pop out. --</span><br />
+[08:41:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  peeks up over the edge of the table. --</span><br />
+[08:41:37] <span style="color:#8f8b12">CSB: I'm not. Doesn't mean I won't eat though.</span><br />
+[08:42:12] <span style="color:#ee1e00">CCP: ...I smell muffins.</span><br />
+[08:42:14] <span style="color:#0080ff">CFL: (( VS, would the chocolate flavor berries keep the magical power after being cooked? ))</span><br />
+[08:42:30] <span style="color:#c8382d">CVS: (( how should i know ))</span><br />
+[08:42:36] <span style="color:#000000">CSS: <span style="color:#ef6c00">I apologize...</span></span><br />
+[08:42:46] <span style="color:#d1cfcd">-- CURRENT spellboundSteward <span style="color:#000000">[CSS]</span>  spoop sigh and floats down 2 basement --</span><br />
+[08:43:00] <span style="color:#0080ff">CFL: (( wait who was the one that planted them again? ))</span><br />
+[08:43:12] <span style="color:#ee1e00">CCP: ((CC and gCP))</span><br />
+[08:46:32] <span style="color:#41dd11">CCC: ((they are my plants))</span><br />
+[08:46:47] <span style="color:#41dd11">CCC: ((along with the pineapples))</span><br />
+[08:47:27] <span style="color:#d1cfcd"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
+[08:47:39] <span style="color:#0080ff">CFL: (( Alright, um... do the chocolate berries keep the magical power after being cooked? ))</span><br />
+[08:47:47] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is passing out the muffins. --</span><br />
+[08:48:10] <span style="color:#41dd11">CCC: ((sure...it might be a bit lessened though))</span><br />
+[08:48:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shifts to human form (just in case because chocolate berry) and obtains muffin --</span><br />
+[08:48:48] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Chocolate Chip Muffins. --</span><br />
+[08:48:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  tries one out himself. --</span><br />
+[08:49:24] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //ah. well then, yeah. --</span><br />
+[08:49:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also tries muffin --</span><br />
+[08:49:36] <span style="color:#41dd11">CCC: hmm</span><br />
+[08:49:43] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // well it /tastes/ like chocolate chip. --</span><br />
+[08:50:00] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  scurries over and nabs a muffin --</span><br />
+[08:50:01] <span style="color:#41dd11">CCC: Coaco berry muffins...well done</span><br />
+[08:51:53] <span style="color:#d1cfcd">-- CURRENT courteousCalamity <span style="color:#41dd11">[CCC]</span>  munches on muffin --</span><br />
+[08:51:54] <span style="color:#ee1e00">CCP: yeah, they're not bad.</span><br />
+[08:52:29] <span style="color:#0080ff">CFL: Kinda based on a blueberry muffin recipe.</span><br />
+[08:54:29] <span style="color:#d1cfcd">-- CURRENT courteousCalamity <span style="color:#41dd11">[CCC]</span>  so now everybody who eats one of these feels a bit of an increase in feeling peppy/magic whatever --</span><br />
+[08:57:04] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is eating more than just one... Lets see, boost in magic without knowing any magic... how will this go completely and utterly wrong? --</span><br />
+[08:57:28] <span style="color:#d1cfcd">-- CURRENT submissiveBehemoth <span style="color:#8f8b12">[CSB]</span>  tail wag intensiifies --</span><br />
+[08:58:25] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  I think stats-wise it's more of just a temporary boost in FP/MP... --</span><br />
+[08:58:30] <span style="color:#41dd11">CCC: ((it won't....it doesn't overload you..ever...it might give you an really hyper high though if you eat more than 3 muffins XD))</span><br />
+[08:59:04] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is shaking. After his seventh muffin. --</span><br />
+[08:59:26] <span style="color:#41dd11">CCC: ....</span><br />
+[08:59:44] <span style="color:#41dd11">CCC: I think you may be enjoying the muffins a bit too much</span><br />
+[09:00:18] <span style="color:#ee1e00">CCP: he... probably is.</span><br />
+[09:00:37] <span style="color:#c8382d">CVS: Don't shat yer pants boy.</span><br />
+[09:01:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  suddenly vanishes in a massive flare. --</span><br />

@@ -1,0 +1,1100 @@
+[11:13:09] <span style="color:#646464"><span style="color:#802020">CFL</span> RIGHT NOW opened memo on board SBARGLOSTPAWNS HIDEOUT.</span><br />
+[11:45:42] <span style="color:#646464"><span style="color:#a518aa">CURRENT infernoWizard [CIW]</span> RIGHT NOW responded to memo.</span><br />
+[11:45:42] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  gets up out of bed --</span><br />
+[11:45:56] <span style="color:#a518aa">CIW: ((Are you in the hideout, WE?))</span><br />
+[11:53:54] <span style="color:#646464"><span style="color:#a3a1af">CURRENT whiteExtent [CWE]</span> RIGHT NOW responded to memo.</span><br />
+[11:53:54] <span style="color:#a3a1af">CWE: ((im everywhere))</span><br />
+[11:55:26] <span style="color:#a518aa">CIW: ((fug :DDDDDD))</span><br />
+[12:00:17] <span style="color:#646464"><span style="color:#185c8f">CURRENT astraySheep [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[12:00:17] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  grumble and wakes up, rubbing her eyes to look around to make sure no crazy asshole blew up the place again with smoke --</span><br />
+[12:00:45] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  finds that ironic because his name is "Smoke" --</span><br />
+[12:01:41] <span style="color:#185c8f">CAS: Did I miss anything much while I was asleep?</span><br />
+[12:01:53] <span style="color:#a518aa">CIW: No, comrades.</span><br />
+[12:01:56] <span style="color:#646464"><span style="color:#688e2e">CURRENT stealthyCalligrapher [CSC]</span> RIGHT NOW responded to memo.</span><br />
+[12:01:56] <span style="color:#646464">-- CURRENT stealthyCalligrapher <span style="color:#688e2e">[CSC]</span>  wakes up and shrugs --</span><br />
+[12:01:57] <span style="color:#a518aa">CIW: ((SINGULAR))</span><br />
+[12:02:09] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  is asleep infront of the cork board. --</span><br />
+[12:02:23] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  is in bed --</span><br />
+[12:02:32] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  groans and stretches before hopping out of bed. --</span><br />
+[12:02:49] <span style="color:#185c8f">CAS: That's good I suppose. I did want to try to look at those notes they found. you know, be useful</span><br />
+[12:04:33] <span style="color:#185c8f">CAS: I tried decoding them a bit in the wee hours in the morning but I didn't make much process.</span><br />
+[12:05:24] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  starts going through a bunch of fraydiscs --</span><br />
+[12:06:23] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  jolts awake, and walks torwards the stairs, head in hands. --</span><br />
+[12:07:05] <span style="color:#a3a1af">CWE: did we find any new clues to help decode em?</span><br />
+[12:07:21] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  turns to WE, putting the discs away --</span><br />
+[12:07:27] <span style="color:#a518aa">CIW: Smoke. Remember the greatsword?</span><br />
+[12:07:33] <span style="color:#a518aa">CIW: Well, swords.</span><br />
+[12:07:48] <span style="color:#a3a1af">CWE: yes</span><br />
+[12:07:52] <span style="color:#a3a1af">CWE: i actually already made mine</span><br />
+[12:07:55] <span style="color:#a3a1af">CWE: :p</span><br />
+[12:07:59] <span style="color:#a3a1af">CWE: with matching armor to boot</span><br />
+[12:07:59] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  heads towards the stairs, stopping at the top of the case when she sees FL --</span><br />
+[12:08:03] <span style="color:#a518aa">CIW: Wait, really?</span><br />
+[12:08:05] <span style="color:#a3a1af">CWE: yep</span><br />
+[12:08:12] <span style="color:#a3a1af">CWE: i was able to find some obsidian </span><br />
+[12:08:29] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  uncaptchas the Eternal Darkness and Obsidian Chainmail --</span><br />
+[12:08:34] <span style="color:#a3a1af">CWE: hella sweet huh?</span><br />
+[12:08:38] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  blinks...before smiling --</span><br />
+[12:08:42] <span style="color:#a518aa">CIW: That's amazing.</span><br />
+[12:08:44] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  then frowns --</span><br />
+[12:08:46] <span style="color:#a3a1af">CWE: i might</span><br />
+[12:08:50] <span style="color:#a3a1af">CWE: upgrade it to dersium</span><br />
+[12:08:53] <span style="color:#a518aa">CIW: I already have Giant's Armor and I haven't made mine.</span><br />
+[12:09:04] <span style="color:#a3a1af">CWE: and you could use prospitium or whatever they have</span><br />
+[12:09:06] <span style="color:#a518aa">CIW: But the way the blades worked. Would it be like the x-Blade?</span><br />
+[12:09:14] <span style="color:#a3a1af">CWE: those silly carapaces</span><br />
+[12:09:15] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  pronounces it Keyblde --</span><br />
+[12:09:22] <span style="color:#a518aa">CIW: ((Keyblade*))</span><br />
+[12:09:26] <span style="color:#a3a1af">CWE: possilby</span><br />
+[12:09:32] <span style="color:#185c8f">CAS: Hey uh- why so grim ?</span><br />
+[12:09:33] <span style="color:#a3a1af">CWE: possibly*</span><br />
+[12:09:40] <span style="color:#a518aa">CIW: I mean the one that's two Kingdom Keys.</span><br />
+[12:09:54] <span style="color:#a3a1af">CWE: well, i mean</span><br />
+[12:09:57] <span style="color:#a3a1af">CWE: they LOOK like keys</span><br />
+[12:09:59] <span style="color:#688e2e">CSC: ...hmm... now I want to see if I can make YamatoMan.EXE's armor out of Prospitium...</span><br />
+[12:10:00] <span style="color:#a3a1af">CWE: that'd be silly</span><br />
+[12:10:03] <span style="color:#802020">CFL: Nightmares.</span><br />
+[12:10:20] <span style="color:#a3a1af">CWE: like i said Isaak</span><br />
+[12:10:26] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  climbs up to the top of the meteor to be lookout. --</span><br />
+[12:10:31] <span style="color:#a3a1af">CWE: im thining about upgrading mine with dersium</span><br />
+[12:10:33] <span style="color:#185c8f">CAS: Hm? of what if I can ask? I mean I've had my share of nightmares even before the session- oh.</span><br />
+[12:10:39] <span style="color:#a3a1af">CWE: and i could also make one of Propsitium for you</span><br />
+[12:10:46] <span style="color:#a3a1af">CWE: with armor as well</span><br />
+[12:10:46] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  watches FL pass by her, her voice trailing off --</span><br />
+[12:10:46] <span style="color:#a518aa">CIW: Could you?</span><br />
+[12:10:50] <span style="color:#a3a1af">CWE: if i can acquire some</span><br />
+[12:10:56] <span style="color:#a518aa">CIW: ((What does Eternal Darkness look like, again?))</span><br />
+[12:11:41] <span style="color:#a3a1af">CWE: (( <a href='http://elderscrolls.wikia.com/wiki/Ebony_Greatsword'>http://elderscrolls.wikia.com/wiki/Ebony_Greatsword</a> like this but with a thicker blade ))</span><br />
+[12:12:36] <span style="color:#a518aa">CIW: ((I thought the blades would go together. However it worked, I was thinking like two scissor halves.))</span><br />
+[12:12:53] <span style="color:#a3a1af">CWE: ((still figuring out the details))</span><br />
+[12:13:00] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  makes her way to the corkboard, also uncaptchas a thermos of coffee after several failed attempts at slots --</span><br />
+[12:13:01] <span style="color:#a3a1af">CWE: ((ill have to draw them))</span><br />
+[12:13:12] <span style="color:#a518aa">CIW: ((Ah, gotcha.))</span><br />
+[12:13:21] <span style="color:#a518aa">CIW: Where did you get the Dersium, again?</span><br />
+[12:13:43] <span style="color:#a3a1af">CWE: i dont HAVE any</span><br />
+[12:13:49] <span style="color:#a3a1af">CWE: this is currently just obsidian</span><br />
+[12:14:01] <span style="color:#a3a1af">CWE: the derspit camp guys have some i believe</span><br />
+[12:14:06] <span style="color:#a3a1af">CWE: someone was wandering around with some yesterday</span><br />
+[12:14:18] <span style="color:#a3a1af">CWE: we were talking about anchoring the meteor to the planet with a chain</span><br />
+[12:14:25] <span style="color:#a3a1af">CWE: while still allowing it to be farther away</span><br />
+[12:14:29] <span style="color:#a518aa">CIW: Oh, okay.</span><br />
+[12:18:17] <span style="color:#a518aa">CIW: Well, where'd you find the Obsidian? Alchemy?</span><br />
+[12:18:27] <span style="color:#a3a1af">CWE: yea</span><br />
+[12:25:29] <span style="color:#646464"><span style="color:#000000">CURRENT fetchingRogue [CFR]</span> RIGHT NOW responded to memo.</span><br />
+[12:25:29] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  &gt; FR: Wake. --</span><br />
+[12:25:31] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  drinks at her coffee, staring at the words. using any scrap of paper nearby to take notes. furiously scribbling some in, then out, then erasing, then no shit you can't erace pen crap --</span><br />
+[12:25:34] <span style="color:#000000">CFR: I am awake!</span><br />
+[12:26:09] <span style="color:#185c8f">CAS: *erase</span><br />
+[12:26:10] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  is on the floor surrounded by scrap gun parts --</span><br />
+[12:26:51] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  there is also a char mark on the floor --</span><br />
+[12:28:17] <span style="color:#000000">CFR: I made a gun that shoots explosions</span><br />
+[12:28:23] <span style="color:#688e2e">CSC: welp</span><br />
+[12:29:13] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  realizes something, and takes his analog watch off his wrist --</span><br />
+[12:29:13] <span style="color:#000000">CFR: it uses an agent made of barbasol as its base</span><br />
+[12:29:19] <span style="color:#000000">CFR: for the sploding</span><br />
+[12:29:20] <span style="color:#a518aa">CIW: Smoke. You're a hero of Space, right?</span><br />
+[12:29:59] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  uncaptchas some kind of rifle, that has an /enormous/ barrel --</span><br />
+[12:30:03] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  heads back upstairs quickly to the guys at the main room --</span><br />
+[12:32:26] <span style="color:#185c8f">CAS: Hey uh- I don't want to start the code cracking downstairs from scratch. Anyone already have info to share on it? </span><br />
+[12:32:45] <span style="color:#185c8f">CAS: Figure it'll be quicker that way- kind of. so we'r enot repeating steps 1 and 2 with everyperson who's working on it</span><br />
+[12:34:08] <span style="color:#688e2e">CSC: you mean for the noodle writing? I think FL figured out the translation key, but I forgot where he put it</span><br />
+[12:34:25] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  stops zoning out --</span><br />
+[12:34:28] <span style="color:#a3a1af">CWE: yes i am</span><br />
+[12:34:30] <span style="color:#a3a1af">CWE: Knight of Space</span><br />
+[12:35:14] <span style="color:#000000">CFR: hmm</span><br />
+[12:35:19] <span style="color:#000000">CFR: but this is a bit too dangerous</span><br />
+[12:35:23] <span style="color:#185c8f">CAS: Ah, is he still outside? </span><br />
+[12:35:53] <span style="color:#a3a1af">CWE: i was sorat startign to understand the writing stuff</span><br />
+[12:36:01] <span style="color:#a3a1af">CWE: i may start working on it again</span><br />
+[12:36:07] <span style="color:#a3a1af">CWE: i think ill get it this time</span><br />
+[12:36:11] <span style="color:#185c8f">CAS: I mean- I think I started to figure out the...coloring book pages?</span><br />
+[12:36:23] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  starts fidling with parts more --</span><br />
+[12:36:29] <span style="color:#185c8f">CAS: but either I got it wrong or whoever wrote it cannot spell. and I assume the former</span><br />
+[12:37:19] <span style="color:#a518aa">CIW: Before you do.</span><br />
+[12:37:29] <span style="color:#a518aa">CIW: Do you think you could size up the quartz in my watch?</span><br />
+[12:37:36] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  says that to WE --</span><br />
+[12:37:46] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  goes outside and not long after a sound undescribable outside of being INCREDIBLY LOUD can be heard --</span><br />
+[12:37:51] <span style="color:#a3a1af">CWE: i dont think that's how space powers work</span><br />
+[12:38:07] <span style="color:#a3a1af">CWE: i know i can teleport</span><br />
+[12:38:25] <span style="color:#a3a1af">CWE: but i think youre getting confused with Jade's first guardian prototyping thing</span><br />
+[12:38:36] <span style="color:#a3a1af">CWE: which let her do all sorts of stuff</span><br />
+[12:39:09] <span style="color:#a518aa">CIW: Oh. My mistake.</span><br />
+[12:39:21] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  quickly makes her way to the ladder, but only peeks out to invvestigate in a rather cautious manner --</span><br />
+[12:39:29] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  heads back inside --</span><br />
+[12:39:37] <span style="color:#000000">CFR: SOUND RIFLE :D</span><br />
+[12:39:55] <span style="color:#185c8f">CAS: geez...sounds aptly named</span><br />
+[12:40:15] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  slides down the ladder returning to the main room --</span><br />
+[12:40:21] <span style="color:#000000">CFR: it obliterated the target</span><br />
+[12:40:27] <span style="color:#000000">CFR: ripped it right to shreds</span><br />
+[12:40:33] <span style="color:#000000">CFR: and it doesn't use amunition</span><br />
+[12:40:38] <span style="color:#a3a1af">CWE: how deadly...</span><br />
+[12:40:50] <span style="color:#688e2e">CSC: whoa.</span><br />
+[12:41:07] <span style="color:#a3a1af">CWE: hmm</span><br />
+[12:41:18] <span style="color:#a3a1af">CWE: i think im going to invest into a shield</span><br />
+[12:41:26] <span style="color:#a3a1af">CWE: it would come in handy</span><br />
+[12:41:42] <span style="color:#000000">CFR: if I put something infront of it that was sturdy enough</span><br />
+[12:41:54] <span style="color:#000000">CFR: it would probably travel at mach 2!</span><br />
+[12:43:33] <span style="color:#802020">CFL: (( <a href='http://pastebin.com/QV5AncVJ'>http://pastebin.com/QV5AncVJ</a> NAK ))</span><br />
+[12:44:03] <span style="color:#802020">CFL: (( &gt;2/3rds done. ))</span><br />
+[12:45:39] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  discards the reamainder of scraps --</span><br />
+[12:46:21] <span style="color:#000000">CFR: how is the knight?</span><br />
+[12:46:27] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  walks over to the cage --</span><br />
+[12:47:40] <span style="color:#a3a1af">CWE: the who</span><br />
+[12:47:52] <span style="color:#000000">CFR: we captured a dersite knight yesterday</span><br />
+[12:48:03] <span style="color:#000000">CFR: he blew up the Purple Text Lord's face</span><br />
+[12:48:21] <span style="color:#185c8f">CAS: Oh- um...he was pretty quiet from when I noticed. But I think everyone's been ignoring him-sorta.</span><br />
+[12:48:21] <span style="color:#688e2e">CSC: ...</span><br />
+[12:49:02] <span style="color:#a3a1af">CWE: oh</span><br />
+[12:49:14] <span style="color:#a3a1af">CWE: im assuming you are referring to Raine?</span><br />
+[12:49:23] <span style="color:#000000">CFR: Yes</span><br />
+[12:49:26] <span style="color:#a3a1af">CWE: im surprised she didnt kill it</span><br />
+[12:49:29] <span style="color:#185c8f">CAS: She wanted to</span><br />
+[12:49:36] <span style="color:#000000">CFR: she was going to</span><br />
+[12:49:42] <span style="color:#a3a1af">CWE: figures.</span><br />
+[12:49:45] <span style="color:#000000">CFR: but I went in and attempted to apprehend him</span><br />
+[12:49:56] <span style="color:#000000">CFR: seems that he still held some loyalty to our failure of a king</span><br />
+[12:50:24] <span style="color:#000000">CFR: too bad really</span><br />
+[12:50:38] <span style="color:#000000">CFR: because most of the dersites hate the king</span><br />
+[12:50:47] <span style="color:#000000">CFR: and then there are prospitians</span><br />
+[12:50:59] <span style="color:#000000">CFR: not exactly grounds to start a revolution</span><br />
+[12:52:49] <span style="color:#000000">CFR: ((AFK picking up cousin))</span><br />
+[12:57:21] <span style="color:#185c8f">CAS: Is she always that...uh...hulk-ish?</span><br />
+[12:57:32] <span style="color:#185c8f">CAS: When I remembered her she was pretty calm and stuff.</span><br />
+[13:02:18] <span style="color:#a3a1af">CWE: its only when agitated</span><br />
+[13:02:21] <span style="color:#a3a1af">CWE: ((afk))</span><br />
+[13:16:35] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  heads back down the stairs. --</span><br />
+[13:16:37] <span style="color:#802020">CFL: ...</span><br />
+[13:16:46] <span style="color:#185c8f">CAS: Oh! hey!</span><br />
+[13:17:00] <span style="color:#802020">CFL: So did PK build that electron microscope out of the parts he somehow had or what</span><br />
+[13:17:27] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  follows FL --</span><br />
+[13:17:46] <span style="color:#185c8f">CAS: I'm not so sure about the microscope but they kind of built that gun</span><br />
+[13:19:09] <span style="color:#185c8f">CAS: But uh- I think smoke said you have clues on the noodle code? or alphabet or something.</span><br />
+[13:19:27] <span style="color:#802020">CFL: Just reasonable guesses...</span><br />
+[13:19:59] <span style="color:#185c8f">CAS: I mean I wasn't able to really figure out anything so far. I made some progress on the weird coloring book like pages but- it's all weird.</span><br />
+[13:20:03] <span style="color:#802020">CFL: Like, I think I figured out some of the symbols might be multiple letters, but now its just... weird and its all beginning to sound the same to me.</span><br />
+[13:20:23] <span style="color:#185c8f">CAS: actually yeah I had that thought too</span><br />
+[13:20:51] <span style="color:#185c8f">CAS: Actually, do you think it's possible for multiple symbols to mean the same...letter?</span><br />
+[13:21:28] <span style="color:#802020">CFL: Like, looking at it, the c in kat would imply that distance would be in centimeters, but its actually kilometers when I look at it being three...</span><br />
+[13:21:35] <span style="color:#802020">CFL: (( C IN CAT* ))</span><br />
+[13:21:43] <span style="color:#802020">CFL: (( OH GOG THAT TYPO ))</span><br />
+[13:22:10] <span style="color:#185c8f">CAS: Oh the sign you mean?</span><br />
+[13:22:13] <span style="color:#802020">CFL: Yeah</span><br />
+[13:22:39] <span style="color:#802020">CFL: I figured out it was a distance around 2 miles or 3 kilometers, since those are about the same.</span><br />
+[13:22:40] <span style="color:#185c8f">CAS: I've been trying to figure out the reoccuring words in those pictures. the...ones before and after the red text.</span><br />
+[13:22:48] <span style="color:#185c8f">CAS: - oh</span><br />
+[13:22:58] <span style="color:#185c8f">CAS: from actual measuring? or...reading the sign?</span><br />
+[13:23:16] <span style="color:#802020">CFL: We found another sign at the village itself that only had the first half.</span><br />
+[13:23:58] <span style="color:#185c8f">CAS: So, it would just read 'the village'  name? the one at the village I mean</span><br />
+[13:24:25] <span style="color:#802020">CFL: Plus the one wall puzzle ends in a bat sound... seriously, Kee? What does that even mean?</span><br />
+[13:25:34] <span style="color:#185c8f">CAS: The wall puzzle?  is that the colorful one or the one wiht a hole?</span><br />
+[13:25:43] <span style="color:#802020">CFL: The one with a hole.</span><br />
+[13:26:00] <span style="color:#802020">CFL: The highlighted one is from a holopadded attempt to make a consort speak and spell.</span><br />
+[13:26:01] <span style="color:#185c8f">CAS: So the first symbol is K, and the second is double e?</span><br />
+[13:26:20] <span style="color:#802020">CFL: well, it could be just one e, I don't know at this point.</span><br />
+[13:26:20] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  sighs and runs a hand through her head flustered at how behind she is at this --</span><br />
+[13:26:57] <span style="color:#802020">CFL: either way it still would make a bat sound...</span><br />
+[13:27:40] <span style="color:#185c8f">CAS: hm...I suppose you guys didn't try to immitate the noise intot he hole or something..?</span><br />
+[13:28:23] <span style="color:#802020">CFL: well, without knowing what the rest of it says, that might make poison spikes or something</span><br />
+[13:28:31] <span style="color:#185c8f">CAS: ...fair point</span><br />
+[13:28:50] <span style="color:#185c8f">CAS: No other words decoded in the wall I take it right?</span><br />
+[13:28:59] <span style="color:#802020">CFL: But yeah, the colors on the highlighted one come from the keyboard on the holopad image.</span><br />
+[13:29:07] <span style="color:#802020">CFL: No idea what the ones in red are.</span><br />
+[13:29:24] <span style="color:#185c8f">CAS: Maye they're numbers? They don't seem like much other of the ...alphabet?</span><br />
+[13:29:45] <span style="color:#802020">CFL: well, either way, 40 symbols seems like alot.</span><br />
+[13:29:59] <span style="color:#185c8f">CAS: Honestly I just feel annoyed that I'm stumped by the damn child pages.</span><br />
+[13:32:09] <span style="color:#688e2e">CSC: 40 symbols... well, case-insensitive alphabet plus digits is 36... maybe the last four are punctuation?</span><br />
+[13:32:33] <span style="color:#802020">CFL: Well, 40 symbols that aren't in red...</span><br />
+[13:33:16] <span style="color:#802020">CFL: if you add the red ones, its 48.</span><br />
+[13:33:24] <span style="color:#802020">CFL: (( <a href='http://www.spaaze.com/board/e8c54a068de54770a9c5ebf6db08e8e3'>http://www.spaaze.com/board/e8c54a068de54770a9c5ebf6db08e8e3</a> ))</span><br />
+[13:34:02] <span style="color:#185c8f">CAS: I mean I could be really wrong but just from the spacing of the characters would they even form words?</span><br />
+[13:34:06] <span style="color:#688e2e">CSC: ((btw you forgot to put the alphabet sheet on there))</span><br />
+[13:34:20] <span style="color:#802020">CFL: (( It is up there, last time I checked. ))</span><br />
+[13:34:54] <span style="color:#802020">CFL: (( do you see it to the right? ))</span><br />
+[13:35:00] <span style="color:#688e2e">CSC: ((the one that says which letters map to what? no))</span><br />
+[13:35:02] <span style="color:#802020">CFL: (( its orange, yellow and red. ))</span><br />
+[13:35:09] <span style="color:#802020">CFL: (( Um, I don't have such a sheet. ))</span><br />
+[13:36:00] <span style="color:#688e2e">CSC: ((I remember you making one and linking it when we were figuring out the signpost...))</span><br />
+[13:37:57] <span style="color:#802020">CFL: (( the text is directly under it now. ))</span><br />
+[13:39:40] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  replaces the sticky note, since it is closer now. --</span><br />
+[13:40:25] <span style="color:#802020">CFL: ...I think the text that looks like a p and an r makes the word the... since thats pretty common.</span><br />
+[13:40:51] <span style="color:#185c8f">CAS: I was thinking that. but it was throwing me off because of the number of letters- characters?</span><br />
+[13:40:59] <span style="color:#185c8f">CAS: unless the p looking one stands for th</span><br />
+[13:41:08] <span style="color:#802020">CFL: Thats what I'm thinking.</span><br />
+[13:41:58] <span style="color:#802020">CFL: ...but why didn't they just put a t and an h, or equivelents?</span><br />
+[13:41:58] <span style="color:#185c8f">CAS: Well, that would help</span><br />
+[13:42:11] <span style="color:#688e2e">CSC: ((...but if no substitution-cipher key was posted, how were the other things solved?))</span><br />
+[13:42:33] <span style="color:#185c8f">CAS: hell if I know. But I think in some languages it's a thing together?</span><br />
+[13:42:55] <span style="color:#802020">CFL: ...well, I think the red text is the animals names...</span><br />
+[13:43:06] <span style="color:#802020">CFL: so, the frog g... something</span><br />
+[13:43:09] <span style="color:#185c8f">CAS: yes, but when I tried to decifer them they were all scrambled</span><br />
+[13:43:14] <span style="color:#185c8f">CAS: or- mispelled</span><br />
+[13:43:18] <span style="color:#185c8f">CAS: then again it could have been me</span><br />
+[13:43:48] <span style="color:#185c8f">CAS: I want to say  it says "goes" but I'm trying to figure out which character is what</span><br />
+[13:43:52] <span style="color:#802020">CFL: Like the confusion over c and k, which are the same in some languages... like roman I think.</span><br />
+[13:44:21] <span style="color:#185c8f">CAS: ...I kkinda think it's saying stuff like "the cow goes moo" and junk but everytime I try -yeah.</span><br />
+[13:44:27] <span style="color:#185c8f">CAS: I need to get out of that mindset</span><br />
+[13:45:04] <span style="color:#802020">CFL: well, if the cat goes meow, then the w matches up to what we think spells town.</span><br />
+[13:45:19] <span style="color:#185c8f">CAS: Yeah. that's what caused me to think that</span><br />
+[13:45:39] <span style="color:#185c8f">CAS: and the T in cat also matches town.</span><br />
+[13:45:54] <span style="color:#802020">CFL: yeah.</span><br />
+[13:46:17] <span style="color:#802020">CFL: but it doesn't match three or the.</span><br />
+[13:46:30] <span style="color:#185c8f">CAS: It would match the p symbole being th- right?</span><br />
+[13:46:55] <span style="color:#802020">CFL: unless that flipping means the letters are incredibly similar or something.</span><br />
+[13:47:35] <span style="color:#185c8f">CAS: I did have a theory of that</span><br />
+[13:48:10] <span style="color:#185c8f">CAS: In japanese there's a character the small 'tsu' that symbols that the letter is going to be doubled</span><br />
+[13:48:28] <span style="color:#185c8f">CAS: but- I don't think that's the right route personally</span><br />
+[13:48:29] <span style="color:#688e2e">CSC: that's true...</span><br />
+[13:48:48] <span style="color:#802020">CFL: I mean, you can flip the ones that are at the end of town and km and they match up near perfectly...</span><br />
+[13:48:59] <span style="color:#802020">CFL: N and M.</span><br />
+[13:50:35] <span style="color:#802020">CFL: ...what do people that mispell words usually trip up around?</span><br />
+[13:50:57] <span style="color:#185c8f">CAS: the long ones?</span><br />
+[13:51:49] <span style="color:#185c8f">CAS: Oh- no wait</span><br />
+[13:52:24] <span style="color:#646464"><span style="color:#614c7c">CURRENT temporalWanderer [CTW]</span> RIGHT NOW responded to memo.</span><br />
+[13:52:24] <span style="color:#614c7c">CTW: d and b?</span><br />
+[13:52:26] <span style="color:#185c8f">CAS: The ones that have similar sounding words </span><br />
+[13:52:29] <span style="color:#185c8f">CAS: like uh..</span><br />
+[13:52:41] <span style="color:#185c8f">CAS: to two and too?</span><br />
+[13:52:49] <span style="color:#802020">CFL: bee as in beehive, and be as in to be or not to be?</span><br />
+[13:53:01] <span style="color:#802020">CFL: and the letter b?</span><br />
+[13:53:09] <span style="color:#646464"><span style="color:#aa0000">CURRENT videogameFiona [CVF]</span> RIGHT NOW responded to memo.</span><br />
+[13:53:09] <span style="color:#aa0000">CVF: or maybe d+b.</span><br />
+[13:53:13] <span style="color:#185c8f">CAS: y-yeah that's a better example.</span><br />
+[13:53:27] <span style="color:#646464">-- CURRENT videogameFiona <span style="color:#aa0000">[CVF]</span>  has been awake for a while, just only commented now --</span><br />
+[13:53:45] <span style="color:#614c7c">CTW: I just said that. &gt;:T</span><br />
+[13:54:44] <span style="color:#802020">CFL: ...what about sanwhich?</span><br />
+[13:54:49] <span style="color:#802020">CFL: (( SANDWICH ))</span><br />
+[13:54:55] <span style="color:#614c7c">CTW: ((pft))</span><br />
+[13:55:02] <span style="color:#aa0000">CVF: it's a twewy reference, farquaad.</span><br />
+[13:55:12] <span style="color:#185c8f">CAS: Are you saying ...the person who wrote these was dyslexic or something?</span><br />
+[13:55:20] <span style="color:#614c7c">CTW: who gives a fuck, meme worshipper.</span><br />
+[13:55:31] <span style="color:#802020">CFL: I think the entire language might be like this.</span><br />
+[13:55:47] <span style="color:#688e2e">CSC: wat</span><br />
+[13:56:05] <span style="color:#185c8f">CAS: it would explain a lot</span><br />
+[13:56:18] <span style="color:#185c8f">CAS: it was tripping me up that vulture did NOT match up at all ut it /sounded/ like it</span><br />
+[13:56:26] <span style="color:#aa0000">CVF: shrek is not a fucking meme until 9gag takes it.</span><br />
+[13:56:41] <span style="color:#614c7c">CTW: if it's overused and annoying, it's a meme.</span><br />
+[13:56:57] <span style="color:#802020">CFL: ((i came here to have fun and i feel so pressured right now))</span><br />
+[13:57:17] <span style="color:#185c8f">CAS: ((lol sorry! I don't mean to pressure you ;w; I just- like talkking about this stuffs))</span><br />
+[13:57:25] <span style="color:#802020">CFL: (( No, thats a meme ))</span><br />
+[13:57:32] <span style="color:#185c8f">CAS: ((pfft oh. uvu;))</span><br />
+[13:58:35] <span style="color:#aa0000">CVF: i bet a boonbuck that shrek isn't even a thought in reddit.</span><br />
+[13:58:59] <span style="color:#802020">CFL: And /how/ are we going to confirm that?!</span><br />
+[13:59:12] <span style="color:#185c8f">CAS: ...yeah that's the biggest issue</span><br />
+[13:59:32] <span style="color:#802020">CFL: Sorry, was yelling at VF.</span><br />
+[13:59:41] <span style="color:#aa0000">CVF: isn't it accessible?</span><br />
+[13:59:42] <span style="color:#185c8f">CAS: ack- oh right. No websites.</span><br />
+[14:00:01] <span style="color:#aa0000">CVF: like...there's youtube. and some of tumblr and mspa.</span><br />
+[14:00:19] <span style="color:#802020">CFL: Yeah, and thats it, other than all of those replay value fanfics</span><br />
+[14:00:40] <span style="color:#aa0000">CVF: well that's fucking neato.</span><br />
+[14:00:43] <span style="color:#aa0000">CVF: the bet's still on.</span><br />
+[14:01:01] <span style="color:#614c7c">CTW: Besides, you're looking for the wrong place, it's 4chan that you have to go for.</span><br />
+[14:01:12] <span style="color:#aa0000">CVF: no no no. 4chan makes memes.</span><br />
+[14:01:15] <span style="color:#aa0000">CVF: reddit kills them.</span><br />
+[14:01:18] <span style="color:#aa0000">CVF: 9gag shits on the corpse.</span><br />
+[14:01:26] <span style="color:#802020">CFL: ...</span><br />
+[14:01:32] <span style="color:#614c7c">CTW: well there we go, confirmed as meme</span><br />
+[14:01:35] <span style="color:#802020">CFL: SO MUCH TO SEE SO MUCH TO DO SO MUCH TO SEE SO MUCH TO DO</span><br />
+[14:01:46] <span style="color:#aa0000">CVF: FUCK MY DICK OFF.</span><br />
+[14:02:00] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  backs away from VF --</span><br />
+[14:02:05] <span style="color:#646464">-- CURRENT videogameFiona <span style="color:#aa0000">[CVF]</span>  yells this as she realizes she made like the Squid and totally beefed it --</span><br />
+[14:02:17] <span style="color:#688e2e">CSC: ........</span><br />
+[14:02:21] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  just edges away slightly from the group --</span><br />
+[14:02:38] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  approaches said group --</span><br />
+[14:02:54] <span style="color:#a518aa">CIW: Comrades. I know Clover and Niki are Light, Smoke is Space, Kagito is Void.</span><br />
+[14:03:07] <span style="color:#a518aa">CIW: But do we have Heart and Time players?</span><br />
+[14:03:14] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  raises her hand --</span><br />
+[14:03:17] <span style="color:#185c8f">CAS: Oh! I'm heart!</span><br />
+[14:03:32] <span style="color:#a518aa">CIW: Alright, here.</span><br />
+[14:03:37] <span style="color:#802020">CFL: I'm Blood.</span><br />
+[14:03:37] <span style="color:#185c8f">CAS: Though- actually I never really figured out  um- ?</span><br />
+[14:03:39] <span style="color:#614c7c">CTW: ((DAMNIT GOOGLE, WORK WITH ME))</span><br />
+[14:03:41] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  hands AS a fraydisc, marked "Blues Earth" --</span><br />
+[14:03:53] <span style="color:#646464">-- CURRENT temporalWanderer <span style="color:#614c7c">[CTW]</span>  <a href='http://img156.imageshack.us/img156/7448/1251122358879.jpg'>http://img156.imageshack.us/img156/7448/1251122358879.jpg</a> --</span><br />
+[14:03:57] <span style="color:#a518aa">CIW: ((TW, it is on Reddit in case you're wandering))</span><br />
+[14:04:12] <span style="color:#a518aa">CIW: ((Wondering* FUG))</span><br />
+[14:04:15] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  takes it, staring at both IW and then the fraydisc a bit con-no a lot cconfused --</span><br />
+[14:04:51] <span style="color:#614c7c">CTW: ((It had to be eventually))</span><br />
+[14:06:00] <span style="color:#a518aa">CIW: ((Yup.))</span><br />
+[14:06:07] <span style="color:#a518aa">CIW: It's a Fraydisc. For Fraymotifs.</span><br />
+[14:06:24] <span style="color:#185c8f">CAS: Oh! - er...;; sorry. I- </span><br />
+[14:06:33] <span style="color:#185c8f">CAS: well I'll go read up on it ! I don't-</span><br />
+[14:06:35] <span style="color:#185c8f">CAS: thank you</span><br />
+[14:08:18] <span style="color:#185c8f">CAS: Thank you again. But I don't know of any time players.</span><br />
+[14:09:52] <span style="color:#614c7c">CTW: so..uh...before I was distracted</span><br />
+[14:09:59] <span style="color:#614c7c">CTW: what were we doing again</span><br />
+[14:10:05] <span style="color:#185c8f">CAS: oh- the codes.</span><br />
+[14:10:32] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  is writing something down quick. --</span><br />
+[14:10:51] <span style="color:#185c8f">CAS: Honestly with this info I'm actually pretty confident</span><br />
+[14:10:58] <span style="color:#646464"><span style="color:#000000">CWE</span> ceased responding to memo.</span><br />
+[14:11:01] <span style="color:#185c8f">CAS: Thank you - What is your name exactly ? I don't think I ever got it.</span><br />
+[14:11:35] <span style="color:#a518aa">CIW: Whose?</span><br />
+[14:11:47] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  motions towards FL --</span><br />
+[14:12:03] <span style="color:#185c8f">CAS: but I'm so bad at names I kinda don't know anyone but Raine I think. </span><br />
+[14:12:12] <span style="color:#802020">CFL: Charles.</span><br />
+[14:12:26] <span style="color:#646464"><span style="color:#a3a1af">CURRENT whiteExtent [CWE]</span> RIGHT NOW responded to memo.</span><br />
+[14:12:26] <span style="color:#a3a1af">CWE: what</span><br />
+[14:12:34] <span style="color:#185c8f">CAS: Oh. Thanks then Charles. </span><br />
+[14:12:52] <span style="color:#a3a1af">CWE: i usually know everyone's names, but theres been so many people now, that ive been falling behind</span><br />
+[14:15:25] <span style="color:#a518aa">CIW: ...Oh yes.</span><br />
+[14:15:30] <span style="color:#a518aa">CIW: Smoke, want a Fraydisc?</span><br />
+[14:15:33] <span style="color:#a3a1af">CWE: uhh</span><br />
+[14:15:34] <span style="color:#a3a1af">CWE: sure?</span><br />
+[14:15:42] <span style="color:#a3a1af">CWE: what's a fraydisc?</span><br />
+[14:15:45] <span style="color:#614c7c">CTW: wait, how are you here?</span><br />
+[14:15:45] <span style="color:#a3a1af">CWE: i know of fray motifs</span><br />
+[14:15:51] <span style="color:#614c7c">CTW: I thought you went with...</span><br />
+[14:15:55] <span style="color:#a3a1af">CWE: who?</span><br />
+[14:15:56] <span style="color:#a3a1af">CWE: me?</span><br />
+[14:16:00] <span style="color:#614c7c">CTW: yeah</span><br />
+[14:16:01] <span style="color:#a518aa">CIW: ((Psst. SC.))</span><br />
+[14:16:09] <span style="color:#a518aa">CIW: ((How do Fraydiscs work, again?))</span><br />
+[14:16:12] <span style="color:#a3a1af">CWE: i left last night to et some air, and came back while everyone was asleep</span><br />
+[14:16:12] <span style="color:#688e2e">CSC: ((hm?))</span><br />
+[14:16:17] <span style="color:#a3a1af">CWE: i didnt leave with cerxes?</span><br />
+[14:16:19] <span style="color:#a3a1af">CWE: are you crazy?</span><br />
+[14:16:37] <span style="color:#a3a1af">CWE: who KNOWS what kinda trouble he;s already gotten himself into</span><br />
+[14:16:58] <span style="color:#614c7c">CTW: so you changed your mind at some point</span><br />
+[14:17:00] <span style="color:#614c7c">CTW: I see</span><br />
+[14:17:40] <span style="color:#a3a1af">CWE: i never had made plans to leave</span><br />
+[14:17:50] <span style="color:#a3a1af">CWE: im needed more here than there</span><br />
+[14:18:00] <span style="color:#688e2e">CSC: ((...I dunno, actually. the way I 'equipped' it was specific to how the AC modus works, idk what others do to use theirs...))</span><br />
+[14:18:03] <span style="color:#614c7c">CTW: I almost thought you did, is-all.</span><br />
+[14:18:15] <span style="color:#a3a1af">CWE: it's fine</span><br />
+[14:18:22] <span style="color:#a3a1af">CWE: i know you want rid of me ;)</span><br />
+[14:18:25] <span style="color:#a3a1af">CWE: haha</span><br />
+[14:18:35] <span style="color:#688e2e">CSC: also, what fraydiscs are you passing out?</span><br />
+[14:18:37] <span style="color:#614c7c">CTW: w..whut</span><br />
+[14:18:42] <span style="color:#a3a1af">CWE: dont mind it</span><br />
+[14:18:43] <span style="color:#a518aa">CIW: ((Well shit. Should we just asspull a "Fraymotif Folder"?))</span><br />
+[14:18:45] <span style="color:#a3a1af">CWE: Raine</span><br />
+[14:18:51] <span style="color:#185c8f">CAS: ((yeah))</span><br />
+[14:18:54] <span style="color:#a3a1af">CWE: ((yes))</span><br />
+[14:18:55] <span style="color:#a518aa">CIW: Blues Earth. Mind/Light/Space/Heart/Void/Time.</span><br />
+[14:18:56] <span style="color:#688e2e">CSC: ((shrug, probably))</span><br />
+[14:19:17] <span style="color:#aa0000">CVF: light? gimmie.</span><br />
+[14:19:22] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  tosses VF a Fraydisc --</span><br />
+[14:19:29] <span style="color:#a518aa">CIW: Oh, and Kageto, you were the only Void player, right?</span><br />
+[14:19:32] <span style="color:#646464">-- CURRENT videogameFiona <span style="color:#aa0000">[CVF]</span>  catches --</span><br />
+[14:19:33] <span style="color:#185c8f">CAS: Is there a reason only those aspects can use it?</span><br />
+[14:19:34] <span style="color:#688e2e">CSC: yeah.</span><br />
+[14:19:49] <span style="color:#a3a1af">CWE: are*</span><br />
+[14:19:52] <span style="color:#a3a1af">CWE: or is it were</span><br />
+[14:19:56] <span style="color:#a3a1af">CWE: did we get another?</span><br />
+[14:20:07] <span style="color:#a518aa">CIW: Who cares you goddamn grammar nazi.</span><br />
+[14:20:12] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  chuckles at his own joke --</span><br />
+[14:20:18] <span style="color:#a518aa">CIW: I kid, I kid.</span><br />
+[14:20:41] <span style="color:#a3a1af">CWE: i cant retort that</span><br />
+[14:20:46] <span style="color:#a3a1af">CWE: because i am a grammar nazi</span><br />
+[14:20:55] <span style="color:#688e2e">CSC: but yeah, I'm the only Voider here.</span><br />
+[14:21:01] <span style="color:#a518aa">CIW: In that case, catch.</span><br />
+[14:21:09] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  tosses SC a Blues Earth Fraydisc --</span><br />
+[14:21:16] <span style="color:#646464">-- CURRENT stealthyCalligrapher <span style="color:#688e2e">[CSC]</span>  catches and equips the disc --</span><br />
+[14:21:30] <span style="color:#a3a1af">CWE: which "fraydisc" were you goign to give to me Isaak?</span><br />
+[14:21:37] <span style="color:#a518aa">CIW: Blues Earth.</span><br />
+[14:21:39] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  gives WE it --</span><br />
+[14:21:43] <span style="color:#a518aa">CIW: Apologies for the delay.</span><br />
+[14:22:53] <span style="color:#a3a1af">CWE: is this the same one? orrrr</span><br />
+[14:23:14] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  uncovers his paper <a href='http://i.imgur.com/i02wjbE.png'>http://i.imgur.com/i02wjbE.png</a> --</span><br />
+[14:23:25] <span style="color:#802020">CFL: I think I got it... not sure though.</span><br />
+[14:23:31] <span style="color:#a518aa">CIW: Yes.</span><br />
+[14:23:33] <span style="color:#185c8f">CAS: Oh!</span><br />
+[14:23:36] <span style="color:#a518aa">CIW: They're all teh same.</span><br />
+[14:23:39] <span style="color:#688e2e">CSC: huh, cool.</span><br />
+[14:23:42] <span style="color:#614c7c">CTW: Well, it's progress nonetheless</span><br />
+[14:24:10] <span style="color:#802020">CFL: I bet if we start working on the others, we might be able to find out what the other symbols are.</span><br />
+[14:24:34] <span style="color:#802020">CFL: I don't think we will be able to figure out the red though.</span><br />
+[14:25:21] <span style="color:#802020">CFL: I don't see those symbols anywhere where we have been working.</span><br />
+[14:25:26] <span style="color:#614c7c">CTW: I was assuming numbers, but there's only eight of them</span><br />
+[14:25:36] <span style="color:#614c7c">CTW: so that throws that out of the windoe</span><br />
+[14:25:41] <span style="color:#614c7c">CTW: *window</span><br />
+[14:25:52] <span style="color:#646464"><span style="color:#009900">CURRENT powerKitten [CPK]</span> RIGHT NOW responded to memo.</span><br />
+[14:25:52] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#009900">[CPK]</span>  walks up the stairs --</span><br />
+[14:25:55] <span style="color:#802020">CFL: unless they use base 8 or some shit, except the diary page had normal numbers.</span><br />
+[14:27:03] <span style="color:#008002">CPK: What's this about frays</span><br />
+[14:27:15] <span style="color:#a3a1af">CWE: a collection of fraymotifs it seems</span><br />
+[14:27:18] <span style="color:#a518aa">CIW: Yes.</span><br />
+[14:27:20] <span style="color:#a518aa">CIW: You were Hope, right?</span><br />
+[14:27:25] <span style="color:#008002">CPK: Yep</span><br />
+[14:27:34] <span style="color:#a518aa">CIW: Well, I'm sorry, but I have nothing for you.</span><br />
+[14:27:36] <span style="color:#a518aa">CIW: ...Unless...</span><br />
+[14:28:45] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  has pretty bland fray inventory, Awe5ome Assault and SBURBian Finale are all he has --</span><br />
+[14:33:18] <span style="color:#185c8f">CAS: Oh..hey guys?</span><br />
+[14:33:36] <span style="color:#614c7c">CTW: ...?</span><br />
+[14:33:38] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  fiddles with her visor a bit adjusting a few things --</span><br />
+[14:34:03] <span style="color:#185c8f">CAS: I- have a message from a...well a friend of mine- actually it might be better to just  have him explain it.</span><br />
+[14:34:20] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  messes with her visor a bit until it's set to speakerphone --</span><br />
+[14:35:29] <span style="color:#646464"><span style="color:#ff5500">CURRENT paragonProtag [CPP]</span> RIGHT NOW responded to memo.</span><br />
+[14:35:29] <span style="color:#ff5500">CPP: *ktz*-ello! Hello?? Hey, you broke up on me for a b- oh god I can hear myself. You put me on speaker phone, didn't you?"</span><br />
+[14:35:38] <span style="color:#688e2e">CSC: ........</span><br />
+[14:35:48] <span style="color:#614c7c">CTW: Yes.</span><br />
+[14:35:51] <span style="color:#a3a1af">CWE: ill just excuse myself</span><br />
+[14:35:57] <span style="color:#a3a1af">CWE: before more complicated drama ensues</span><br />
+[14:36:06] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  goes downstairs --</span><br />
+[14:36:13] <span style="color:#a518aa">CIW: Greetings, comrade.</span><br />
+[14:37:15] <span style="color:#008002">CPK: Hey</span><br />
+[14:37:16] <span style="color:#185c8f">CAS: Just explain. You know more about the game than I do.</span><br />
+[14:38:40] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  starts humming the game boy camera "printing" song --</span><br />
+[14:39:35] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  shifts awkwardly waiting for the silence on the otehr end to stop. --</span><br />
+[14:39:41] <span style="color:#185c8f">CAS: *other</span><br />
+[14:40:20] <span style="color:#ff5500">CPP: Heyo! Hiyo! I've uh- Actually, I'm not sure where to start! *ktz* I know I sort of said I'd go head first into this, but I think that was before I really knew what that would entail! Not *ktz* to bother you or anything, but, uh... it's be dandy if I could figure out how to get over there! Over. Should I say over? I dunno.</span><br />
+[14:40:53] <span style="color:#614c7c">CTW: um..</span><br />
+[14:40:55] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  shouts from downstairs, are they looking for how to get here? --</span><br />
+[14:41:04] <span style="color:#a3a1af">CWE: "are they looking for how to get here"</span><br />
+[14:41:06] <span style="color:#a3a1af">CWE: ??</span><br />
+[14:41:22] <span style="color:#614c7c">CTW: kinda...i think</span><br />
+[14:41:32] <span style="color:#185c8f">CAS: More or less. Though You have to tell us /where/ you are </span><br />
+[14:42:01] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  shouts back up," really if he can see the giant light beacon, he can find us" --</span><br />
+[14:42:23] <span style="color:#614c7c">CTW: that is, if he's in the uhh...voidy-space place</span><br />
+[14:43:01] <span style="color:#008002">CPK: well if your in the furthest ring you should be able to see a glowingly light in the distance somewhere</span><br />
+[14:43:06] <span style="color:#a518aa">CIW: Find the giant Light Hope beacon.</span><br />
+[14:43:32] <span style="color:#614c7c">CTW: ((the green sun isn't a thing here right))</span><br />
+[14:44:14] <span style="color:#688e2e">CSC: ((don't think we're anywhere near one, no))</span><br />
+[14:45:05] <span style="color:#008002">CPK: ((No it's far off in the more canon part of the ring))</span><br />
+[14:45:12] <span style="color:#008002">CPK: ((Tumut))</span><br />
+[14:45:19] <span style="color:#ff5500">CPP: YES! Yes! I'm looking for a way to catch up, over. I mean, no, not over. I.... uh- It's a little hard to see around here. There's fire. And magma. And more fire and oh god why did I wear long-sleeve today, over. Did I miss up, Sky?? This is looking pretty, I dunno, not-beginner-zone-material, over! *ktz*</span><br />
+[14:45:28] <span style="color:#614c7c">CTW: ((so we're very very far from it, ok))</span><br />
+[14:45:40] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  comes back upstairs --</span><br />
+[14:45:43] <span style="color:#a3a1af">CWE: okay</span><br />
+[14:45:49] <span style="color:#614c7c">CTW: fire and magma what</span><br />
+[14:45:49] <span style="color:#a3a1af">CWE: so youre on a planet?</span><br />
+[14:45:53] <span style="color:#185c8f">CAS: Seems like he is.</span><br />
+[14:46:01] <span style="color:#a3a1af">CWE: i dont know how you managed that</span><br />
+[14:46:09] <span style="color:#a3a1af">CWE: but if you can fly up into void space</span><br />
+[14:46:20] <span style="color:#a3a1af">CWE: try looking for the big beacon of light</span><br />
+[14:46:33] <span style="color:#185c8f">CAS: It's not very hard to see.</span><br />
+[14:46:55] <span style="color:#185c8f">CAS: er, hard to miss</span><br />
+[14:48:29] <span style="color:#ff5500">CPP: *ktz*-anks for the advice, will try to find a way towards the light! Immediate danger of magma aside, I th*ktz* I'm pretty safe! For now. Over~!</span><br />
+[14:48:49] <span style="color:#a3a1af">CWE: k</span><br />
+[14:48:57] <span style="color:#a3a1af">CWE: just uh</span><br />
+[14:49:02] <span style="color:#a3a1af">CWE: i guess hurry?</span><br />
+[14:49:02] <span style="color:#a3a1af">CWE: idk</span><br />
+[14:49:09] <span style="color:#185c8f">CAS: Good luck, keep us uh...updated and- stuff. and good luck</span><br />
+[14:49:21] <span style="color:#a3a1af">CWE: hey PK</span><br />
+[14:49:24] <span style="color:#a3a1af">CWE: we need more beds</span><br />
+[14:49:29] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  cancels the call with a heavy sigh --</span><br />
+[14:49:54] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  alchemtizes moar beds --</span><br />
+[14:50:18] <span style="color:#008002">CPK: I'm going to post a thing on the memo that might be helpful</span><br />
+[14:50:48] <span style="color:#185c8f">CAS: Ah right...I wanted to work on that before my friend called.</span><br />
+[14:51:46] <span style="color:#185c8f">CAS: though with how my luck has been today I doubt it's going to happen.</span><br />
+[14:53:12] <span style="color:#a3a1af">CWE: place the beds downstairs i suppose</span><br />
+[14:53:18] <span style="color:#a3a1af">CWE: no where really up here</span><br />
+[14:53:22] <span style="color:#a3a1af">CWE: to put em</span><br />
+[14:53:23] <span style="color:#185c8f">CAS: Well we do kind of</span><br />
+[14:53:27] <span style="color:#185c8f">CAS: A few moved downstairs</span><br />
+[14:53:34] <span style="color:#185c8f">CAS: unless we gained more people while I was asleep</span><br />
+[14:58:07] <span style="color:#a3a1af">CWE: idk</span><br />
+[14:58:13] <span style="color:#a3a1af">CWE: there are 10 new people every day it seems</span><br />
+[15:01:20] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  heads to a bed and plops down. --</span><br />
+[15:02:42] <span style="color:#185c8f">CAS: Heh, maybe if we get enough people we can turn the beds into bunk beds.</span><br />
+[15:02:55] <span style="color:#a3a1af">CWE: if we have enough ceiling room</span><br />
+[15:03:40] <span style="color:#185c8f">CAS: or maybe we can have the beds sticking out of the wall...shelf beds-</span><br />
+[15:03:44] <span style="color:#185c8f">CAS: no wait that's waht a prison bed is.</span><br />
+[15:04:14] <span style="color:#a3a1af">CWE: (that's what this almost is, except we can go wherever)</span><br />
+[15:04:24] <span style="color:#185c8f">CAS: (pft)</span><br />
+[15:05:51] <span style="color:#646464"><span style="color:#c797ee">CURRENT lavenderSiren [CLS]</span> RIGHT NOW responded to memo.</span><br />
+[15:05:51] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  wakes up in her bed bluh --</span><br />
+[15:05:54] <span style="color:#185c8f">CAS: man I feel so slow about this but befoe you were talking about the trolls and how you almost went with them? Or that's what they assumed</span><br />
+[15:06:26] <span style="color:#a3a1af">CWE: thats what Raine assumd</span><br />
+[15:07:16] <span style="color:#185c8f">CAS: Ah...I wonder what they're up to though. The trolls anyway. Still annoyed I got here after they left. I mean</span><br />
+[15:07:26] <span style="color:#185c8f">CAS: I dunno.</span><br />
+[15:16:23] <span style="color:#c797ee">CLS: hey guys....</span><br />
+[15:16:46] <span style="color:#185c8f">CAS: Ah hy</span><br />
+[15:16:59] <span style="color:#a3a1af">CWE: hi</span><br />
+[15:17:19] <span style="color:#614c7c">CTW: you kinda hung out around his hive a lot...so yeah...</span><br />
+[15:17:43] <span style="color:#008002">CPK: Sup</span><br />
+[15:17:52] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  is flopping in the bed. --</span><br />
+[15:18:28] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  error over bed flop exception please lay normally --</span><br />
+[15:19:34] <span style="color:#c797ee">CLS: anything happen while I was asleep?</span><br />
+[15:19:57] <span style="color:#185c8f">CAS: Not that I can remember. We made progress on the cipher thing- and...yeah</span><br />
+[15:20:36] <span style="color:#c797ee">CLS: ah, cool.</span><br />
+[15:21:18] <span style="color:#185c8f">CAS: Also um- how long do you think it would take a player way back in the inner rings to get here? Hypothetically speaking?</span><br />
+[15:22:45] <span style="color:#c797ee">CLS: um, I have no idea. time and space out here are supposed to be really weird. It could take minutes or it could take years.</span><br />
+[15:22:59] <span style="color:#185c8f">CAS: Yikes.</span><br />
+[15:23:16] <span style="color:#c797ee">CLS: though if they're lucky, it won't take too long.</span><br />
+[15:23:23] <span style="color:#614c7c">CTW: does anyone even know how long has it been accurately</span><br />
+[15:23:42] <span style="color:#a3a1af">CWE: not a clue</span><br />
+[15:23:44] <span style="color:#185c8f">CAS: touche- but I've always had the worst perception of time </span><br />
+[15:23:53] <span style="color:#a3a1af">CWE: a couple months?</span><br />
+[15:23:56] <span style="color:#a3a1af">CWE: idk</span><br />
+[15:24:03] <span style="color:#c797ee">CLS: well, according to my laptop, it's January 30th...</span><br />
+[15:24:14] <span style="color:#185c8f">CAS: - I missed christmas?</span><br />
+[15:25:05] <span style="color:#614c7c">CTW: ...the first thing you mention is christmas</span><br />
+[15:25:16] <span style="color:#185c8f">CAS: ...Christmas is important to me</span><br />
+[15:25:22] <span style="color:#c797ee">CLS: yeah. it didn't really have that much going on, especially considering a couple folks around here had calendars that landed on different days.</span><br />
+[15:25:34] <span style="color:#a3a1af">CWE: mhm</span><br />
+[15:26:16] <span style="color:#688e2e">CSC: welp</span><br />
+[15:26:56] <span style="color:#614c7c">CTW: huh.</span><br />
+[15:33:29] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  lays down on her bed occasionally seen typing in some things on a holographic keyboard from time to time --</span><br />
+[15:34:50] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  is just laying on the couch to watch YouTube videos --</span><br />
+[15:35:16] <span style="color:#614c7c">CTW: hm...</span><br />
+[15:35:34] <span style="color:#614c7c">CTW: so many games from another timeline thing...</span><br />
+[15:35:53] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  sits up slightly --</span><br />
+[15:35:56] <span style="color:#185c8f">CAS: What do you mean?</span><br />
+[15:36:16] <span style="color:#185c8f">CAS: oh- like sgrub and such?</span><br />
+[15:36:33] <span style="color:#614c7c">CTW: no, I mean..uhh...</span><br />
+[15:36:52] <span style="color:#185c8f">CAS: ...doomed timelines?</span><br />
+[15:37:03] <span style="color:#614c7c">CTW: errr..</span><br />
+[15:37:25] <span style="color:#646464">-- CURRENT temporalWanderer <span style="color:#614c7c">[CTW]</span>  is staring at her phone, probably watching youtube --</span><br />
+[15:37:42] <span style="color:#614c7c">CTW: ((is the vanilla timeline a thing))</span><br />
+[15:38:04] <span style="color:#008002">CPK: ((I believe so, LS?))</span><br />
+[15:38:10] <span style="color:#c797ee">CLS: ((technically yeah, considering that's where the internet comes from))</span><br />
+[15:38:28] <span style="color:#614c7c">CTW: I mean...from the timeline where none of this happened..apparently</span><br />
+[15:38:39] <span style="color:#185c8f">CAS: Oh....</span><br />
+[15:38:39] <span style="color:#614c7c">CTW: like..uh...videogames.</span><br />
+[15:39:12] <span style="color:#185c8f">CAS: Actually, is there a mass effect 3 lying around the base? I kinda wanted to uh...use it.</span><br />
+[15:39:48] <span style="color:#c797ee">CLS: um, maybe? ask around a little.</span><br />
+[15:40:25] <span style="color:#185c8f">CAS: Alright, maybe when I'm a little more in control of my motor functions heh.</span><br />
+[15:40:55] <span style="color:#c797ee">CLS: okay.</span><br />
+[15:40:57] <span style="color:#185c8f">CAS: A timeline where none of this happened. It's kinda nice ot think about though.</span><br />
+[15:41:49] <span style="color:#c797ee">CLS: sorta.</span><br />
+[15:42:07] <span style="color:#688e2e">CSC: guess so...</span><br />
+[15:42:22] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  sighs --</span><br />
+[15:42:45] <span style="color:#185c8f">CAS: Just nice to know my friends and stuff are all out there somewhere. </span><br />
+[15:42:51] <span style="color:#688e2e">CSC: ...I suppose the existence of said timeline means the Scratch did what it was supposed to?</span><br />
+[15:43:11] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  sits up once again --</span><br />
+[15:43:11] <span style="color:#c797ee">CLS: I guess so?</span><br />
+[15:43:26] <span style="color:#185c8f">CAS: Huh...so the same but a little difference</span><br />
+[15:44:01] <span style="color:#802020">CFL: So why was there a post scratch session?</span><br />
+[15:44:35] <span style="color:#614c7c">CTW: No clue.</span><br />
+[15:44:38] <span style="color:#c797ee">CLS: I, really have no idea.</span><br />
+[15:44:39] <span style="color:#185c8f">CAS: Heh, maybe we should draw this out in a diagram</span><br />
+[15:44:45] <span style="color:#614c7c">CTW: I thought you would know.</span><br />
+[15:44:52] <span style="color:#614c7c">CTW: I mean you were in it briefly.</span><br />
+[15:45:06] <span style="color:#614c7c">CTW: ...oh...Speaking of..</span><br />
+[15:45:16] <span style="color:#802020">CFL: I know it exists, but I don't know how</span><br />
+[15:45:17] <span style="color:#614c7c">CTW: ...did you guys tell him yet</span><br />
+[15:45:25] <span style="color:#688e2e">CSC: shrug</span><br />
+[15:45:25] <span style="color:#c797ee">CLS: oh yeah, those pictures.</span><br />
+[15:45:30] <span style="color:#802020">CFL: ...Pictures?</span><br />
+[15:45:37] <span style="color:#646464">-- CURRENT temporalWanderer <span style="color:#614c7c">[CTW]</span>  takes the pictures out of her inventory --</span><br />
+[15:45:39] <span style="color:#185c8f">CAS: - huh? </span><br />
+[15:45:43] <span style="color:#614c7c">CTW: I almost forgot...</span><br />
+[15:46:16] <span style="color:#c797ee">CLS: we found these when straightedge shane showed up the other day.</span><br />
+[15:46:30] <span style="color:#185c8f">CAS: Straighedge shane, is hat the....emo kid?</span><br />
+[15:46:42] <span style="color:#c797ee">CLS: yeah, I can barely remember his name.</span><br />
+[15:46:59] <span style="color:#802020">CFL: Seth.</span><br />
+[15:47:14] <span style="color:#c797ee">CLS: well, I was kinda close.</span><br />
+[15:47:17] <span style="color:#c797ee">CLS: sorta.</span><br />
+[15:47:32] <span style="color:#614c7c">CTW: ..any idea about these?</span><br />
+[15:47:32] <span style="color:#614c7c">CTW: FL?</span><br />
+[15:47:47] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  examines the pictures, any details I should know? --</span><br />
+[15:49:36] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  there are like, 30 pictures in all, each one with a regular from the LoIaR HQ dead in the background. There is one with brown!FL, but for some reason not one with azure!FL. The only one that is a dreamself is the one with SV. The location appears to be the LoIaR HQ in all of them --</span><br />
+[15:49:51] <span style="color:#008002">CPK: Well our Xbox 360 needs an update but can't get past the horrorterror block</span><br />
+[15:50:19] <span style="color:#802020">CFL: ...wait, I didn't die like that.</span><br />
+[15:50:30] <span style="color:#c797ee">CLS: wait, you didn't?</span><br />
+[15:50:47] <span style="color:#614c7c">CTW: ...really?</span><br />
+[15:51:05] <span style="color:#802020">CFL: No, I got vaporized by a denizen that hacked his memories so they would show up post scratch.</span><br />
+[15:51:28] <span style="color:#c797ee">CLS: didn't you say something about falling to a dweeb though?</span><br />
+[15:51:37] <span style="color:#802020">CFL: Who was taking the form of a snot nose dweeb for some reason.</span><br />
+[15:52:27] <span style="color:#c797ee">CLS: huh, weird...</span><br />
+[15:53:18] <span style="color:#614c7c">CTW: That's odd...</span><br />
+[15:53:34] <span style="color:#c797ee">CLS: but if you died from a denizen, then who's this guy?</span><br />
+[15:53:59] <span style="color:#c797ee">CLS: was your post scratch counterpart a lord of blood too?</span><br />
+[15:54:23] <span style="color:#a3a1af">CWE: hey guys</span><br />
+[15:54:26] <span style="color:#a3a1af">CWE: speaking of denizens</span><br />
+[15:54:29] <span style="color:#a3a1af">CWE: i was thinking</span><br />
+[15:54:31] <span style="color:#185c8f">CAS: ...there was a post scratch session? </span><br />
+[15:54:35] <span style="color:#c797ee">CLS: what's up?</span><br />
+[15:54:38] <span style="color:#614c7c">CTW: apparently</span><br />
+[15:54:40] <span style="color:#a3a1af">CWE: what ever happened to the uh, Snow planet's denizen</span><br />
+[15:54:40] <span style="color:#c797ee">CLS: apparently.</span><br />
+[15:54:59] <span style="color:#a3a1af">CWE: we know the enemies are skeletons</span><br />
+[15:55:06] <span style="color:#a3a1af">CWE: but the denizen should still be alive</span><br />
+[15:55:20] <span style="color:#802020">CFL: No, he... hes not in the pictures.</span><br />
+[15:55:47] <span style="color:#802020">CFL: ...But his dreamself got killed by seth, why isn't he in the pictures?</span><br />
+[15:55:48] <span style="color:#c797ee">CLS: huh...</span><br />
+[15:56:06] <span style="color:#c797ee">CLS: I really have no idea.</span><br />
+[15:57:10] <span style="color:#185c8f">CAS: smoke are you suggesting we should make an plan to find the denizen?</span><br />
+[15:57:20] <span style="color:#a3a1af">CWE: not SUGGESTING, but just noting</span><br />
+[15:57:32] <span style="color:#c797ee">CLS: I think we should try to figure out how to read that weird text first though.</span><br />
+[15:57:45] <span style="color:#c797ee">CLS: considering they tend to use it for puzzles and everything there.</span><br />
+[15:58:14] <span style="color:#185c8f">CAS: yeah. let me- work on that real quick again. if only I could find my notes </span><br />
+[16:00:55] <span style="color:#185c8f">CAS: if you need me I'll be downstairs I guess!</span><br />
+[16:01:07] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  quickly heads down the stairs and to the board --</span><br />
+[16:04:23] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  so you get a feeling for what the pics sorta look like, here's a template: <a href='https://dl.dropboxusercontent.com/u/59572658/lostpawns/picturetemplate.png'>https://dl.dropboxusercontent.com/u/59572658/lostpawns/picturetemplate.png</a> --</span><br />
+[16:05:08] <span style="color:#185c8f">CAS: ((so I just killed this dude here <a href='#so'>#so</a> cool))</span><br />
+[16:05:18] <span style="color:#614c7c">CTW: ((snrk))</span><br />
+[16:07:07] <span style="color:#185c8f">CAS: huh...so I guess that means this is a p.</span><br />
+[16:10:39] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  mutters to herself about punching people in the face and spelling as she takes notes --</span><br />
+[16:10:53] <span style="color:#802020">CFL: ...something uhkuhs.</span><br />
+[16:11:02] <span style="color:#185c8f">CAS: So far I got</span><br />
+[16:11:15] <span style="color:#185c8f">CAS: "the spiritual totem of-"</span><br />
+[16:11:22] <span style="color:#185c8f">CAS: or...at least that's what I /think/ it's trying to say</span><br />
+[16:11:36] <span style="color:#802020">CFL: Town of Something uhkuhs in three km.</span><br />
+[16:12:05] <span style="color:#802020">CFL: don't know what that one symbol is.</span><br />
+[16:15:17] <span style="color:#802020">CFL: ...the hero of flow... </span><br />
+[16:16:12] <span style="color:#614c7c">CTW: ....?</span><br />
+[16:17:51] <span style="color:#185c8f">CAS: ...the-what? That doesn't make any sense.</span><br />
+[16:18:05] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  remembers he exists --</span><br />
+[16:18:11] <span style="color:#802020">CFL: ...has... fallen... well, I think that says fallen, not quite sure. ... has fallen... in... something and atuhl.</span><br />
+[16:18:35] <span style="color:#614c7c">CTW: All I can think of is the hero of flowers and I know that's probs wrong as fuck</span><br />
+[16:18:40] <span style="color:#185c8f">CAS: I mean- this oculd mean "shall" but what the heck is this supposed to mean.</span><br />
+[16:18:56] <span style="color:#a3a1af">CWE: flow</span><br />
+[16:19:01] <span style="color:#a3a1af">CWE: hm</span><br />
+[16:19:06] <span style="color:#a3a1af">CWE: i relate flow to Mind hero's</span><br />
+[16:19:08] <span style="color:#a3a1af">CWE: heroes*</span><br />
+[16:20:17] <span style="color:#802020">CFL: Also, this diary page is shitty, its like it wraps all the way around.</span><br />
+[16:20:18] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  remembers that he got that Grist from Clover, and goes to the Alchemiter...before remembering a deal --</span><br />
+[16:20:24] <span style="color:#a518aa">CIW: Clover, you still want that Shrexcalibur?</span><br />
+[16:20:28] <span style="color:#802020">CFL: like a shitty type writer.</span><br />
+[16:20:38] <span style="color:#aa0000">CVF: eh. i don't have bladeKind so if you got the grist...</span><br />
+[16:20:42] <span style="color:#185c8f">CAS: huh- I think.</span><br />
+[16:20:46] <span style="color:#a3a1af">CWE: well charles</span><br />
+[16:20:47] <span style="color:#a3a1af">CWE: didnt like</span><br />
+[16:20:47] <span style="color:#688e2e">CSC: ...?</span><br />
+[16:20:49] <span style="color:#614c7c">CTW: if it actually was typed with one</span><br />
+[16:20:54] <span style="color:#185c8f">CAS: I think I got it.</span><br />
+[16:20:57] <span style="color:#614c7c">CTW: we'd want to find one of those</span><br />
+[16:20:59] <span style="color:#a3a1af">CWE: some sorta people used to type like that</span><br />
+[16:21:08] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  then proceeds to go alchemizing... --</span><br />
+[16:21:08] <span style="color:#a3a1af">CWE: write*</span><br />
+[16:21:35] <span style="color:#a3a1af">CWE: oh hey Charles</span><br />
+[16:21:38] <span style="color:#802020">CFL: What have you gotten on the wall one?</span><br />
+[16:21:40] <span style="color:#a3a1af">CWE: do you have some of the Dersium</span><br />
+[16:21:47] <span style="color:#185c8f">CAS: I have</span><br />
+[16:21:57] <span style="color:#a3a1af">CWE: here, i need to use it real quick</span><br />
+[16:21:59] <span style="color:#185c8f">CAS: " The spiritual totem of ...'tarot cards' shall act as the key</span><br />
+[16:22:03] <span style="color:#a3a1af">CWE: oh</span><br />
+[16:22:06] <span style="color:#a3a1af">CWE: you had the translation</span><br />
+[16:22:07] <span style="color:#185c8f">CAS: I'm nto sure on the tarot cards.</span><br />
+[16:22:13] <span style="color:#a3a1af">CWE: not Dersium :/</span><br />
+[16:22:23] <span style="color:#185c8f">CAS: It reads " taro kourdz"</span><br />
+[16:22:29] <span style="color:#a3a1af">CWE: If you guys find any, let me use it for alchemy purposes</span><br />
+[16:22:42] <span style="color:#185c8f">CAS: In fact I'm not actually sure if the D is a D</span><br />
+[16:22:49] <span style="color:#614c7c">CTW: wait</span><br />
+[16:22:52] <span style="color:#185c8f">CAS: I just- assumed since D sound so close to T</span><br />
+[16:22:54] <span style="color:#614c7c">CTW: WHO HAD THE CARDS</span><br />
+[16:23:12] <span style="color:#c797ee">CLS: I think Cerxes got them, but Kageto got a ghost captcha?</span><br />
+[16:23:19] <span style="color:#614c7c">CTW: WE NEED THAT</span><br />
+[16:23:25] <span style="color:#614c7c">CTW: TO CARVE THAT CYLINDER</span><br />
+[16:23:28] <span style="color:#688e2e">CSC: oh, right!</span><br />
+[16:23:31] <span style="color:#185c8f">CAS: Er should I message him? I think?</span><br />
+[16:23:31] <span style="color:#614c7c">CTW: TO OPEN THAT WALL</span><br />
+[16:23:34] <span style="color:#802020">CFL: We still don't know- Oh, Cruxite Totem.</span><br />
+[16:23:40] <span style="color:#a3a1af">CWE: oh yeah</span><br />
+[16:23:41] <span style="color:#646464">-- CURRENT stealthyCalligrapher <span style="color:#688e2e">[CSC]</span>  runs over and inputs the code from the ghost captcha --</span><br />
+[16:23:43] <span style="color:#a3a1af">CWE: and i have the shoes</span><br />
+[16:23:50] <span style="color:#688e2e">CSC: there, that should help</span><br />
+[16:24:00] <span style="color:#185c8f">CAS: So what's our next plan of action?</span><br />
+[16:24:25] <span style="color:#a3a1af">CWE: carve the dowel</span><br />
+[16:24:30] <span style="color:#802020">CFL: ...Ah, the thing that matches up to the P is a B!</span><br />
+[16:24:36] <span style="color:#614c7c">CTW: open that wall in the gravecave</span><br />
+[16:24:39] <span style="color:#a3a1af">CWE: then use it as a key</span><br />
+[16:24:41] <span style="color:#a3a1af">CWE: yeah</span><br />
+[16:24:43] <span style="color:#c797ee">CLS: yeah!</span><br />
+[16:24:46] <span style="color:#614c7c">CTW: ????, then profit</span><br />
+[16:24:50] <span style="color:#688e2e">CSC: nice</span><br />
+[16:24:52] <span style="color:#614c7c">CTW: ...hopefully profit</span><br />
+[16:24:56] <span style="color:#802020">CFL: So, "The Hero of Flow has fallen in battle."</span><br />
+[16:25:01] <span style="color:#185c8f">CAS: yeah!</span><br />
+[16:25:04] <span style="color:#802020">CFL: ...</span><br />
+[16:25:07] <span style="color:#a3a1af">CWE: hmm</span><br />
+[16:25:11] <span style="color:#a3a1af">CWE: but </span><br />
+[16:25:15] <span style="color:#a3a1af">CWE: flow isnt an aspect</span><br />
+[16:25:23] <span style="color:#a3a1af">CWE: only thing i can think of is Mind, still</span><br />
+[16:25:26] <span style="color:#185c8f">CAS: How old are those by the way?</span><br />
+[16:25:35] <span style="color:#185c8f">CAS: 'cus they look kinda...decrepid</span><br />
+[16:25:46] <span style="color:#802020">CFL: Looks like years.</span><br />
+[16:26:07] <span style="color:#a3a1af">CWE: ((oh, just checked the glitch FAQ))</span><br />
+[16:26:16] <span style="color:#a3a1af">CWE: ((there is a non canon Flow aspect))</span><br />
+[16:26:26] <span style="color:#a3a1af">CWE: ((relating to music and "sick beats"))</span><br />
+[16:26:50] <span style="color:#802020">CFL: ...I guess that flow thing might be the aspect that kinda reminded me of the crest of friendship from digimon?</span><br />
+[16:27:27] <span style="color:#614c7c">CTW: should we hold off on the wall opening for later</span><br />
+[16:27:48] <span style="color:#a3a1af">CWE: maybe</span><br />
+[16:27:49] <span style="color:#688e2e">CSC: I dunno, your choice I guess.</span><br />
+[16:27:54] <span style="color:#a3a1af">CWE: unless someone is willing to go</span><br />
+[16:28:01] <span style="color:#c797ee">CLS: I'm sorta anxious to see what's behind that door.</span><br />
+[16:28:01] <span style="color:#185c8f">CAS: Just, we need cerxi-troll guy</span><br />
+[16:28:08] <span style="color:#a3a1af">CWE: we dont Need him</span><br />
+[16:28:11] <span style="color:#a3a1af">CWE: we got the cards</span><br />
+[16:28:12] <span style="color:#185c8f">CAS: oh! </span><br />
+[16:28:15] <span style="color:#a3a1af">CWE: form the ghost captcha</span><br />
+[16:28:17] <span style="color:#a3a1af">CWE: from*</span><br />
+[16:28:37] <span style="color:#a3a1af">CWE: did someone carve the dowel already?</span><br />
+[16:28:38] <span style="color:#185c8f">CAS: alright. well we should at least form they key right?</span><br />
+[16:28:42] <span style="color:#802020">CFL: We could be falling into a trap. Maybe this page states how the hero died?</span><br />
+[16:28:52] <span style="color:#a3a1af">CWE: maybe</span><br />
+[16:28:54] <span style="color:#a3a1af">CWE: then again</span><br />
+[16:28:55] <span style="color:#185c8f">CAS: in the meantime I'll help with the pages if you want?</span><br />
+[16:28:57] <span style="color:#a3a1af">CWE: maybe there is some</span><br />
+[16:28:58] <span style="color:#a3a1af">CWE: sweet loot</span><br />
+[16:29:00] <span style="color:#c797ee">CLS: that is why we shbould have backup plans and precautions.</span><br />
+[16:29:12] <span style="color:#614c7c">CTW: that's a good idea, yeah</span><br />
+[16:29:23] <span style="color:#a3a1af">CWE: the way im thinking it is</span><br />
+[16:29:27] <span style="color:#a3a1af">CWE: we can go now and be worried of traps</span><br />
+[16:29:32] <span style="color:#a3a1af">CWE: or go later and be worried of traps</span><br />
+[16:30:15] <span style="color:#185c8f">CAS: oh, I wanted to ask actually</span><br />
+[16:30:18] <span style="color:#008002">CPK: Yeah</span><br />
+[16:30:19] <span style="color:#185c8f">CAS: where did you even find these pages anyway</span><br />
+[16:30:32] <span style="color:#a3a1af">CWE: long story</span><br />
+[16:30:37] <span style="color:#008002">CPK: Some place on LoSaS</span><br />
+[16:30:47] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  walks towards the FL to possibly aid --</span><br />
+[16:30:54] <span style="color:#185c8f">CAS: Ah, was just wondering if it was connected to the wall or not.</span><br />
+[16:31:09] <span style="color:#c797ee">CLS: losas? what does that stand for, land of Socks and Shoes?</span><br />
+[16:31:17] <span style="color:#a3a1af">CWE: no</span><br />
+[16:31:21] <span style="color:#a3a1af">CWE: though i do have the shoes</span><br />
+[16:31:28] <span style="color:#a3a1af">CWE: didnt we name it Losas?</span><br />
+[16:31:34] <span style="color:#802020">CFL: Snow and more Snow?</span><br />
+[16:31:36] <span style="color:#a3a1af">CWE: or losaf?</span><br />
+[16:31:39] <span style="color:#614c7c">CTW: lowsass</span><br />
+[16:31:45] <span style="color:#a3a1af">CWE: low fat</span><br />
+[16:32:16] <span style="color:#614c7c">CTW: land of spheres and snow probs</span><br />
+[16:32:22] <span style="color:#a3a1af">CWE: orr</span><br />
+[16:32:25] <span style="color:#a3a1af">CWE: think about this</span><br />
+[16:32:29] <span style="color:#a3a1af">CWE: since that planet</span><br />
+[16:32:33] <span style="color:#185c8f">CAS: ...the 'smith?'</span><br />
+[16:32:34] <span style="color:#a3a1af">CWE: is from what appears to be</span><br />
+[16:32:38] <span style="color:#a3a1af">CWE: a void session</span><br />
+[16:32:46] <span style="color:#a3a1af">CWE: it has to relate to be</span><br />
+[16:32:58] <span style="color:#a3a1af">CWE: Land of [graves] and [noble gas]</span><br />
+[16:33:00] <span style="color:#a3a1af">CWE: i believe</span><br />
+[16:33:07] <span style="color:#c797ee">CLS: land of skeletons and snowballs?</span><br />
+[16:33:22] <span style="color:#688e2e">CSC: snowballs aren't a noble gas though :P</span><br />
+[16:33:29] <span style="color:#a3a1af">CWE: and skeletons arent a grave</span><br />
+[16:33:35] <span style="color:#614c7c">CTW: land of mounds and hydrogen</span><br />
+[16:33:38] <span style="color:#688e2e">CSC: ...in fact, I don't think there's a noble gas that starts with S.</span><br />
+[16:33:43] <span style="color:#a3a1af">CWE: no</span><br />
+[16:33:46] <span style="color:#a3a1af">CWE: so that mans</span><br />
+[16:33:47] <span style="color:#a3a1af">CWE: means*</span><br />
+[16:33:55] <span style="color:#a3a1af">CWE: that maybe it isnt a noble gas</span><br />
+[16:33:58] <span style="color:#a3a1af">CWE: maybe its just a gas</span><br />
+[16:34:01] <span style="color:#a3a1af">CWE: or not a gas at all</span><br />
+[16:34:07] <span style="color:#802020">CFL: That means the pattern we have seen in /one session/ might not be true.</span><br />
+[16:34:18] <span style="color:#614c7c">CTW: so are we going to open up that wall or not</span><br />
+[16:34:20] <span style="color:#185c8f">CAS: Hm? What do you mean FL?</span><br />
+[16:35:03] <span style="color:#a3a1af">CWE: hmm</span><br />
+[16:35:04] <span style="color:#a3a1af">CWE: what about</span><br />
+[16:35:09] <span style="color:#a3a1af">CWE: Land of Sepulchers and Snow?</span><br />
+[16:35:51] <span style="color:#802020">CFL: Alright AS, what did you manage to get so far?</span><br />
+[16:36:04] <span style="color:#185c8f">CAS: uh- give me a minute to finish this last word</span><br />
+[16:36:38] <span style="color:#185c8f">CAS: nng...does anyone know what wouldd sound similar to H?</span><br />
+[16:37:19] <span style="color:#a3a1af">CWE: H?</span><br />
+[16:37:25] <span style="color:#185c8f">CAS: like- an H sound.</span><br />
+[16:37:25] <span style="color:#a3a1af">CWE: A?</span><br />
+[16:37:32] <span style="color:#614c7c">CTW: Hhhh.</span><br />
+[16:37:42] <span style="color:#646464">-- CURRENT temporalWanderer <span style="color:#614c7c">[CTW]</span>  elsen noises --</span><br />
+[16:37:47] <span style="color:#185c8f">CAS: -anyway....so far I have</span><br />
+[16:37:48] <span style="color:#a3a1af">CWE: A or E</span><br />
+[16:38:16] <span style="color:#185c8f">CAS: "The hero of the flow has fallen in battle without the smith m__nevt _g the land frezi_</span><br />
+[16:38:36] <span style="color:#185c8f">CAS: I want to say movement  but- we ahve letters for ou and that's not it</span><br />
+[16:38:56] <span style="color:#802020">CFL: no, I think thats two words there.</span><br />
+[16:39:05] <span style="color:#185c8f">CAS: Oh?</span><br />
+[16:39:07] <span style="color:#802020">CFL: there is a larger than normal gap.</span><br />
+[16:39:15] <span style="color:#a3a1af">CWE: swift movement?</span><br />
+[16:39:18] <span style="color:#a3a1af">CWE: instead of smith</span><br />
+[16:39:19] <span style="color:#a3a1af">CWE: swift</span><br />
+[16:39:28] <span style="color:#185c8f">CAS: oh- maybe. I am really out of it to confess</span><br />
+[16:40:00] <span style="color:#646464">-- CURRENT videogameFiona <span style="color:#aa0000">[CVF]</span>  also goes to the alchemiter while IW is busy, uses some Grist to make...a gun? <a href='http://i.imgur.com/2ti88hD.png'>http://i.imgur.com/2ti88hD.png</a> --</span><br />
+[16:40:05] <span style="color:#802020">CFL: m something neuh.</span><br />
+[16:40:47] <span style="color:#802020">CFL: and thats a k, not a g...</span><br />
+[16:41:17] <span style="color:#185c8f">CAS:   Oh- and that's also not a v- let me fix -</span><br />
+[16:42:11] <span style="color:#185c8f">CAS: m_neuh something tells me the letter inbetween is a voel</span><br />
+[16:42:14] <span style="color:#185c8f">CAS: *vowel</span><br />
+[16:42:31] <span style="color:#185c8f">CAS: ...do you think it stands for U?</span><br />
+[16:42:49] <span style="color:#c797ee">CLS: dunno, does it work when used that way?</span><br />
+[16:42:56] <span style="color:#802020">CFL: well, we got different vowel sounds as well..</span><br />
+[16:43:24] <span style="color:#185c8f">CAS: ...not really....muneuh?</span><br />
+[16:43:34] <span style="color:#802020">CFL: munia... menia... minia... monia... mania...</span><br />
+[16:44:12] <span style="color:#185c8f">CAS: Thay can't mean a ...a muteny can they?</span><br />
+[16:44:23] <span style="color:#185c8f">CAS: nah-</span><br />
+[16:44:23] <span style="color:#a3a1af">CWE: mummy?</span><br />
+[16:44:37] <span style="color:#802020">CFL: ...Wow, if the consorts went crazy thats a pretty big deal.</span><br />
+[16:44:55] <span style="color:#688e2e">CSC: ...?</span><br />
+[16:45:20] <span style="color:#185c8f">CAS: Oh- that symbol</span><br />
+[16:45:29] <span style="color:#c797ee">CLS: maybe they like, got cabin fever or somwthing?</span><br />
+[16:45:31] <span style="color:#185c8f">CAS: it's also in the sign</span><br />
+[16:45:42] <span style="color:#185c8f">CAS: - bluh</span><br />
+[16:46:22] <span style="color:#c797ee">CLS: *something</span><br />
+[16:46:26] <span style="color:#802020">CFL: auhkuhs?</span><br />
+[16:47:49] <span style="color:#646464">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  writes down Auhcus on the note. --</span><br />
+[16:47:50] <span style="color:#185c8f">CAS: ...hm-</span><br />
+[16:48:17] <span style="color:#185c8f">CAS: " the land frezi__ even the 'Nduhrwuhrld" ...neatherworld?</span><br />
+[16:48:28] <span style="color:#614c7c">CTW: netherworld</span><br />
+[16:48:30] <span style="color:#614c7c">CTW: .n.</span><br />
+[16:48:48] <span style="color:#688e2e">CSC: hmm.</span><br />
+[16:48:50] <span style="color:#802020">CFL: ...netherworld or underworld.</span><br />
+[16:48:58] <span style="color:#185c8f">CAS: they mean the same if I"m not mistaken</span><br />
+[16:49:08] <span style="color:#614c7c">CTW: they could mean it literally and there's a land under the planety</span><br />
+[16:49:10] <span style="color:#185c8f">CAS: Heh, I guess hell froze over- ...not that this is funny.</span><br />
+[16:49:11] <span style="color:#614c7c">CTW: *planet</span><br />
+[16:49:11] <span style="color:#802020">CFL: same difference I guess, but one refers to a game location in the land.</span><br />
+[16:53:17] <span style="color:#185c8f">CAS: I think they may be talking about the denizens</span><br />
+[16:53:28] <span style="color:#185c8f">CAS: in the next scentence anyway</span><br />
+[16:56:16] <span style="color:#c797ee">CLS: so.... um, anything I could probably help with?</span><br />
+[16:56:35] <span style="color:#185c8f">CAS: sort of?</span><br />
+[16:56:38] <span style="color:#000000">CFR: ((back))</span><br />
+[16:56:46] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  mumbles "I'm sorta lost with this translation thing" --</span><br />
+[16:56:55] <span style="color:#185c8f">CAS: there's a word that's kinda puzzling me. but I may have translated a few things wrong</span><br />
+[16:57:16] <span style="color:#185c8f">CAS: oh wait- that's because those are sevperate words hold on.</span><br />
+[16:58:04] <span style="color:#185c8f">CAS:  yes that makes sense</span><br />
+[16:58:12] <span style="color:#c797ee">CLS: I love it when questions get answered through explaining the problem to others.</span><br />
+[16:58:34] <span style="color:#185c8f">CAS: Haha- yeh</span><br />
+[16:58:39] <span style="color:#185c8f">CAS: *yeah</span><br />
+[16:58:39] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  discarded all of the scrap gun parts awhile ago, I guess --</span><br />
+[16:59:10] <span style="color:#185c8f">CAS: Ah yes. okay. </span><br />
+[16:59:16] <span style="color:#802020">CFL: ...what does that dot next to mania mean?</span><br />
+[16:59:28] <span style="color:#185c8f">CAS: I wondered about it too</span><br />
+[16:59:36] <span style="color:#185c8f">CAS: I thought it was just a dirt smudge</span><br />
+[16:59:39] <span style="color:#614c7c">CTW: hm.</span><br />
+[16:59:41] <span style="color:#614c7c">CTW: .n.</span><br />
+[16:59:52] <span style="color:#802020">CFL: ...Yeah, thats likely.</span><br />
+[17:00:18] <span style="color:#185c8f">CAS: But the next sentence says " The dezisen has  come forawrdd with a "pafar" (power?) we can out - uh</span><br />
+[17:00:32] <span style="color:#185c8f">CAS: "rvf___z"</span><br />
+[17:00:45] <span style="color:#185c8f">CAS: no waith- that's not a V that's an 'uh'</span><br />
+[17:00:46] <span style="color:#c797ee">CLS: then again, considering it sorta looks like it's in the same sorta ink or whatever as the writing, it might be important.</span><br />
+[17:00:54] <span style="color:#802020">CFL: offer?</span><br />
+[17:01:07] <span style="color:#a3a1af">CWE: im thinking offer as well</span><br />
+[17:01:33] <span style="color:#802020">CFL: So looks like the denizen is basically a mob boss.</span><br />
+[17:01:34] <span style="color:#185c8f">CAS: if so it would be helpful to know what the missing symbols</span><br />
+[17:02:08] <span style="color:#185c8f">CAS: -also my friend...he- I forget can people who aren't god tier make it into the void without ...you know...dying?</span><br />
+[17:02:26] <span style="color:#802020">CFL: offers one can't refuse are... pretty common.</span><br />
+[17:03:26] <span style="color:#688e2e">CSC: ...well, the trolls did when they escaped their session in Cascade... but they were riding a meteor. if you mean /flying out unassisted/, idk.</span><br />
+[17:03:45] <span style="color:#185c8f">CAS: well, should be alright then. </span><br />
+[17:03:46] <span style="color:#802020">CFL: ...well, thats gonna suck.</span><br />
+[17:04:00] <span style="color:#802020">CFL: he'll live, but its gonna suck for him!</span><br />
+[17:04:01] <span style="color:#c797ee">CLS: wait, what's going on?</span><br />
+[17:05:04] <span style="color:#c797ee">CLS: oh, the whole limited lifespan thing and the can snap like a twig and won't come back thing.</span><br />
+[17:06:01] <span style="color:#185c8f">CAS: "refuse, as he puts it."</span><br />
+[17:09:11] <span style="color:#185c8f">CAS: The next line is uh- </span><br />
+[17:10:00] <span style="color:#185c8f">CAS: "Not as if we had uh 'tchou_s" in the mater"- waii tthat should be choice</span><br />
+[17:10:50] <span style="color:#185c8f">CAS:  Man...I thought this would help us with the door. well might as well continue on</span><br />
+[17:10:53] <span style="color:#c797ee">CLS: um... tissues?</span><br />
+[17:11:29] <span style="color:#688e2e">CSC: based on context, it sounds like "a choice" in the matter...</span><br />
+[17:11:41] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  tissues~ --</span><br />
+[17:12:30] <span style="color:#185c8f">CAS: ...this is getting depressing</span><br />
+[17:12:37] <span style="color:#185c8f">CAS: "There is no hope for us now"</span><br />
+[17:13:21] <span style="color:#646464"><span style="color:#878787">CURRENT prospitianArchitect [CPA]</span> RIGHT NOW responded to memo.</span><br />
+[17:13:21] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  climbs down the hatch --</span><br />
+[17:13:25] <span style="color:#878787">CPA: Hello!</span><br />
+[17:13:28] <span style="color:#688e2e">CSC: sup</span><br />
+[17:13:45] <span style="color:#878787">CPA: I would like to request your aid in the construction of derspit!</span><br />
+[17:14:04] <span style="color:#a3a1af">CWE: hey architect</span><br />
+[17:14:06] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  looks up from her work at the newcomer --</span><br />
+[17:14:21] <span style="color:#a3a1af">CWE: you got a little chunk of prospitium and dersium with you?</span><br />
+[17:14:30] <span style="color:#878787">CPA: I do!</span><br />
+[17:14:35] <span style="color:#878787">CPA: That's why i've come, in fact.</span><br />
+[17:14:50] <span style="color:#878787">CPA: I would like you to alchemize Derspit a supply of it.</span><br />
+[17:16:30] <span style="color:#185c8f">CAS: Hey um...if it's okay I sort of have the last line. sort of.</span><br />
+[17:17:07] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  is playing ping pong on a wall --</span><br />
+[17:18:02] <span style="color:#185c8f">CAS: "The world is lost, 'ouwuhr' 'fl_m' "ikstigwicht" </span><br />
+[17:18:12] <span style="color:#185c8f">CAS: oh- our flame extinguished</span><br />
+[17:18:12] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  has walked away from the Alchemiter at last --</span><br />
+[17:18:12] <span style="color:#a518aa">CIW: It's done.</span><br />
+[17:18:36] <span style="color:#c797ee">CLS: our flume is wicked?</span><br />
+[17:18:55] <span style="color:#c797ee">CLS: oh derp.</span><br />
+[17:19:06] <span style="color:#185c8f">CAS: ...though I'm still confused aout that "muneuh" thing</span><br />
+[17:19:45] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  admires the massive greatsword, Claiomh Solais, as seen here: <a href='http://img2.wikia.nocookie.net/__cb20140521052733/castlevania/images/9/95/Claimh-SolaisDoS.gif'>http://img2.wikia.nocookie.net/__cb20140521052733/castlevania/images/9/95/Claimh-SolaisDoS.gif</a> --</span><br />
+[17:19:46] <span style="color:#688e2e">CSC: "muneuh"?</span><br />
+[17:19:57] <span style="color:#185c8f">CAS: Well the context is</span><br />
+[17:19:58] <span style="color:#688e2e">CSC: what are the words around it?</span><br />
+[17:20:20] <span style="color:#a3a1af">CWE: i can do taht PA</span><br />
+[17:20:23] <span style="color:#a3a1af">CWE: that*</span><br />
+[17:20:29] <span style="color:#878787">CPA: Thank you!</span><br />
+[17:20:39] <span style="color:#a3a1af">CWE: but in turn, i will also need to use it for my own alchemical purposes</span><br />
+[17:20:40] <span style="color:#185c8f">CAS: hm- </span><br />
+[17:20:42] <span style="color:#878787">CPA: We have plans to build a town hall!</span><br />
+[17:20:50] <span style="color:#878787">CPA: And will require quite a bit of both materials</span><br />
+[17:20:59] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  passes a box and a key to WE --</span><br />
+[17:21:06] <span style="color:#a3a1af">CWE: what's this?</span><br />
+[17:21:09] <span style="color:#185c8f">CAS: "Without the smith, M_neugh t- OH</span><br />
+[17:21:12] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  inside is a piece of dersium and prospitium --</span><br />
+[17:21:18] <span style="color:#185c8f">CAS: Without the land, many took the land, </span><br />
+[17:21:22] <span style="color:#878787">CPA: These are samples</span><br />
+[17:21:24] <span style="color:#185c8f">CAS: *er</span><br />
+[17:21:27] <span style="color:#185c8f">CAS: without the smith</span><br />
+[17:21:37] <span style="color:#a3a1af">CWE: ah</span><br />
+[17:21:56] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  then pulls out...is TW watching, by some chance? --</span><br />
+[17:22:21] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  yawns and rubs her eyes from all the tireless squinting she's done --</span><br />
+[17:23:34] <span style="color:#878787">CPA: The wagons will arrive in an hour for pick up</span><br />
+[17:23:42] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  climbs out the hatch and walks back to Derspit --</span><br />
+[17:24:12] <span style="color:#a3a1af">CWE: hmm</span><br />
+[17:24:15] <span style="color:#a3a1af">CWE: okay</span><br />
+[17:24:35] <span style="color:#a3a1af">CWE: ill just have to make multiple small piles and captchaplogue them seperately</span><br />
+[17:24:43] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  checks the prices to duplicate --</span><br />
+[17:24:46] <span style="color:#a3a1af">CWE: geezus</span><br />
+[17:24:52] <span style="color:#008002">CPK: ((Haha v2 your wrong, derspit is a real thing :p))</span><br />
+[17:25:00] <span style="color:#688e2e">CSC: ((snrk))</span><br />
+[17:25:18] <span style="color:#c797ee">CLS: ((:b))</span><br />
+[17:25:20] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  I'll take that as a "no." IW pulls out a shrekKind card and a Shrexcalibur, walking to VF --</span><br />
+[17:25:23] <span style="color:#a3a1af">CWE: this is gonna cost me almost half of my grist</span><br />
+[17:25:25] <span style="color:#a518aa">CIW: Clover. I suppose I should return the favor.</span><br />
+[17:25:31] <span style="color:#aa0000">CVF: how's tha-</span><br />
+[17:25:35] <span style="color:#aa0000">CVF: sweet mother of christ.</span><br />
+[17:25:38] <span style="color:#688e2e">CSC: ........</span><br />
+[17:25:49] <span style="color:#646464">-- CURRENT videogameFiona <span style="color:#aa0000">[CVF]</span>  quickly equips shrekKind and checks out the Shrexcalibur --</span><br />
+[17:25:53] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  still ping pong --</span><br />
+[17:26:07] <span style="color:#aa0000">CVF: ...you know. looking at this makes me realize.</span><br />
+[17:26:14] <span style="color:#aa0000">CVF: i took this in-character running gag too far.</span><br />
+[17:26:22] <span style="color:#008002">CPK: ((ShrekKind oh dear god I've see some insane spectri in my time of reading about OCs but that probably takes the cake))</span><br />
+[17:26:28] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  creates lots of dersium and prospitium chunks --</span><br />
+[17:26:32] <span style="color:#aa0000">CVF: well, my youtube character, anyway.</span><br />
+[17:26:36] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  captchas the chuns --</span><br />
+[17:26:40] <span style="color:#a3a1af">CWE: chunks*</span><br />
+[17:26:43] <span style="color:#aa0000">CVF: ...i'll take it regardless because it's fucking amazing.</span><br />
+[17:26:48] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  *chunps --</span><br />
+[17:26:50] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  smiles at her revelation --</span><br />
+[17:26:57] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>   chumps* --</span><br />
+[17:27:00] <span style="color:#a518aa">CIW: Yes, let's draw the line somewhere.</span><br />
+[17:27:03] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  //captchas all the chumps --</span><br />
+[17:27:17] <span style="color:#008002">CPK: ((Also IW you should seriously make an ic YouTube channel for VF))</span><br />
+[17:27:18] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  IF was catpcha'd --</span><br />
+[17:27:25] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  *EF --</span><br />
+[17:27:33] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  //muffled swearing --</span><br />
+[17:27:40] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  smoke's sylladex is now full of Seth --</span><br />
+[17:27:49] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  all the Seth --</span><br />
+[17:27:52] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  ever --</span><br />
+[17:27:55] <span style="color:#646464">-- CURRENT stealthyCalligrapher <span style="color:#688e2e">[CSC]</span>  dies laughing oocly --</span><br />
+[17:27:56] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  overflowing with doomed seth --</span><br />
+[17:28:07] <span style="color:#a518aa">CIW: ((Should I? I can't do a girl voice.))</span><br />
+[17:28:07] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  "OH GOD ITS EVERYWHERE" --</span><br />
+[17:28:26] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  takes the last remaining bit he has and crafts some hella rad armor and swords, more specifically, two sets of greatswords and armor with one made of Dersium and the other of Prospitium --</span><br />
+[17:28:29] <span style="color:#c797ee">CLS: ((do you have a way to change the voice pitch with a program?))</span><br />
+[17:28:42] <span style="color:#688e2e">CSC: ((you don't have to voiceover, you could just do text comments if you have a decent video editor))</span><br />
+[17:28:55] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  an enormous wagon being pulled by a brute rolls up infront of the hatch --</span><br />
+[17:29:03] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  walks outside --</span><br />
+[17:29:06] <span style="color:#a3a1af">CWE: alright </span><br />
+[17:29:07] <span style="color:#c797ee">CLS: ((could even just use a text to speech thing))</span><br />
+[17:29:10] <span style="color:#a3a1af">CWE: i got it</span><br />
+[17:29:16] <span style="color:#008002">CPK: ((At the very least a DSI can work in a pinch))</span><br />
+[17:29:16] <span style="color:#a3a1af">CWE: which is for which material</span><br />
+[17:29:16] <span style="color:#614c7c">CTW: Uh...wh...what's going on now?</span><br />
+[17:29:24] <span style="color:#185c8f">CAS: I finished decoding everything.</span><br />
+[17:29:25] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  is now outside --</span><br />
+[17:29:33] <span style="color:#185c8f">CAS: Well- I mean Charles did like 90% of the work</span><br />
+[17:30:03] <span style="color:#008002">CPK: Derspit asked for more dersium and prospitium</span><br />
+[17:30:12] <span style="color:#688e2e">CSC: and I offered like maybe two suggestions, so that's like 1% of the work :P</span><br />
+[17:30:16] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  a --</span><br />
+[17:30:24] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  pops out of the wagon --</span><br />
+[17:30:30] <span style="color:#878787">CPA: put both in the same one</span><br />
+[17:30:30] <span style="color:#614c7c">CTW: uh...okay</span><br />
+[17:30:31] <span style="color:#a3a1af">CWE: y'know</span><br />
+[17:30:40] <span style="color:#a3a1af">CWE: i could just fly over there so you guys down have to haul it</span><br />
+[17:30:40] <span style="color:#008002">CPK: And I boogled blankly at the board</span><br />
+[17:30:46] <span style="color:#a3a1af">CWE: it is just in my sylladex</span><br />
+[17:31:04] <span style="color:#008002">CPK: So that's like 0.000001% of the sorl</span><br />
+[17:31:08] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  *work --</span><br />
+[17:31:18] <span style="color:#688e2e">CSC: hey WE, how much does an individual brick of that stuff cost? I want to make something later...</span><br />
+[17:31:30] <span style="color:#a3a1af">CWE: well let's see</span><br />
+[17:31:32] <span style="color:#a3a1af">CWE: a wagon load of each</span><br />
+[17:31:51] <span style="color:#878787">CPA: nono, we have to deposit it in a safe place</span><br />
+[17:31:52] <span style="color:#a3a1af">CWE: cost me 3/8 of a denizen hoard</span><br />
+[17:32:04] <span style="color:#a3a1af">CWE: almost a 1/4</span><br />
+[17:32:07] <span style="color:#688e2e">CSC: ...hopy shit...</span><br />
+[17:32:15] <span style="color:#a3a1af">CWE: ((hopey shit))</span><br />
+[17:32:20] <span style="color:#a3a1af">CWE: ((PK do the Hopy Shit))</span><br />
+[17:32:30] <span style="color:#688e2e">CSC: ((W_E))</span><br />
+[17:32:50] <span style="color:#878787">CPA: its worth too much to possibly give away the storage location</span><br />
+[17:33:02] <span style="color:#008002">CPK: Alright</span><br />
+[17:33:13] <span style="color:#878787">CPA: do you know how many guys from the black market want this stuff?</span><br />
+[17:33:20] <span style="color:#a3a1af">CWE: haha</span><br />
+[17:33:25] <span style="color:#a3a1af">CWE: okay</span><br />
+[17:33:25] <span style="color:#008002">CPK: 17</span><br />
+[17:33:29] <span style="color:#878787">CPA: its practically worth a boon mint!</span><br />
+[17:33:36] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  dumps the wagon loads into the wagons --</span><br />
+[17:33:48] <span style="color:#a3a1af">CWE: there you go</span><br />
+[17:33:51] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  goes back inside --</span><br />
+[17:33:52] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  puts an enormous covering over the wagon --</span><br />
+[17:33:57] <span style="color:#a3a1af">CWE: and to answer your question SC</span><br />
+[17:34:02] <span style="color:#878787">CPA: pleasure doing business with you</span><br />
+[17:34:02] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  says jokingly to SC "oh so it isn't worth anything" --</span><br />
+[17:34:04] <span style="color:#a3a1af">CWE: of a single bric</span><br />
+[17:34:14] <span style="color:#a3a1af">CWE: brick*</span><br />
+[17:34:29] <span style="color:#878787">CPA: I owe you 3 favors now</span><br />
+[17:34:40] <span style="color:#646464">-- CURRENT prospitianArchitect <span style="color:#878787">[CPA]</span>  the brute and the architect go back to town --</span><br />
+[17:34:42] <span style="color:#008002">CPK: Since we can just dupe money</span><br />
+[17:35:19] <span style="color:#646464"><span style="color:#000000">CPA</span> ceased responding to memo.</span><br />
+[17:35:32] <span style="color:#c797ee">CLS: PK, do you want to cause hyperinflation?</span><br />
+[17:35:45] <span style="color:#185c8f">CAS: That would be unfortunate.</span><br />
+[17:37:36] <span style="color:#008002">CPK: No I was just saying</span><br />
+[17:38:06] <span style="color:#008002">CPK: Technically boons are worthless to us since we can just dupe them so easily</span><br />
+[17:38:22] <span style="color:#a3a1af">CWE: idk how much a single one would cost</span><br />
+[17:38:28] <span style="color:#c797ee">CLS: I don't think I'll be able to help very much with the brick thing... I spent a ton of grist last night on a handheld positron rifle... ((and haven't gotten any reward because I'm not allowed to administer my own rewards))</span><br />
+[17:38:33] <span style="color:#a3a1af">CWE: figuring a denizen's hoard can vary im assuming</span><br />
+[17:38:46] <span style="color:#185c8f">CAS: Why do we need the brick anyway?</span><br />
+[17:38:58] <span style="color:#000000">CFR: Oh yeah</span><br />
+[17:38:58] <span style="color:#a3a1af">CWE: the architet needed it for building</span><br />
+[17:38:59] <span style="color:#a3a1af">CWE: but </span><br />
+[17:38:59] <span style="color:#688e2e">CSC: mostly as a cost estimate</span><br />
+[17:39:00] <span style="color:#000000">CFR: I need to go into town</span><br />
+[17:39:02] <span style="color:#000000">CFR: uh</span><br />
+[17:39:06] <span style="color:#000000">CFR: if anyone wants to come</span><br />
+[17:39:09] <span style="color:#000000">CFR: that's where i'll be</span><br />
+[17:39:24] <span style="color:#646464">-- CURRENT fetchingRogue <span style="color:#000000">[CFR]</span>  hops out the hatch and heads to <a href='#SBARGLostPawns_Derspit'>#SBARGLostPawns_Derspit</a> --</span><br />
+[17:39:24] <span style="color:#a3a1af">CWE: he allowed me to use it for my own purposes while i had the original samples</span><br />
+[17:39:29] <span style="color:#688e2e">CSC: eh, sure. I don't think I've seen the town yet...</span><br />
+[17:39:35] <span style="color:#646464">-- CURRENT stealthyCalligrapher <span style="color:#688e2e">[CSC]</span>  follows FR --</span><br />
+[17:39:36] <span style="color:#a3a1af">CWE: therefore i was able to make some rad armor</span><br />
+[17:39:41] <span style="color:#a3a1af">CWE: and swords</span><br />
+[17:39:42] <span style="color:#a3a1af">CWE: which</span><br />
+[17:39:45] <span style="color:#c797ee">CLS: alright then, sounds cool.</span><br />
+[17:39:49] <span style="color:#a3a1af">CWE: IW</span><br />
+[17:39:51] <span style="color:#185c8f">CAS: I might follow too. just- to get around. </span><br />
+[17:39:54] <span style="color:#646464">-- CURRENT lavenderSiren <span style="color:#c797ee">[CLS]</span>  also follows --</span><br />
+[17:40:02] <span style="color:#a3a1af">CWE: you owe me one favor now </span><br />
+[17:40:02] <span style="color:#646464">-- CURRENT astraySheep <span style="color:#185c8f">[CAS]</span>  joins the congaline --</span><br />
+[17:40:10] <span style="color:#a518aa">CIW: Which is?</span><br />
+[17:40:15] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  alchemtizes a zone 30 from a capchaoid and hooks it up to the tv --</span><br />
+[17:40:21] <span style="color:#008002">CPK: (( <a href='http://en.m.wikipedia.org/wiki/Zone_(game_consoles)'>http://en.m.wikipedia.org/wiki/Zone_(game_consoles)</a> ))</span><br />
+[17:40:31] <span style="color:#646464">-- CURRENT whiteExtent <span style="color:#a3a1af">[CWE]</span>  presents IW with the Prospitium Greatsword and Prospitium Chainmail Armor --</span><br />
+[17:40:35] <span style="color:#a3a1af">CWE: this</span><br />
+[17:40:39] <span style="color:#a3a1af">CWE: the favor</span><br />
+[17:40:44] <span style="color:#a3a1af">CWE: ill be saving for a later time</span><br />
+[17:40:49] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  looks at the equipment in awe --</span><br />
+[17:40:49] <span style="color:#646464">-- CURRENT powerKitten <span style="color:#008002">[CPK]</span>  plays The Cat and The Mouse(zone 30) --</span><br />
+[17:40:55] <span style="color:#a518aa">CIW: Amazing! Thank you, comrade.</span><br />
+[17:41:05] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  takes it, comparing stats to the Giant's Armor +5 --</span><br />
+[17:41:10] <span style="color:#a3a1af">CWE: but remember, youre in debt to me by statistically</span><br />
+[17:41:13] <span style="color:#a3a1af">CWE: "one favor"</span><br />
+[17:41:24] <span style="color:#a518aa">CIW: Correct.</span><br />
+[17:42:02] <span style="color:#a3a1af">CWE: I have my own set as well</span><br />
+[17:42:12] <span style="color:#a3a1af">CWE: though, it's Dersium</span><br />
+[17:42:35] <span style="color:#a518aa">CIW: ((Quick, how tough is Prospitium?))</span><br />
+[17:42:46] <span style="color:#a3a1af">CWE: only immense, godly power could break or hurt the armor if im not mistaken</span><br />
+[17:42:49] <span style="color:#a3a1af">CWE: or maybe i am</span><br />
+[17:42:53] <span style="color:#008002">CPK: ((MH?))</span><br />
+[17:42:54] <span style="color:#a3a1af">CWE: i just know theyre both hella tough</span><br />
+[17:43:48] <span style="color:#a518aa">CIW: ((Would you say it's stronger than this armor: <a href='http://darksouls.wdfiles.com/local--files/armor/giant-set-large.jpg'>http://darksouls.wdfiles.com/local--files/armor/giant-set-large.jpg</a> ))</span><br />
+[17:45:06] <span style="color:#008002">CPK: (( FR ))</span><br />
+[17:45:15] <span style="color:#000000">CFR: ((hm?))</span><br />
+[17:45:26] <span style="color:#a518aa">CIW: ((Hell with it, I got a plan.))</span><br />
+[17:45:43] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  takes the Prospitium Greatsword, and throws the Giant's Set into the air --</span><br />
+[17:46:08] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  proceeds to slice at the armor, cutting it easily --</span><br />
+[17:46:09] <span style="color:#a518aa">CIW: ...Not bad.</span><br />
+[17:47:01] <span style="color:#a3a1af">CWE: ((i wish i could look like this with my armor <a href='http://forums.na.leagueoflegends.com/board/attachment.php?attachmentid=806647&d=1382449053'>http://forums.na.leagueoflegends.com/board/attachment.php?attachmentid=806647&d=1382449053</a> ))</span><br />
+[17:47:05] <span style="color:#a3a1af">CWE: ((so swag))</span><br />
+[17:48:24] <span style="color:#008002">CPK: (( IW asked how strong prospitium is))</span><br />
+[17:48:53] <span style="color:#a3a1af">CWE: ((i answered, "godly strong, at least to my knowledge"</span><br />
+[17:48:55] <span style="color:#a518aa">CIW: ((I got it.))</span><br />
+[17:48:55] <span style="color:#a3a1af">CWE: ))</span><br />
+[17:49:08] <span style="color:#a518aa">CIW: ((It's strong enough to destroy a Giant's Set of armor))</span><br />
+[17:49:10] <span style="color:#646464"><span style="color:#000000">CPK</span> ceased responding to memo.</span><br />
+[17:49:19] <span style="color:#646464">-- CURRENT infernoWizard <span style="color:#a518aa">[CIW]</span>  takes the Giant's Set, and realizes he just wasted good armor --</span><br />
+[17:49:38] <span style="color:#a518aa">CIW: ...Do we have any way to recycle items for grist?</span><br />
+[17:49:40] <span style="color:#a3a1af">CWE: ((remember though that it is Chainmail, therefore not covering every pary with a plate))</span><br />
+[17:49:49] <span style="color:#a3a1af">CWE: ((part*))</span><br />
+[17:50:07] <span style="color:#a3a1af">CWE: ((the chain is strong, but not as strong as the plates))</span><br />
+[17:50:13] <span style="color:#a3a1af">CWE: ((i still need to draw the armor for viewing))</span><br />
+[17:50:21] <span style="color:#a518aa">CIW: ((Oh shit. So I could've used it to make Prospitian Full Plate, or?))</span><br />
+[17:50:51] <span style="color:#a3a1af">CWE: ((possilby, but it would cost you apporximately half a denizen's hoard))</span><br />
+[17:51:00] <span style="color:#a3a1af">CWE: ((which, no one has im pretty sure))</span><br />
+[17:51:07] <span style="color:#a3a1af">CWE: ((i only have 1/4 of mine))</span><br />
+[17:51:23] <span style="color:#a3a1af">CWE: ((taht is))</span><br />
+[17:51:33] <span style="color:#a3a1af">CWE: ((unless we find a denizen's hoard on the snow planet))</span><br />
+[17:51:55] <span style="color:#a518aa">CIW: ((Well, I suppose more concentrated defense can be better than spread out defense.))</span><br />
+[17:52:23] <span style="color:#a3a1af">CWE: ((plus a full plate prohibits movement A LOT))</span><br />
+[17:52:27] <span style="color:#a3a1af">CWE: ((chainmail is more versatile))</span><br />
+[17:52:47] <span style="color:#a518aa">CIW: ((I had boosted Isaak's Endurance and gave him a +20% equipment burden ring so would that still be a problem?))</span><br />
+[17:53:00] <span style="color:#a518aa">CIW: ((Should we take this to PM, by the way?))</span><br />
+[17:53:20] <span style="color:#a3a1af">CWE: ((naw,, no one else is talking))</span><br />
+[17:53:23] <span style="color:#a518aa">CIW: ((Alright.))</span><br />
+[17:53:59] <span style="color:#a3a1af">CWE: ((even with a strength ring, that would just allow you to carry more, and probably run faster, your moveability would still be slow))</span><br />
+[17:54:02] <span style="color:#a518aa">CIW: ((So, how much would it cost to alchemize the Greatswords with scissor halves, so they could form into a pain of godly scissors of sorts?))</span><br />
+[17:54:06] <span style="color:#a3a1af">CWE: ((like swinging a sword quickly))</span><br />
+[17:54:15] <span style="color:#a3a1af">CWE: ((you couldnt do that really with heavy armor))</span><br />
+[17:54:29] <span style="color:#a518aa">CIW: ((In Dark Souls you can, but I guess it varies by weapon.))</span><br />
+[17:55:21] <span style="color:#a3a1af">CWE: ((well, i was thinking a giiant sword, and not scissors. that would require the scissorKind specibi))</span><br />
+[17:55:32] <span style="color:#a518aa">CIW: ((I mean...let me draw it.))</span><br />
+[17:55:42] <span style="color:#a3a1af">CWE: ((but that requires magic, not alchemy))</span><br />
+[17:57:39] <span style="color:#a518aa">CIW: (( <a href='http://i.imgur.com/n5OVA2C.png'>http://i.imgur.com/n5OVA2C.png</a> ))</span><br />
+[17:57:50] <span style="color:#a518aa">CIW: ((Basically, when they're in half, they can be used as swords.))</span><br />
+[17:58:00] <span style="color:#a518aa">CIW: ((Then when you put them together, they're two-man scissors of sorts.)_)</span><br />

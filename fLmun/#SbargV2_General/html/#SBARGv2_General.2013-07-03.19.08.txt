@@ -1,0 +1,94 @@
+<span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CCD</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CLL</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#6507ff">CTT: afk</span><br />
+<span style="color:#d1cfcd"><span style="color:#412841">CURRENT symphonicAnima [CSA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#412841">CSA: ... wow.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CMS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CMS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CAT</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CAT</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ee1e00">CCP:  <span style="color:#00ed4f">0x00ED4F</span> &lt;== color for the you-know-what</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CIS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CIS</span> ceased responding to memo.</span><br />
+<span style="color:#412841">CSA:  <a href='http://melodiesofthemind.tumblr.com'>http://melodiesofthemind.tumblr.com</a></span><br />
+<span style="color:#412841">CSA: ^IC tumblr. Will be putting password protection on shortly.</span><br />
+<span style="color:#d1cfcd"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> is a story all about how</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">my</span> life got flipped turned upside down</span><br />
+<span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#cb7de6">CSJ: mom's spaghetti</span><br />
+<span style="color:#412841">CSA: oh my god.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">take</span> a seat SA and just sit right there</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">while</span> I tell you a thing about your blog theme making me rip out my hair</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">okay</span> no actually it's fine</span><br />
+<span style="color:#412841">CSA: i give no shits about my theme.</span><br />
+<span style="color:#412841">CSA: it's a side blog for all the stuff i needed to dump somewhere</span><br />
+<span style="color:#412841">CSA: hence /that/</span><br />
+<span style="color:#412841">CSA: Also it's interactive!!</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span></span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> it radioactive</span><br />
+<span style="color:#412841">CSA: oh my god</span><br />
+<span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#9d001f">CRS: hahahaha</span><br />
+<span style="color:#d1cfcd"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#7ccfb2">CAG: DOES ANYONE KNOW THE RECIPE FOR CHLOROFORM</span><br />
+<span style="color:#412841">CSA: ...</span><br />
+<span style="color:#ee1e00">CCP: . . . . . . . . </span><br />
+<span style="color:#7ccfb2">CAG: I AM GETTING THAT FUCKING RECIPE</span><br />
+<span style="color:#7ccfb2">CAG: I NEED IT /SO MUCH/</span><br />
+<span style="color:#412841">CSA: ...</span><br />
+<span style="color:#41742f">CNN: <span style="color:#4d3c37">ask</span> the deep web</span><br />
+<span style="color:#d1cfcd"><span style="color:#0000c1">CURRENT matrixAssassin [CMA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0000c1">CMA: ...</span><br />
+<span style="color:#ee1e00">CCP: AG I'm pretty sure you're aiming for Incipi, not the OOC memo.</span><br />
+<span style="color:#cb7de6">CSJ: um, I hope that's the wrong memo</span><br />
+<span style="color:#9d001f">CRS: ...The scary thing is</span><br />
+<span style="color:#9d001f">CRS: I'm not so sure.</span><br />
+<span style="color:#412841">CSA: It could be for either.</span><br />
+<span style="color:#0000c1">CMA: ^</span><br />
+<span style="color:#d1cfcd"><span style="color:#133295">CURRENT existentialPenguin [CEP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#133295">CEP: o_o :&gt;</span><br />
+<span style="color:#412841">CSA: /It could be for either./</span><br />
+<span style="color:#412841">CSA: Um.</span><br />
+<span style="color:#7ccfb2">CAG: /I AM CHLOROFORMING THE SHIT OUT OF ALL THESE BITCHES/</span><br />
+<span style="color:#133295">CEP: AG, /why/ do you need it? :&gt;</span><br />
+<span style="color:#7ccfb2">CAG: So I can knock people out.</span><br />
+<span style="color:#133295">CEP: But why do you want to knock people out? :&gt;</span><br />
+<span style="color:#7ccfb2">CAG: Because they need to be.</span><br />
+<span style="color:#d1cfcd"><span style="color:#c1bb10">CURRENT courageousScribe [CCS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#c1bb10">CCS: hey i'm back\l/</span><br />
+<span style="color:#0000c1">CMA: hi</span><br />
+<span style="color:#412841">CSA: hi</span><br />
+<span style="color:#cb7de6">CSJ: hi CS</span><br />
+<span style="color:#133295">CEP: Hi CS :&gt;</span><br />
+<span style="color:#d1cfcd"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ceca54">CFS: ~}----  heeeeeeeeeeeey there CS</span><br />
+<span style="color:#c1bb10">CCS: hello and hello again\l/</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPD</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPD</span> ceased responding to memo.</span><br />
+<span style="color:#c1bb10">CCS: hey you have a gps right?\l/</span><br />
+<span style="color:#c1bb10">CCS: *fs\l/</span><br />
+<span style="color:#c1bb10">CCS: fs do you have a gps?\l/</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+<span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />

@@ -1,0 +1,2 @@
+[11:42:39] <span style="color:#d1cfcd">-- sweggyMeggy <span style="color:#000000">[SM]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 11:42 --</span><br />
+[11:42:44] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging sweggyMeggy <span style="color:#780204">[SM]</span> at 11:42 --</span><br />

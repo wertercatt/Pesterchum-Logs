@@ -1,0 +1,4 @@
+[12:57:33] <span style="color:#d1cfcd">-- gothicNightmare <span style="color:#000000">[GN]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 12:57 --</span><br />
+[12:57:38] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> is now an idle chum! --</span><br />
+[12:57:38] <span style="color:#aa0000">GN: Hi</span><br />
+[12:57:42] <span style="color:#d1cfcd">-- gothicNightmare <span style="color:#aa0000">[GN]</span> stopped messaging frozenLake <span style="color:#0078f0">[FL]</span> at 12:57 --</span><br />

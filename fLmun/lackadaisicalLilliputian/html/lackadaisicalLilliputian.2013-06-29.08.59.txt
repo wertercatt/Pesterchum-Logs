@@ -1,0 +1,54 @@
+[08:59] <span style="color:#d1cfcd">-- fLmun <span style="color:#0080ff">[FL]</span> began messaging lackadaisicalLilliputian <span style="color:#33dd00">[LL]</span> at 08:59 --</span><br />
+[08:59] <span style="color:#0080ff">FL: (( Hey, mind building up NN's place in overseer? ))</span><br />
+[08:59] <span style="color:#00aa00">LL: ((sure))</span><br />
+[09:00] <span style="color:#00aa00">LL: ((oh))</span><br />
+[09:01] <span style="color:#00aa00">LL: ((where do I do that again?))</span><br />
+[09:02] <span style="color:#0080ff">FL: (( <a href='http://www.theoverseerproject.com/overview.php'>http://www.theoverseerproject.com/overview.php</a> ))</span><br />
+[09:02] <span style="color:#0080ff">FL: (( At the bottom ))</span><br />
+[09:02] <span style="color:#00aa00">LL: ((it's not there))</span><br />
+[09:02] <span style="color:#0080ff">FL: (( Hmm? ))</span><br />
+[09:02] <span style="color:#00aa00">LL: ((the place where you upgrade it))</span><br />
+[09:02] <span style="color:#0080ff">FL: (( have you alchemized a computer? ))</span><br />
+[09:02] <span style="color:#00aa00">LL: ((no))</span><br />
+[09:03] <span style="color:#0080ff">FL: (( There you go.</span><br />
+[09:03] <span style="color:#0080ff">FL:  ))</span><br />
+[09:03] <span style="color:#0080ff">FL: (( There is one in the Captchalogue Catalogue ))</span><br />
+[09:03] <span style="color:#00aa00">LL: ((how much should I use?))</span><br />
+[09:03] <span style="color:#00aa00">LL: ((yeah I got it))</span><br />
+[09:04] <span style="color:#0080ff">FL: (( Bring him down to the nearest Hundred Thousand ))</span><br />
+[09:05] <span style="color:#00aa00">LL: ((done))</span><br />
+[09:05] <span style="color:#0080ff">FL: (( Thanks. ))</span><br />
+[09:06] <span style="color:#00aa00">LL: ((no problem))</span><br />
+[09:06] <span style="color:#0080ff">FL: (( How far is your house? ))</span><br />
+[09:07] <span style="color:#00aa00">LL: Server player: squealingVermin  Grist expended expanding your dwelling: 0  House gates accessible on your Land: 0</span><br />
+[09:07] <span style="color:#00aa00">LL: *(())</span><br />
+[09:07] <span style="color:#0080ff">FL: (( Welp. ))</span><br />
+[09:07] <span style="color:#00aa00">LL: ((I'm going to do some strifing))</span><br />
+[09:07] <span style="color:#0080ff">FL: (( That explains why that doesn't work. ))</span><br />
+[09:08] <span style="color:#0080ff">FL: (( I was hoping I could go to another land, but considering you aren't at the first gate, I don't think that I'll be able to strife on your land yet. ))</span><br />
+[09:08] <span style="color:#00aa00">LL: ((yeah))</span><br />
+[09:09] <span style="color:#0080ff">FL: (( You might wanna ask SV to build up your place. ))</span><br />
+[09:09] <span style="color:#00aa00">LL: ((I will do))</span><br />
+[09:10] <span style="color:#0080ff">FL: (( A total of 25000 grist on your dwelling should get you to the third gate, as I'm at it and have 25120 spent on mine. ))</span><br />
+[09:10] <span style="color:#00aa00">LL: ((kk))</span><br />
+[09:10] <span style="color:#0080ff">FL: (( Hold on. ))</span><br />
+[09:11] <span style="color:#0080ff">FL: (( I sent you grist. ))</span><br />
+[09:11] <span style="color:#00aa00">LL: ((thank you))</span><br />
+[09:12] <span style="color:#00aa00">LL: ((do you want me to send that back?))</span><br />
+[09:12] <span style="color:#0080ff">FL: (( No. ))</span><br />
+[09:12] <span style="color:#0080ff">FL: (( Its a gift to you. ))</span><br />
+[09:12] <span style="color:#00aa00">LL: ((thank you))</span><br />
+[09:13] <span style="color:#0080ff">FL: (( Besides I already have a Master Sword. ))</span><br />
+[09:13] <span style="color:#00aa00">LL: ((ah ok))</span><br />
+[09:13] <span style="color:#0080ff">FL: (( Oh god why do I think its a good idea to dual wield master swords. ))</span><br />
+[09:14] <span style="color:#00aa00">LL: ((pfft))</span><br />
+[09:16] <span style="color:#0080ff">FL: (( What is your strife specibus? ))</span><br />
+[09:16] <span style="color:#00aa00">LL: ((bookkind))</span><br />
+[09:16] <span style="color:#0080ff">FL: (( Alright... ))</span><br />
+[09:17] <span style="color:#0080ff">FL: (( You should look through here if you wanna look up codes for items. ))</span><br />
+[09:17] <span style="color:#0080ff">FL: (( <a href='http://www.theoverseerproject.com/atheneum.php'>http://www.theoverseerproject.com/atheneum.php</a> ))</span><br />
+[09:22] <span style="color:#0080ff">FL: (( And now I'm dual wielding Master Swords. ))</span><br />
+[09:22] <span style="color:#00aa00">LL: ((wow))</span><br />
+[09:28] <span style="color:#0080ff">FL: (( And I can take down A Cobalt Basilisk solo now... Just takes forever. ))</span><br />
+[09:28] <span style="color:#00aa00">LL: ((I'm just killing Blood Ogre's repeatedly))</span><br />
+[09:33] <span style="color:#d1cfcd">-- fLmun <span style="color:#0080ff">[FL]</span> stopped messaging lackadaisicalLilliputian <span style="color:#00aa00">[LL]</span> at 09:33 --</span><br />

@@ -1,0 +1,1316 @@
+[12:27:10] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
+[12:27:10] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[12:27:10] <span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[12:33:24] <span style="color:#d1cfcd"><span style="color:#005400">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[12:33:24] <span style="color:#005400">CSL: anybody on overseer have 200 cobalt they could transfer me?</span><br />
+[12:33:37] <span style="color:#d1cfcd"><span style="color:#133295">CURRENT existentialPenguin [CEP]</span> RIGHT NOW responded to memo.</span><br />
+[12:33:37] <span style="color:#133295">CEP: cobalt... :&gt;</span><br />
+[12:33:41] <span style="color:#133295">CEP: I could check :&gt;</span><br />
+[12:33:47] <span style="color:#005400">CSL: my land doesnt have any and i dont have a server player yet or i would</span><br />
+[12:34:26] <span style="color:#d1cfcd"><span style="color:#00aa00">CURRENT lackadaisicalLilliputian [CLL]</span> RIGHT NOW responded to memo.</span><br />
+[12:34:26] <span style="color:#00aa00">CLL: what's your name on it?</span><br />
+[12:34:33] <span style="color:#005400">CSL: same as here</span><br />
+[12:34:38] <span style="color:#005400">CSL: slothfulLunchmeat</span><br />
+[12:34:59] <span style="color:#0080ff">CFL: SL, what grists do you have?</span><br />
+[12:35:05] <span style="color:#005400">CSL: lemme check</span><br />
+[12:35:08] <span style="color:#00aa00">CLL: sent it</span><br />
+[12:35:12] <span style="color:#005400">CSL: thnx</span><br />
+[12:35:38] <span style="color:#005400">CSL: Grist types available on this player's Land: Frosting, Rock_Candy, Marble, Amber, Ruby, Sunstone, Rose_Quartz, Polychromite, Rainbow.</span><br />
+[12:35:48] <span style="color:#0080ff">CFL: Okay...</span><br />
+[12:36:16] <span style="color:#133295">CEP: I have 0 cobalt :&gt;</span><br />
+[12:38:01] <span style="color:#0080ff">CFL: Fw2cDtNL</span><br />
+[12:38:35] <span style="color:#0080ff">CFL: code for a semi decent sword that you can get from the start of the game</span><br />
+[12:38:50] <span style="color:#005400">CSL: awesome</span><br />
+[12:39:20] <span style="color:#0080ff">CFL: I recommend it because... that is what I used.</span><br />
+[12:39:21] <span style="color:#00aa00">CLL: ok I have my first  fraymotifs</span><br />
+[12:39:59] <span style="color:#0080ff">CFL: Until I alchemized the Master sword.</span><br />
+[12:40:18] <span style="color:#005400">CSL: dual-wielding that and a color sword</span><br />
+[12:42:04] <span style="color:#0080ff">CFL: And then I used the Tectrixcalibur after the Broken Caledfwlch, until I picked up penkind from an Imp.</span><br />
+[12:42:25] <span style="color:#0080ff">CFL: then I made Armok's Quill</span><br />
+[12:42:30] <span style="color:#0080ff">CFL: 2 of them, actually.</span><br />
+[12:42:57] <span style="color:#0080ff">CFL: ...wait, no, I used the Anaklusmos for a period of time...</span><br />
+[12:44:08] <span style="color:#d1cfcd"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
+[12:44:40] <span style="color:#005400">CSL: are these massive action penalties really worth the attack bonus though</span><br />
+[12:45:17] <span style="color:#005400">CSL: yeah im just gonna switch back to my flamberge</span><br />
+[12:45:50] <span style="color:#d1cfcd"><span style="color:#410f41">CURRENT symphonicAnima [CSA]</span> RIGHT NOW responded to memo.</span><br />
+[12:45:50] <span style="color:#410f41">CSA: Anaklusmos are nice but goddamn.</span><br />
+[12:45:59] <span style="color:#410f41">CSA: There aren't any bonuses and it's just... not enough.</span><br />
+[12:46:07] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[12:46:13] <span style="color:#005400">CSL: anaklusmos?</span><br />
+[12:46:20] <span style="color:#410f41">CSA: Endgame pen/bladekind combo.</span><br />
+[12:46:25] <span style="color:#410f41">CSA: Okay, tip here.</span><br />
+[12:46:26] <span style="color:#0080ff">CFL: Which is why I'm currently using the two quills.</span><br />
+[12:46:30] <span style="color:#005400">CSL: ?</span><br />
+[12:46:31] <span style="color:#0080ff">CFL: Yes?</span><br />
+[12:46:39] <span style="color:#410f41">CSA: You want to either dual wield two weapons</span><br />
+[12:46:48] <span style="color:#410f41">CSA: with either 9999 power and +3333 bonuses</span><br />
+[12:46:53] <span style="color:#410f41">CSA: or 6666 power and bonuses</span><br />
+[12:47:06] <span style="color:#410f41">CSA: or use a two handed weapon with 9999 power and bonuses</span><br />
+[12:47:06] <span style="color:#005400">CSL: i am still early-game yo</span><br />
+[12:47:15] <span style="color:#005400">CSL: lv 73</span><br />
+[12:47:18] <span style="color:#00aa00">CLL: normal +9999</span><br />
+[12:47:20] <span style="color:#410f41">CSA: because both add up to nearly 20000 oiwer</span><br />
+[12:47:22] <span style="color:#410f41">CSA: *power</span><br />
+[12:47:49] <span style="color:#0080ff">CFL: And then you wanna boost that with Armor.</span><br />
+[12:47:51] <span style="color:#d1cfcd"><span style="color:#000000">CMA</span> ceased responding to memo.</span><br />
+[12:47:55] <span style="color:#d1cfcd"><span style="color:#000000">CMA</span> ceased responding to memo.</span><br />
+[12:48:31] <span style="color:#00aa00">CLL: SL how much grist is on EP's house?</span><br />
+[12:48:47] <span style="color:#005400">CSL: hang on lemme check</span><br />
+[12:48:59] <span style="color:#005400">CSL:  Client's Build Grist: 5171000 Client's house investment: 100022998</span><br />
+[12:49:06] <span style="color:#00aa00">CLL: huh</span><br />
+[12:49:22] <span style="color:#133295">CEP: That was back when Noodles was my server :&gt;</span><br />
+[12:49:29] <span style="color:#005400">CSL: i need a server btw</span><br />
+[12:49:31] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[12:49:31] <span style="color:#9d001f">CRS: Off-hand weapons suffer a half penalty to both power and bonuses</span><br />
+[12:49:34] <span style="color:#005400">CSL: yeah i only put on like 2000</span><br />
+[12:49:59] <span style="color:#00aa00">CLL: I cant reach SL's land for some reason...</span><br />
+[12:50:02] <span style="color:#9d001f">CRS: It's /technically/ better to dual-wield, comes out to about 16k power level but I've been fine with my two-handed. The bonuses might be to blame</span><br />
+[12:50:09] <span style="color:#005400">CSL: i dont have a gate yet</span><br />
+[12:50:23] <span style="color:#005400">CSL: really need a server player</span><br />
+[12:50:42] <span style="color:#0080ff">CFL: Thats odd, the bonuses don't seem to halve for me... just the power.</span><br />
+[12:51:19] <span style="color:#005400">CSL: anyway i gtg, doctor appointment</span><br />
+[12:51:26] <span style="color:#410f41">CSA: no actually it's the same Raz</span><br />
+[12:51:29] <span style="color:#00aa00">CLL: bye</span><br />
+[12:51:46] <span style="color:#133295">CEP: Later, LL :&gt;</span><br />
+[12:51:48] <span style="color:#133295">CEP: And hello NN :&gt;</span><br />
+[12:51:49] <span style="color:#410f41">CSA: it's just that dualwielding is less balanced in comparison to two handed</span><br />
+[12:51:53] <span style="color:#00aa00">CLL: ?</span><br />
+[12:51:55] <span style="color:#133295">CEP: Oh, :&gt;</span><br />
+[12:51:56] <span style="color:#d1cfcd"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[12:51:56] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  kicks EP in the dick --</span><br />
+[12:51:56] <span style="color:#133295">CEP: Later SL :&gt;</span><br />
+[12:52:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> toast pls thnx</span><br />
+[12:52:01] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[12:52:01] <span style="color:#cb7de6">CSJ: hi</span><br />
+[12:52:05] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  just woke up --</span><br />
+[12:52:09] <span style="color:#410f41">CSA: the bonuses add up /huge/ when fighting with two handed endgame weapons</span><br />
+[12:52:19] <span style="color:#9d001f">CRS: yeah that figures</span><br />
+[12:52:20] <span style="color:#133295">CEP: Dick Cheney just got kicked. :&gt;</span><br />
+[12:52:32] <span style="color:#410f41">CSA: basically</span><br />
+[12:52:39] <span style="color:#410f41">CSA: raw power, go for dual wielding</span><br />
+[12:52:47] <span style="color:#410f41">CSA: balanced hits, go for two handed weapons</span><br />
+[12:54:23] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[12:55:03] <span style="color:#410f41">CSA: aaaand upd8ing IC blog</span><br />
+[12:57:41] <span style="color:#410f41">CSA:  <a href='http://melodiesofthemind.tumblr.com/post/56159864461/view-timelines'>http://melodiesofthemind.tumblr.com/post/56159864461/view-timelines</a></span><br />
+[12:59:35] <span style="color:#9d001f">CRS: that's not an update its a character select screen</span><br />
+[12:59:37] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[12:59:42] <span style="color:#9d001f">CRS: and the panels aren't done yet</span><br />
+[12:59:48] <span style="color:#9d001f">CRS: who do you think you are, hussie?</span><br />
+[12:59:51] <span style="color:#410f41">CSA: ...</span><br />
+[12:59:52] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[12:59:52] <span style="color:#ee1e00">CCP: RS why did you toast me</span><br />
+[12:59:56] <span style="color:#ee1e00">CCP:  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[12:59:56] <span style="color:#410f41">CSA: omfg</span><br />
+[01:00:08] <span style="color:#9d001f">CRS: wait what</span><br />
+[01:00:17] <span style="color:#133295">CEP: ??? :&gt;</span><br />
+[01:01:00] <span style="color:#410f41">CSA: but yeah you can answer this</span><br />
+[01:01:02] <span style="color:#410f41">CSA: i think</span><br />
+[01:01:38] <span style="color:#9d001f">CRS: But wait a second</span><br />
+[01:01:42] <span style="color:#9d001f">CRS: unrelated to this but</span><br />
+[01:02:00] <span style="color:#410f41">CSA: ?</span><br />
+[01:02:08] <span style="color:#9d001f">CRS: what's with this plot of seeing the HTs when people with dead dreamselves fall asleep</span><br />
+[01:02:24] <span style="color:#9d001f">CRS: that only happened IC because of dream-bubbles isn't that right?</span><br />
+[01:02:40] <span style="color:#9d001f">CRS: and it's pretty patently a thing that dreambubbles aren't a thing in this session</span><br />
+[01:02:43] <span style="color:#9d001f">CRS: or so i figured</span><br />
+[01:02:46] <span style="color:#410f41">CSA: unless someone /does/</span><br />
+[01:02:54] <span style="color:#410f41">CSA: but that's not happening any time soon</span><br />
+[01:03:06] <span style="color:#410f41">CSA: and didn't Karkat say something about horrorterrors and shit</span><br />
+[01:03:19] <span style="color:#410f41">CSA: telling people not to sleep since the dream moons blew up???</span><br />
+[01:03:22] <span style="color:#410f41">CSA: something like that idk</span><br />
+[01:03:34] <span style="color:#d1cfcd"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[01:03:34] <span style="color:#7ccfb2">CAG: Guys, quickly, can I have the link to the Land code puzzle page?</span><br />
+[01:03:38] <span style="color:#9d001f">CRS: Yeah.</span><br />
+[01:03:57] <span style="color:#9d001f">CRS: In the Kids and Trolls' sessions when they fell asleep they ended up in dreambubbles and thus saw the HTs</span><br />
+[01:04:05] <span style="color:#7ccfb2">CAG: Never mind.</span><br />
+[01:04:14] <span style="color:#9d001f">CRS: But dreambubbles aren't a thing for v2 so that shouldn't be happening to dreamself-less people</span><br />
+[01:06:24] <span style="color:#ee1e00">CCP: RS: actually, they saw the HTs by looking OUT of the bubbles. the HTs aren't in the bubbles themselves.</span><br />
+[01:06:50] <span style="color:#9d001f">CRS: Yeah</span><br />
+[01:07:09] <span style="color:#ee1e00">CCP: iirc how it works, dreamdeath makes your "dream hologram" appear in the Furthest Ring, and if there's no dreambubbles, you directly see HTs by default</span><br />
+[01:09:01] <span style="color:#ee1e00">CCP: the bubbles were so you could dream WITHOUT seeing tangle buddies, and also to provide a stable place to meet with ghosts and other dreamdead-dreamers.</span><br />
+[01:10:01] <span style="color:#9d001f">CRS: Fair enough</span><br />
+[01:15:35] <span style="color:#0080ff">CFL: And sometimes it ends up becoming a corrupt dream due to one's own mind trying to protect them.</span><br />
+[01:15:46] <span style="color:#0080ff">CFL: Like for Jade.</span><br />
+[01:23:43] <span style="color:#d1cfcd"><span style="color:#c1bb10">CURRENT courageousScribe [CCS]</span> RIGHT NOW responded to memo.</span><br />
+[01:23:43] <span style="color:#c1bb10">CCS: hey everyone\l/</span><br />
+[01:25:13] <span style="color:#410f41">CSA: hey CS</span><br />
+[01:26:10] <span style="color:#c1bb10">CCS: how is everyone\l/</span><br />
+[01:26:41] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[01:26:41] <span style="color:#0000aa">Noodles: alive</span><br />
+[01:27:36] <span style="color:#7ccfb2">CAG: a zombie</span><br />
+[01:31:37] <span style="color:#ee1e00">CCP: metaphorically slapping Past Me for FORGETTING TO FIX A LOT OF BLOCK BEHAVIOR GLITCHES</span><br />
+[01:43:38] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[01:47:27] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[01:53:15] <span style="color:#d1cfcd"><span style="color:#84d619">CURRENT greekFortune [CGF]</span> RIGHT NOW responded to memo.</span><br />
+[01:53:15] <span style="color:#84d619">CGF: <span style="color:#688701"> cαητ ƒlιм ƒlαм τhε zιм zαм</span></span><br />
+[01:54:06] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[01:54:06] <span style="color:#ee1e00">CCP: ?ping</span><br />
+[01:54:53] <span style="color:#84d619">CGF: <span style="color:#e88998"> cαητ sιммεr τhε zιммεr</span></span><br />
+[01:55:03] <span style="color:#ee1e00">CCP: ........wat</span><br />
+[01:55:18] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[01:55:18] <span style="color:#0000aa">Noodles: hi ST</span><br />
+[01:55:30] <span style="color:#d1cfcd"><span style="color:#3300ff">CURRENT supernaturalTrickster [CST]</span> RIGHT NOW responded to memo.</span><br />
+[01:55:30] <span style="color:#3300ff">CST: <span style="color:#ff007f">Hi<span style="color:#3300ff">!</span> ^u^</span></span><br />
+[01:55:52] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[01:55:52] <span style="color:#6507ff">CTT: Hi!</span><br />
+[01:56:04] <span style="color:#3300ff">CST:  <span style="color:#ff007f"> </span><img src='smilies/apple.png' alt=':apple:' title=':apple:' /></span><br />
+[01:56:20] <span style="color:#410f41">CSA: GUYS</span><br />
+[01:56:24] <span style="color:#410f41">CSA: I'M DONE MY COURSE!</span><br />
+[01:56:26] <span style="color:#410f41">CSA: FINALLY</span><br />
+[01:56:32] <span style="color:#ee1e00">CCP: woo</span><br />
+[01:56:36] <span style="color:#3300ff">CST: <span style="color:#ff007f">Congratulations<span style="color:#3300ff">!</span></span></span><br />
+[01:56:41] <span style="color:#410f41">CSA: *throws confetti into the air*</span><br />
+[01:56:41] <span style="color:#6507ff">CTT: Y▲Y</span><br />
+[01:56:53] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  throwsa lollipops into the air --</span><br />
+[01:56:57] <span style="color:#410f41">CSA: I'M FREE</span><br />
+[01:57:14] <span style="color:#cb7de6">CSJ: :D</span><br />
+[01:57:18] <span style="color:#410f41">CSA: *strips down to swimsuit and dives into pool <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /> *</span><br />
+[01:57:31] <span style="color:#6507ff">CTT: ΘH MY GΘD</span><br />
+[01:57:35] <span style="color:#cb7de6">CSJ: I just got done cleaning a ool</span><br />
+[01:57:38] <span style="color:#cb7de6">CSJ: *pool</span><br />
+[01:57:40] <span style="color:#6507ff">CTT: PFFFT</span><br />
+[01:57:41] <span style="color:#ee1e00">CCP: now you can get on with Actual Programming instead of Classroom Programming? <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[01:57:43] <span style="color:#6507ff">CTT: EVEN BETTER</span><br />
+[01:57:47] <span style="color:#410f41">CSA: hahahahaha</span><br />
+[01:57:58] <span style="color:#410f41">CSA: okay kidding aside</span><br />
+[01:58:07] <span style="color:#410f41">CSA: well I was learning to program with Actionscript 3</span><br />
+[01:58:14] <span style="color:#410f41">CSA: which sorta... counts as programming?</span><br />
+[01:58:23] <span style="color:#410f41">CSA: but my dad's gonna teach me Visual Basic</span><br />
+[01:58:23] <span style="color:#3300ff">CST: <span style="color:#ff007f">Cool<span style="color:#3300ff">!</span></span></span><br />
+[01:58:25] <span style="color:#410f41">CSA: and C++</span><br />
+[01:58:43] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is jello --</span><br />
+[01:58:48] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">have</span> to <span style="color:#357ec7">learn</span> everything <span style="color:#357ec7">myself</span><span style="color:#3300ff">.</span></span></span><br />
+[01:58:55] <span style="color:#410f41">CSA: and frankly i'm pretty sure he's going to be glad about the fact that i'm done since even /he/ was complaining about my course so heh</span><br />
+[01:59:00] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[01:59:45] <span style="color:#410f41">CSA: but yes i am done my course, i don't even care that i'm going to get shit marks for my last assignment</span><br />
+[01:59:50] <span style="color:#410f41">CSA: probably because it's so short ugh</span><br />
+[02:00:02] <span style="color:#410f41">CSA: but who cares</span><br />
+[02:00:19] <span style="color:#d1cfcd"><span style="color:#a8a87e">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[02:00:19] <span style="color:#a8a87e">CFF: At your teacher tells you if you are doing well or not.</span><br />
+[02:00:22] <span style="color:#410f41">CSA: also you guys won't have to put up with any more complaining from me about it so heh</span><br />
+[02:00:41] <span style="color:#a8a87e">CFF: Have the feeling mine is just giviing stuff a glance a nd shit.</span><br />
+[02:00:52] <span style="color:#410f41">CSA: actually i'm sure mine is doing that</span><br />
+[02:00:57] <span style="color:#410f41">CSA: then seeing how long it is</span><br />
+[02:01:02] <span style="color:#410f41">CSA: and grading it in terms of that</span><br />
+[02:02:14] <span style="color:#84d619">CGF: <span style="color:#23ac83"> ƒυcκ gεοмετrγ</span></span><br />
+[02:02:50] <span style="color:#d1cfcd"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+[02:02:52] <span style="color:#410f41">CSA:  <a href='#dr'>#dr</a> spoilers <a href='http://d0ctorawesome.tumblr.com/post/56164853082'>http://d0ctorawesome.tumblr.com/post/56164853082</a></span><br />
+[02:03:04] <span style="color:#410f41">CSA: i'mma laugh</span><br />
+[02:03:19] <span style="color:#9d001f">CRS: spoilers for what</span><br />
+[02:03:29] <span style="color:#9d001f">CRS: before or after chapter 5</span><br />
+[02:03:46] <span style="color:#410f41">CSA: you're ahead of that point</span><br />
+[02:04:00] <span style="color:#410f41">CSA: in the link</span><br />
+[02:04:19] <span style="color:#410f41">CSA: like if you didn't read the first trial and execution and shit</span><br />
+[02:04:39] <span style="color:#9d001f">CRS: snrk</span><br />
+[02:06:20] <span style="color:#410f41">CSA:  <a href='http://thecaptainofnoships.tumblr.com/post/56165626778/ithinkthereforeiship-and-then-theres-this'>http://thecaptainofnoships.tumblr.com/post/56165626778/ithinkthereforeiship-and-then-theres-this</a></span><br />
+[02:07:29] <span style="color:#a8a87e">CFF: so, how far ya all are in danga ronpa?</span><br />
+[02:07:45] <span style="color:#410f41">CSA: i spoilered everything for DR and SDR2</span><br />
+[02:07:56] <span style="color:#84d619">CGF: <span style="color:#745d52"> gj</span></span><br />
+[02:08:03] <span style="color:#a8a87e">CFF: ah...</span><br />
+[02:08:07] <span style="color:#410f41">CSA: //shrugs</span><br />
+[02:08:16] <span style="color:#a8a87e">CFF: that kind of sucks...</span><br />
+[02:08:17] <span style="color:#410f41">CSA: I have still yet to play OFF</span><br />
+[02:08:28] <span style="color:#a8a87e">CFF: only read the lets paly of off.</span><br />
+[02:08:36] <span style="color:#cb7de6">CSJ: I still need to get past the first zone.</span><br />
+[02:08:37] <span style="color:#9d001f">CRS: I started a bit ago</span><br />
+[02:08:46] <span style="color:#9d001f">CRS: Need to - yeah, basically what SJ said lol</span><br />
+[02:08:46] <span style="color:#410f41">CSA: i have the zip file sitting in my downloads folder</span><br />
+[02:08:50] <span style="color:#cb7de6">CSJ: freaking random encounter rate</span><br />
+[02:08:57] <span style="color:#410f41">CSA: A Dark Room</span><br />
+[02:08:59] <span style="color:#ee1e00">CCP: I haven't played off either...</span><br />
+[02:09:09] <span style="color:#410f41">CSA: not going to say /anything/ on the random encounter rate on that</span><br />
+[02:09:10] <span style="color:#410f41">CSA: just</span><br />
+[02:09:16] <span style="color:#d1cfcd"><span style="color:#41742f">PAST nearlyNonexistent [PNN]</span> 1 MINUTE AGO responded to memo.</span><br />
+[02:09:16] <span style="color:#41742f">PNN: <span style="color:#4d3c37">my</span> electricity died</span><br />
+[02:09:21] <span style="color:#d1cfcd"><span style="color:#41742f">CURRENT nearlyNonexistent [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[02:09:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">whoops</span> time button</span><br />
+[02:09:24] <span style="color:#410f41">CSA: i like taking more than two steps before being attacked thanks</span><br />
+[02:09:25] <span style="color:#410f41">CSA: hey NN</span><br />
+[02:09:32] <span style="color:#84d619">CGF: <span style="color:#209b59"> hοw ɗο ι αsκ wοlƒrαм αlρhα whατ τhε αηglεs αrε ιη α τrιαηglε</span></span><br />
+[02:09:33] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  has too many things in his to-do queue... SAO, SNK, OFF, DR, drawing things for his v2journal... --</span><br />
+[02:10:00] <span style="color:#d1cfcd"><span style="color:#3300ff">CURRENT supernaturalTrickster [CST]</span> RIGHT NOW responded to memo.</span><br />
+[02:10:00] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">need</span> a <span style="color:#357ec7">backpack</span> to <span style="color:#357ec7">tear</span> apart</span></span><br />
+[02:15:50] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">want</span> to <span style="color:#357ec7">rp</span> right <span style="color:#357ec7">now</span><span style="color:#3300ff">.</span> poop<span style="color:#3300ff">.</span></span></span><br />
+[02:15:58] <span style="color:#6507ff">CTT: :C</span><br />
+[02:16:15] <span style="color:#3300ff">CST: <span style="color:#ff007f">Like <span style="color:#357ec7">go</span> into <span style="color:#357ec7">sburb</span> and <span style="color:#357ec7">beat</span> some <span style="color:#357ec7">imps</span> senseless<span style="color:#3300ff">.</span> </span></span><br />
+[02:16:26] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  sobs quietly on her keyboard --</span><br />
+[02:16:59] <span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s       so scary     cold in     here the d e a d          c            l              o               w                 n  plate r o o m</span><br />
+[02:17:03] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  long distance paps and hugs --</span><br />
+[02:18:43] <span style="color:#d1cfcd">-- CURRENT symphonicAnima <span style="color:#410f41">[CSA]</span>  hugs for everyone --</span><br />
+[02:22:28] <span style="color:#3300ff">CST: <span style="color:#ff007f">Screw <span style="color:#357ec7">the</span> rules <span style="color:#357ec7">I</span><span style="color:#3300ff">'</span>m <span style="color:#357ec7">in</span> TT<span style="color:#3300ff">'</span>s <span style="color:#357ec7">fridge</span><span style="color:#3300ff">.</span></span></span><br />
+[02:22:36] <span style="color:#410f41">CSA: hahahahahaha</span><br />
+[02:22:39] <span style="color:#410f41">CSA: that works then</span><br />
+[02:22:46] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  just climbs in her fridge and pretends to be a caek. --</span><br />
+[02:23:09] <span style="color:#0000aa">Noodles: NN there is only one player list right?</span><br />
+[02:23:47] <span style="color:#a8a87e">CFF: heh.</span><br />
+[02:23:49] <span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span></span><br />
+[02:23:55] <span style="color:#41742f">CNN: <span style="color:#4d3c37">wasn</span>'t paying attention</span><br />
+[02:24:00] <span style="color:#3300ff">CST: <span style="color:#ff007f">ST <span style="color:#357ec7">is</span> a <span style="color:#357ec7">splinter</span> caused <span style="color:#357ec7">by</span> sticking <span style="color:#357ec7">the</span> fishing <span style="color:#357ec7">pole</span> in <span style="color:#357ec7">that</span> glitch<span style="color:#3300ff">.</span></span></span><br />
+[02:24:19] <span style="color:#3300ff">CST: <span style="color:#ff007f">^ Excuse <span style="color:#357ec7">for</span> existing <span style="color:#357ec7">and</span> being <span style="color:#357ec7">a</span> trickster<span style="color:#3300ff">.</span> *nod <span style="color:#357ec7">nod</span>*</span></span><br />
+[02:24:29] <span style="color:#cb7de6">CSJ: seems legit</span><br />
+[02:25:00] <span style="color:#3300ff">CST: <span style="color:#ff007f">Screw <span style="color:#357ec7">the</span> rules <span style="color:#357ec7">I</span> have <span style="color:#357ec7">green</span> hair<span style="color:#3300ff">.</span></span></span><br />
+[02:25:20] <span style="color:#a8a87e">CFF: damn it... it's really hard to find a picture of a cyperpunk/neon/glowlyas heck battle pit arena. It's for an event I'm planning.</span><br />
+[02:25:41] <span style="color:#a8a87e">CFF: Also, screw the rules, I have a flaming sun afro.</span><br />
+[02:25:45] <span style="color:#3300ff">CST: <span style="color:#ff007f">I<span style="color:#3300ff">'</span>m <span style="color:#357ec7">just</span> going <span style="color:#357ec7">to</span> pop <span style="color:#357ec7">in</span> and <span style="color:#357ec7">be</span> annoying<span style="color:#3300ff">.</span></span></span><br />
+[02:25:49] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">have</span> no <span style="color:#357ec7">story</span> line<span style="color:#3300ff">.</span></span></span><br />
+[02:26:00] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> just <span style="color:#357ec7">a</span> trickster <span style="color:#357ec7">and</span> that <span style="color:#357ec7">is</span> how <span style="color:#357ec7">I</span> am <span style="color:#357ec7">happy</span><span style="color:#3300ff">.</span> ^u^</span></span><br />
+[02:26:18] <span style="color:#9d001f">CRS: we should do a tourney arc</span><br />
+[02:26:19] <span style="color:#a8a87e">CFF: ah, okay.</span><br />
+[02:26:32] <span style="color:#9d001f">CRS: or a tourney event rather</span><br />
+[02:26:44] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  screws all the rules --</span><br />
+[02:26:48] <span style="color:#a8a87e">CFF: Well, my next event, which I will do next wekk, involves a small arena fight.</span><br />
+[02:26:51] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is done with the rules --</span><br />
+[02:26:58] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is just going to watch them burn --</span><br />
+[02:27:05] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  after she sets them on fire --</span><br />
+[02:27:15] <span style="color:#9d001f">CRS: with like two-person teams going through obstacle courses to race to the arena for an advantage ALA Colosso</span><br />
+[02:27:23] <span style="color:#a8a87e">CFF: huh...</span><br />
+[02:28:10] <span style="color:#3300ff">CST: <span style="color:#ff007f">TT <span style="color:#3300ff">.</span><span style="color:#3300ff">.</span><span style="color:#3300ff">.</span> you <span style="color:#357ec7">need</span> better <span style="color:#357ec7">help</span><span style="color:#3300ff">.</span></span></span><br />
+[02:28:23] <span style="color:#3300ff">CST: <span style="color:#ff007f">Lolichronos <span style="color:#357ec7">is</span> letting <span style="color:#357ec7">weird</span> people <span style="color:#357ec7">in</span> your <span style="color:#357ec7">house</span><span style="color:#3300ff">.</span></span></span><br />
+[02:28:41] <span style="color:#a8a87e">CFF: hah!</span><br />
+[02:28:52] <span style="color:#0000aa">Noodles: *facepalm* I am an idiot with this puzzle</span><br />
+[02:28:53] <span style="color:#6507ff">CTT: she doesn'τ really mind unless you sτarτ wrecking τhe house/sτeal sτuff</span><br />
+[02:29:37] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is antistealing ... aka putting more things --</span><br />
+[02:29:59] <span style="color:#3300ff">CST: <span style="color:#ff007f">All <span style="color:#357ec7">the</span> caek <span style="color:#357ec7">is</span> belong <span style="color:#357ec7">to</span> me<span style="color:#3300ff">.</span></span></span><br />
+[02:30:08] <span style="color:#3300ff">CST: <span style="color:#ff007f">But <span style="color:#357ec7">then</span> I <span style="color:#357ec7">put</span> it <span style="color:#357ec7">in</span> the <span style="color:#357ec7">fridge</span></span></span><br />
+[02:30:51] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is giving no cows right now --</span><br />
+[02:30:56] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  none of the cows are given --</span><br />
+[02:31:05] <span style="color:#9d001f">CRS: i need</span><br />
+[02:31:06] <span style="color:#9d001f">CRS: food</span><br />
+[02:31:12] <span style="color:#9d001f">CRS: there's no jelly but there's bread</span><br />
+[02:31:13] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">need</span> help<span style="color:#3300ff">.</span></span></span><br />
+[02:31:16] <span style="color:#6507ff">CTT: τesτ</span><br />
+[02:31:21] <span style="color:#3300ff">CST: <span style="color:#ff007f">Hi <span style="color:#357ec7">TT</span></span></span><br />
+[02:31:21] <span style="color:#9d001f">CRS: there's no ice cream but theirs cholocolate syrup</span><br />
+[02:31:33] <span style="color:#9d001f">CRS: *there's</span><br />
+[02:31:49] <span style="color:#9d001f">CRS: there's next to no cereal and next to no milk</span><br />
+[02:31:54] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  sollux fall --</span><br />
+[02:32:01] <span style="color:#9d001f">CRS: my life is full of incompletes</span><br />
+[02:32:26] <span style="color:#3300ff">CST: <span style="color:#ff007f">Put <span style="color:#357ec7">the</span> cholocolate <span style="color:#357ec7">syrup</span> on <span style="color:#357ec7">bread</span> </span></span><br />
+[02:32:36] <span style="color:#3300ff">CST: <span style="color:#ff007f">Then <span style="color:#357ec7">put</span> the <span style="color:#357ec7">cereal</span> on <span style="color:#357ec7">the</span> syrup</span></span><br />
+[02:32:39] <span style="color:#3300ff">CST: <span style="color:#ff007f">Then <span style="color:#357ec7">eat</span> it<span style="color:#3300ff">.</span></span></span><br />
+[02:33:11] <span style="color:#3300ff">CST: <span style="color:#ff007f">Chocolate <span style="color:#357ec7">syrup</span> cereal <span style="color:#357ec7">sammich</span><span style="color:#3300ff">.</span></span></span><br />
+[02:33:23] <span style="color:#3300ff">CST: <span style="color:#ff007f">Seriously <span style="color:#357ec7">though</span><span style="color:#3300ff">.</span> Don<span style="color:#3300ff">'</span>t <span style="color:#357ec7">do</span> that<span style="color:#3300ff">.</span> That<span style="color:#3300ff">'</span>s <span style="color:#357ec7">not</span> good<span style="color:#3300ff">.</span></span></span><br />
+[02:33:57] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> so <span style="color:#357ec7">buzzed</span> right <span style="color:#357ec7">now</span><span style="color:#3300ff">.</span> I <span style="color:#357ec7">think</span> this <span style="color:#357ec7">water</span> is <span style="color:#357ec7">mislabeled</span><span style="color:#3300ff">.</span></span></span><br />
+[02:34:05] <span style="color:#0000aa">Noodles: list of chumps... Hmmm</span><br />
+[02:34:09] <span style="color:#6507ff">CTT: ?</span><br />
+[02:34:32] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> a <span style="color:#357ec7">goooooooooooooooooooobbbbbbbbbbeeeeeeeeerrrrrrrrrrrrrr</span></span></span><br />
+[02:34:39] <span style="color:#3300ff">CST: <span style="color:#ff007f">The <span style="color:#357ec7">goober</span> list <span style="color:#357ec7">is</span> all <span style="color:#357ec7">me</span></span></span><br />
+[02:34:40] <span style="color:#3300ff">CST: <span style="color:#ff007f">my <span style="color:#357ec7">name</span></span></span><br />
+[02:34:44] <span style="color:#3300ff">CST: <span style="color:#ff007f">a <span style="color:#357ec7">million</span> times</span></span><br />
+[02:34:54] <span style="color:#3300ff">CST: <span style="color:#ff007f">and <span style="color:#357ec7">then</span> at <span style="color:#357ec7">the</span> end</span></span><br />
+[02:34:56] <span style="color:#3300ff">CST: <span style="color:#ff007f">potatoes</span></span><br />
+[02:36:09] <span style="color:#9d001f">CRS:  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[02:36:09] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> not <span style="color:#357ec7">even</span> concious <span style="color:#357ec7">right</span> now<span style="color:#3300ff">.</span></span></span><br />
+[02:36:14] <span style="color:#9d001f">CRS: skits don't underestimate me</span><br />
+[02:36:15] <span style="color:#9d001f">CRS: i'm </span><br />
+[02:36:21] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[02:36:21] <span style="color:#9d001f">CRS: /exactly/ hungry enough to try that thing</span><br />
+[02:36:28] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  goes and does the thing --</span><br />
+[02:36:30] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[02:36:34] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  dies --</span><br />
+[02:36:46] <span style="color:#3300ff">CST: <span style="color:#ff007f">It <span style="color:#357ec7">won</span><span style="color:#3300ff">'</span>t <span style="color:#357ec7">kill</span> you <span style="color:#357ec7">but</span> it<span style="color:#3300ff">'</span>s <span style="color:#357ec7">kind</span> of <span style="color:#357ec7">bluh</span><span style="color:#3300ff">.</span></span></span><br />
+[02:37:18] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[02:37:27] <span style="color:#d1cfcd"><span style="color:#000000">CTW</span> ceased responding to memo.</span><br />
+[02:38:13] <span style="color:#3300ff">CST: <span style="color:#ff007f">I<span style="color:#3300ff">'</span>m <span style="color:#357ec7">going</span> to <span style="color:#357ec7">design</span> this <span style="color:#357ec7">character</span><span style="color:#3300ff">.</span> :D</span></span><br />
+[02:38:22] <span style="color:#3300ff">CST: <span style="color:#ff007f">Yay <span style="color:#357ec7">for</span> characters <span style="color:#357ec7">I</span> like <span style="color:#357ec7">and</span> can <span style="color:#357ec7">rp</span><span style="color:#3300ff">.</span></span></span><br />
+[02:40:02] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> so <span style="color:#357ec7">tired</span><span style="color:#3300ff">.</span> I <span style="color:#357ec7">think</span> I <span style="color:#357ec7">might</span> take <span style="color:#357ec7">a</span> nap</span></span><br />
+[02:40:23] <span style="color:#3300ff">CST: <span style="color:#ff007f">In <span style="color:#357ec7">a</span> few<span style="color:#3300ff">.</span>\</span></span><br />
+[02:40:34] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">wonder</span> if <span style="color:#357ec7">you</span> can <span style="color:#357ec7">get</span> high <span style="color:#357ec7">off</span> of <span style="color:#357ec7">aloe</span> vera <span style="color:#357ec7">or</span> something<span style="color:#3300ff">.</span></span></span><br />
+[02:41:46] <span style="color:#3300ff">CST: <span style="color:#ff007f">idek</span></span><br />
+[02:41:49] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  dies --</span><br />
+[02:44:06] <span style="color:#9d001f">CRS: ._.</span><br />
+[02:44:07] <span style="color:#d1cfcd">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  revives --</span><br />
+[02:45:43] <span style="color:#3300ff">CST: <span style="color:#ff007f">So <span style="color:#357ec7">I</span><span style="color:#3300ff">'</span>ll <span style="color:#357ec7">just</span> pop <span style="color:#357ec7">into</span> random <span style="color:#357ec7">memos</span> and <span style="color:#357ec7">be</span> happy <span style="color:#357ec7">and</span> plotless<span style="color:#3300ff">.</span> :D</span></span><br />
+[02:46:19] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">better</span> take <span style="color:#357ec7">a</span> nap <span style="color:#357ec7">though</span><span style="color:#3300ff">.</span> ttyl</span></span><br />
+[02:46:23] <span style="color:#d1cfcd"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+[02:48:41] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[02:59:48] <span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> you know those water bottle bombs?</span><br />
+[02:59:55] <span style="color:#41742f">CNN: "As a former Explosive Ordnance Disposal soldier - Just throw a brick at it."</span><br />
+[02:59:57] <span style="color:#41742f">CNN: <span style="color:#4d3c37">amazing</span>.</span><br />
+[03:00:01] <span style="color:#41742f">CNN: <span style="color:#4d3c37">years</span> of training.</span><br />
+[03:00:06] <span style="color:#41742f">CNN: <span style="color:#4d3c37">cutting</span> edge equipment.</span><br />
+[03:00:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">expert</span> advice from an experienced professional.</span><br />
+[03:00:15] <span style="color:#41742f">CNN: <span style="color:#4d3c37">throw</span> a brick at it.</span><br />
+[03:04:40] <span style="color:#d1cfcd"><span style="color:#000000">CSV</span> ceased responding to memo.</span><br />
+[03:07:21] <span style="color:#a8a87e">CFF: ...heh.</span><br />
+[03:07:29] <span style="color:#a8a87e">CFF: Something the best ways are the simplest.</span><br />
+[03:07:41] <span style="color:#41742f">CNN: <span style="color:#4d3c37">1457325957295642111</span></span><br />
+[03:07:59] <span style="color:#41742f">CNN: ^ ignore that I just need somewhere to put it and I don't want to open notepad+++</span><br />
+[03:08:02] <span style="color:#41742f">CNN: *remove a +</span><br />
+[03:09:04] <span style="color:#a8a87e">CFF: ...kay?</span><br />
+[03:13:11] <span style="color:#d1cfcd"><span style="color:#3a4961">CURRENT anomalousEntity [CAE]</span> RIGHT NOW responded to memo.</span><br />
+[03:13:11] <span style="color:#3a4961">CAE: I, the massive O8</span><br />
+[03:13:49] <span style="color:#cb7de6">CSJ: A_E</span><br />
+[03:13:52] <span style="color:#cb7de6">CSJ: hi</span><br />
+[03:13:59] <span style="color:#3a4961">CAE: hello</span><br />
+[03:14:17] <span style="color:#3a4961">CAE: it's been a very onerous, but otherwise good day for me</span><br />
+[03:14:45] <span style="color:#3a4961">CAE: underslept, travelled 240km in total, slept for an hour, went to the dentist, and most of all</span><br />
+[03:14:55] <span style="color:#3a4961">CAE: acquired my big japanese dictionary</span><br />
+[03:14:59] <span style="color:#3a4961">CAE: the best one there is</span><br />
+[03:15:06] <span style="color:#3a4961">CAE: it's also green</span><br />
+[03:15:14] <span style="color:#3a4961">CAE: it is an excellent elucidator</span><br />
+[03:15:53] <span style="color:#3a4961">CAE: /doc scratch references</span><br />
+[03:20:45] <span style="color:#3a4961">CAE: i keep switching between my old and new pairs of glasses</span><br />
+[03:20:47] <span style="color:#3a4961">CAE: ._.;;</span><br />
+[03:20:55] <span style="color:#3a4961">CAE: i still have to adapt to the new ones</span><br />
+[03:21:01] <span style="color:#3a4961">CAE: they might be too strong, tbf</span><br />
+[03:23:34] <span style="color:#d1cfcd"><span style="color:#3300ff">CURRENT supernaturalTrickster [CST]</span> RIGHT NOW responded to memo.</span><br />
+[03:23:34] <span style="color:#3300ff">CST: <span style="color:#ff007f">Guys</span></span><br />
+[03:23:38] <span style="color:#3300ff">CST: <span style="color:#ff007f">Look <span style="color:#357ec7">at</span> this <span style="color:#357ec7">thing</span></span></span><br />
+[03:23:39] <span style="color:#3300ff">CST:  <span style="color:#ff007f"> </span><a href='http://www.halloweencostumes.com/cheshire-cat-adult-costume.html'>http://www.halloweencostumes.com/cheshire-cat-adult-costume.html</a></span><br />
+[03:23:47] <span style="color:#3300ff">CST: <span style="color:#ff007f">Wtf<span style="color:#3300ff">?</span></span></span><br />
+[03:23:48] <span style="color:#cb7de6">CSJ: ...</span><br />
+[03:24:10] <span style="color:#cb7de6">CSJ: were they even trying with that one</span><br />
+[03:24:27] <span style="color:#3300ff">CST: <span style="color:#ff007f"><span style="color:#3300ff">$</span>50</span></span><br />
+[03:24:28] <span style="color:#3a4961">CAE: i don't want to look at that</span><br />
+[03:24:30] <span style="color:#3300ff">CST: <span style="color:#ff007f"><span style="color:#3300ff">$</span>50</span></span><br />
+[03:24:32] <span style="color:#133295">CEP: :&gt; :&gt;</span><br />
+[03:24:35] <span style="color:#3300ff">CST: <span style="color:#ff007f"><span style="color:#3300ff">$</span>50 <span style="color:#3300ff">.</span><span style="color:#3300ff">.</span><span style="color:#3300ff">.</span></span></span><br />
+[03:24:40] <span style="color:#cb7de6">CSJ: hi EP!</span><br />
+[03:24:40] <span style="color:#3300ff">CST: <span style="color:#ff007f">Why <span style="color:#357ec7">this</span><span style="color:#3300ff">?</span></span></span><br />
+[03:24:43] <span style="color:#133295">CEP: Hi SJ :&gt;</span><br />
+[03:24:48] <span style="color:#133295">CEP: And Skittles :&gt;</span><br />
+[03:24:50] <span style="color:#3300ff">CST: <span style="color:#ff007f">Hey <span style="color:#357ec7">EP</span></span></span><br />
+[03:24:52] <span style="color:#3a4961">CAE: i want to keep my crep╝ in my stomach</span><br />
+[03:24:53] <span style="color:#3a4961">CAE: fuck</span><br />
+[03:24:57] <span style="color:#133295">CEP: :D :&gt;</span><br />
+[03:24:58] <span style="color:#3a4961">CAE: that's not the right alt code</span><br />
+[03:25:22] <span style="color:#3a4961">CAE: ═¥═</span><br />
+[03:25:24] <span style="color:#3a4961">CAE: wth</span><br />
+[03:25:38] <span style="color:#3a4961">CAE: ♫</span><br />
+[03:25:43] <span style="color:#3a4961">CAE: ₧</span><br />
+[03:26:00] <span style="color:#3a4961">CAE: ÷</span><br />
+[03:26:02] <span style="color:#3a4961">CAE: δ</span><br />
+[03:26:04] <span style="color:#3a4961">CAE: ▓</span><br />
+[03:26:06] <span style="color:#3a4961">CAE: º</span><br />
+[03:26:08] <span style="color:#3a4961">CAE: å</span><br />
+[03:26:10] <span style="color:#133295">CEP: ♥ :&gt;</span><br />
+[03:26:11] <span style="color:#41742f">CNN: <span style="color:#4d3c37">AE</span></span><br />
+[03:26:11] <span style="color:#41742f">CNN: <span style="color:#4d3c37">stop</span></span><br />
+[03:26:12] <span style="color:#3a4961">CAE: omg this is awesome</span><br />
+[03:26:13] <span style="color:#3a4961">CAE: okay</span><br />
+[03:26:15] <span style="color:#3a4961">CAE: sorry</span><br />
+[03:26:15] <span style="color:#41742f">CNN: <span style="color:#4d3c37">just</span> look at an alt code chart</span><br />
+[03:26:16] <span style="color:#3a4961">CAE: whoops</span><br />
+[03:26:17] <span style="color:#41742f">CNN: :P</span><br />
+[03:26:24] <span style="color:#84d619">CGF: <span style="color:#f5b2dd"> ▓</span></span><br />
+[03:26:24] <span style="color:#84d619">CGF: <span style="color:#d11083"> ▓</span></span><br />
+[03:26:25] <span style="color:#84d619">CGF: <span style="color:#c5e1b4"> ▓</span></span><br />
+[03:26:26] <span style="color:#84d619">CGF: <span style="color:#46bbf1"> ▓▓</span></span><br />
+[03:26:27] <span style="color:#84d619">CGF: <span style="color:#d05244"> ▓▓</span></span><br />
+[03:26:27] <span style="color:#3a4961">CAE: but it's so fun to spam here :c</span><br />
+[03:26:27] <span style="color:#133295">CEP: ♥! :&gt;</span><br />
+[03:26:28] <span style="color:#84d619">CGF: <span style="color:#482274"> мιssιηgηο</span></span><br />
+[03:26:33] <span style="color:#3300ff">CST: <span style="color:#ff007f">Lulz</span></span><br />
+[03:26:40] <span style="color:#3a4961">CAE: oh my god what did i start.</span><br />
+[03:26:49] <span style="color:#3300ff">CST: <span style="color:#ff007f">▓▓</span></span><br />
+[03:26:53] <span style="color:#3300ff">CST: <span style="color:#ff007f">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</span></span><br />
+[03:26:53] <span style="color:#133295">CEP: You started the apocalpyse :&gt;</span><br />
+[03:26:55] <span style="color:#3300ff">CST: <span style="color:#ff007f">:D</span></span><br />
+[03:27:00] <span style="color:#3300ff">CST: <span style="color:#ff007f">EPocalypse</span></span><br />
+[03:27:03] <span style="color:#133295">CEP: I'mma have to start callin' ya sammy, AE :&gt;</span><br />
+[03:27:07] <span style="color:#3a4961">CAE: no</span><br />
+[03:27:19] <span style="color:#3300ff">CST: <span style="color:#ff007f">AEpocalypse</span></span><br />
+[03:27:30] <span style="color:#3300ff">CST: <span style="color:#ff007f">:D</span></span><br />
+[03:27:35] <span style="color:#3a4961">CAE: alt145 = æ alt146 = Æ</span><br />
+[03:27:38] <span style="color:#3a4961">CAE: yay</span><br />
+[03:27:50] <span style="color:#3a4961">CAE: whætver</span><br />
+[03:27:50] <span style="color:#00aa00">CLL: •</span><br />
+[03:27:53] <span style="color:#3a4961">CAE: new quirk</span><br />
+[03:28:05] <span style="color:#00aa00">CLL: why the fuck doesn't it work for me</span><br />
+[03:28:10] <span style="color:#3a4961">CAE: idk</span><br />
+[03:28:16] <span style="color:#00aa00">CLL: ♂</span><br />
+[03:28:17] <span style="color:#3a4961">CAE: i have problems with it all the time as well</span><br />
+[03:28:46] <span style="color:#3300ff">CST: <span style="color:#ff007f">• • • • • • • • •</span></span><br />
+[03:28:48] <span style="color:#3300ff">CST: <span style="color:#ff007f">•••••••••••••••••••••••</span></span><br />
+[03:28:57] <span style="color:#3300ff">CST: <span style="color:#ff007f">•  •  •  •  •  •</span></span><br />
+[03:29:04] <span style="color:#3300ff">CST: <span style="color:#ff007f">•• •• •• •• ••</span></span><br />
+[03:29:11] <span style="color:#3a4961">CAE: ☻ obana n da econony is faling ☻</span><br />
+[03:29:20] <span style="color:#3a4961">CAE: 8^Y</span><br />
+[03:29:21] <span style="color:#3300ff">CST: <span style="color:#ff007f">• •• • •• • •• • •• •</span></span><br />
+[03:29:35] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">need</span> to <span style="color:#357ec7">rainbow</span> that</span></span><br />
+[03:29:40] <span style="color:#3300ff">CST: <span style="color:#ff007f">Then <span style="color:#357ec7">it</span> will <span style="color:#357ec7">be</span> skittles<span style="color:#3300ff">.</span> XP</span></span><br />
+[03:29:50] <span style="color:#133295">CEP: I don't have a headache, but still sick. I'm gonna take my laptop to bed and watch supernatural :&gt;</span><br />
+[03:29:53] <span style="color:#41742f">CNN: <span style="color:#4d3c37">taste</span> the motherfucking rainbow</span><br />
+[03:30:02] <span style="color:#133295">CEP: We all can still chat, okkkkkkkkkkkay :&gt;</span><br />
+[03:30:12] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">wish</span> I <span style="color:#357ec7">could</span> sleep<span style="color:#3300ff">.</span></span></span><br />
+[03:30:16] <span style="color:#3300ff">CST: <span style="color:#ff007f">My <span style="color:#357ec7">parents</span> won<span style="color:#3300ff">'</span>t <span style="color:#357ec7">let</span> me</span></span><br />
+[03:30:21] <span style="color:#3a4961">CAE: :c</span><br />
+[03:30:42] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">only</span> got <span style="color:#357ec7">5</span> hours <span style="color:#357ec7">of</span> sleep<span style="color:#3300ff">.</span></span></span><br />
+[03:30:43] <span style="color:#3a4961">CAE: yeah, when my dad gets pissed off late at night he likes to shout and keep both me and mom awake until late at night</span><br />
+[03:30:44] <span style="color:#133295">CEP: Okay, I actually laughed at this one: :&gt;</span><br />
+[03:30:45] <span style="color:#133295">CEP:  <a href='http://31.media.tumblr.com/3d473299d6ef30201b278bd71ecac79c/tumblr_mq8ozjgS7q1rubmx9o1_500.jpg'>http://31.media.tumblr.com/3d473299d6ef30201b278bd71ecac79c/tumblr_mq8ozjgS7q1rubmx9o1_500.jpg</a> :&gt;</span><br />
+[03:30:47] <span style="color:#84d619">CGF: <span style="color:#f8b485"> αƒκ sυcκιηg κοмαεɗα's ɗιcκ</span></span><br />
+[03:30:52] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[03:30:52] <span style="color:#6507ff">CTT: ...waτ</span><br />
+[03:30:56] <span style="color:#3a4961">CAE: wut</span><br />
+[03:31:03] <span style="color:#3300ff">CST: <span style="color:#ff007f">My <span style="color:#357ec7">brother</span> and <span style="color:#357ec7">my</span> stepdad <span style="color:#357ec7">decided</span> to <span style="color:#357ec7">open</span> my <span style="color:#357ec7">door</span> and <span style="color:#357ec7">argue</span> in <span style="color:#357ec7">it</span><span style="color:#3300ff">.</span></span></span><br />
+[03:31:13] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">work</span> all <span style="color:#357ec7">night</span><span style="color:#3300ff">.</span></span></span><br />
+[03:31:14] <span style="color:#84d619">CGF: <span style="color:#cc38f2"> hοw ɗιɗ τhεγ gετ ιηsιɗε τhε ɗοοr</span></span><br />
+[03:31:23] <span style="color:#3a4961">CAE: alt3 =♥ alt4 = ♦ alt5 = ♣ alt6= ♠</span><br />
+[03:31:23] <span style="color:#3300ff">CST: <span style="color:#ff007f">They <span style="color:#357ec7">unlocked</span> it <span style="color:#357ec7">from</span> the <span style="color:#357ec7">outside</span></span></span><br />
+[03:31:24] <span style="color:#3300ff">CST: <span style="color:#ff007f">:I</span></span><br />
+[03:31:27] <span style="color:#3a4961">CAE: just so you know</span><br />
+[03:31:37] <span style="color:#3a4961">CAE: what why the hell</span><br />
+[03:31:44] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">can</span><span style="color:#3300ff">'</span>t <span style="color:#357ec7">work</span> on <span style="color:#357ec7">less</span> than <span style="color:#357ec7">7</span> hours <span style="color:#357ec7">of</span> sleep</span></span><br />
+[03:31:46] <span style="color:#3300ff">CST: <span style="color:#ff007f">and <span style="color:#357ec7">I</span> got <span style="color:#357ec7">5</span></span></span><br />
+[03:31:50] <span style="color:#3a4961">CAE: i don't understand people</span><br />
+[03:31:53] <span style="color:#3300ff">CST: <span style="color:#ff007f">now <span style="color:#357ec7">they</span> won<span style="color:#3300ff">'</span>t <span style="color:#357ec7">let</span> me <span style="color:#357ec7">nap</span> before <span style="color:#357ec7">work</span></span></span><br />
+[03:31:57] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">am</span> so <span style="color:#357ec7">screwed</span><span style="color:#3300ff">.</span></span></span><br />
+[03:32:00] <span style="color:#3a4961">CAE: why would they break their problems over your back?</span><br />
+[03:32:01] <span style="color:#3300ff">CST: <span style="color:#ff007f">There <span style="color:#357ec7">goes</span> my <span style="color:#357ec7">new</span> job<span style="color:#3300ff">.</span></span></span><br />
+[03:32:05] <span style="color:#3a4961">CAE: this makes no sense</span><br />
+[03:32:10] <span style="color:#3a4961">CAE: this makes no bloody sense</span><br />
+[03:32:17] <span style="color:#3300ff">CST: <span style="color:#ff007f">afk <span style="color:#357ec7">dishes</span></span></span><br />
+[03:32:55] <span style="color:#3a4961">CAE: why do i have a dial-up modem's driver installation cd from 2003 on my desk</span><br />
+[03:33:01] <span style="color:#3a4961">CAE: i've never even seen it before</span><br />
+[03:33:11] <span style="color:#84d619">CGF: <span style="color:#fd84cd"> ι jυsτ wαητ мγ ηειghßοr</span></span><br />
+[03:33:17] <span style="color:#84d619">CGF: <span style="color:#036e0f"> το shυτ τhε ƒυcκ υρ</span></span><br />
+[03:33:18] <span style="color:#3a4961">CAE: and it's got that derpy design style of the late 90s/early 2000s</span><br />
+[03:33:19] <span style="color:#84d619">CGF: <span style="color:#356669"> ι jυsτ wαητ τhατ</span></span><br />
+[03:33:23] <span style="color:#84d619">CGF: <span style="color:#d5487d"> τhεη ι'll ßε hαρργ</span></span><br />
+[03:33:44] <span style="color:#3a4961">CAE: they usually shut up if they're sucking cock</span><br />
+[03:33:54] <span style="color:#3a4961">CAE: or sausage, in the absence of the first</span><br />
+[03:34:06] <span style="color:#133295">CEP: o_o :&gt;</span><br />
+[03:34:26] <span style="color:#3a4961">CAE: just give them the latter to suck on</span><br />
+[03:34:39] <span style="color:#84d619">CGF: <span style="color:#867ee6"> ;3</span></span><br />
+[03:34:42] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  sucks a co..... d. --</span><br />
+[03:34:58] <span style="color:#d1cfcd">-- CURRENT existentialPenguin <span style="color:#133295">[CEP]</span>  sucks a co...rnflake --</span><br />
+[03:35:10] <span style="color:#84d619">CGF: <span style="color:#416fcb"> γου'rε sυcκιηg οƒƒ α gοɗ, ηη?</span></span><br />
+[03:35:11] <span style="color:#d1cfcd">-- CURRENT anomalousEntity <span style="color:#3a4961">[CAE]</span>  sucks a chicken --</span><br />
+[03:35:19] <span style="color:#00aa00">CLL: cod</span><br />
+[03:35:28] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> I'm swallowing a fish whole</span><br />
+[03:35:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">slowly</span></span><br />
+[03:36:50] <span style="color:#3a4961">CAE: i know a guy who eats raw fush guts steeped in a mixture of vinegar, maple syrup and some other crap</span><br />
+[03:36:56] <span style="color:#3a4961">CAE: he says it's delicious</span><br />
+[03:37:02] <span style="color:#3a4961">CAE: but i think it's full of shit</span><br />
+[03:37:04] <span style="color:#3a4961">CAE: fish shit</span><br />
+[03:37:21] <span style="color:#133295">CEP: I like to eat mochi :&gt;</span><br />
+[03:37:24] <span style="color:#3a4961">CAE: and he's full of it as well</span><br />
+[03:37:32] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> like to eat fire and death</span><br />
+[03:37:35] <span style="color:#3a4961">CAE: mochi the lung pluggers?</span><br />
+[03:37:44] <span style="color:#133295">CEP: mochi the rice balls :&gt;</span><br />
+[03:37:57] <span style="color:#3a4961">CAE: i know what mochi are</span><br />
+[03:38:01] <span style="color:#3a4961">CAE: i study about japab</span><br />
+[03:38:14] <span style="color:#3a4961">CAE: *japan</span><br />
+[03:38:19] <span style="color:#3a4961">CAE: *dangan ronpa</span><br />
+[03:38:21] <span style="color:#3a4961">CAE: *whatever</span><br />
+[03:38:33] <span style="color:#133295">CEP: They sell them like candy in grocery stores :&gt;</span><br />
+[03:38:48] <span style="color:#3a4961">CAE: in the us</span><br />
+[03:38:49] <span style="color:#3a4961">CAE: ?</span><br />
+[03:38:59] <span style="color:#133295">CEP: Yea :&gt;</span><br />
+[03:39:04] <span style="color:#133295">CEP: Like :&gt;</span><br />
+[03:39:05] <span style="color:#3a4961">CAE: are they sticky and white?</span><br />
+[03:39:07] <span style="color:#133295">CEP: world market :&gt;</span><br />
+[03:39:08] <span style="color:#133295">CEP: and :&gt;</span><br />
+[03:39:12] <span style="color:#133295">CEP: asian grocery stores :&gt;</span><br />
+[03:39:18] <span style="color:#133295">CEP: Sticky and white :&gt;</span><br />
+[03:39:21] <span style="color:#133295">CEP: &gt;.&gt; :&gt;</span><br />
+[03:39:29] <span style="color:#133295">CEP: Not in the way you're thinking of :&gt;</span><br />
+[03:39:30] <span style="color:#133295">CEP: but yes :&gt;</span><br />
+[03:40:03] <span style="color:#3a4961">CAE: hey, i'm a filthy mind</span><br />
+[03:40:36] <span style="color:#133295">CEP: I'm a filthy casual :&gt;</span><br />
+[03:40:46] <span style="color:#3300ff">CST: <span style="color:#ff007f">I<span style="color:#3300ff">'</span>m <span style="color:#357ec7">pissed</span> off<span style="color:#3300ff">.</span></span></span><br />
+[03:40:56] <span style="color:#133295">CEP: :&lt; ? :&gt;</span><br />
+[03:40:58] <span style="color:#3300ff">CST: <span style="color:#ff007f">My <span style="color:#357ec7">parents</span> are <span style="color:#357ec7">setting</span> me <span style="color:#357ec7">up</span> to <span style="color:#357ec7">fail</span> at <span style="color:#357ec7">my</span> job<span style="color:#3300ff">.</span></span></span><br />
+[03:41:07] <span style="color:#3a4961">CAE: why would they do that?</span><br />
+[03:41:09] <span style="color:#3a4961">CAE: those sick fucks</span><br />
+[03:41:11] <span style="color:#3300ff">CST: <span style="color:#ff007f">I <span style="color:#357ec7">finally</span> got <span style="color:#357ec7">a</span> good <span style="color:#357ec7">job</span> and <span style="color:#357ec7">they</span> aren<span style="color:#3300ff">'</span>t <span style="color:#357ec7">letting</span> me <span style="color:#357ec7">sleep</span><span style="color:#3300ff">.</span></span></span><br />
+[03:41:24] <span style="color:#133295">CEP: D: :&gt;</span><br />
+[03:41:39] <span style="color:#3a4961">CAE: D:</span><br />
+[03:41:41] <span style="color:#00aa00">CLL: why not?</span><br />
+[03:41:43] <span style="color:#3300ff">CST: <span style="color:#ff007f">They<span style="color:#3300ff">'</span>re <span style="color:#357ec7">self</span> centered <span style="color:#357ec7">assholes</span><span style="color:#3300ff">.</span></span></span><br />
+[03:42:26] <span style="color:#3300ff">CST: <span style="color:#ff007f">A <span style="color:#357ec7">week</span> ago <span style="color:#357ec7">my</span> mom <span style="color:#357ec7">showed</span> me <span style="color:#357ec7">that</span> watching <span style="color:#357ec7">Big</span> Brother <span style="color:#357ec7">is</span> more <span style="color:#357ec7">important</span> than <span style="color:#357ec7">helping</span> me <span style="color:#357ec7">when</span> I<span style="color:#3300ff">'</span>m <span style="color:#357ec7">laying</span> on <span style="color:#357ec7">the</span> floor <span style="color:#357ec7">in</span> a <span style="color:#357ec7">puddle</span> of </span></span><br />
+[03:42:26] <span style="color:#3300ff"><span style="color:#ff007f"><span style="color:#357ec7">blood</span> screaming <span style="color:#357ec7">for</span> help<span style="color:#3300ff">.</span></span></span><br />
+[03:43:08] <span style="color:#a8a87e">CFF: ...</span><br />
+[03:43:16] <span style="color:#a8a87e">CFF: Kill them.</span><br />
+[03:43:28] <span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span>'d usually be the part where I'd rationalize it by my point of view of how the situation looks to them</span><br />
+[03:43:32] <span style="color:#3a4961">CAE: ST, if I could, I'd really let you come over live with me, but my place kinda sucks too, and I don't live in your proximity.</span><br />
+[03:43:39] <span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> I can't rationalize that at all</span><br />
+[03:43:47] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[03:43:47] <span style="color:#9d001f">CRS: .....</span><br />
+[03:43:48] <span style="color:#9d001f">CRS: ...........</span><br />
+[03:43:50] <span style="color:#9d001f">CRS: /.,.................../</span><br />
+[03:43:53] <span style="color:#9d001f">CRS: ./..................../</span><br />
+[03:43:54] <span style="color:#3300ff">CST: <span style="color:#ff007f">Get <span style="color:#357ec7">your</span> but <span style="color:#357ec7">over</span> here <span style="color:#357ec7">AE</span> and <span style="color:#357ec7">we</span> will <span style="color:#357ec7">run</span> away <span style="color:#357ec7">and</span> get <span style="color:#357ec7">an</span> apartment<span style="color:#3300ff">.</span></span></span><br />
+[03:43:55] <span style="color:#9d001f">CRS: ...</span><br />
+[03:44:00] <span style="color:#3a4961">CAE: omg</span><br />
+[03:44:07] <span style="color:#41742f">CNN: ...</span><br />
+[03:44:08] <span style="color:#9d001f">CRS: ....................................................case 5's ending.......</span><br />
+[03:44:11] <span style="color:#41742f">CNN: (are they goNNa frick)</span><br />
+[03:44:16] <span style="color:#9d001f">CRS: ....wait no NOPE I'M NOT GETTING INTO THIS</span><br />
+[03:44:20] <span style="color:#3300ff">CST: <span style="color:#ff007f">Lulz</span></span><br />
+[03:44:24] <span style="color:#3300ff">CST: <span style="color:#ff007f">Good <span style="color:#357ec7">timing</span> RS</span></span><br />
+[03:44:29] <span style="color:#3a4961">CAE: no, nn</span><br />
+[03:44:31] <span style="color:#00aa00">CLL:  <a href='http://24.media.tumblr.com/tumblr_md6dokGWq81qggskfo1_500.jpg'>http://24.media.tumblr.com/tumblr_md6dokGWq81qggskfo1_500.jpg</a></span><br />
+[03:44:33] <span style="color:#9d001f">CRS: NO NEVERMIND I DIDN'T SAY ANYTHING DON'T EVEN HINT AT WHAT HAPPENS NEXT</span><br />
+[03:44:35] <span style="color:#3a4961">CAE: we're too tame</span><br />
+[03:44:35] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  is ignoring NN --</span><br />
+[03:44:43] <span style="color:#3a4961">CAE: ST is an ace, and so am I</span><br />
+[03:44:48] <span style="color:#3300ff">CST: <span style="color:#ff007f">=D</span></span><br />
+[03:44:51] <span style="color:#a8a87e">CFF: Hah, LL.</span><br />
+[03:44:55] <span style="color:#3300ff">CST: <span style="color:#ff007f">Lets <span style="color:#357ec7">marry</span><span style="color:#3300ff">?</span></span></span><br />
+[03:44:57] <span style="color:#3a4961">CAE: i hope you realise that, NN ._.</span><br />
+[03:45:00] <span style="color:#3a4961">CAE: maybe</span><br />
+[03:45:04] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> know that AE</span><br />
+[03:45:05] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'m just joking</span><br />
+[03:45:08] <span style="color:#a8a87e">CFF: also, RS. the next ending is ofthe case isthe best ending...</span><br />
+[03:45:08] <span style="color:#3a4961">CAE: have non-sex and make non-kids</span><br />
+[03:45:12] <span style="color:#3300ff">CST: <span style="color:#ff007f">Yes</span></span><br />
+[03:45:17] <span style="color:#9d001f">CRS: YEAH I</span><br />
+[03:45:21] <span style="color:#3300ff">CST: <span style="color:#ff007f">That <span style="color:#357ec7">is</span> my <span style="color:#357ec7">dream</span><span style="color:#3300ff">.</span></span></span><br />
+[03:45:21] <span style="color:#9d001f">CRS: I /FIGURED/ THAT WAS THE BAD END</span><br />
+[03:45:33] <span style="color:#9d001f">CRS: STILL AWFUL</span><br />
+[03:45:58] <span style="color:#133295">CEP: Sam's hair gets longer with each season :&gt;</span><br />
+[03:46:00] <span style="color:#a8a87e">CFF: No... it's the best end.</span><br />
+[03:46:02] <span style="color:#133295">CEP: not complaining :&gt;</span><br />
+[03:46:02] <span style="color:#a8a87e">CFF: why?</span><br />
+[03:46:06] <span style="color:#133295">CEP: I like his long hair :&gt;</span><br />
+[03:46:22] <span style="color:#84d619">CGF: <span style="color:#08193f"> rs</span></span><br />
+[03:46:27] <span style="color:#84d619">CGF: <span style="color:#0444ed"> τhε мαsτεrмιηɗ ιs sαιlοr мοοη</span></span><br />
+[03:46:35] <span style="color:#d1cfcd">-- CURRENT supernaturalTrickster <span style="color:#3300ff">[CST]</span>  moves AE to the top of her list of really awesome people --</span><br />
+[03:46:36] <span style="color:#a8a87e">CFF: because the fountiane teller prediction came true.</span><br />
+[03:47:03] <span style="color:#9d001f">CRS: what the fuck is air</span><br />
+[03:47:13] <span style="color:#a8a87e">CFF: heh... sorry.</span><br />
+[03:47:36] <span style="color:#7ccfb2">CAG: … hah, FF xDDD</span><br />
+[03:49:48] <span style="color:#133295">CEP: Hey, these zombies aren't so bad :D :&gt;</span><br />
+[03:50:27] <span style="color:#9d001f">CRS: ...</span><br />
+[03:50:30] <span style="color:#a8a87e">CFF: but anyways... I have the perfect pic. AG, you already finished it, right?</span><br />
+[03:50:30] <span style="color:#9d001f">CRS: .../oh no/</span><br />
+[03:50:31] <span style="color:#9d001f">CRS: i</span><br />
+[03:50:41] <span style="color:#9d001f">CRS: /see exactly where this is going oh nooooooooononononononononononono/</span><br />
+[03:50:44] <span style="color:#7ccfb2">CAG: Yes, I did.</span><br />
+[03:50:45] <span style="color:#a8a87e">CFF: ...?</span><br />
+[03:50:54] <span style="color:#9d001f">CRS: i /KNEW/ the third option was gold</span><br />
+[03:50:56] <span style="color:#a8a87e">CFF: okay...RS- no looky.</span><br />
+[03:51:02] <span style="color:#a8a87e">CFF:  <a href='http://24.media.tumblr.com/tumblr_mb6bpkuLrZ1r0vodvo1_r1_400.png'>http://24.media.tumblr.com/tumblr_mb6bpkuLrZ1r0vodvo1_r1_400.png</a></span><br />
+[03:51:37] <span style="color:#d1cfcd"><span style="color:#15baaf">CURRENT artisticAuthor [CAA]</span> RIGHT NOW responded to memo.</span><br />
+[03:51:37] <span style="color:#15baaf">CAA: Ok what the hell is going on and what is happening with the denizen page thingy and the white text thigny</span><br />
+[03:51:39] <span style="color:#6507ff">CTT: speaking of cup ramen</span><br />
+[03:51:44] <span style="color:#6507ff">CTT: I need τo eaτ some</span><br />
+[03:51:52] <span style="color:#7ccfb2">CAG: … hahah, FF.</span><br />
+[03:51:59] <span style="color:#15baaf">CAA: Is this a goggles troll or is it legit</span><br />
+[03:52:04] <span style="color:#a8a87e">CFF: also, how's the anime?</span><br />
+[03:52:05] <span style="color:#133295">CEP: Hello AA :&gt;</span><br />
+[03:52:11] <span style="color:#15baaf">CAA: Hi ^_^</span><br />
+[03:52:11] <span style="color:#0000aa">Noodles: did someone say ramen?</span><br />
+[03:52:22] <span style="color:#3300ff">CST: <span style="color:#ff007f">TT <span style="color:#357ec7">is</span> going <span style="color:#357ec7">to</span> eat <span style="color:#357ec7">you</span><span style="color:#3300ff">.</span></span></span><br />
+[03:52:24] <span style="color:#3300ff">CST: <span style="color:#ff007f">:D</span></span><br />
+[03:52:31] <span style="color:#6507ff">CTT: :P</span><br />
+[03:52:33] <span style="color:#410f41">CSA: Hey AA</span><br />
+[03:52:35] <span style="color:#15baaf">CAA: Again is the white text legit or a goggles troll, I mean the goggles thing on the main sbargv2 page</span><br />
+[03:52:39] <span style="color:#410f41">CSA: we're not sure</span><br />
+[03:52:48] <span style="color:#410f41">CSA: I sure as hell am not at least</span><br />
+[03:52:59] <span style="color:#41742f">CNN: <span style="color:#4d3c37">goggles</span> is never legit</span><br />
+[03:53:04] <span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> you can't confirm identity</span><br />
+[03:53:05] <span style="color:#41742f">CNN:   <img src='smilies/theprofessor.png' alt=':beetip:' title=':beetip:' /></span><br />
+[03:53:35] <span style="color:#9d001f">CRS: ...oh, so no third choice was bullshit</span><br />
+[03:53:37] <span style="color:#9d001f">CRS: ...</span><br />
+[03:53:42] <span style="color:#9d001f">CRS: ...uh oh</span><br />
+[03:54:28] <span style="color:#a8a87e">CFF: if, I REALLY wanted to be evil, I would show you the abridged version of certian scenes, as given by somewhataweful people.</span><br />
+[03:54:49] <span style="color:#d1cfcd"><span style="color:#0000c1">CURRENT matrixAssassin [CMA]</span> RIGHT NOW responded to memo.</span><br />
+[03:54:49] <span style="color:#0000c1">?MA: <a href='http://www.youtube.com/watch?v=Az4C0CVy0-k'>http://www.youtube.com/watch?v=Az4C0CVy0-k</a> <a href='#ac'>#ac</a></span><br />
+[03:55:04] <span style="color:#410f41">CSA: RS what's the uh oh for</span><br />
+[03:55:11] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[03:55:14] <span style="color:#9d001f">CRS: CASE 5'S ENDING AHHHHH</span><br />
+[03:55:21] <span style="color:#9d001f">CRS: NONONONONONO DON'T YOU BASTARDS DARE NOOO</span><br />
+[03:55:24] <span style="color:#9d001f">CRS: AGHHHHHHHHH</span><br />
+[03:55:33] <span style="color:#410f41">CSA: HEY</span><br />
+[03:55:34] <span style="color:#410f41">CSA: RS</span><br />
+[03:55:36] <span style="color:#a8a87e">CFF: heheheheheheheheh....</span><br />
+[03:55:39] <span style="color:#410f41">CSA: DR?</span><br />
+[03:55:42] <span style="color:#84d619">CGF: <span style="color:#adafdc"> τhοsε αrε sοмε hεατεɗ rεαcτιοηs ƒοr αcε αττοrηεγ, rs</span></span><br />
+[03:55:45] <span style="color:#84d619">CGF: <span style="color:#af1057"> :4</span></span><br />
+[03:55:47] <span style="color:#7ccfb2">CAG: EVERYTHING WILL BE OKAY</span><br />
+[03:55:51] <span style="color:#7ccfb2">CAG: I DON'T KNOW WHAT YOU'RE DOING</span><br />
+[03:55:56] <span style="color:#7ccfb2">CAG: OR WHAT'S GOING ON</span><br />
+[03:55:59] <span style="color:#7ccfb2">CAG: BUT IT'LL BE OKAY</span><br />
+[03:56:23] <span style="color:#00aa00">CLL: ???</span><br />
+[03:56:27] <span style="color:#410f41">CSA: ????</span><br />
+[03:56:33] <span style="color:#7ccfb2">CAG: … <a href='@RS'>@RS</a></span><br />
+[03:56:40] <span style="color:#3a4961">CAE: tbh, the goblet of fire is spread far too thin compared to the previous three books</span><br />
+[03:56:49] <span style="color:#3a4961">CAE: books 1-3 were so distilled</span><br />
+[03:56:52] <span style="color:#3a4961">CAE: and this is just drawn out</span><br />
+[03:57:07] <span style="color:#3a4961">CAE: i'm 80 pages in and it can't really keep my attention well</span><br />
+[03:57:10] <span style="color:#9d001f">CRS: ...</span><br />
+[03:57:11] <span style="color:#9d001f">CRS: /.../</span><br />
+[03:57:13] <span style="color:#9d001f">CRS: THIS GAME</span><br />
+[03:57:18] <span style="color:#9d001f">CRS: enjoys toying with my emotions</span><br />
+[03:57:20] <span style="color:#a8a87e">CFF: heh.</span><br />
+[03:57:24] <span style="color:#84d619">CGF: <span style="color:#3883c4"> τhεrε ιs</span></span><br />
+[03:57:26] <span style="color:#84d619">CGF: <span style="color:#fcdf9f"> lιτεrαllγ ηοßοɗγ</span></span><br />
+[03:57:27] <span style="color:#a8a87e">CFF: Best execution.</span><br />
+[03:57:31] <span style="color:#84d619">CGF: <span style="color:#48db2e"> ßγ τhε εηɗ οƒ τhε gαмε</span></span><br />
+[03:57:33] <span style="color:#133295">CEP: Such intense reactions to ace attorney :&gt;</span><br />
+[03:57:44] <span style="color:#84d619">CGF: <span style="color:#553e8b"> τhατ ιs αcτυαllγ rεlεναητ</span></span><br />
+[03:57:54] <span style="color:#9d001f">CRS: I WAS REALLY WORRIED THAT THEY'D REALLY DO IT</span><br />
+[03:58:00] <span style="color:#84d619">CGF: <span style="color:#3449b3"> whγ</span></span><br />
+[03:58:03] <span style="color:#84d619">CGF: <span style="color:#782e57"> ιτ's τhε ρrοταg</span></span><br />
+[03:58:07] <span style="color:#84d619">CGF: <span style="color:#d81bc4"> hανε γου ενεr sεεη τhε ρrοταg ɗιε</span></span><br />
+[03:58:15] <span style="color:#a8a87e">CFF: Rs, they are not that evil...</span><br />
+[03:58:32] <span style="color:#a8a87e">CFF: ...there are some gamecompanies that are that evil, but not this one.</span><br />
+[03:58:36] <span style="color:#9d001f">CRS: this game enjoys turning every other trend on its head why /not/ kill off the protag</span><br />
+[03:58:43] <span style="color:#7ccfb2">CAG: Because Alter Ego.</span><br />
+[03:58:49] <span style="color:#7ccfb2">CAG: *hugs*</span><br />
+[03:59:00] <span style="color:#84d619">CGF: <span style="color:#988335"> αlτεr εgο ιs τhε οηlγ cοοl chαrαcτεr ßγ τhε εηɗ οƒ τhε gαмε</span></span><br />
+[03:59:05] <span style="color:#410f41">CSA: KAT</span><br />
+[03:59:11] <span style="color:#410f41">CSA: DO YOU HAVE THAT PICTURE TRANSLATOR THING</span><br />
+[03:59:30] <span style="color:#6507ff">CTT:  <a href='http://i.imgur.com/yLTeHDL.png'>http://i.imgur.com/yLTeHDL.png</a></span><br />
+[03:59:35] <span style="color:#410f41">CSA: THANK YOU</span><br />
+[04:00:17] <span style="color:#a8a87e">CFF: oh please... GF, they are all best charachters.</span><br />
+[04:00:25] <span style="color:#15baaf">CAA: First letter is a P</span><br />
+[04:00:38] <span style="color:#84d619">CGF: <span style="color:#3bee1d"> whγ τhε ƒυcκ</span></span><br />
+[04:00:40] <span style="color:#84d619">CGF: <span style="color:#819af2"> αrε γου τrαηslατιηg</span></span><br />
+[04:00:45] <span style="color:#84d619">CGF: <span style="color:#020446"> sοмετhιηg τhατ ιsη'τ ενεη ƒrοм τhε gυαrɗιαη</span></span><br />
+[04:00:50] <span style="color:#cb7de6">CSJ:  <a href='https://dl.dropboxusercontent.com/u/52541782/mspa/chumplistdottumblrdotwat.png'>https://dl.dropboxusercontent.com/u/52541782/mspa/chumplistdottumblrdotwat.png</a></span><br />
+[04:01:14] <span style="color:#15baaf">CAA: PLA</span><br />
+[04:01:43] <span style="color:#410f41">CSA: R U SRS</span><br />
+[04:01:47] <span style="color:#410f41">CSA: WAIT IF I'M RIGHT</span><br />
+[04:01:50] <span style="color:#41742f">CNN: <span style="color:#4d3c37">omg</span></span><br />
+[04:01:55] <span style="color:#41742f">CNN:   <a href='http://i.imgur.com/VAxp1gv.jpg'>http://i.imgur.com/VAxp1gv.jpg</a></span><br />
+[04:02:04] <span style="color:#410f41">CSA: nope i'm not right thank god</span><br />
+[04:02:46] <span style="color:#410f41">CSA: waIT I"M RIGHT</span><br />
+[04:02:48] <span style="color:#410f41">CSA: WHY AM I RIGHT</span><br />
+[04:02:49] <span style="color:#00aa00">CLL: also the first letter is an s</span><br />
+[04:02:53] <span style="color:#6507ff">CTT: ????</span><br />
+[04:02:53] <span style="color:#d1cfcd"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+[04:02:58] <span style="color:#00aa00">CLL: also the royal baby's been born</span><br />
+[04:03:20] <span style="color:#410f41">CSA: It's slap chop</span><br />
+[04:03:22] <span style="color:#410f41">CSA: with a space</span><br />
+[04:03:23] <span style="color:#410f41">CSA: i'm</span><br />
+[04:03:24] <span style="color:#410f41">CSA: crying</span><br />
+[04:03:25] <span style="color:#15baaf">CAA: SLAP...</span><br />
+[04:03:34] <span style="color:#41742f">CNN: <span style="color:#4d3c37">can</span> we kill the royal baby</span><br />
+[04:03:37] <span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> is why we got independence!</span><br />
+[04:03:40] <span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> we don't have to care</span><br />
+[04:03:43] <span style="color:#41742f">CNN: <span style="color:#4d3c37">about</span> dumb royal babies!</span><br />
+[04:03:51] <span style="color:#41742f">CNN: <span style="color:#4d3c37">america</span>!</span><br />
+[04:04:02] <span style="color:#00aa00">CLL: I don't think that was the reason you got indipendence</span><br />
+[04:04:05] <span style="color:#41742f">CNN: <span style="color:#4d3c37">wooo</span>!</span><br />
+[04:04:08] <span style="color:#15baaf">CAA: Is it a girl</span><br />
+[04:04:23] <span style="color:#15baaf">CAA: Ok the password is SLAP CHOP</span><br />
+[04:04:25] <span style="color:#00aa00">CLL: it's a boy</span><br />
+[04:04:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">inb4royal</span> baby is mtf</span><br />
+[04:04:35] <span style="color:#410f41">CSA: but guys</span><br />
+[04:04:37] <span style="color:#00aa00">CLL: the password for what?</span><br />
+[04:04:37] <span style="color:#410f41">CSA: didn't FL</span><br />
+[04:04:38] <span style="color:#41742f">CNN: # calling it if that happens</span><br />
+[04:04:40] <span style="color:#410f41">CSA: say something about slap chop</span><br />
+[04:04:45] <span style="color:#410f41">CSA: sorry not FL</span><br />
+[04:04:46] <span style="color:#410f41">CSA: FI</span><br />
+[04:04:57] <span style="color:#133295">CEP: nvm these zombies are kinda zombie :&gt;</span><br />
+[04:05:00] <span style="color:#84d619">CGF: <span style="color:#5b813a"> γου κηοw</span></span><br />
+[04:05:00] <span style="color:#00aa00">CLL: what's the password for?</span><br />
+[04:05:04] <span style="color:#84d619">CGF: <span style="color:#8a4586"> ιƒ τhεrε wαs α ηοßεl ρrιzε</span></span><br />
+[04:05:06] <span style="color:#84d619">CGF: <span style="color:#1c3eee"> ƒοr gυιllιßιlιτγ</span></span><br />
+[04:05:08] <span style="color:#84d619">CGF: <span style="color:#0415a5"> γου'ɗ αll wιη ιτ</span></span><br />
+[04:05:12] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'d have twenty?</span><br />
+[04:05:20] <span style="color:#84d619">CGF: <span style="color:#9eda4c"> мοrε lικε sιχτγ</span></span><br />
+[04:05:23] <span style="color:#00aa00">CLL: why?</span><br />
+[04:05:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> are those guys even falling for</span><br />
+[04:05:26] <span style="color:#84d619">CGF: <span style="color:#0646d2"> γου'ɗ wιη τhrεε ρεr γεαr οr sο</span></span><br />
+[04:05:31] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> know there's something they're falling for</span><br />
+[04:05:35] <span style="color:#84d619">CGF:  &lt;color=#ඨඨඨඨඨඨ&gt;  <a href='http://chumplist.tumblr.com/'>http://chumplist.tumblr.com/</a></span></span><br />
+[04:05:45] <span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> guys.</span><br />
+[04:05:46] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[04:05:46] <span style="color:#0000aa">Noodles: 2 days 7 hours</span><br />
+[04:05:47] <span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span>.</span><br />
+[04:05:48] <span style="color:#41742f">CNN: <span style="color:#4d3c37">has</span> a password thing.</span><br />
+[04:05:51] <span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> don't.</span><br />
+[04:05:54] <span style="color:#41742f">CNN: <span style="color:#4d3c37">try</span> to crack those.</span><br />
+[04:05:56] <span style="color:#41742f">CNN: <span style="color:#4d3c37">they</span>'re part of tumblr.</span><br />
+[04:06:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> that's illegal.</span><br />
+[04:06:01] <span style="color:#0000aa">Noodles: slap chop</span><br />
+[04:06:01] <span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> crack.</span><br />
+[04:06:01] <span style="color:#84d619">CGF: <span style="color:#cc11fb"> gοgglεs</span></span><br />
+[04:06:02] <span style="color:#41742f">CNN: ._.</span><br />
+[04:06:05] <span style="color:#84d619">CGF: <span style="color:#37468d"> :l</span></span><br />
+[04:06:07] <span style="color:#0000aa">Noodles: is the pass</span><br />
+[04:06:08] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> can't goggles</span><br />
+[04:06:10] <span style="color:#41742f">CNN: <span style="color:#4d3c37">screenshot</span> it</span><br />
+[04:06:17] <span style="color:#00aa00">CLL: they did</span><br />
+[04:06:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">link</span> it </span><br />
+[04:06:25] <span style="color:#41742f">CNN: <span style="color:#4d3c37">bop</span> it</span><br />
+[04:06:27] <span style="color:#41742f">CNN: <span style="color:#4d3c37">drop</span> it</span><br />
+[04:06:28] <span style="color:#00aa00">CLL:  <a href='https://dl.dropboxusercontent.com/u/52541782/mspa/chumplistdottumblrdotwat.png'>https://dl.dropboxusercontent.com/u/52541782/mspa/chumplistdottumblrdotwat.png</a></span><br />
+[04:06:31] <span style="color:#84d619">CGF: <span style="color:#16d99c"> τhε αrτsτγlε ιsη'τ ενεη τhε sαмε αs τhε gυαrɗιαηs'</span></span><br />
+[04:06:35] <span style="color:#84d619">CGF: <span style="color:#8188b5"> αηɗ wε ɗοη'τ hανε τιτlεs</span></span><br />
+[04:06:35] <span style="color:#41742f">CNN: <span style="color:#4d3c37">yeah</span> that's</span><br />
+[04:06:42] <span style="color:#84d619">CGF: <span style="color:#7abe1c"> αηɗ τhε sεlƒ-αssιgηεɗ τιτlεs αrεη'τ cαηοη</span></span><br />
+[04:06:52] <span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> is obviously noncanon</span><br />
+[04:06:55] <span style="color:#84d619">CGF: <span style="color:#266296"> αηɗ αrε υηrεlατεɗ το τhε αrg ßεsιɗεs τhε scεηαrιο </span></span><br />
+[04:06:56] <span style="color:#84d619">CGF: <span style="color:#aa19c0"> :l</span></span><br />
+[04:07:04] <span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span></span><br />
+[04:07:05] <span style="color:#41742f">CNN: <span style="color:#4d3c37">holy</span> fuck who did that</span><br />
+[04:07:07] <span style="color:#00aa00">CLL: and who are they?</span><br />
+[04:07:15] <span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span> computer</span><br />
+[04:07:16] <span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> ugly</span><br />
+[04:07:19] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  barfs --</span><br />
+[04:07:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> it CP's</span><br />
+[04:07:31] <span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s probably CP's</span><br />
+[04:07:41] <span style="color:#84d619">CGF: <span style="color:#9509ca"> ƒl мαɗε τhατ </span></span><br />
+[04:07:43] <span style="color:#84d619">CGF: <span style="color:#1d8ad5"> το ƒυcκ αrουηɗ</span></span><br />
+[04:07:45] <span style="color:#84d619">CGF: <span style="color:#0ab0cf"> ƒι</span></span><br />
+[04:08:04] <span style="color:#cb7de6">CSJ: wait, FL or FI? I can't tell</span><br />
+[04:08:19] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span></span><br />
+[04:08:23] <span style="color:#84d619">CGF: <span style="color:#812f51"> ƒι</span></span><br />
+[04:08:30] <span style="color:#41742f">CNN: <span style="color:#4d3c37">you</span> can tell because <span style="color:#000000">Chump</span></span><br />
+[04:09:22] <span style="color:#410f41">CSA: ...</span><br />
+[04:09:25] <span style="color:#ee1e00">CCP: NN: my laptop's gfx card is too shitty to aero. besides, I hate how bulgy it is, so I use windows classic theme only</span><br />
+[04:09:33] <span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s not tat</span><br />
+[04:09:34] <span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'s</span><br />
+[04:09:36] <span style="color:#41742f">CNN: <span style="color:#4d3c37">everything</span> aside from that</span><br />
+[04:09:46] <span style="color:#410f41">CSA: if</span><br />
+[04:10:02] <span style="color:#410f41">CSA: FI is really the GM</span><br />
+[04:10:14] <span style="color:#410f41">CSA: and/or helping the plot along by being a giant douche or something</span><br />
+[04:10:19] <span style="color:#410f41">CSA: jesus fucking christ.</span><br />
+[04:10:36] <span style="color:#0000aa">Noodles: this is iNNsaNNity</span><br />
+[04:10:50] <span style="color:#41742f">CNN: <span style="color:#4d3c37">psychopathy</span></span><br />
+[04:11:14] <span style="color:#410f41">CSA: but like</span><br />
+[04:11:15] <span style="color:#0000aa">Noodles: so is FL dead?</span><br />
+[04:11:22] <span style="color:#410f41">CSA: his dreamself sometime back</span><br />
+[04:11:28] <span style="color:#410f41">CSA: but good lord</span><br />
+[04:11:44] <span style="color:#410f41">CSA: if /FI was the GM pretending to be a shitty douchebag/</span><br />
+[04:11:45] <span style="color:#84d619">CGF: <span style="color:#227787"> ι hαɗ ηο ιɗεα ƒι wαs τhε οηε whο мαηαgεɗ τhε Rρ</span></span><br />
+[04:11:48] <span style="color:#84d619">CGF: <span style="color:#7592d3"> Whατ α τwιsτ</span></span><br />
+[04:11:52] <span style="color:#410f41">CSA: or /helping the GM/</span><br />
+[04:11:55] <span style="color:#410f41">CSA: ow mindsplode</span><br />
+[04:11:59] <span style="color:#84d619">CGF: <span style="color:#608ece"> hε's ηοτ sα</span></span><br />
+[04:12:04] <span style="color:#84d619">CGF: <span style="color:#705969"> τhατ's ηοτ rεlατεɗ το τhε αrg</span></span><br />
+[04:12:27] <span style="color:#15baaf">CAA: FI isn't the manager I don't think.</span><br />
+[04:14:06] <span style="color:#410f41">CSA: //shrugs</span><br />
+[04:14:24] <span style="color:#410f41">CSA: If he is I think my mind will explode.</span><br />
+[04:14:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">ugh</span></span><br />
+[04:14:34] <span style="color:#41742f">CNN: <span style="color:#4d3c37">all</span> of you guys are gullible as shit</span><br />
+[04:14:38] <span style="color:#41742f">CNN: <span style="color:#4d3c37">should</span> I just</span><br />
+[04:14:39] <span style="color:#41742f">CNN: <span style="color:#4d3c37">PM</span> the guardiana</span><br />
+[04:14:42] <span style="color:#410f41">CSA: Just an errant thought is all.</span><br />
+[04:14:42] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> have them confirm</span><br />
+[04:14:44] <span style="color:#41742f">CNN: <span style="color:#4d3c37">this</span> stupidity</span><br />
+[04:14:47] <span style="color:#41742f">CNN: <span style="color:#4d3c37">isn</span>'t canon</span><br />
+[04:14:49] <span style="color:#133295">CEP: gullible about what? :&gt;</span><br />
+[04:15:00] <span style="color:#133295">CEP: I wasn't paying attention. :&gt;</span><br />
+[04:15:08] <span style="color:#410f41">CSA: There's a thing that happened, sort of.</span><br />
+[04:15:21] <span style="color:#41742f">CNN: <span style="color:#000000">FI</span> is not related to the guardian at all</span><br />
+[04:15:22] <span style="color:#41742f">CNN: <span style="color:#4d3c37">period</span></span><br />
+[04:15:25] <span style="color:#41742f">CNN: <span style="color:#4d3c37">comma</span></span><br />
+[04:15:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">apostrophe</span></span><br />
+[04:15:31] <span style="color:#410f41">CSA: NN, I know.</span><br />
+[04:15:39] <span style="color:#410f41">CSA: Errant thought is all.</span><br />
+[04:15:44] <span style="color:#410f41">CSA: sorry then.</span><br />
+[04:15:51] <span style="color:#133295">CEP: So FI is the guardian now? :&gt;</span><br />
+[04:15:54] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span>.</span><br />
+[04:15:55] <span style="color:#410f41">CSA: No.</span><br />
+[04:16:00] <span style="color:#133295">CEP: The GM is revealed to be FI? :&gt;</span><br />
+[04:16:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">maybe</span>. <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[04:16:07] <span style="color:#410f41">CSA: No.</span><br />
+[04:16:12] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[04:16:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">maybe</span>. <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[04:16:20] <span style="color:#15baaf">CAA: Maybe, maybe not.</span><br />
+[04:16:21] <span style="color:#410f41">CSA: Basically we know jack shit, about whether this is even a hoax or not.</span><br />
+[04:16:22] <span style="color:#15baaf">CAA:  <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[04:16:24] <span style="color:#a8a87e">CFF: It may just be an alt account.</span><br />
+[04:17:28] <span style="color:#133295">CEP: Look, everyone's the GM. We cool now? :&gt;</span><br />
+[04:17:34] <span style="color:#410f41">CSA: Hahahaha, yes.</span><br />
+[04:17:44] <span style="color:#410f41">CSA: And in that moment I swear we were all GMs</span><br />
+[04:17:47] <span style="color:#410f41">CSA: *GM</span><br />
+[04:17:57] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  is the GM. --</span><br />
+[04:17:59] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> by GM</span><br />
+[04:18:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> mean</span><br />
+[04:18:09] <span style="color:#41742f">CNN: <span style="color:#4d3c37">something</span> infinitely kinkier</span><br />
+[04:18:11] <span style="color:#41742f">CNN: <span style="color:#4d3c37">than</span> what you think</span><br />
+[04:18:11] <span style="color:#41742f">CNN: ;3</span><br />
+[04:18:13] <span style="color:#133295">CEP: giantMacaroni :&gt;</span><br />
+[04:18:15] <span style="color:#d1cfcd">-- CURRENT nearlyNonexistent <span style="color:#41742f">[CNN]</span>  shot repeatedly. --</span><br />
+[04:18:16] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span>.</span><br />
+[04:18:17] <span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span>'s too kinky.</span><br />
+[04:18:24] <span style="color:#133295">CEP: grandMushroom :&gt;</span><br />
+[04:18:46] <span style="color:#cb7de6">CSJ: why did I immediately think of spaghettiMansion</span><br />
+[04:19:00] <span style="color:#410f41">CSA: omfg</span><br />
+[04:19:14] <span style="color:#0000aa">Noodles: lotsa of spaghetti</span><br />
+[04:19:25] <span style="color:#133295">CEP:  <img src='smilies/apple.png' alt=':apple:' title=':apple:' /> :&gt;</span><br />
+[04:19:44] <span style="color:#3a4961">CAE: no</span><br />
+[04:19:53] <span style="color:#3a4961">CAE: don't mention spaghettiMansion</span><br />
+[04:19:53] <span style="color:#3a4961">CAE: no</span><br />
+[04:19:54] <span style="color:#3a4961">CAE: just don't</span><br />
+[04:19:57] <span style="color:#3a4961">CAE: please don't</span><br />
+[04:20:03] <span style="color:#ee1e00">CCP: wat.</span><br />
+[04:20:05] <span style="color:#cb7de6">CSJ: okay then.</span><br />
+[04:20:06] <span style="color:#00aa00">CLL: spaghettiMansion?</span><br />
+[04:20:16] <span style="color:#133295">CEP: Hi AR :&gt;</span><br />
+[04:20:16] <span style="color:#00aa00">CLL: what's that?</span><br />
+[04:20:16] <span style="color:#15baaf">CAA: ????</span><br />
+[04:20:20] <span style="color:#133295">CEP: Nice to meet you :&gt;</span><br />
+[04:20:38] <span style="color:#3a4961">CAE: LL, you don't want to be acquainted with SM</span><br />
+[04:20:41] <span style="color:#3a4961">CAE: you just don't</span><br />
+[04:20:48] <span style="color:#00aa00">CLL: uh...</span><br />
+[04:20:48] <span style="color:#133295">CEP: SM is AE :&gt;</span><br />
+[04:20:50] <span style="color:#00aa00">CLL: why?</span><br />
+[04:20:55] <span style="color:#3a4961">CAE: okay, that's one for the OOC blog</span><br />
+[04:20:57] <span style="color:#133295">CEP: You're already acquanted :&gt;</span><br />
+[04:21:03] <span style="color:#00aa00">CLL: ...</span><br />
+[04:21:09] <span style="color:#3a4961">CAE: that's me being obnoxious in trickster mode</span><br />
+[04:21:10] <span style="color:#cb7de6">CSJ: I just realized the pun there. why did it take that long</span><br />
+[04:21:12] <span style="color:#00aa00">CLL: ah</span><br />
+[04:21:15] <span style="color:#cb7de6">CSJ: @ _@</span><br />
+[04:21:17] <span style="color:#d1cfcd"><span style="color:#0850b8">CURRENT anguishReactant [CAR]</span> RIGHT NOW responded to memo.</span><br />
+[04:21:17] <span style="color:#0850b8">CAR: hello, good people of the imperial city.</span><br />
+[04:21:17] <span style="color:#410f41">CSA: hi AR.</span><br />
+[04:21:22] <span style="color:#3a4961">CAE: hello</span><br />
+[04:21:24] <span style="color:#cb7de6">CSJ: um, hi?</span><br />
+[04:21:29] <span style="color:#133295">CEP: Hello again, AR :&gt;</span><br />
+[04:21:35] <span style="color:#15baaf">CAA: Hi AR</span><br />
+[04:21:35] <span style="color:#133295">CEP: How do you do, my fluffy bunny? :&gt;</span><br />
+[04:21:48] <span style="color:#41742f">CNN: <span style="color:#4d3c37">did</span> I just hear pet play <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[04:21:49] <span style="color:#0850b8">CAR: i am just dandy</span><br />
+[04:22:03] <span style="color:#d1cfcd">-- CURRENT existentialPenguin <span style="color:#133295">[CEP]</span>  pets AR --</span><br />
+[04:22:06] <span style="color:#133295">CEP:  <img src='smilies/pckitty.png' alt=':3:' title=':3:' /> :&gt;</span><br />
+[04:22:07] <span style="color:#133295">CEP: So soft :&gt;</span><br />
+[04:22:49] <span style="color:#0850b8">CAR: indeed</span><br />
+[04:24:27] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[04:27:31] <span style="color:#d1cfcd"><span style="color:#000000">CAR</span> ceased responding to memo.</span><br />
+[04:28:30] <span style="color:#d1cfcd"><span style="color:#000000">CMA</span> ceased responding to memo.</span><br />
+[04:31:01] <span style="color:#d1cfcd"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+[04:31:29] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[04:31:29] <span style="color:#0000aa">Noodles: all in favor of kicking FI from team Spectrum, say " aye "</span><br />
+[04:31:42] <span style="color:#3a4961">CAE: naye</span><br />
+[04:33:19] <span style="color:#84d619">CGF: <span style="color:#a0cbec"> whατ τhε ƒυcκ ιs ενεη τhε ροιητ οƒ τεαмs</span></span><br />
+[04:33:45] <span style="color:#410f41">CSA: ^</span><br />
+[04:33:45] <span style="color:#41742f">CNN: <span style="color:#4d3c37">wno</span> point</span><br />
+[04:34:12] <span style="color:#0000aa">Noodles: fine...</span><br />
+[04:34:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">in</span> what universe</span><br />
+[04:34:25] <span style="color:#41742f">CNN: <span style="color:#4d3c37">has</span> there ever been a point</span><br />
+[04:34:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">in</span> anything</span><br />
+[04:34:42] <span style="color:#410f41">CSA: i'mma just</span><br />
+[04:34:45] <span style="color:#410f41">CSA: check out for now</span><br />
+[04:34:48] <span style="color:#0000aa">Noodles: Stop being existential.</span><br />
+[04:35:15] <span style="color:#410f41">CSA: i have a major headache and everything got dizzy for a second</span><br />
+[04:35:15] <span style="color:#133295">CEP: Me? :&gt;</span><br />
+[04:35:24] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'m not being existential</span><br />
+[04:35:28] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'m being nearly nonexistential</span><br />
+[04:35:34] <span style="color:#0000aa">Noodles: ...</span><br />
+[04:35:34] <span style="color:#133295">CEP: ...penguin :&gt;</span><br />
+[04:35:39] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> EP no</span><br />
+[04:35:48] <span style="color:#15baaf">CAA: ._.</span><br />
+[04:35:56] <span style="color:#0000aa">Noodles: nonexistentialPenguin</span><br />
+[04:36:19] <span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
+[04:36:22] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> noodles no</span><br />
+[04:36:28] <span style="color:#41742f">CNN: <span style="color:#4d3c37">me</span> and EP aren't going to have babies</span><br />
+[04:36:28] <span style="color:#133295">CEP: I've got nearlynonexistentialPenguin as one of my chumhandles :&gt;</span><br />
+[04:36:52] <span style="color:#00aa00">CLL: wow</span><br />
+[04:37:03] <span style="color:#0000aa">Noodles: was it a bad idea to send " fight me IRL " to chump list</span><br />
+[04:37:19] <span style="color:#41742f">CNN:   <a href='http://tehpilot.tumblr.com/post/56178006545/reshiham-when-i-die-please-play-this-video-at'>http://tehpilot.tumblr.com/post/56178006545/reshiham-when-i-die-please-play-this-video-at</a></span><br />
+[04:37:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">guys</span></span><br />
+[04:44:11] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:44:15] <span style="color:#d1cfcd"><span style="color:#000000">CMA</span> ceased responding to memo.</span><br />
+[04:44:33] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[04:45:49] <span style="color:#7ccfb2">CAG: … We either "find out the truth" and play jury or we may all die</span><br />
+[04:45:58] <span style="color:#7ccfb2">CAG: am I talking about DR or ICv2?</span><br />
+[04:46:01] <span style="color:#7ccfb2">CAG: no one knows</span><br />
+[04:46:10] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:46:25] <span style="color:#0000aa">Noodles: DRICv2</span><br />
+[04:51:15] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:51:21] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:53:18] <span style="color:#0000aa">Noodles: we're turning into DR</span><br />
+[04:53:25] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:53:38] <span style="color:#133295">CEP: what kind of super high school level is luck? :&gt;</span><br />
+[04:53:50] <span style="color:#9d001f">CRS: the best kind obviously</span><br />
+[04:54:10] <span style="color:#a8a87e">CFF: could be worse.</span><br />
+[04:54:21] <span style="color:#a8a87e">CFF: could be high school level ****.</span><br />
+[04:55:38] <span style="color:#3a4961">CAE: SHSL MoThErFuCkEr</span><br />
+[04:56:34] <span style="color:#133295">CEP: Who needs luck when you have miracles? :&gt;</span><br />
+[04:56:36] <span style="color:#133295">CEP: amirite? :&gt;</span><br />
+[04:59:08] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[05:00:53] <span style="color:#d1cfcd"><span style="color:#410f41">CURRENT Nova [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[05:00:53] <span style="color:#410f41">?SA: I was right. 8/15 for my last assignment because I said fuck it.</span><br />
+[05:01:43] <span style="color:#0000aa">Noodles: clock is set to run out 7-25 12 am EST</span><br />
+[05:02:00] <span style="color:#410f41">CSA: welp. nice to know.</span><br />
+[05:02:12] <span style="color:#410f41">CSA: so what now?</span><br />
+[05:02:22] <span style="color:#d1cfcd"><span style="color:#29486d">CURRENT avoidantCorrespondent [CAC]</span> RIGHT NOW responded to memo.</span><br />
+[05:02:22] <span style="color:#29486d">CAC: we freak out ic and wait?</span><br />
+[05:02:32] <span style="color:#0000aa">Noodles: I guess so</span><br />
+[05:02:34] <span style="color:#ee1e00">CCP: shrug</span><br />
+[05:02:41] <span style="color:#ee1e00">CCP: but yeah, seems like it</span><br />
+[05:02:52] <span style="color:#0000aa">Noodles: we wait 2 days I guess</span><br />
+[05:03:36] <span style="color:#9d001f">CRS: Hooray, waiting!</span><br />
+[05:03:44] <span style="color:#410f41">CSA: wonderful.</span><br />
+[05:04:31] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[05:04:59] <span style="color:#ee1e00">CCP: hmm... hey guys, remember what Ornis said about the hourglasses? that they only measure your lifespan until you get tiger?</span><br />
+[05:05:13] <span style="color:#ee1e00">CCP: perhaps that's what the countdown is actually for, or something...</span><br />
+[05:05:30] <span style="color:#84d619">CGF: <span style="color:#70b9db"> whατ cουητɗοwη</span></span><br />
+[05:05:44] <span style="color:#ee1e00">CCP:  <a href='http://chumplist.tumblr.com/areyounext'>http://chumplist.tumblr.com/areyounext</a></span><br />
+[05:05:59] <span style="color:#84d619">CGF: <span style="color:#109087"> jεsυs γου'rε αll ƒυcκιηg ιɗιοτs</span></span><br />
+[05:05:59] <span style="color:#ee1e00">CCP: if it asks for a pw, "slap chop" without the quotes</span><br />
+[05:06:06] <span style="color:#3a4961">CAE: PASSWORD?</span><br />
+[05:06:15] <span style="color:#3a4961">CAE: *no caps</span><br />
+[05:06:45] <span style="color:#9d001f">CRS: Eh? GF?</span><br />
+[05:07:17] <span style="color:#133295">CEP: Got two days, six hours, apparently :&gt;</span><br />
+[05:07:17] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tick</span></span><br />
+[05:07:21] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tock</span></span><br />
+[05:07:22] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tick</span></span><br />
+[05:07:23] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tock</span></span><br />
+[05:07:24] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tick</span></span><br />
+[05:07:25] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tock</span></span><br />
+[05:07:26] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tick</span></span><br />
+[05:07:27] <span style="color:#3a4961">CAE:  <span style="color:#ffffff">tock</span></span><br />
+[05:07:38] <span style="color:#15baaf">CAA: ae stahp spammin.</span><br />
+[05:07:40] <span style="color:#ee1e00">CCP: 8r8k h34ds honl honl</span><br />
+[05:07:55] <span style="color:#3a4961">CAE: jpml jpml</span><br />
+[05:08:01] <span style="color:#3a4961">CAE: gibj gibj</span><br />
+[05:09:02] <span style="color:#0000aa">Noodles: Reminder that the /connect page is still up</span><br />
+[05:09:26] <span style="color:#ee1e00">CCP: ?</span><br />
+[05:10:15] <span style="color:#d1cfcd"><span style="color:#410f41">CURRENT Nova [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[05:10:15] <span style="color:#410f41">?SA: What connect?</span><br />
+[05:10:19] <span style="color:#29486d">CAC: yeah. it's set to countdown to november 10th, i think...</span><br />
+[05:10:27] <span style="color:#29486d">CAC: ..maybe. i have a shitty memory.</span><br />
+[05:10:30] <span style="color:#0000aa">Noodles: the original waiting page</span><br />
+[05:11:43] <span style="color:#0000aa">Noodles: who thought that black on dark gray was a good idea?</span><br />
+[05:12:04] <span style="color:#0080ff">CFL: Sounds like something FI would do IC.</span><br />
+[05:12:40] <span style="color:#9d001f">CRS: naegi's come down with a bad case of useless protagonist syndrome</span><br />
+[05:12:51] <span style="color:#9d001f">CRS: hopefully he redeems himself only two updates into the finale</span><br />
+[05:15:20] <span style="color:#3a4961">CAE: NO SPOIL PLZ OR FUCK YOU</span><br />
+[05:18:41] <span style="color:#410f41">CSA: what's going on now?</span><br />
+[05:19:38] <span style="color:#84d619">CGF:  &lt;color=#ඨඨඨඨඨඨ&gt;  <a href='http://i.imgur.com/jct1HZt.jpg'>http://i.imgur.com/jct1HZt.jpg</a></span></span><br />
+[05:19:44] <span style="color:#84d619">CGF: <span style="color:#29ac72"> whγ ιs γουr мοм ιη α sυßмαrιηε</span></span><br />
+[05:23:00] <span style="color:#84d619">CGF: <span style="color:#87cf58"> whατ ιƒ τhε rογαl ßαßγ ιs ßοrη ßlαcκ</span></span><br />
+[05:23:05] <span style="color:#d1cfcd"><span style="color:#000000">CAR</span> ceased responding to memo.</span><br />
+[05:23:09] <span style="color:#84d619">CGF: <span style="color:#5a5aea"> αηɗ τhε ρrιηcε rεмονεs hιs мαsκ</span></span><br />
+[05:23:15] <span style="color:#84d619">CGF: <span style="color:#05f9de"> το rενεαl wιll sмιτh υηɗεrηεατh ιτ</span></span><br />
+[05:23:21] <span style="color:#d1cfcd">-- CURRENT existentialPenguin <span style="color:#133295">[CEP]</span>  shrugs --</span><br />
+[05:23:23] ...<br />
+[05:23:24] <span style="color:#84d619">CGF: <span style="color:#af4dce"> hε τhεη jυмρs ουτ οƒ τhε hοsριταl</span></span><br />
+[05:23:27] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[05:23:32] <span style="color:#84d619">CGF: <span style="color:#893ff7"> lεανιηg hιs νοιcε sγητh εqυιρмεητ ßεhιηɗ</span></span><br />
+[05:23:37] <span style="color:#410f41">CSA: ...</span><br />
+[05:23:40] <span style="color:#41742f">CNN:   <a href='http://littleredghostingcloak.tumblr.com/post/54717737927/walking-in-the-woods'>http://littleredghostingcloak.tumblr.com/post/54717737927/walking-in-the-woods</a></span><br />
+[05:23:41] <span style="color:#41742f">CNN: <span style="color:#4d3c37">stupidity</span>.</span><br />
+[05:24:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">now</span>.</span><br />
+[05:24:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'m not botanist.</span><br />
+[05:24:34] <span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> I'm pretty sure that's black raspberry juice.</span><br />
+[05:24:38] <span style="color:#133295">CEP: but it's aliens :&gt;</span><br />
+[05:24:40] <span style="color:#133295">CEP: Oh :&gt;</span><br />
+[05:24:41] <span style="color:#133295">CEP: That too :&gt;</span><br />
+[05:24:47] <span style="color:#84d619">CGF: <span style="color:#7973dc"> ηο ηη</span></span><br />
+[05:24:55] <span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span></span><br />
+[05:24:57] <span style="color:#41742f">CNN: &gt;psychic vampire</span><br />
+[05:24:57] <span style="color:#84d619">CGF: <span style="color:#26c2f5"> hε ιs αcτυαllγ α gοɗ</span></span><br />
+[05:25:02] <span style="color:#41742f">CNN: &gt;PSYCHIC VAMPIRE</span><br />
+[05:25:02] <span style="color:#84d619">CGF: <span style="color:#889134"> lοοκ ατ hιs ßιο</span></span><br />
+[05:25:05] <span style="color:#84d619">CGF: <span style="color:#d8697a"> hε's jαηυs</span></span><br />
+[05:25:06] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> he's not a god</span><br />
+[05:25:08] <span style="color:#41742f">CNN: <span style="color:#4d3c37">he</span> knows gods</span><br />
+[05:25:09] <span style="color:#84d619">CGF: <span style="color:#386839"> hε ιs α gοc</span></span><br />
+[05:25:10] <span style="color:#41742f">CNN: <span style="color:#4d3c37">but</span> he's a</span><br />
+[05:25:11] <span style="color:#41742f">CNN: <span style="color:#4d3c37">psychic</span></span><br />
+[05:25:12] <span style="color:#84d619">CGF: <span style="color:#9a7a7b"> gοc</span></span><br />
+[05:25:12] <span style="color:#41742f">CNN: <span style="color:#4d3c37">fucking</span></span><br />
+[05:25:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">vampire</span></span><br />
+[05:25:13] <span style="color:#d1cfcd"><span style="color:#000000">CAA</span> ceased responding to memo.</span><br />
+[05:25:15] <span style="color:#41742f">CNN: :|</span><br />
+[05:25:15] <span style="color:#84d619">CGF: <span style="color:#ca38c6"> ηο</span></span><br />
+[05:25:16] <span style="color:#84d619">CGF: <span style="color:#315a3b"> gοc</span></span><br />
+[05:25:17] <span style="color:#41742f">CNN: &gt;gay</span><br />
+[05:25:18] <span style="color:#41742f">CNN: &gt;aesexual</span><br />
+[05:25:20] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span>.</span><br />
+[05:25:20] <span style="color:#84d619">CGF: <span style="color:#e87261"> οgc οƒ ναмιrε</span></span><br />
+[05:25:21] <span style="color:#41742f">CNN: &gt;gay</span><br />
+[05:25:23] <span style="color:#41742f">CNN: &gt;genderfluid</span><br />
+[05:25:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+[05:25:27] <span style="color:#41742f">CNN: &gt;new yorkian</span><br />
+[05:25:29] <span style="color:#41742f">CNN: *new yorker</span><br />
+[05:25:39] <span style="color:#41742f">CNN: &gt;hedge witch</span><br />
+[05:25:40] <span style="color:#41742f">CNN: &gt;necromancer</span><br />
+[05:25:43] <span style="color:#133295">CEP: His bio sounds really interesting. :&gt;</span><br />
+[05:25:46] <span style="color:#133295">CEP: I'd like to meet him. :&gt;</span><br />
+[05:25:47] <span style="color:#41742f">CNN: <span style="color:#4d3c37">oh</span> sure how many dead bodies have YOU resurrected</span><br />
+[05:26:02] <span style="color:#133295">CEP: Excuse me, filthy casual, I'm a hipstermancer :&gt;</span><br />
+[05:26:08] <span style="color:#84d619">CGF: <span style="color:#e758ab"> ι gυεss γου cουlɗ sαγ</span></span><br />
+[05:26:11] <span style="color:#84d619">CGF: <span style="color:#bacfcd"> hε wαs cαυghτ</span></span><br />
+[05:26:12] <span style="color:#133295">CEP: I only resurrect what's not popular :&gt;</span><br />
+[05:26:12] <span style="color:#84d619">CGF: <span style="color:#8d9c4d"> rεɗ hαηɗεɗ</span></span><br />
+[05:26:20] <span style="color:#41742f">CNN: <span style="color:#4d3c37">also</span></span><br />
+[05:26:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">exif</span> data on the images</span><br />
+[05:26:25] <span style="color:#41742f">CNN: (booyeah tracking)</span><br />
+[05:26:28] <span style="color:#41742f">CNN: <span style="color:#4d3c37">says</span> that it was intentional</span><br />
+[05:26:37] <span style="color:#41742f">CNN: <span style="color:#4d3c37">because</span> they were timed too perfectly</span><br />
+[05:27:01] <span style="color:#41742f">CNN: <span style="color:#4d3c37">namel</span></span><br />
+[05:27:05] <span style="color:#41742f">CNN: <span style="color:#4d3c37">there</span> wasn't enoguh time for him to walk home</span><br />
+[05:27:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">only</span> enough to wash his hands</span><br />
+[05:27:40] <span style="color:#133295">CEP: Maybe he washed his hands :&gt;</span><br />
+[05:27:42] <span style="color:#133295">CEP:  <a href='http://24.media.tumblr.com/513f0b4d3506c7118e1e326602d2a931/tumblr_mqcwriI2sT1qicujlo1_500.png'>http://24.media.tumblr.com/513f0b4d3506c7118e1e326602d2a931/tumblr_mqcwriI2sT1qicujlo1_500.png</a> :&gt;</span><br />
+[05:27:45] <span style="color:#133295">CEP: Before he got home :&gt;</span><br />
+[05:27:54] <span style="color:#41742f">CNN: <span style="color:#4d3c37">read</span> the thing</span><br />
+[05:27:57] <span style="color:#84d619">CGF: <span style="color:#d3371a"> ιƒ hε ɗιɗ τhεη hε</span></span><br />
+[05:27:59] <span style="color:#84d619">CGF: <span style="color:#424333"> wουlɗητ hανε sαιɗ</span></span><br />
+[05:27:59] <span style="color:#41742f">CNN: <span style="color:#4d3c37">walked</span> home then washed hands</span><br />
+[05:28:01] <span style="color:#84d619">CGF: <span style="color:#41de4f"> τhατ ιτ wαs gοηε</span></span><br />
+[05:28:05] <span style="color:#84d619">CGF: <span style="color:#41bd5d"> hε wουlɗ hανε sαιɗ hε hαɗ wαshεɗ</span></span><br />
+[05:28:06] <span style="color:#84d619">CGF: <span style="color:#e9506d"> hιs hαηɗs</span></span><br />
+[05:28:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">he</span> said he washed his hands after he got home</span><br />
+[05:28:17] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> then suddenly majikally</span><br />
+[05:28:20] <span style="color:#41742f">CNN: <span style="color:#4d3c37">there</span> weren't any marks</span><br />
+[05:28:21] <span style="color:#133295">CEP: maybe he can teleport :&gt;</span><br />
+[05:28:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">even</span> though his hand was hurting really bad</span><br />
+[05:28:23] <span style="color:#133295">CEP: he is a god, after all :&gt;</span><br />
+[05:28:27] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> he's a psychic vampire</span><br />
+[05:28:29] <span style="color:#41742f">CNN: <span style="color:#4d3c37">read</span> the bio closer</span><br />
+[05:28:33] <span style="color:#41742f">CNN: <span style="color:#4d3c37">he</span>'s just a stupid guy</span><br />
+[05:28:47] <span style="color:#133295">CEP: he's also a hedge witch :&gt;</span><br />
+[05:28:56] <span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> stupid hedge</span><br />
+[05:29:00] <span style="color:#133295">CEP: also has connections with many gods :&gt;</span><br />
+[05:29:05] <span style="color:#41742f">CNN: <span style="color:#4d3c37">coNNections</span></span><br />
+[05:29:06] <span style="color:#133295">CEP: maybe one of the gods teleported him :&gt;</span><br />
+[05:29:11] <span style="color:#41742f">CNN: <span style="color:#4d3c37">he</span> would mention that</span><br />
+[05:29:17] <span style="color:#41742f">CNN: <span style="color:#4d3c37">instead</span> of having</span><br />
+[05:29:19] <span style="color:#41742f">CNN: <span style="color:#4d3c37">to</span> drag the dog home</span><br />
+[05:29:20] <span style="color:#84d619">CGF: <span style="color:#36d084"> hεs τhε gοɗ οƒ ɗοοrs </span></span><br />
+[05:29:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">his</span> words</span><br />
+[05:29:23] <span style="color:#84d619">CGF: <span style="color:#df4c97"> hε cουlɗ jυsτ</span></span><br />
+[05:29:24] <span style="color:#84d619">CGF: <span style="color:#467780"> мακε α ɗοοr</span></span><br />
+[05:29:31] <span style="color:#133295">CEP: He's a time manipulator :&gt;</span><br />
+[05:29:36] <span style="color:#133295">CEP: He's got power over time :&gt;</span><br />
+[05:30:38] <span style="color:#133295">CEP: Whatever he is, he is not to be taken lightly. He's highly powerful. :&gt;</span><br />
+[05:32:28] <span style="color:#d1cfcd"><span style="color:#000000">CLL</span> ceased responding to memo.</span><br />
+[05:36:36] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[05:41:39] <span style="color:#d1cfcd"><span style="color:#005400">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[05:41:39] <span style="color:#005400">CSL: i still really need a server player for overseer.</span><br />
+[05:41:57] <span style="color:#005400">CSL: either dubiousSwain whoever the hell that is or AE</span><br />
+[05:42:12] <span style="color:#3a4961">CAE: take me</span><br />
+[05:42:21] <span style="color:#005400">CSL: you need to i think</span><br />
+[05:42:28] <span style="color:#005400">CSL: i have a client but i need a server</span><br />
+[05:42:55] <span style="color:#005400">CSL: fighting ogres is getting hella boring</span><br />
+[05:44:58] <span style="color:#133295">CEP: I don't feel so well again. I'm going back to laying down. :&gt;</span><br />
+[05:57:45] <span style="color:#d1cfcd"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
+[05:59:55] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[06:02:23] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:06:42] <span style="color:#41742f">CNN:   <a href='http://i.imgur.com/DUHxcC4.jpg'>http://i.imgur.com/DUHxcC4.jpg</a></span><br />
+[06:07:11] <span style="color:#cb7de6">CSJ: pfft</span><br />
+[06:07:19] <span style="color:#41742f">CNN: <span style="color:#4d3c37">more</span> like</span><br />
+[06:07:24] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> find your lack of bass trebling</span><br />
+[06:07:55] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[06:07:55] <span style="color:#ee1e00">CCP: pfffffffft</span><br />
+[06:08:07] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> have altered your levels. Pray that I don't alter them further.</span><br />
+[06:08:09] <span style="color:#41742f">CNN: <span style="color:#4d3c37">okay</span> no this is getting dumb now.</span><br />
+[06:08:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">wait</span> a minute.</span><br />
+[06:08:39] <span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> that new royal baby thing</span><br />
+[06:08:44] <span style="color:#3a4961">CAE: don't drop my E1 500 bass</span><br />
+[06:08:49] <span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> its dad is 100% royal</span><br />
+[06:08:53] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> the mom is 0% and was married in</span><br />
+[06:08:55] <span style="color:#41742f">CNN: <span style="color:#4d3c37">does</span> that make</span><br />
+[06:08:58] <span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> royal baby</span><br />
+[06:09:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">a</span> half blood prince</span><br />
+[06:09:04] <span style="color:#3a4961">CAE: nope</span><br />
+[06:09:12] <span style="color:#3a4961">CAE: being married to a royal makes you a royal</span><br />
+[06:09:18] <span style="color:#41742f">CNN: <span style="color:#4d3c37">AE</span> shut up you're ruining my joke</span><br />
+[06:09:18] <span style="color:#3a4961">CAE: so it's 100% royal</span><br />
+[06:09:19] <span style="color:#41742f">CNN: <span style="color:#4d3c37">3</span>:</span><br />
+[06:09:22] <span style="color:#3a4961">CAE: no</span><br />
+[06:09:25] <span style="color:#41742f">CNN: <span style="color:#4d3c37">okay</span></span><br />
+[06:09:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">how</span> about this</span><br />
+[06:09:32] <span style="color:#3a4961">CAE: your joke had been baseless from the start</span><br />
+[06:09:32] <span style="color:#41742f">CNN: <span style="color:#4d3c37">if</span> the royal baby was just born</span><br />
+[06:09:33] <span style="color:#41742f">CNN: <span style="color:#4d3c37">does</span> that make it</span><br />
+[06:09:35] <span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> fresh prince</span><br />
+[06:09:38] <span style="color:#3a4961">CAE: yes</span><br />
+[06:09:45] <span style="color:#3a4961">CAE: that's much better</span><br />
+[06:11:18] <span style="color:#41742f">CNN:   <a href='http://i.imgur.com/pw7dZY6.jpg'>http://i.imgur.com/pw7dZY6.jpg</a></span><br />
+[06:11:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">relevant</span>.</span><br />
+[06:11:30] <span style="color:#3a4961">CAE: what no</span><br />
+[06:11:35] <span style="color:#3a4961">CAE: i don't want nightmares</span><br />
+[06:11:36] <span style="color:#41742f">CNN: <span style="color:#4d3c37">hakuna</span> britaNNia</span><br />
+[06:11:39] <span style="color:#41742f">CNN: <span style="color:#4d3c37">what</span> a wonderful phrase</span><br />
+[06:11:47] <span style="color:#d1cfcd"><span style="color:#410f41">CURRENT symphonicAnima [CSA]</span> RIGHT NOW responded to memo.</span><br />
+[06:11:47] <span style="color:#410f41">CSA: the half blood prince is born</span><br />
+[06:11:53] <span style="color:#410f41">CSA: what a wonderful world we live in</span><br />
+[06:12:39] <span style="color:#d1cfcd"><span style="color:#000000">CZC</span> ceased responding to memo.</span><br />
+[06:12:50] <span style="color:#410f41">CSA: yeah just wanted to say that</span><br />
+[06:12:59] <span style="color:#410f41">CSA: even though NN said it earlier but <img src='smilies/mspa_face.png' alt=':mspa:' title=':mspa:' /></span><br />
+[06:13:13] <span style="color:#41742f">CNN:   <a href='http://i.imgur.com/dURfZNQ.jpg'>http://i.imgur.com/dURfZNQ.jpg</a></span><br />
+[06:13:15] <span style="color:#41742f">CNN: <span style="color:#4d3c37">united</span> steaks of america</span><br />
+[06:13:20] <span style="color:#41742f">CNN: <span style="color:#4d3c37">way</span> better than united kingdum</span><br />
+[06:13:33] <span style="color:#ee1e00">CCP: pfft</span><br />
+[06:14:33] <span style="color:#410f41">CSA: hahahaha</span><br />
+[06:17:18] <span style="color:#3a4961">CAE: character idea: guy who's bleeding and slowly dying or whatever while being dragged by others all over the place, getting physchologically trauamatised through being in the crossfire between 3+ factions and then ending up in a hospital and actually living on</span><br />
+[06:17:32] <span style="color:#3a4961">CAE: *psychologically</span><br />
+[06:18:40] <span style="color:#41742f">CNN:   <a href='http://i.imgur.com/JjZ6Gwf.png'>http://i.imgur.com/JjZ6Gwf.png</a></span><br />
+[06:18:43] <span style="color:#41742f">CNN: <span style="color:#4d3c37">there</span> are two kinds of people</span><br />
+[06:20:40] <span style="color:#84d619">CGF: <span style="color:#6d9ce4"> ιмαgιηε ιƒ sοмεοηε gοτ οηε οƒ τhοsε ɗrαηο ßοττlε ßοмßs</span></span><br />
+[06:20:44] <span style="color:#84d619">CGF: <span style="color:#ef5a6a"> αηɗ ɗrαηκ τhε lιqυιɗ </span></span><br />
+[06:20:51] <span style="color:#84d619">CGF: <span style="color:#a25f81"> τhιηκιηg ιτ's sοɗα</span></span><br />
+[06:20:56] <span style="color:#41742f">CNN: <span style="color:#4d3c37">yum</span></span><br />
+[06:21:15] <span style="color:#84d619">CGF: <span style="color:#b2c0d4"> wουlɗ ιτ мεlτ τhειr ιηsιɗεs</span></span><br />
+[06:21:19] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span></span><br />
+[06:21:22] <span style="color:#84d619">CGF: <span style="color:#ce837a"> οr wουlɗ ιτ jυsτ εχρlοɗε</span></span><br />
+[06:21:23] <span style="color:#41742f">CNN: <span style="color:#4d3c37">it</span>'d explode while they drink it</span><br />
+[06:21:24] <span style="color:#84d619">CGF: <span style="color:#71a272"> whεη τhεγ τουchεɗ ιτ</span></span><br />
+[06:21:29] <span style="color:#84d619">CGF: <span style="color:#df3c01"> τhατ's cοοl</span></span><br />
+[06:21:33] <span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> it'd blow their hand off</span><br />
+[06:21:35] <span style="color:#41742f">CNN: <span style="color:#4d3c37">and</span> face</span><br />
+[06:21:36] <span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> they become <span style="color:#005682">Vriska</span></span><br />
+[06:21:46] <span style="color:#3a4961">CAE: I'M GOING TO PISS LIQUID RAGE AND BURN THROUGH THE FLOOR WITH IT</span><br />
+[06:21:48] <span style="color:#84d619">CGF: <span style="color:#ea764f"> мιchαεl ßαγ wατεrɗrιηκιηg</span></span><br />
+[06:21:58] <span style="color:#41742f">CNN: ...</span><br />
+[06:22:00] <span style="color:#41742f">CNN: <span style="color:#4d3c37">hot</span></span><br />
+[06:22:23] <span style="color:#ee1e00">CCP: what the EW</span><br />
+[06:23:25] <span style="color:#410f41">CSA: ...</span><br />
+[06:27:56] <span style="color:#41742f">CNN: ...</span><br />
+[06:28:30] <span style="color:#41742f">CNN: ...</span><br />
+[06:28:33] <span style="color:#41742f">CNN: .......</span><br />
+[06:28:36] <span style="color:#41742f">CNN: ...............</span><br />
+[06:28:42] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span> don't actually have a pun</span><br />
+[06:28:42] <span style="color:#41742f">CNN: <span style="color:#4d3c37">I</span>'m just</span><br />
+[06:28:43] <span style="color:#41742f">CNN: .....</span><br />
+[06:28:45] <span style="color:#41742f">CNN: <span style="color:#4d3c37">dotting</span></span><br />
+[06:28:47] <span style="color:#41742f">CNN: ....</span><br />
+[06:28:49] <span style="color:#41742f">CNN: <span style="color:#4d3c37">wheee</span></span><br />
+[06:30:21] <span style="color:#a8a87e">CFF:  <a href='http://www.youtube.com/watch?feature=player_embedded&v=aM47SIXx1WQ'>http://www.youtube.com/watch?feature=player_embedded&v=aM47SIXx1WQ</a></span><br />
+[06:30:33] <span style="color:#41742f">CNN: <span style="color:#4d3c37">seen</span> it</span><br />
+[06:30:36] <span style="color:#41742f">CNN: <span style="color:#4d3c37">or</span> should I sy</span><br />
+[06:30:41] <span style="color:#41742f">CNN: <span style="color:#4d3c37">sie</span> sind esseen it</span><br />
+[06:30:45] <span style="color:#41742f">CNN:   <img src='smilies/pccool.png' alt=':smooth:' title=':smooth:' /></span><br />
+[06:31:04] <span style="color:#41742f">CNN: (ur fkin welcum)</span><br />
+[06:32:20] <span style="color:#84d619">CGF:  &lt;color=#ඨඨඨඨඨඨ&gt;  <a href='http://i.imgur.com/YhBNVVJ.png'>http://i.imgur.com/YhBNVVJ.png</a></span></span><br />
+[06:32:27] <span style="color:#84d619">CGF: <span style="color:#c88514"> "γεαh gυγs τhατ's εχαcτlγ whατ ι мεαητ"</span></span><br />
+[06:33:26] <span style="color:#41742f">CNN: <span style="color:#4d3c37">gf</span> are you browsing r/harrypotter</span><br />
+[06:34:53] <span style="color:#a8a87e">CFF:  <a href='http://media.tumblr.com/417f5c825968f40034e03722bfa4dd07/tumblr_inline_mnt67zEvCd1qz4rgp.gif'>http://media.tumblr.com/417f5c825968f40034e03722bfa4dd07/tumblr_inline_mnt67zEvCd1qz4rgp.gif</a></span><br />
+[06:35:43] <span style="color:#41742f">CNN: ;billiards;</span><br />
+[06:35:53] <span style="color:#cb7de6">CSJ: dude, that is awesome.</span><br />
+[06:35:59] <span style="color:#3a4961">CAE: i've seen that</span><br />
+[06:36:07] <span style="color:#3a4961">CAE: i don't like to see scratch die</span><br />
+[06:36:12] <span style="color:#3a4961">CAE: he's my favourite villain</span><br />
+[06:36:16] <span style="color:#41742f">CNN: <span style="color:#4d3c37">rip</span> scratch</span><br />
+[06:36:21] <span style="color:#41742f">CNN: ;n;</span><br />
+[06:37:55] <span style="color:#3a4961">CAE: † O8 †</span><br />
+[06:37:59] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[06:38:30] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[06:46:47] <span style="color:#d1cfcd"><span style="color:#000000">CMP</span> ceased responding to memo.</span><br />
+[06:47:26] <span style="color:#41742f">CNN:   <a href='http://24.media.tumblr.com/da327432546c30dcf23f6ea52e1d8f66/tumblr_mqd36j1wPd1rp337xo1_400.png''>http://24.media.tumblr.com/da327432546c30dcf23f6ea52e1d8f66/tumblr_mqd36j1wPd1rp337xo1_400.png'</a></span><br />
+[06:47:27] <span style="color:#41742f">CNN:   <a href='http://24.media.tumblr.com/da327432546c30dcf23f6ea52e1d8f66/tumblr_mqd36j1wPd1rp337xo1_400.png'>http://24.media.tumblr.com/da327432546c30dcf23f6ea52e1d8f66/tumblr_mqd36j1wPd1rp337xo1_400.png</a></span><br />
+[06:48:19] <span style="color:#410f41">CSA: *shamelessly promotes own IC blog because DAMMIT I NEED AN ANSWER TO THE LATEST POST <a href='http://melodiesofthemind.tumblr.com/'>http://melodiesofthemind.tumblr.com/</a> *</span><br />
+[06:48:31] <span style="color:#41742f">CNN: <span style="color:#4d3c37">yes</span>.</span><br />
+[06:48:35] <span style="color:#41742f">CNN: <span style="color:#4d3c37">that</span>'s the answer</span><br />
+[06:48:42] <span style="color:#410f41">CSA: //rolls eyes</span><br />
+[06:48:47] <span style="color:#41742f">CNN: <span style="color:#4d3c37">okay</span>.</span><br />
+[06:48:49] <span style="color:#41742f">CNN: <span style="color:#4d3c37">is</span> the answer.</span><br />
+[06:48:49] <span style="color:#41742f">CNN: <span style="color:#4d3c37">42</span></span><br />
+[06:49:01] <span style="color:#410f41">CSA: ...</span><br />
+[06:49:04] <span style="color:#410f41">CSA: i don't even</span><br />
+[06:49:05] <span style="color:#410f41">CSA: how</span><br />
+[06:49:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> obviously the anomaly is 42.</span><br />
+[06:49:14] <span style="color:#41742f">CNN: <span style="color:#4d3c37">duh</span>.</span><br />
+[06:49:18] <span style="color:#d1cfcd">-- CURRENT symphonicAnima <span style="color:#410f41">[CSA]</span>  facepalms --</span><br />
+[06:49:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">no</span> seriously though</span><br />
+[06:49:40] <span style="color:#41742f">CNN: <span style="color:#4d3c37">4</span>+2=6=|-6|=-6=3+-3=3=option 3</span><br />
+[06:49:46] <span style="color:#41742f">CNN: ^ that math is on purpose wrong</span><br />
+[06:51:03] <span style="color:#410f41">CSA: why</span><br />
+[06:51:04] <span style="color:#410f41">CSA: just why</span><br />
+[06:51:12] <span style="color:#41742f">CNN: <span style="color:#4d3c37">did</span> you really</span><br />
+[06:51:13] <span style="color:#41742f">CNN: <span style="color:#4d3c37">expec</span> anything differen</span><br />
+[06:52:34] <span style="color:#410f41">CSA: sighs</span><br />
+[06:52:36] <span style="color:#410f41">CSA: no not really</span><br />
+[07:00:06] <span style="color:#84d619">CGF: <span style="color:#c44334"> ι jυsτ wατchεɗ αη εριsοɗε οƒ αɗνεητυrε τιмε </span></span><br />
+[07:00:14] <span style="color:#84d619">CGF: <span style="color:#7227c0"> ι'νε ηενεr sεεη sυch ραηɗεrιηg ιη мγ lιƒε</span></span><br />
+[07:00:34] <span style="color:#84d619">CGF: <span style="color:#4de4e5"> ι τhιηκ ι jυsτ ßεcαмε α мεмε</span></span><br />
+[07:05:35] <span style="color:#d1cfcd"><span style="color:#000000">CFP</span> ceased responding to memo.</span><br />
+[07:06:32] <span style="color:#3a4961">CAE: jesus fucking christ this dictionary is bottomless</span><br />
+[07:06:50] <span style="color:#d1cfcd"><span style="color:#aaaa7f">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[07:06:50] <span style="color:#aaaa7f">CFF: You mean... endless, right?</span><br />
+[07:06:56] <span style="color:#3a4961">CAE: no</span><br />
+[07:06:57] <span style="color:#3a4961">CAE: open it up</span><br />
+[07:07:01] <span style="color:#3a4961">CAE: you get fucking lost in it</span><br />
+[07:07:07] <span style="color:#3a4961">CAE: and as you read</span><br />
+[07:07:24] <span style="color:#3a4961">CAE: you keep on falling deeper and deeper into the most obscure parts of the japanese language</span><br />
+[07:07:36] <span style="color:#aaaa7f">CFF: heh.</span><br />
+[07:07:52] <span style="color:#3a4961">CAE: the dark recesses into which none but the bravest men of words dare venture</span><br />
+[07:08:49] <span style="color:#3a4961">CAE: caverns of obscurities and sinister mazes of polysemy, homophony, homonymy and synonymy</span><br />
+[07:10:13] <span style="color:#3a4961">CAE: 底がなく深い辞典</span><br />
+[07:10:13] <span style="color:#84d619">CGF: <span style="color:#ab40fd"> ßυτ ɗο γου κηοw whατ ɗεsυ мεαηs</span></span><br />
+[07:10:30] <span style="color:#3a4961">CAE: it means is/to be</span><br />
+[07:11:09] <span style="color:#3a4961">CAE: shortened form of de arimasu, the polite form of de aru, "to be (general)"</span><br />
+[07:11:19] <span style="color:#84d619">CGF: <span style="color:#7e4d11"> ɗο υ κηοw whατ sυgοι мεαηs</span></span><br />
+[07:11:21] <span style="color:#3a4961">CAE: formal form is de gozairu</span><br />
+[07:11:27] <span style="color:#3a4961">CAE: sugoi means "awesome"</span><br />
+[07:11:41] <span style="color:#3a4961">CAE: perfect interlingual semantic overlap</span><br />
+[07:12:34] <span style="color:#3a4961">CAE: also, あなたは猫さんに嫌い者だ</span><br />
+[07:13:10] <span style="color:#84d619">CGF: <span style="color:#754073"> ɗοεs sεrßια υsε αηοτhεr lαηgυαgε hτατ ιsη'τ εηglιsh</span></span><br />
+[07:13:23] <span style="color:#84d619">CGF: <span style="color:#a0ef32"> τhατ</span></span><br />
+[07:13:33] <span style="color:#3a4961">CAE: excuse me what i don't understand.</span><br />
+[07:13:40] <span style="color:#84d619">CGF: <span style="color:#ad4b9f"> whατ ιs sεrßια's lαηgυαgε</span></span><br />
+[07:13:43] <span style="color:#84d619">CGF: <span style="color:#c2ca3b"> lικε τhε ηατινε lαηgυαgε</span></span><br />
+[07:13:43] <span style="color:#3a4961">CAE: serbian</span><br />
+[07:13:48] <span style="color:#84d619">CGF: <span style="color:#67e5a9"> οh</span></span><br />
+[07:13:54] <span style="color:#3a4961">CAE: formerly known as serbo-croatian</span><br />
+[07:13:57] <span style="color:#ee1e00">CCP: AE, I'm still on the surface of the japanese world and haven't been digging down for a while because too fucking busy :(</span><br />
+[07:13:58] <span style="color:#3a4961">CAE: i'm just a polyglot</span><br />
+[07:18:51] <span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[07:24:22] <span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[07:26:44] <span style="color:#d1cfcd"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+[07:29:44] <span style="color:#d1cfcd"><span style="color:#0055ff">CURRENT compactDisc [CCD]</span> RIGHT NOW responded to memo.</span><br />
+[07:29:44] <span style="color:#0055ff">CCD: it's just me, Æ</span><br />
+[07:29:57] <span style="color:#0055ff">CCD: i kinda got crapped on by the power flickering out</span><br />
+[07:29:57] <span style="color:#ee1e00">CCP: ...</span><br />
+[07:32:01] <span style="color:#d1cfcd"><span style="color:#000000">CGF</span> ceased responding to memo.</span><br />
+[07:33:58] <span style="color:#41742f">CNN: <span style="color:#4d3c37">we</span> just got a letter we just got a letter</span><br />
+[07:34:04] <span style="color:#41742f">CNN: <span style="color:#4d3c37">we</span> just got a letter wonder who it's from</span><br />
+[07:34:07] <span style="color:#41742f">CNN: <span style="color:#4d3c37">CCS</span>: HOLY FLAMING PANTIES</span><br />
+[07:34:08] <span style="color:#41742f">CNN: <span style="color:#4d3c37">well</span> that happened</span><br />
+[07:35:07] <span style="color:#ee1e00">CCP: pfffffffft</span><br />
+[07:36:52] <span style="color:#41742f">CNN: <span style="color:#4d3c37">u_u</span></span><br />
+[07:36:55] <span style="color:#41742f">CNN: <span style="color:#4d3c37">so</span> people are like</span><br />
+[07:37:21] <span style="color:#41742f">CNN: <span style="color:#4d3c37">the</span> dumbest thing I have ever seen</span><br />
+[07:42:40] <span style="color:#d1cfcd"><span style="color:#005400">CURRENT slothfulLunchmeat [CSL]</span> RIGHT NOW responded to memo.</span><br />
+[07:42:40] <span style="color:#005400">CSL: agh i still dont have an overseer server</span><br />
+[07:42:41] <span style="color:#005400">CSL: D:</span><br />
+[07:45:20] <span style="color:#410f41">CSA: sunsets are pretty.</span><br />
+[07:45:24] <span style="color:#410f41">CSA: and uh</span><br />
+[07:45:52] <span style="color:#005400">CSL: do we need dubiousSwain to make a complete chain?</span><br />
+[07:46:24] <span style="color:#410f41">CSA: yes</span><br />
+[07:46:33] <span style="color:#410f41">CSA: and AE isn't online either i don't think</span><br />
+[07:46:39] <span style="color:#005400">CSL: do you know when hell be on?</span><br />
+[07:46:53] <span style="color:#410f41">CSA: i dunno</span><br />
+[07:46:54] <span style="color:#410f41">CSA: um</span><br />
+[07:47:24] <span style="color:#410f41">CSA: 4-6 hours?</span><br />
+[07:47:31] <span style="color:#005400">CSL: aight</span><br />
+[08:02:43] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[08:02:55] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[08:17:34] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:23:27] <span style="color:#aaaa7f">CFF: BAHAHAHAHAHAHAHA!</span><br />
+[08:23:30] <span style="color:#005400">CSL: ?</span><br />
+[08:23:42] <span style="color:#41742f">CNN: <span style="color:#4d3c37">huehuehue</span></span><br />
+[08:23:57] <span style="color:#0055ff">CCD: Æ is here</span><br />
+[08:24:03] <span style="color:#0055ff">CCD: u mofos lauwl</span><br />
+[08:24:07] <span style="color:#0055ff">CCD: :eoggka:</span><br />
+[08:24:08] <span style="color:#aaaa7f">CFF: ...?</span><br />
+[08:25:24] <span style="color:#410f41">CSA: ...</span><br />
+[08:31:33] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:48:45] <span style="color:#d1cfcd"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+[08:51:49] <span style="color:#41742f">CNN:   <a href='http://24.media.tumblr.com/tumblr_m8qxkgkUIw1r3p7imo1_400.png'>http://24.media.tumblr.com/tumblr_m8qxkgkUIw1r3p7imo1_400.png</a></span><br />
+[08:51:59] <span style="color:#cb7de6">CSJ: ...</span><br />
+[08:54:03] <span style="color:#ee1e00">CCP: O_O</span><br />
+[08:54:33] <span style="color:#aaaa7f">CFF: DO NOT WANT.</span><br />
+[08:57:56] <span style="color:#d1cfcd"><span style="color:#000000">CLL</span> ceased responding to memo.</span><br />
+[09:01:44] <span style="color:#41742f">CNN: <span style="color:#4d3c37">do</span> want</span><br />
+[09:03:21] <span style="color:#410f41">CSA: that is mildly terrifyin</span><br />
+[09:03:52] <span style="color:#d1cfcd"><span style="color:#000000">CGS</span> ceased responding to memo.</span><br />
+[09:08:48] <span style="color:#d1cfcd"><span style="color:#00ac00">CURRENT supernatrlTrickster [CST]</span> RIGHT NOW responded to memo.</span><br />
+[09:08:48] <span style="color:#00ac00">CST: Hey ! :D</span><br />
+[09:09:21] <span style="color:#00ac00">CST: Anybody home?</span><br />
+[09:09:22] <span style="color:#cb7de6">CSJ: hi ST!</span><br />
+[09:09:30] <span style="color:#00ac00">CST: Hey SJ</span><br />
+[09:10:32] <span style="color:#0055ff">CCD: hello</span><br />
+[09:10:36] <span style="color:#0055ff">CCD: it's me</span><br />
+[09:10:38] <span style="color:#0055ff">CCD: Æ</span><br />
+[09:10:43] <span style="color:#41742f">CNN: <span style="color:#4d3c37">EA</span> games</span><br />
+[09:10:51] <span style="color:#aaaa7f">CFF: It's in the game.</span><br />
+[09:10:56] <span style="color:#aaaa7f">CFF: ...sorry.</span><br />
+[09:12:19] <span style="color:#00ac00">CST: I made an appearance in the incip but that's not the skittles you know jsyk.</span><br />
+[09:12:39] <span style="color:#d1cfcd"><span style="color:#9d001f">PAST rambunctiousSkater [PRS]</span> 1 MINUTE AGO responded to memo.</span><br />
+[09:12:39] <span style="color:#9d001f">PRS: :\</span><br />
+[09:12:44] <span style="color:#d1cfcd"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[09:12:44] <span style="color:#9d001f">CRS: *:\</span><br />
+[09:13:15] <span style="color:#ee1e00">CCP: wat.</span><br />
+[09:14:42] <span style="color:#00ac00">CST: ST is a glitched alt, not Skittles so much.</span><br />
+[09:14:53] <span style="color:#00ac00">CST: I'm working on it. Xp</span><br />
+[09:15:28] <span style="color:#00ac00">CST: * not alt ... splinter</span><br />
+[09:16:22] <span style="color:#00ac00">CST: Just giving you a heads up not to assume its the same character.</span><br />
+[09:16:34] <span style="color:#00ac00">CST: I'm really tired. How do I words?</span><br />
+[09:19:24] <span style="color:#d1cfcd">-- CURRENT supernatrlTrickster <span style="color:#00ac00">[CST]</span>  sob --</span><br />

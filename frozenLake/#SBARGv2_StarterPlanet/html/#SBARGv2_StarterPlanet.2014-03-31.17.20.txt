@@ -1,0 +1,27 @@
+[17:20:39] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[19:22:37] <span style="color:#d1cfcd"><span style="color:#000000">CWD</span> ceased responding to memo.</span><br />
+[21:02:03] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
+[21:02:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  walks out of the bar, heading into the forest. --</span><br />
+[21:03:14] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  seems to be heading where the giant cherry blossom used to stand... --</span><br />
+[21:03:36] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT wonderlandDominator [CWD]</span> RIGHT NOW responded to memo.</span><br />
+[21:03:36] <span style="color:#d1cfcd">-- CURRENT wonderlandDominator <span style="color:#000000">[CWD]</span>  why --</span><br />
+[21:04:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // because feels. --</span><br />
+[21:04:24] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[21:04:24] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows at a distance --</span><br />
+[21:04:43] <span style="color:#d1cfcd">-- CURRENT wonderlandDominator <span style="color:#000000">[CWD]</span>  no feels hjere --</span><br />
+[21:05:09] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // TOO LATE --</span><br />
+[21:05:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is still heading torwards the spot. --</span><br />
+[21:06:09] <span style="color:#0078f0">CFL: (( Any differences? ))</span><br />
+[21:06:25] <span style="color:#000000">CWD: ((nope))</span><br />
+[21:07:01] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  heads to the exact spot the tree used to be... and sits down, crossing his legs. --</span><br />
+[21:08:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  watches, a few trees away, hiding --</span><br />
+[21:08:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // tears begin to flow out of FL's eyes, like a river with a dam that just exploded. --</span><br />
+[21:12:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is just silently crying. --</span><br />
+[21:24:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // the crying turns into a sob. --</span><br />
+[21:27:01] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sighs inaudibly --</span><br />
+[21:30:04] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[21:30:04] <span style="color:#d1cfcd"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+[21:38:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  flops forward, and starts pounding the ground. --</span><br />
+[21:43:48] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is smashing his fist against the ground. --</span><br />
+[21:54:57] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  gets goosebumps... and looks around. --</span><br />
+[21:56:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  vanishes in a flare. --</span><br />

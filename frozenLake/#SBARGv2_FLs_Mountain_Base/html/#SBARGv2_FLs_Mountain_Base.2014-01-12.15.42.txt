@@ -1,0 +1,60 @@
+[03:42:39] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 FLS MOUNTAIN BASE.</span><br />
+[03:43:04] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  appears in a flare with DS in the basement area. FL runs over to a keypad. --</span><br />
+[03:43:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  punches in the keycode. --</span><br />
+[03:43:35] <span style="color:#0080ff">CFL: ...Got it.</span><br />
+[03:44:02] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // There are a bunch of shelving units... man, this room is massive. --</span><br />
+[03:44:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // 64x64x8 meters massive. --</span><br />
+[03:44:22] <span style="color:#d1cfcd"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+[03:44:22] <span style="color:#008400">CDS: stand by.</span><br />
+[03:44:27] <span style="color:#0080ff">CFL: Alright.</span><br />
+[03:44:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slides a bunch of the shelves out of the way. --</span><br />
+[03:45:50] <span style="color:#0080ff">CFL: Alright, all set.</span><br />
+[03:47:34] <span style="color:#008400">CDS: Incoming</span><br />
+[03:48:13] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>   it materilizes infront of us <a href='https://www.youtube.com/watch?v=pmxPAb9TXwo&list=PLDE5A91029A8AB73E'>https://www.youtube.com/watch?v=pmxPAb9TXwo&list=PLDE5A91029A8AB73E</a> --</span><br />
+[03:48:33] <span style="color:#008400">CDS: ((wait wait ))</span><br />
+[03:51:12] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  opens a holo control panel in front of him --</span><br />
+[03:51:25] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  slides three sliders up and. --</span><br />
+[03:51:38] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>   it materilizes infront of us <a href='https://www.youtube.com/watch?v=pmxPAb9TXwo'>https://www.youtube.com/watch?v=pmxPAb9TXwo</a> --</span><br />
+[03:51:56] <span style="color:#0080ff">CFL: ...And there we go.</span><br />
+[03:52:27] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ist about a story tall and the actual materlistion grid is a bay to the side --</span><br />
+[03:52:53] <span style="color:#008400">CDS: most of the space is a tank of gell that it pulls from to make things.</span><br />
+[03:53:15] <span style="color:#0080ff">CFL: ...Alright, is there a way to refill the tank if needed?</span><br />
+[03:53:25] <span style="color:#008400">CDS: yes ask me</span><br />
+[03:53:53] <span style="color:#008400">CDS: or rescle un nedded things</span><br />
+[03:53:57] <span style="color:#008400">CDS: like this</span><br />
+[03:54:11] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  decapachas a perfectly genaric object --</span><br />
+[03:54:24] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  and sets it on the grid --</span><br />
+[03:54:27] <span style="color:#0080ff">CFL: ...Ah, good.</span><br />
+[03:54:34] <span style="color:#008400">CDS: Replicator Resicle</span><br />
+[03:54:47] <span style="color:#008400">CDS: ((I staill cant spell that lol))</span><br />
+[03:54:49] <span style="color:#0080ff">CFL: So after I get through my JPEG shit, I'll have to go mining for resources.</span><br />
+[03:55:15] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  the object disspaeres in the replicator effect. --</span><br />
+[03:55:24] <span style="color:#008400">CDS: yep</span><br />
+[03:55:35] <span style="color:#008400">CDS: just no strip mining</span><br />
+[03:55:42] <span style="color:#008400">CDS: Ash and I will be mad</span><br />
+[03:55:55] <span style="color:#0080ff">CFL: Alright.</span><br />
+[03:55:56] <span style="color:#008400">CDS: also I made shure to make this planet mineral ritch.</span><br />
+[03:56:14] <span style="color:#0080ff">CFL: So if you vanish, I know what to do.</span><br />
+[03:56:21] <span style="color:#008400">CDS: yep</span><br />
+[03:56:28] <span style="color:#0080ff">CFL: Alright, first off....</span><br />
+[03:56:32] <span style="color:#008400">CDS: lets get back to the bar.</span><br />
+[03:56:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sets a crystal on the pad. --</span><br />
+[03:56:36] <span style="color:#008400">CDS: hmm?</span><br />
+[03:56:42] <span style="color:#008400">CDS: oh</span><br />
+[03:56:45] <span style="color:#0080ff">CFL: Scan basic pattern.</span><br />
+[03:57:04] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  tehres a control pannel next to the grid it has TNG Lcars. --</span><br />
+[03:57:10] <span style="color:#0080ff">CFL: ...</span><br />
+[03:57:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks over to the Control Panel. --</span><br />
+[03:57:25] <span style="color:#0080ff">CFL: Hello computer.</span><br />
+[03:57:29] <span style="color:#008400">CDS: you forgot tp say Replicator</span><br />
+[03:57:54] <span style="color:#008400">CDS: Replicator Scan basic pattern of object</span><br />
+[03:58:01] <span style="color:#008400">CDS: and replicate</span><br />
+[03:58:12] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  it does so. --</span><br />
+[03:58:25] <span style="color:#0080ff">CFL: ...Alright, there we go.</span><br />
+[03:58:28] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  a identical cristal apperes beside the first --</span><br />
+[03:58:54] <span style="color:#0080ff">CFL: I might make a few adjustments so I can resize it while keeping the basic pattern, but yeah, it works.</span><br />
+[03:58:58] <span style="color:#0080ff">CFL: Lets go back.</span><br />
+[03:59:02] <span style="color:#008400">CDS: the pannel is mostly for small ajustments.</span><br />
+[03:59:26] <span style="color:#0080ff">CFL: Computer, activate teleportation security in 5 minutes.</span><br />
+[03:59:27] <span style="color:#d1cfcd">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ports back --</span><br />
+[03:59:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is yanked back with DS. --</span><br />

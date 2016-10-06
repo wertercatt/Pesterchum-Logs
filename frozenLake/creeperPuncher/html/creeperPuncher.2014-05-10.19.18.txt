@@ -1,0 +1,6 @@
+[19:18:52] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> began messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 19:18 --</span><br />
+[19:18:59] <span style="color:#0070e0">FL: Kimura, you there?</span><br />
+[19:19:10] <span style="color:#0070e0">FL: We kinda have an alien in the memo asking questions.</span><br />
+[19:19:41] <span style="color:#0070e0">FL: and by kinda, I mean its the ones about the planet being here</span><br />
+[19:20:23] <span style="color:#0070e0">FL: dammit</span><br />
+[19:20:24] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 19:20 --</span><br />

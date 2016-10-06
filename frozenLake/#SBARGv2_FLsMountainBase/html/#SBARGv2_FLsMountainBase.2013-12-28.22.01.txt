@@ -1,0 +1,2 @@
+[10:01:36] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 FLSMOUNTAINBASE.</span><br />
+[10:01:36] <span style="color:#d1cfcd">Memo is now <span style="color:#000000">Secret</span> by <span style="color:#000000">CFL</span></span><br />

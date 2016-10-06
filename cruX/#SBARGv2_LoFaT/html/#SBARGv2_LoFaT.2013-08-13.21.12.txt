@@ -1,0 +1,932 @@
+[09:12:42] <span style="color:#4c2f13"><span style="color:#802000">CCX</span> RIGHT NOW opened memo on board SBARGV2 LOFAT.</span><br />
+[09:12:51] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  comes racing out barking! --</span><br />
+[09:12:52] <span style="color:#4c2f13"><span style="color:#9d001f">CURRENT rambunctiousSkater [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[09:12:52] <span style="color:#9d001f">CRS: Long time no see.</span><br />
+[09:12:58] <span style="color:#4c2f13">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  grins at FL --</span><br />
+[09:13:00] <span style="color:#802000">CCX: "HEY WHATS THE NOISE oh hey Charles!</span><br />
+[09:13:01] <span style="color:#802000">CCX: "</span><br />
+[09:13:02] <span style="color:#4c2f13"><span style="color:#005500">CURRENT neuroticVagabond [CNV]</span> RIGHT NOW responded to memo.</span><br />
+[09:13:02] <span style="color:#005500">CNV: MARSH, that was it.</span><br />
+[09:13:11] <span style="color:#4c2f13">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  sits up again, rubbing his cheek. --</span><br />
+[09:13:19] <span style="color:#005500">CNV: I was waiting until I remembered that name.</span><br />
+[09:13:24] <span style="color:#4c2f13"><span style="color:#440000">CURRENT ashSprite [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[09:13:24] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  pokes her head out of the Space tent, Curious --</span><br />
+[09:14:40] <span style="color:#4c2f13"><span style="color:#0080ff">CURRENT fLmun [CFL]</span> RIGHT NOW responded to memo.</span><br />
+[09:14:40] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hears a pop. --</span><br />
+[09:14:42] <span style="color:#0080ff">CFL: ...huh.</span><br />
+[09:14:54] <span style="color:#4c2f13"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[09:14:54] <span style="color:#ee1e00">CCP: ?</span><br />
+[09:14:59] <span style="color:#4c2f13"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+[09:14:59] <span style="color:#2806ea">CEQ: hm?</span><br />
+[09:15:02] <span style="color:#9d001f">CRS: Aw man I can't believe you of all people didn't catch that Char.</span><br />
+[09:15:08] <span style="color:#ee1e00">CCP: wat</span><br />
+[09:15:10] <span style="color:#4c2f13">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  sighs. --</span><br />
+[09:15:11] <span style="color:#0080ff">CFL: I think that was my spine shifting back into position.</span><br />
+[09:15:11] <span style="color:#9d001f">CRS: For sham</span><br />
+[09:15:13] <span style="color:#9d001f">CRS: *shame</span><br />
+[09:15:21] <span style="color:#4c2f13"><span style="color:#bfbfbf">CURRENT kutoNe [CKN]</span> RIGHT NOW responded to memo.</span><br />
+[09:15:21] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "that sounded painful..." --</span><br />
+[09:15:32] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls over --</span><br />
+[09:15:40] <span style="color:#2806ea">CEQ: ...</span><br />
+[09:16:02] <span style="color:#0080ff">CFL: just... give me a few seconds.</span><br />
+[09:16:10] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  winces --</span><br />
+[09:16:59] <span style="color:#4c2f13"><span style="color:#280262">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[09:16:59] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  cringes --</span><br />
+[09:17:12] <span style="color:#005500">CNV: You've...definitely got some interesting travel methods.</span><br />
+[09:17:46] <span style="color:#280262">CTT: do you..uhh..need help</span><br />
+[09:17:54] <span style="color:#4c2f13"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[09:17:54] <span style="color:#a80000">CFA: (\ ....Charlie /)</span><br />
+[09:17:57] <span style="color:#2806ea">CEQ: Um...?</span><br />
+[09:18:01] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slowly gets up. --</span><br />
+[09:18:03] <span style="color:#4c2f13"><span style="color:#270041">CURRENT fierySwallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+[09:18:03] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  just shakes his head and continues marshmallowroasting --</span><br />
+[09:18:12] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  boggles vacantly --</span><br />
+[09:18:13] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hands her skewer to FL --</span><br />
+[09:18:18] <span style="color:#a80000">CFA: (\ Here, finish these for me /)</span><br />
+[09:18:21] <span style="color:#0080ff">CFL: there we go... small shell bells should have helped with that.</span><br />
+[09:18:23] <span style="color:#a80000">CFA: (\ FS* /)</span><br />
+[09:18:35] <span style="color:#a80000">CFA: ((TO MANY F_))</span><br />
+[09:18:42] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  takes the skewer --</span><br />
+[09:18:54] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  nods thanks and walks over to FL, frowning --</span><br />
+[09:18:58] <span style="color:#0080ff">CFL: wait, that isn't the shell bell...</span><br />
+[09:19:00] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  has unlocked 2xskewerkind in his strife specibus??? --</span><br />
+[09:19:05] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  but not really --</span><br />
+[09:19:16] <span style="color:#a80000">CFA: (\ C'mon Charlie /)</span><br />
+[09:19:24] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  offers a hand to help him up --</span><br />
+[09:19:37] <span style="color:#0080ff">CFL: hold on, I gotta think of what gave me the health regen</span><br />
+[09:19:38] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  puts a few mallows on a stick for him and the puppies --</span><br />
+[09:19:39] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is up. --</span><br />
+[09:21:18] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  runs a hand down his back, trying to find the misplaced piece --</span><br />
+[09:21:23] <span style="color:#0080ff">CFL: (( there is only four... and only three of those on the memo. ))</span><br />
+[09:21:51] <span style="color:#0080ff">CFL: Uh, Ash, I think that sound was my spine snapping back i- OW GOD</span><br />
+[09:21:55] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // you found it --</span><br />
+[09:22:07] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  cringes some more --</span><br />
+[09:22:12] <span style="color:#a80000">CFA: (\ Ahh, thought so /)</span><br />
+[09:22:16] <span style="color:#280262">CTT: ▲....are you suuuuuuuuure you're okay...?</span><br />
+[09:22:21] <span style="color:#005500">CNV: I had no idea a spinal bone could bo popped back into place like that</span><br />
+[09:22:28] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  puts her hand on his waist, the other on his shoulder --</span><br />
+[09:22:48] <span style="color:#0080ff">CFL: ...Ash, what are you going to do- oh god no, NO</span><br />
+[09:23:08] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  expects more pain --</span><br />
+[09:23:10] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  just sighs and shakes his head again --</span><br />
+[09:23:33] <span style="color:#270041">CFS: this is what happens, FL...</span><br />
+[09:23:40] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks it over a bit before breaking all laws of natural medicen and shoving it back into place. He shouldnt have even been able to stand if his spine was this fucked up --</span><br />
+[09:23:41] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  just...looks away oh god --</span><br />
+[09:24:11] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets the small section that was slightly off back into place --</span><br />
+[09:24:11] <span style="color:#005500">CNV: Hi I'm Nico and this is jackass.</span><br />
+[09:24:18] <span style="color:#0080ff">CFL: OW GOD.</span><br />
+[09:24:21] <span style="color:#ee1e00">CCP: ........pfffffffft.</span><br />
+[09:24:25] <span style="color:#005500">CNV: If your spine was REALLY messed up you'd be pretty paralyzed</span><br />
+[09:24:27] <span style="color:#2806ea">CEQ: ... welp.</span><br />
+[09:24:32] <span style="color:#005500">CNV: Walk it off</span><br />
+[09:24:33] <span style="color:#280262">CTT: Y..yeaaah...</span><br />
+[09:24:37] <span style="color:#005500">CNV: PHONYYYY.</span><br />
+[09:25:00] <span style="color:#9d001f">CRS: I</span><br />
+[09:25:04] <span style="color:#9d001f">CRS: Can't even with this shit</span><br />
+[09:25:10] <span style="color:#005500">CNV: PHOOOOOOONYYYYYY,</span><br />
+[09:25:13] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  shakes her head --</span><br />
+[09:25:16] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "is he gonna be okay?" --</span><br />
+[09:25:21] <span style="color:#a80000">CFA: (\ yyou can support against me if yyou want, dude /)</span><br />
+[09:25:22] <span style="color:#0080ff">CFL: and since when can one heal from being half eaten?!</span><br />
+[09:25:28] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  points at NV. --</span><br />
+[09:25:50] <span style="color:#ee1e00">CCP: .</span><br />
+[09:25:50] <span style="color:#ee1e00">CCP: .</span><br />
+[09:25:51] <span style="color:#ee1e00">CCP: .</span><br />
+[09:25:55] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  sighs --</span><br />
+[09:26:24] <span style="color:#280262">CTT: i swear if you guys sτarτ τo bicker...I mean, we're here for anoτher reason righτ?</span><br />
+[09:26:39] <span style="color:#ee1e00">CCP: yeah.</span><br />
+[09:26:40] <span style="color:#0080ff">CFL: and since when can I manage to get knocked into a wall and such without dying other than my Focus Ribbons?!</span><br />
+[09:26:59] <span style="color:#0080ff">CFL: infact, the fact that those manage to work is amazing!</span><br />
+[09:27:01] <span style="color:#a80000">CFA: (\ We aint bickering /)</span><br />
+[09:27:10] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  flicks FL's head --</span><br />
+[09:27:18] <span style="color:#9d001f">CRS: This isn't bickering its just exasperation</span><br />
+[09:27:20] <span style="color:#4c2f13">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  head is flicked. --</span><br />
+[09:27:20] <span style="color:#005500">CNV: When was I healed from being half eaten</span><br />
+[09:27:22] <span style="color:#005500">CNV: I freakin' died</span><br />
+[09:27:25] <span style="color:#005500">CNV: Straight up died</span><br />
+[09:27:29] <span style="color:#0080ff">CFL: yeah</span><br />
+[09:27:49] <span style="color:#0080ff">CFL: and when does someone come back from the dead? I think that medical logic has since come and gone.</span><br />
+[09:28:06] <span style="color:#005500">CNV: No....no it hasn't..</span><br />
+[09:28:15] <span style="color:#2806ea">CEQ: Ugh...</span><br />
+[09:28:35] <span style="color:#005500">CNV: Either you take injuries like a game construct or medicinal logic is still a thing..</span><br />
+[09:28:38] <span style="color:#0080ff">CFL: ...Funny how I can be knocked to one hp and be in LESS PAIN then just getting semi damaged.</span><br />
+[09:28:48] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  just...places her hand on her face "why are we even discussing this.." --</span><br />
+[09:28:52] <span style="color:#0080ff">CFL: seriously, that /hurt/</span><br />
+[09:28:52] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  flicks him again --</span><br />
+[09:28:57] <span style="color:#a80000">CFA: (\ FL /)</span><br />
+[09:28:58] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is flicked again --</span><br />
+[09:29:00] <span style="color:#0080ff">CFL: what</span><br />
+[09:29:05] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  narrows her eyes at him --</span><br />
+[09:29:17] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  and then... Silence --</span><br />
+[09:29:20] <span style="color:#ee1e00">CCP: we're five months into the game. why are you questioning it NOW?</span><br />
+[09:29:37] <span style="color:#0080ff">CFL: ...Envy started it.</span><br />
+[09:29:48] <span style="color:#005500">CNV: I'll eat you</span><br />
+[09:29:51] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  further narrows her eyes --</span><br />
+[09:29:55] <span style="color:#2806ea">CEQ: Oh shush up, the both of you.</span><br />
+[09:29:56] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  puts her hands on her hips --</span><br />
+[09:30:10] <span style="color:#0080ff">CFL: Doubt it.</span><br />
+[09:30:22] <span style="color:#005500">CNV: ,_,</span><br />
+[09:30:23] <span style="color:#0080ff">CFL: More likely that you will feed me to a baslisk though.</span><br />
+[09:30:35] <span style="color:#9d001f">CRS: ...</span><br />
+[09:30:40] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  walks up to Crux and whispers, "are you gonna bonk him or should I?" --</span><br />
+[09:30:40] <span style="color:#a80000">CFA: (\ Charles /)</span><br />
+[09:30:44] <span style="color:#a80000">CFA: (\ What the fuck did I just sayy /)</span><br />
+[09:30:51] <span style="color:#802000">CCX: "we should both"</span><br />
+[09:31:11] <span style="color:#0080ff">CFL: ...nothing?</span><br />
+[09:31:13] <span style="color:#a80000">CFA: (\ Exactlyy /)</span><br />
+[09:31:14] <span style="color:#0080ff">CFL: other than my name?</span><br />
+[09:31:20] <span style="color:#a80000">CFA: (\ I shouldnt have to /)</span><br />
+[09:31:28] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  paps him on the face --</span><br />
+[09:31:33] <span style="color:#0080ff">CFL: ...touche, shutting up.</span><br />
+[09:31:40] <span style="color:#a80000">CFA: (\ Thank yyou /)</span><br />
+[09:31:40] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  tackles FL's legs. --</span><br />
+[09:31:54] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  also jumps on FL --</span><br />
+[09:31:54] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls face first into the ground. --</span><br />
+[09:32:00] <span style="color:#ee1e00">CCP: ...</span><br />
+[09:32:02] <span style="color:#0080ff">CFL: OH GOD WHY</span><br />
+[09:32:03] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+[09:32:04] <span style="color:#2806ea">CEQ: pff...</span><br />
+[09:32:11] <span style="color:#ee1e00">CCP: what.</span><br />
+[09:32:11] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  grabs the puppy --</span><br />
+[09:32:11] <span style="color:#270041">CFS: ...</span><br />
+[09:32:36] <span style="color:#a80000">CFA: (\ bad dogs /)</span><br />
+[09:32:36] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  D: --</span><br />
+[09:32:36] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "and you did that /why/?" --</span><br />
+[09:33:00] <span style="color:#802000">CCX: "Kutone asked me too! I don't know, I thought it would be fun!"</span><br />
+[09:33:21] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "I was barking at both of you, actually." --</span><br />
+[09:33:33] <span style="color:#0080ff">CFL: I have been defeated by a dog.</span><br />
+[09:33:44] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "how else was he going to stop talking crazy?" --</span><br />
+[09:33:47] <span style="color:#2806ea">CEQ: Congrats.</span><br />
+[09:33:53] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws --</span><br />
+[09:34:12] <span style="color:#0080ff">CFL: My pride has been almost completely wiped out..</span><br />
+[09:34:53] <span style="color:#2806ea">CEQ: There are worse things than being tackled by puppies, I can assure you.</span><br />
+[09:36:48] <span style="color:#0080ff">CFL: why do you think I said /almost/?</span><br />
+[09:36:57] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets back up. --</span><br />
+[09:37:21] <span style="color:#ee1e00">CCP: you, uh, okay FL?</span><br />
+[09:37:40] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles and walks back to the campfire, Sitting next to FL --</span><br />
+[09:37:54] <span style="color:#0080ff">CFL: (( you mean FS? ))</span><br />
+[09:37:56] <span style="color:#a80000">CFA: ((FS* GOD DAMMIT))</span><br />
+[09:38:05] <span style="color:#270041">CFS: ((&gt;:?))</span><br />
+[09:38:16] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "..." --</span><br />
+[09:38:19] <span style="color:#270041">CFS: ((justkidding 's okay))</span><br />
+[09:38:43] <span style="color:#0080ff">CFL: (( quiet now the dogs can hear us... SQUIRREL. ))</span><br />
+[09:38:50] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "anyway, please don't randomly jump on people anymore if they're not expecting it. that goes for BOTH of you." --</span><br />
+[09:38:53] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  looks in a random direction --</span><br />
+[09:39:07] <span style="color:#802000">CCX: "Squirrel? Where?!"</span><br />
+[09:39:25] <span style="color:#802000">CCX: "...oh alright."</span><br />
+[09:39:38] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  still roasting marshmallows over the glow of the fire --</span><br />
+[09:39:44] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  looks over next to him --</span><br />
+[09:39:48] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "...don't tell me the crazy is contagious now..." --</span><br />
+[09:39:58] <span style="color:#270041">CFS: I swear...</span><br />
+[09:40:09] <span style="color:#270041">CFS: I just heard something about a squirrel just now...</span><br />
+[09:40:36] <span style="color:#0080ff">CFL: "hahahaha"</span><br />
+[09:40:39] <span style="color:#0080ff">CFL: (( ack ))</span><br />
+[09:40:53] <span style="color:#ee1e00">CCP: .</span><br />
+[09:40:54] <span style="color:#ee1e00">CCP: .</span><br />
+[09:40:55] <span style="color:#ee1e00">CCP: .</span><br />
+[09:40:58] <span style="color:#0080ff">CFL: (( I USED THE WRONG THING AT THE ENDS ))</span><br />
+[09:41:03] <span style="color:#2806ea">CEQ: uh...?</span><br />
+[09:41:59] <span style="color:#270041">CFS: ((/me takes the parentheticalFL's quotationmarks and bonks him with them))</span><br />
+[09:42:08] <span style="color:#270041">CFS: ((YOU BRING DISHONOR TO OUR ANONYMITY))</span><br />
+[09:42:12] <span style="color:#270041">CFS: ((SHAAAAAAAAAAAME))</span><br />
+[09:42:28] <span style="color:#270041">CFS: ((OHWAIT GOTTAFLEEAGAIN GYAHAHAHAAAAAA))</span><br />
+[09:42:39] <span style="color:#802000">CCX: bark. "what"</span><br />
+[09:42:46] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  giggles softly at shenanigans --</span><br />
+[09:43:01] <span style="color:#0080ff">CFL: Anyway, be right back.</span><br />
+[09:43:07] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs up to the house. --</span><br />
+[09:43:52] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // SUDDENLY GIANT DIAMOND PIRATE SHIP OUT OF NOWHERE... right on the alchemiter. --</span><br />
+[09:44:18] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  did FL just release a wailord inside the house? --</span><br />
+[09:44:38] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Isn't the alchemiter outside? --</span><br />
+[09:44:40] <span style="color:#9d001f">CRS: ...So, food.</span><br />
+[09:44:47] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  I hope so --</span><br />
+[09:45:06] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  draws a portal Bacafe-ward so SJ can come join the party --</span><br />
+[09:45:11] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Why would FL make it in the house? --</span><br />
+[09:45:23] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  shrugs? --</span><br />
+[09:45:52] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  stays tucked into the Tent --</span><br />
+[09:45:54] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  shhh only whateverhappens now --</span><br />
+[09:47:18] <span style="color:#005500">CNV: Yeah there's food right?</span><br />
+[09:47:38] <span style="color:#a80000">CFA: (\ Smores, hot dogs and popcorn /)</span><br />
+[09:47:50] <span style="color:#4c2f13"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[09:47:50] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops out the other end of CP's brush portal --</span><br />
+[09:48:02] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  points over to a small box of Rations with a Cooler inside it. There was soda also --</span><br />
+[09:48:12] <span style="color:#cb7de6">CSJ: hey guys. ➜</span><br />
+[09:48:14] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  specifically Faygo and Tab 12 packs of every flavor --</span><br />
+[09:48:17] <span style="color:#2806ea">CEQ: Heya.</span><br />
+[09:48:41] <span style="color:#ee1e00">CCP: sup</span><br />
+[09:48:53] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "hi there!" --</span><br />
+[09:49:03] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  looks at the house. --</span><br />
+[09:49:09] <span style="color:#802000">CCX: "What."</span><br />
+[09:49:40] <span style="color:#9d001f">CRS: Turkey dogs?</span><br />
+[09:49:48] <span style="color:#9d001f">CRS: Do we have those? Please tell me we have those</span><br />
+[09:49:49] <span style="color:#005500">CNV: ...Vegitarian.</span><br />
+[09:49:55] <span style="color:#005500">CNV: Vegetarian?</span><br />
+[09:49:58] <span style="color:#005500">CNV: I don't know.</span><br />
+[09:50:03] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[09:50:05] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  takes a seat by the fire, and points her glasses House-ward, as requested by SB. --</span><br />
+[09:50:16] <span style="color:#a80000">CFA: (\ Um... /)</span><br />
+[09:50:24] <span style="color:#a80000">CFA: (\ Vegitarian? /)</span><br />
+[09:50:38] <span style="color:#a80000">CFA: (\ ..I wasnt planning on that but... /)</span><br />
+[09:50:45] <span style="color:#270041">CFS: ???</span><br />
+[09:50:55] <span style="color:#a80000">CFA: (\ Lemme go check back at the house, I might have something /)</span><br />
+[09:51:05] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits down with the others --</span><br />
+[09:51:11] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  stands and starts heading back to the house --</span><br />
+[09:51:14] <span style="color:#005500">CNV: ....I'm not a vege- eeeeh....oh well.</span><br />
+[09:51:21] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  still has the giant ship at the house. --</span><br />
+[09:51:35] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is trying to make a drape, SOMETHING to cover it. --</span><br />
+[09:52:02] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  checks his modus, making sure Dream CP did transfer the present to his realself's sylladex --</span><br />
+[09:52:59] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Its a full size pirate ship made out of minecraft diamonds... --</span><br />
+[09:53:00] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  arrives at the house, wandering into the kitchen and starting to look around --</span><br />
+[09:57:53] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  floats out of the tent a bit --</span><br />
+[09:58:42] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  aaaand the marshmallows are on fire again --</span><br />
+[09:59:06] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is just staring at the house. --</span><br />
+[09:59:20] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at the fire. "oh frogs what." --</span><br />
+[09:59:54] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  turns to the fire and "Oh, great..." --</span><br />
+[10:00:35] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks absentmindedly as he realizes his own marshmallows are nearly about to fall off the stick --</span><br />
+[10:00:43] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  eyewidens --</span><br />
+[10:00:44] <span style="color:#270041">CFS: OH</span><br />
+[10:00:50] <span style="color:#4c2f13"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+[10:00:50] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  flies over towards LOFAT in his STAP, clad in his battledress --</span><br />
+[10:00:51] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls the stick out of the fire... sans mallows. --</span><br />
+[10:00:55] <span style="color:#270041">CFS: QUICK</span><br />
+[10:00:59] <span style="color:#270041">CFS: SOMEBODY</span><br />
+[10:01:09] <span style="color:#270041">CFS: WHAT IS IT CALLED?</span><br />
+[10:01:16] <span style="color:#270041">CFS: GRAMCRACKER?</span><br />
+[10:01:34] <span style="color:#4c2f13">-- CURRENT fierySwallow's <span style="color:#270041">[CFS'S]</span>  hands are kinda full from holding 2 skewers --</span><br />
+[10:01:38] <span style="color:#2806ea">CEQ: Uh, one sec!</span><br />
+[10:01:51] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  brings grahmcrackers over to Whoever needs them --</span><br />
+[10:01:59] <span style="color:#440000">CAS: hurry hurry! D:</span><br />
+[10:02:14] <span style="color:#9d001f">CRS: ...</span><br />
+[10:02:17] <span style="color:#4c2f13">-- CURRENT rambunctiousSkater <span style="color:#9d001f">[CRS]</span>  blinks. --</span><br />
+[10:02:22] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  hastily swings the skewers on over as one of the marshmallows unfortunately flops off to the ground --</span><br />
+[10:02:37] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  the other three seem to hold up okay though --</span><br />
+[10:03:24] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  tries again with a new stick and mallows, holding it for only a minute this time --</span><br />
+[10:03:27] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  does the best setting of gooeymarshmallow that he really sorta can onto the gramcrackers --</span><br />
+[10:03:30] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  grabs the remaining marshmallows in the grahm crackers and hands then out --</span><br />
+[10:04:14] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  sighs in relief before looking down at the unfortunate marshmallow that did not make it --</span><br />
+[10:04:53] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  has successfully crafted "Only Slightly Melted Marshmallow" x3! --</span><br />
+[10:05:34] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  frowns before looking back up and taking a smore, suddenly beginning to boggle at it curiously --</span><br />
+[10:05:57] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  peers between the gramcrackers --</span><br />
+[10:06:07] <span style="color:#270041">CFS: there is chocolate within here too?</span><br />
+[10:06:34] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  stares hungrily at CP's mallow pile as the chocolateless smores are assembled --</span><br />
+[10:06:51] <span style="color:#440000">CAS: yeah, lemme get some!</span><br />
+[10:06:56] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  flies to get chocolate --</span><br />
+[10:07:33] <span style="color:#270041">CFS: o.o</span><br />
+[10:07:35] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  has a giant blue blob of draped shaped like a pirate ship. --</span><br />
+[10:07:38] <span style="color:#802000">CCX: (( ack ))</span><br />
+[10:07:43] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  is making sure that her's are all perf --</span><br />
+[10:07:49] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  has a giant blue blob of draped shaped like a pirate ship. --</span><br />
+[10:08:21] <span style="color:#4c2f13">-- CURRENT fierySwallow's <span style="color:#270041">[CFS'S]</span>  author can see it now... CAPTAIN CRUX, PUPPY PRIVATEER --</span><br />
+[10:08:47] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  who is also the best at hiding his ship x3 --</span><br />
+[10:09:15] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  flies over towards the campsite --</span><br />
+[10:10:14] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  hands a mallow-only smore to Kutone and barks for Crux to come get one, before taking the third one for himself --</span><br />
+[10:10:16] <span style="color:#280262">CTT: hm hm hm~</span><br />
+[10:10:29] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  has gotten a smore! --</span><br />
+[10:10:55] <span style="color:#0000ff">CBB: ...Hello!...</span><br />
+[10:10:56] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  O_O "so gooooooood..." --</span><br />
+[10:11:05] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  lands nearby, hopping off and captchalogueing the STAP --</span><br />
+[10:11:06] <span style="color:#2806ea">CEQ: Heya.</span><br />
+[10:11:37] <span style="color:#4c2f13"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[10:12:54] <span style="color:#0000ff">CBB: ...How's it going?...</span><br />
+[10:15:09] <span style="color:#a80000">CFA: (\ Good /)</span><br />
+[10:15:19] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  wait ash is back at the house ASHSPRITE --</span><br />
+[10:15:28] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks around --</span><br />
+[10:15:55] <span style="color:#0000ff">CBB: ...That's good...</span><br />
+[10:16:07] <span style="color:#0000ff">CBB: ...huh...</span><br />
+[10:16:08] <span style="color:#2806ea">CEQ: Yeah. We're just hangin out.</span><br />
+[10:17:39] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  looks at the lake... --</span><br />
+[10:18:03] <span style="color:#802000">CCX: "...I just /know/ that something is gonna crawl out of there and try and eat me."</span><br />
+[10:18:38] <span style="color:#270041">CFS: indeed</span><br />
+[10:18:50] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "no, there's nothing scary in there..." --</span><br />
+[10:19:38] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  takes a deep breath, sitting down on the ground --</span><br />
+[10:19:53] <span style="color:#0000ff">CBB: ...fffsss~...</span><br />
+[10:21:20] <span style="color:#802000">CCX: "I SWEAR I SAW SOMETHING MOVE IN THERE."</span><br />
+[10:25:14] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  goes back to the tent --</span><br />
+[10:25:15] <span style="color:#270041">CFS: ???</span><br />
+[10:25:32] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  is enjoying herself --</span><br />
+[10:25:46] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is barking like mad --</span><br />
+[10:26:41] <span style="color:#2806ea">CEQ: Um..? 's the pup alright?</span><br />
+[10:27:19] <span style="color:#270041">CFS: it seems it's quite perturbed by the water for some reason</span><br />
+[10:27:22] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  finally captchas the ship. --</span><br />
+[10:28:08] <span style="color:#ee1e00">CCP: apparently he thinks there's something in the lake...</span><br />
+[10:28:19] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  comes back down --</span><br />
+[10:28:25] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[10:28:28] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks back --</span><br />
+[10:28:28] <span style="color:#270041">CFS: is that it?</span><br />
+[10:28:28] <span style="color:#2806ea">CEQ: Huh.</span><br />
+[10:28:33] <span style="color:#a80000">CFA: (\ No tofu dogs, sadlyy /)</span><br />
+[10:28:46] <span style="color:#2806ea">CEQ: Ah well.</span><br />
+[10:29:51] <span style="color:#a80000">CFA: (\ Everyyone okayy? /)</span><br />
+[10:30:19] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is still barking --</span><br />
+[10:30:26] <span style="color:#0000ff">CBB: ...Hi ...</span><br />
+[10:30:35] <span style="color:#a80000">CFA: (\ ...Crux /)</span><br />
+[10:30:35] <span style="color:#802000">CCX: "THERE IS SOMETHING IN THERE AND I AM NOT GETTING NEAR IT."</span><br />
+[10:30:39] <span style="color:#a80000">CFA: (\ what're yyou doin /)</span><br />
+[10:30:47] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is looking at the lake. --</span><br />
+[10:30:51] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "Crux. calm down." --</span><br />
+[10:30:54] <span style="color:#0080ff">CFL: Yeah, what /is/ crux doing.</span><br />
+[10:31:08] <span style="color:#ee1e00">CCP: he's afraid there's a monster in the lake...</span><br />
+[10:31:29] <span style="color:#802000">CCX: "How can I calm down when there is a giant monster in the lake?!"</span><br />
+[10:31:31] <span style="color:#a80000">CFA: (\ ....Well, something DID bite myy entire line in half /)</span><br />
+[10:31:40] <span style="color:#270041">CFS: o.0</span><br />
+[10:31:48] <span style="color:#ee1e00">CCP: ........</span><br />
+[10:31:52] <span style="color:#a80000">CFA: (\ its not attacking us right now, calm down /)</span><br />
+[10:31:53] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  stops zoning out --</span><br />
+[10:32:03] <span style="color:#0000ff">CBB: .......</span><br />
+[10:32:15] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "he warned you about lake monsters, Kimura!" --</span><br />
+[10:32:33] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "okay fine, I'll ask someone to check it out..." --</span><br />
+[10:32:33] <span style="color:#440000">CAS: M-monster...?</span><br />
+[10:32:34] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  whines, but stops barking. --</span><br />
+[10:32:45] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  ducks back into the tent --</span><br />
+[10:32:46] <span style="color:#ee1e00">CCP: anyone got a way to scan the lake for underlings?</span><br />
+[10:32:58] <span style="color:#0080ff">CFL: Sorta and kinda.</span><br />
+[10:33:06] <span style="color:#a80000">CFA: (\ I'll do it /)</span><br />
+[10:33:13] <span style="color:#2806ea">CEQ: hm...</span><br />
+[10:33:13] <span style="color:#0080ff">CFL: Anyone willing to go for a dip?</span><br />
+[10:33:18] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  scans the thing with her Visor --</span><br />
+[10:33:28] <span style="color:#a80000">CFA: (\ ...Theres just a bunch of Fish /)</span><br />
+[10:33:35] <span style="color:#0080ff">CFL: ...or you could just do that.</span><br />
+[10:33:36] <span style="color:#a80000">CFA: (\ Calm down, Crux /)</span><br />
+[10:33:46] <span style="color:#a80000">CFA: (\ Swimming, though, yyes /)</span><br />
+[10:33:48] <span style="color:#a80000">CFA: (\ that sounds like fun /)</span><br />
+[10:34:10] <span style="color:#270041">CFS: mm...</span><br />
+[10:34:16] <span style="color:#0000ff">CBB: ...Hm...</span><br />
+[10:34:38] <span style="color:#0080ff">CFL: ...If the loch ness monster is in there I will seriously...</span><br />
+[10:34:40] <span style="color:#4c2f13">-- CURRENT neuroticVagabond <span style="color:#005500">[CNV]</span>  blips out. --</span><br />
+[10:34:54] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  checks the piece of paper Niki gave him, hoping for a sign. --</span><br />
+[10:35:14] <span style="color:#280262">CTT: we don'τ even know if iτ's hosτile or noτ</span><br />
+[10:35:15] <span style="color:#802000">CCX: "...But I'm sure I saw something move..."</span><br />
+[10:35:27] <span style="color:#280262">CTT: iτ mighτ be like τhaτ one τhing in Psychonauτs</span><br />
+[10:35:30] <span style="color:#280262">CTT: ..or ssomeτhing</span><br />
+[10:35:58] <span style="color:#ee1e00">CCP: dammit, I never played that and Nerdcube cancelled his LP of it...</span><br />
+[10:36:03] <span style="color:#ee1e00">CCP: *nerdcubed</span><br />
+[10:36:08] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  a picture of a taco appears on the piece of paper for a moment before disappearing --</span><br />
+[10:36:10] <span style="color:#2806ea">CEQ: Oh, that thing...</span><br />
+[10:36:31] <span style="color:#0080ff">CFL: ...Niki, what does a taco have to do with this.</span><br />
+[10:36:44] <span style="color:#2806ea">CEQ: CP, I reccomend it/searching for an LP of it. 'tis a good game.</span><br />
+[10:36:48] <span style="color:#ee1e00">CCP: . . . . . . . .</span><br />
+[10:36:48] <span style="color:#0000ff">CBB: ...?...</span><br />
+[10:36:51] <span style="color:#ee1e00">CCP: taco?</span><br />
+[10:36:55] <span style="color:#0080ff">CFL: Is there choco tacos in there?</span><br />
+[10:36:55] <span style="color:#280262">CTT: ...a τaco?</span><br />
+[10:36:57] <span style="color:#280262">CTT: whaτ</span><br />
+[10:36:59] <span style="color:#2806ea">CEQ: wha..?</span><br />
+[10:37:07] <span style="color:#280262">CTT: oh man τhose ice cream τacos...</span><br />
+[10:37:10] <span style="color:#802000">CCX: "taco?"</span><br />
+[10:37:21] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "&gt;:?" --</span><br />
+[10:37:30] <span style="color:#a80000">CFA: (\ In where? /)</span><br />
+[10:37:33] <span style="color:#a80000">CFA: (\ The cooler? /)</span><br />
+[10:37:39] <span style="color:#a80000">CFA: (\ YYeah, ice cream sadnwhiches too /)</span><br />
+[10:37:59] <span style="color:#0080ff">CFL: ...Okay, gonna test this.</span><br />
+[10:38:22] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  opens the cooler and removes an ice cream taco... before hurling it torwards the lake. --</span><br />
+[10:38:35] <span style="color:#0000ff">CBB: ...wha...?...</span><br />
+[10:38:38] <span style="color:#0080ff">CFL: LETS SEE IF THIS WORKS</span><br />
+[10:38:45] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  just sorta stares at FL --</span><br />
+[10:38:52] <span style="color:#a80000">CFA: ((Okay im seriously considering a Giant kraken thing but I wanna make sure everyone is cool with that first))</span><br />
+[10:39:00] <span style="color:#0080ff">CFL: (( oh hell yes ))</span><br />
+[10:39:07] <span style="color:#cb7de6">CSJ: ((I'm cool with it))</span><br />
+[10:39:12] <span style="color:#280262">CTT: ((I don't mind))</span><br />
+[10:39:15] <span style="color:#ee1e00">CCP: ((it'd be a weird way to start the party, but hell to the fuck yes))</span><br />
+[10:39:18] <span style="color:#2806ea">CEQ: ((Well, how can I say no now?))</span><br />
+[10:39:25] <span style="color:#a80000">CFA: ((well then))</span><br />
+[10:39:31] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  the water in the lake ripples --</span><br />
+[10:39:38] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is watching the taco. --</span><br />
+[10:39:47] <span style="color:#280262">CTT: ....</span><br />
+[10:39:50] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  runs behind FL --</span><br />
+[10:40:00] <span style="color:#802000">CCX: "I told you! I told you about monsters!"</span><br />
+[10:40:10] <span style="color:#0000ff">CBB: .......</span><br />
+[10:40:20] <span style="color:#280262">CTT: iτ mighτ jusτ be τhe τaco</span><br />
+[10:40:27] <span style="color:#270041">CFS: ((FUCK YEAH))</span><br />
+[10:40:27] <span style="color:#2806ea">CEQ: Hm</span><br />
+[10:40:47] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is still watching the floating taco. --</span><br />
+[10:40:52] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  It ripples again, a feeling of Dread comes over them --</span><br />
+[10:40:58] <span style="color:#280262">CTT: ...</span><br />
+[10:41:13] <span style="color:#0080ff">CFL: okay there is no way that was the taco.</span><br />
+[10:41:24] <span style="color:#2806ea">CEQ: um..?</span><br />
+[10:41:26] <span style="color:#280262">CTT: iτ mighτ jusτ be a fish...</span><br />
+[10:41:27] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  stares at the taco, sorta confused --</span><br />
+[10:41:29] <span style="color:#0080ff">CFL: ...maybe an earth quake...</span><br />
+[10:41:30] <span style="color:#ee1e00">CCP: ...</span><br />
+[10:41:33] <span style="color:#280262">CTT: τhaτ τoo</span><br />
+[10:41:34] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  ... --</span><br />
+[10:41:36] <span style="color:#cb7de6">CSJ: you mean a lofatquake? ➜</span><br />
+[10:41:49] <span style="color:#a80000">CFA: (\ Psh /)</span><br />
+[10:41:51] <span style="color:#2806ea">CEQ: 'Fish or a small quake seems likely...</span><br />
+[10:41:52] <span style="color:#a80000">CFA: (\ Lofatquake /)</span><br />
+[10:41:53] <span style="color:#ee1e00">CCP: snrk</span><br />
+[10:41:55] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  glances at niki before looking back at the taco. --</span><br />
+[10:41:56] <span style="color:#270041">CFS: O.0</span><br />
+[10:42:01] <span style="color:#280262">CTT: pff...</span><br />
+[10:42:03] <span style="color:#0000ff">CBB: .......</span><br />
+[10:42:14] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  stands up, securing his hat and facemask --</span><br />
+[10:42:17] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jaws theme in the distance --</span><br />
+[10:42:18] <span style="color:#ee1e00">CCP: what, you think the weasels accidentally dug into the lake?</span><br />
+[10:42:20] <span style="color:#270041">CFS: that is not the sushi kind of taco is it...</span><br />
+[10:42:32] <span style="color:#0080ff">CFL: its icecream.</span><br />
+[10:42:33] <span style="color:#4c2f13">-- CURRENT kutoNe's <span style="color:#bfbfbf">[CKN'S]</span>  ears perk up at the music --</span><br />
+[10:42:49] <span style="color:#280262">CTT: ...you wasτed a perfecτly good ice cream τaco</span><br />
+[10:42:49] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[10:42:49] <span style="color:#0080ff">CFL: ...okay why are the consorts messing with us.</span><br />
+[10:42:50] <span style="color:#280262">CTT: for τhis</span><br />
+[10:43:02] <span style="color:#2806ea">CEQ: Ah well.</span><br />
+[10:43:13] <span style="color:#0080ff">CFL: Do the weasels do this often?</span><br />
+[10:43:22] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[10:43:34] <span style="color:#280262">CTT: rip ice cream τaco</span><br />
+[10:43:38] <span style="color:#a80000">CFA: (\ Guyys I think-!! /)</span><br />
+[10:43:54] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  shrieks as a tentacle whips out and grabs her from the lake --</span><br />
+[10:44:00] <span style="color:#cb7de6">CSJ: ?! ➜</span><br />
+[10:44:01] <span style="color:#280262">CTT: ΘH JEEGUS CHRIST</span><br />
+[10:44:02] <span style="color:#2806ea">CEQ: -GAH.</span><br />
+[10:44:03] <span style="color:#0080ff">CFL: WHAT</span><br />
+[10:44:04] <span style="color:#cb7de6">CSJ: OH GOG! ➜</span><br />
+[10:44:10] <span style="color:#ee1e00">CCP: SHIT THE BED</span><br />
+[10:44:10] <span style="color:#0080ff">CFL: oh god NO</span><br />
+[10:44:17] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulls out his swords. --</span><br />
+[10:44:21] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  power slashes the tentacle --</span><br />
+[10:44:26] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  takes out her scythe --</span><br />
+[10:44:31] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is all the panic, all of it. --</span><br />
+[10:44:31] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  pulls out her mystery fish --</span><br />
+[10:44:39] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  equips her epee. --</span><br />
+[10:44:47] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  summons his swords to his sides, quickly drawing a fully repaired HF Longsword --</span><br />
+[10:45:08] <span style="color:#270041">CFS: GOOD GRACIOUSNESS THAT IS NO TACO</span><br />
+[10:45:19] <span style="color:#270041">CFS: NO WAIT IT ACTUALLY IS</span><br />
+[10:45:24] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  runs so fast into the tent it leaves a puppy-shaped smoke cloud behind --</span><br />
+[10:45:27] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  runs back torwards the house. --</span><br />
+[10:45:29] <span style="color:#280262">CTT: I DΘN'T THINK IT LIKED THE T▲CΘ</span><br />
+[10:45:34] <span style="color:#802000">CCX: "RUN AWAY!"</span><br />
+[10:45:42] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  DRAWS the White Rapier --</span><br />
+[10:45:57] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  actually fuck the tent, he runs out the backside of it and follows Crux --</span><br />
+[10:45:58] <span style="color:#cb7de6">CSJ: BUT ISN'T TAKO ACTUALLY OCTOPUS, NO SQUD? ➜</span><br />
+[10:46:03] <span style="color:#cb7de6">CSJ: *NOT ➜</span><br />
+[10:46:05] <span style="color:#4c2f13"><span style="color:#000000">CURRENT kraKen [CKK]</span> RIGHT NOW responded to memo.</span><br />
+[10:46:05] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  emerges from the lake, a giant Black mass of Tentacles --</span><br />
+[10:46:12] <span style="color:#280262">CTT: ΘH GΘG</span><br />
+[10:46:12] <span style="color:#2806ea">CEQ: ... There is /no/ slack. NONE.</span><br />
+[10:46:21] <span style="color:#0080ff">CFL: ...STRIFE.</span><br />
+[10:46:23] <span style="color:#ee1e00">CCP: DOES IT EVEN MATTER AT THIS POINT? also yes</span><br />
+[10:46:27] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  charges. --</span><br />
+[10:46:32] <span style="color:#280262">CTT: TH▲T IS ▲ LΘT ΘF...THINGS</span><br />
+[10:46:38] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  LEAPS into the fray! --</span><br />
+[10:46:45] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  Roars as it pulls its head further out of the water, resembling an octoroc --</span><br />
+[10:47:00] <span style="color:#2806ea">CEQ: Oh gosh... welp.</span><br />
+[10:47:01] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  stops. --</span><br />
+[10:47:11] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  switches out to the User's Revenge and pelts the kraken with discs --</span><br />
+[10:47:11] <span style="color:#0080ff">CFL: ...oh god what IS IT TODAY</span><br />
+[10:47:20] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  quickly charges at it, her scythe glowing a bright gold --</span><br />
+[10:47:24] <span style="color:#cb7de6">CSJ: guys, get something to block its projectiles with! ➜</span><br />
+[10:47:40] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  ROTATES DAT CHAMBER IN THE WEAPON --</span><br />
+[10:47:44] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  switches to trashcanlid shield in his right hand. --</span><br />
+[10:47:44] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  charges at the thing, instantly slicing at it. --</span><br />
+[10:47:52] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  the Disc hits but bounces off with little effect --</span><br />
+[10:48:06] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  flings the mystery fish at it --</span><br />
+[10:48:22] <span style="color:#0080ff">CFL: Cut at the tentacles!</span><br />
+[10:48:32] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  chops as much of it's tentacles as she possibly can --</span><br />
+[10:48:40] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  stops the chamber at a dark blue slot --</span><br />
+[10:48:43] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  it roars as its slashed, lashing another tentacle out at EQ, attempting an other Grab --</span><br />
+[10:48:52] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  's blade glows darkblue with voidymajyyks --</span><br />
+[10:48:58] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  resumes powerslashing the tentacles, focusing on the ones trying to grab people --</span><br />
+[10:49:04] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  quickly zooms forward, slashing at the tentacle reaching towards EQ --</span><br />
+[10:49:17] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slices at a tentacle with Roentgenium sword, holding the trash can lid out at the monster --</span><br />
+[10:49:22] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  Squeaks as she slashes at the tentacle thats aiming for her. --</span><br />
+[10:49:30] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  CHOP CHOP --</span><br />
+[10:49:32] <span style="color:#0080ff">CFL: HOW LONG HAS THAT BEEN THERE</span><br />
+[10:49:38] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  LAUNCHES 3D  maneuvergear at the monster's body to lurch closer to it --</span><br />
+[10:49:43] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  one of the tentacles is successfully lopped off by TT, Barely saving EQ, Holding the one with FA up high --</span><br />
+[10:49:45] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  [3/8] the mystery fish hits it with little effect, dropping into the water. it swims around and then leaps back onto dry land --</span><br />
+[10:49:53] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  goooooooes for the POWERTHRUST OF NULLDEFENSE --</span><br />
+[10:49:53] <span style="color:#0080ff">CFL: Oh hell no.</span><br />
+[10:50:10] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  grabs the mystery fish off the ground --</span><br />
+[10:50:10] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  shoots up into the air with his jet wings --</span><br />
+[10:50:15] <span style="color:#0080ff">CFL: NOT GONNA LET THIS HAPPEN</span><br />
+[10:51:01] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  FS' strike hits, Nulldefense succesful! --</span><br />
+[10:51:24] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uneqips it and equips the thunderboot --</span><br />
+[10:51:25] <span style="color:#ee1e00">CCP: wait, what's super effective against a Water-type? Ice?</span><br />
+[10:51:28] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  5/20 for 4 turns --</span><br />
+[10:51:33] <span style="color:#2806ea">CEQ: Grass!</span><br />
+[10:51:35] <span style="color:#cb7de6">CSJ: ELECTRIC! ➜</span><br />
+[10:51:39] <span style="color:#2806ea">CEQ: AH!</span><br />
+[10:51:48] <span style="color:#a80000">CFA: (\ YYEAH ELECTRIC /)</span><br />
+[10:51:48] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is slashing at the tentacle holding Ash. --</span><br />
+[10:51:49] <span style="color:#a80000">CFA: (\ H- /)</span><br />
+[10:51:51] <span style="color:#280262">CTT: elecτric aττacks mighτ kill τhe oτher fish τhough...</span><br />
+[10:51:59] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  gags and screams as its grip tightens around her --</span><br />
+[10:52:02] <span style="color:#2806ea">CEQ: But wait, we are KINDA close to the water, and Ash...</span><br />
+[10:52:03] <span style="color:#0000ff">CBB: ...It's still holding Ash, though!...</span><br />
+[10:52:15] <span style="color:#0000ff">CBB: ...Let me try something...</span><br />
+[10:52:17] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uses Icestorm on the kraken's head --</span><br />
+[10:52:22] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  flies over and tries to chop of more tentacles --</span><br />
+[10:52:23] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  rushes forward and jumps onto one of the closer tenticles, leaving an elecric shockwave in her wake --</span><br />
+[10:52:23] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is trying to cut ash loose. --</span><br />
+[10:52:49] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  the Tentacle is thick and tough, it'll take a lot to cut it through completely. --</span><br />
+[10:52:57] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is hacking at it. --</span><br />
+[10:53:21] <span style="color:#0080ff">CFL: Maybe...</span><br />
+[10:53:22] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  Its head is frozen, but the tentacles are still flailing, only more desperately now --</span><br />
+[10:53:24] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  crystal expended, 3 crystals: 1 void, 2 space remaining --</span><br />
+[10:53:30] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  raises his sword into the air... --</span><br />
+[10:53:35] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  also more erratic, making them unpredictable --</span><br />
+[10:53:36] <span style="color:#0080ff">CFL: Skyward...</span><br />
+[10:53:51] <span style="color:#4c2f13">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  sword is filled with energy! --</span><br />
+[10:53:55] <span style="color:#0080ff">CFL: STRIKE!</span><br />
+[10:53:57] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  slashes --</span><br />
+[10:54:03] <span style="color:#280262">CTT: hm..waiτ, I τhink...</span><br />
+[10:54:08] <span style="color:#2806ea">CEQ: hm?</span><br />
+[10:54:12] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops the heck away from the thing --</span><br />
+[10:54:38] <span style="color:#0080ff">CFL: please let this work boss logic wise...</span><br />
+[10:54:50] <span style="color:#0080ff">CFL: Skyward strikes worked in THAT GAME...</span><br />
+[10:54:54] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  tosses some seeds forward, prepared to do the vine-y thing. However the growth seems to have a slow start --</span><br />
+[10:54:58] <span style="color:#280262">CTT: come on....</span><br />
+[10:55:04] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  transfers the Longsword to his left hand befire he draws the HF Nodachi with his right, holding both blades out in front of him --</span><br />
+[10:55:14] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  the Tentacle holding FA drops, though was frozen along with its head, trapping her in the ice as it plummets into the water --</span><br />
+[10:55:18] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uses Bloom on TT's vines, accelerating the growth --</span><br />
+[10:55:26] <span style="color:#0000ff">CBB: ...!!...</span><br />
+[10:55:26] <span style="color:#0080ff">CFL: NO!</span><br />
+[10:55:31] <span style="color:#2806ea">CEQ: Ugh!</span><br />
+[10:55:34] <span style="color:#cb7de6">CSJ: D: ➜</span><br />
+[10:55:37] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  shoots downward --</span><br />
+[10:55:40] <span style="color:#270041">CFS: D:</span><br />
+[10:55:48] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  Successfully ensnared in the vines --</span><br />
+[10:55:58] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  the Killing blow is now or never --</span><br />
+[10:56:01] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  stomps on the ground, sending a wave of the Breeze from him across the water and up towards FA to slow her fall or maybe even stop it completely --</span><br />
+[10:56:01] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  runs to catch the Ashsicle --</span><br />
+[10:56:11] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is diving after Ash. --</span><br />
+[10:56:15] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  unequips the thunderboot and equips the HALI-BUTT --</span><br />
+[10:56:27] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  launches 3dmaneuvergear SOMEWHERE but water maybe a bad idea --</span><br />
+[10:56:38] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  sadfaces as he lurches away from the kraken --</span><br />
+[10:56:43] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  flings the prankster fish at the frozen kracken --</span><br />
+[10:56:51] <span style="color:#4c2f13"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+[10:57:10] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is back at the house. --</span><br />
+[10:57:32] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is stopped by a door so he runs around to the alchemiter. --</span><br />
+[10:57:40] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  [5/8] it slams against the frozen mass, making a fart noise --</span><br />
+[10:57:41] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  hits random buttons --</span><br />
+[10:58:05] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  is launched through some trees and tries to figure out how the fuck to turn himself around like this --</span><br />
+[10:58:21] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  does some twistything with his body in the air? --</span><br />
+[10:58:21] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  // "ldkaghla" --</span><br />
+[10:58:28] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  that's work right? --</span><br />
+[10:58:48] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  would electrically- attack the monster or swim, but considering that A FLIPPIN KRAKEN just appeared in that very lake, shes not in the best mood to swim, especially since everyone else is ahead of her, in that aspect. She just continues to slash at the thing. --</span><br />
+[10:59:00] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  8/20 faaaaaaaails and just hangs sillily from a treebranch --</span><br />
+[10:59:14] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is still trying to catch Ash --</span><br />
+[10:59:14] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hits the water, albeit a bit more softly because of the breeze, sinking into it --</span><br />
+[10:59:19] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  GROANSANDFLAILS --</span><br />
+[10:59:25] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  then gathers the Breeze around him for a moment before launching himself at the beast, the Breeze carrying him along and spinning him around while his blades slash wildly at the creature directly in his path --</span><br />
+[10:59:43] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  bitch got sushi'd --</span><br />
+[10:59:44] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  dives into the water, being stupid. --</span><br />
+[10:59:47] <span style="color:#802000">CCX: (( ack ))</span><br />
+[10:59:55] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  dives into the water, being stupid. --</span><br />
+[11:00:02] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  Grist, Boons and kalamari for everyone --</span><br />
+[11:00:03] <span style="color:#0080ff">CFL: (( THERE :V ))</span><br />
+[11:00:03] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the fish lands into the water, opting to just swim around for a while --</span><br />
+[11:00:07] <span style="color:#2806ea">CEQ: (( yay calimari))</span><br />
+[11:00:23] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also dives in, being a bit more smart and having set an auto-quickswap to the fishbowl helm --</span><br />
+[11:00:37] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is swimming downwards minus a helmet... --</span><br />
+[11:00:54] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  rolls to free himself --</span><br />
+[11:01:09] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  stashes his weapons away, why must he be naturally bouyant. --</span><br />
+[11:01:31] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  17/20 SUCCESS! --</span><br />
+[11:01:43] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  the Ice has melted a bit more, making a power slash viable --</span><br />
+[11:02:01] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  then realizes he could use his jet wings and begins to jet downwards. --</span><br />
+[11:02:14] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  goes ahead and slashes at the ice, remembering the waterproof ink badge he got months ago --</span><br />
+[11:02:19] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  (18) --</span><br />
+[11:02:23] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  untangles himself and RELAUNCHES HIMSELF at the kraken --</span><br />
+[11:02:35] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Kraken is grist! --</span><br />
+[11:02:38] <span style="color:#4c2f13">-- CURRENT kraKen <span style="color:#000000">[CKK]</span>  Kraken got Sliced yo --</span><br />
+[11:02:39] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  just kinda... stares from the edge of the lake. 'Still doesnt wanna touch the lake, considering the circumstance. --</span><br />
+[11:02:43] <span style="color:#000021">CKK: kraken is Grist</span><br />
+[11:02:46] <span style="color:#4c2f13"><span style="color:#000000">CKK</span> ceased responding to memo.</span><br />
+[11:02:47] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  carreens into the water then --</span><br />
+[11:02:50] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  welp --</span><br />
+[11:03:00] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  eyewidens --</span><br />
+[11:03:05] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  SPLOOSH --</span><br />
+[11:03:06] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is catching up to Ash. --</span><br />
+[11:03:11] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  takes off her coat,hat,glasses and jumps into the lake --</span><br />
+[11:03:22] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  FL has caught up to her, Free'd due to the powerslash, she immediately swims up and grabs onto him --</span><br />
+[11:03:42] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  tries to catch himself with the Breeze before hitting the water, but misjudged the distance and lands with a big splash on the other side --</span><br />
+[11:03:43] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  opens his mouth in a wide smile... BAD IDEA. --</span><br />
+[11:03:49] <span style="color:#0080ff">CFL: MFFF!</span><br />
+[11:03:52] <span style="color:#0000ff">CBB: ...BLUH!...</span><br />
+[11:03:55] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is attempting to catch the hali-butt without a fishing pole, it's just swimming around right now --</span><br />
+[11:03:57] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Points up and nudges the Wings --</span><br />
+[11:03:59] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is speaking bubbles --</span><br />
+[11:04:02] <span style="color:#2806ea">CEQ: mmh...</span><br />
+[11:04:18] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  activates the jet wings, using the propellers to goUP. --</span><br />
+[11:04:35] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets out of the way of the rocketpack, then swims up --</span><br />
+[11:04:57] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  struggling in the water before finally capcha-ing his 3d maneuvergear before it gets too wet or something --</span><br />
+[11:05:45] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  swims upwards to the surface --</span><br />
+[11:05:49] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  [1/8] gets tail-whipped by the ornery fish as it swims away from her --</span><br />
+[11:06:03] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  takes as deep of a breath as he can before he goes under. He sheathes his swords quickly before swimming towards shore --</span><br />
+[11:06:03] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it makes more fart noises --</span><br />
+[11:06:09] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[11:06:12] <span style="color:#4c2f13">-- CURRENT fromAshes's <span style="color:#a80000">[CFA'S]</span>  face twitches as she's running out of Air --</span><br />
+[11:06:21] <span style="color:#2806ea">CEQ: uh...</span><br />
+[11:06:23] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Almost... there... --</span><br />
+[11:06:41] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  surfaces, looking around --</span><br />
+[11:06:45] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[11:06:49] <span style="color:#270041">CFS: where...</span><br />
+[11:07:08] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blnks again --</span><br />
+[11:07:14] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  looks at the lake "shit, what do I do... --</span><br />
+[11:07:17] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  breaks the surface with Ash. (20) --</span><br />
+[11:07:18] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  quickly pulls himself out of the water and takes a deep breath, getting to his feet as quickly as he could --</span><br />
+[11:07:18] <span style="color:#2806ea">CEQ: um...</span><br />
+[11:07:21] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  FUCKING DIVES --</span><br />
+[11:07:39] <span style="color:#0000ff">CBB: .......</span><br />
+[11:07:45] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is pretty much just wasting time trying to chase a fish --</span><br />
+[11:07:45] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes a deep breath, tilting her head back --</span><br />
+[11:07:51] <span style="color:#0080ff">CFL: (( my first roll of this event and its a 20... figures. ))</span><br />
+[11:07:55] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also breaks the surface, watching FL and FA then swimming to shore himself --</span><br />
+[11:08:07] <span style="color:#a80000">CFA: (\ F-fuck... thanks, FL /)</span><br />
+[11:08:08] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks as he sees nothing --</span><br />
+[11:08:08] <span style="color:#2806ea">CEQ: Well.</span><br />
+[11:08:11] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  just... hugs Ash. --</span><br />
+[11:08:15] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  then looks back up and sees lots of feet --</span><br />
+[11:08:17] <span style="color:#2806ea">CEQ: That... just happened.</span><br />
+[11:08:39] <span style="color:#280262">CTT: oh τhank god..</span><br />
+[11:08:43] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  causes a quick windstorm around him, drying him and his armor off rather quickly --</span><br />
+[11:08:49] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  SURFACES AGAIN like a derp --</span><br />
+[11:08:56] <span style="color:#0000ff">CBB: ...Everyone...ok?...</span><br />
+[11:09:05] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is sorta almost caught up with the hali-but, though not doing very well at it[5/8] --</span><br />
+[11:09:10] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  gets to shore and walks over to the rest of the group --</span><br />
+[11:09:10] <span style="color:#2806ea">CEQ: 'think so.</span><br />
+[11:09:12] <span style="color:#cb7de6">CSJ: *hali-butt ➜</span><br />
+[11:09:29] <span style="color:#cb7de6">CSJ: FREAKING FISH! ➜</span><br />
+[11:09:34] <span style="color:#ee1e00">CCP: are Ash and Charles okay?</span><br />
+[11:09:42] <span style="color:#4c2f13"><span style="color:#000000">CCA</span> ceased responding to memo.</span><br />
+[11:09:46] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  releases the hug... and... --</span><br />
+[11:09:53] <span style="color:#0080ff">CFL: SWEET FRESH AIR!</span><br />
+[11:10:46] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  takes in a breath and looks around --</span><br />
+[11:10:48] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gives up the chase and swims back to dry land, leaving the hali-butt to its business --</span><br />
+[11:10:52] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  swims over to the shore, coughing --</span><br />
+[11:10:52] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  sighs heavily in relief --</span><br />
+[11:10:56] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  starts walking quickly over to the other side of the lake where the others were --</span><br />
+[11:10:57] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is soaking wet --</span><br />
+[11:11:06] <span style="color:#cb7de6">CSJ: welp. ➜</span><br />
+[11:11:07] <span style="color:#0000ff">CBB: ...You ok? Ash?...</span><br />
+[11:11:14] <span style="color:#a80000">CFA: (\ YY-yyeah... /)</span><br />
+[11:11:21] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  swims out of the water, absolutely drenched --</span><br />
+[11:11:23] <span style="color:#2806ea">CEQ: "Welp" indeed...</span><br />
+[11:11:31] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  lands --</span><br />
+[11:11:32] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  finally swims to shore. --</span><br />
+[11:11:36] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  frowns and floats out of the tent --</span><br />
+[11:11:39] <span style="color:#0080ff">CFL: the shore!</span><br />
+[11:11:40] <span style="color:#0000ff">CBB: ...You sure?...</span><br />
+[11:11:44] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hugs the ground --</span><br />
+[11:11:45] <span style="color:#440000">CAS: Is everyone okay...?</span><br />
+[11:11:50] <span style="color:#280262">CTT: τhis is τhe lasτ τime you τhrow an ice cream τaco inτo a lake.</span><br />
+[11:11:50] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks out at them --</span><br />
+[11:11:53] <span style="color:#0080ff">CFL: Ash sprite!</span><br />
+[11:12:00] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs over to AshSprite. --</span><br />
+[11:12:02] <span style="color:#440000">CAS: Charlie! D:</span><br />
+[11:12:15] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // SOPING WET HUG. --</span><br />
+[11:12:21] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  slowly walks back to camp, hooray the tentaclebeast is gone! --</span><br />
+[11:12:32] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  flails and hugs back --</span><br />
+[11:13:15] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  stares at the mess of items he made... its... amazing. --</span><br />
+[11:13:48] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  // Toothbrush, Hairdryer, and BFG9000 smashed into one thing. --</span><br />
+[11:14:35] <span style="color:#2806ea">CEQ: Bluh...</span><br />
+[11:14:50] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits don near the campfire, wringing out some of the water from her soaked outfit --</span><br />
+[11:14:54] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes off her jacket, shivering now --</span><br />
+[11:15:00] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  slumps over to the fire --</span><br />
+[11:15:14] <span style="color:#440000">CAS: Is everyone okay? D:</span><br />
+[11:15:14] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  steps away from the campsite a bit to shake off the water... he also takes off the fishbowl helm while he's at it :P --</span><br />
+[11:15:22] <span style="color:#0000ff">CBB: ...Ash?...</span><br />
+[11:15:29] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  just throws off his jacketand plops down by the fire as well --</span><br />
+[11:15:30] <span style="color:#a80000">CFA: (\ neh? /)</span><br />
+[11:15:51] <span style="color:#ee1e00">CCP: so, everything okay now?</span><br />
+[11:15:57] <span style="color:#cb7de6">CSJ: I think so. ➜</span><br />
+[11:16:00] <span style="color:#a80000">CFA: (\ YY-yyeah /)</span><br />
+[11:16:03] <span style="color:#2806ea">CEQ: mhm</span><br />
+[11:16:06] <span style="color:#280262">CTT: τhank gog.</span><br />
+[11:16:06] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  saunters over to the fire --</span><br />
+[11:16:39] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  walks over to the fire, using some of the Windy Thing to make it a bit more intense to help with drying people off --</span><br />
+[11:16:52] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  releases charles and flys over to get towelsl from Ash's bag in the tent, dropping one on everyones head --</span><br />
+[11:16:55] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  scoots up next to FA for warmth --</span><br />
+[11:17:11] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hugs FS --</span><br />
+[11:17:11] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sits back down near the fire --</span><br />
+[11:17:23] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  also hugs --</span><br />
+[11:17:32] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  tugs the /thing/ down the hill. --</span><br />
+[11:17:34] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  has a towel dropped on his head --</span><br />
+[11:17:38] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  offers her's to someone else because she's not too wet --</span><br />
+[11:17:42] <span style="color:#0080ff">CFL: ...Crux what the hell is that.</span><br />
+[11:17:51] <span style="color:#802000">CCX: :D</span><br />
+[11:18:01] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  has no words or barks to explain --</span><br />
+[11:18:12] <span style="color:#a80000">CFA: ((gdfsh brb))</span><br />
+[11:18:17] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  dries off. --</span><br />
+[11:18:20] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uses the towel on her head to dry herself off mostly --</span><br />
+[11:19:01] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  offers his towel up since he basically blow-dried himself earlier --</span><br />
+[11:19:06] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at Crux's thing --</span><br />
+[11:19:17] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "........what did you do." --</span><br />
+[11:19:19] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  just lets the towel stay on her head. Mostly because she didnt ret really wet, but also she really couldnt be bothered to move it at the moment. --</span><br />
+[11:19:30] <span style="color:#802000">CCX: "Random buttons! :D"</span><br />
+[11:19:38] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  puts on her vest, hat-top, and glasses again --</span><br />
+[11:20:07] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wet-facepaws --</span><br />
+[11:21:31] <span style="color:#802000">CCX: "what even is it and why is it pretty?"</span><br />
+[11:22:27] <span style="color:#ee1e00">CCP: what is it with you and buttons?</span><br />
+[11:22:40] <span style="color:#ee1e00">CCP: ...whoops, said that in english accidentally :P</span><br />
+[11:22:49] <span style="color:#0080ff">CFL: what, buttons?</span><br />
+[11:22:55] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "what is it with you and buttons?" --</span><br />
+[11:23:09] <span style="color:#802000">CCX: "I got you the first time!"</span><br />
+[11:23:12] <span style="color:#ee1e00">CCP: oh, Crux made a thing by pulling a John with the alchemiter.</span><br />
+[11:23:17] <span style="color:#802000">CCX: "and I don't know!"</span><br />
+[11:23:22] <span style="color:#2806ea">CEQ: huh...</span><br />
+[11:23:34] <span style="color:#0080ff">CFL: ...oh gog is that the BFG9000 under all of that?</span><br />
+[11:25:07] <span style="color:#2806ea">CEQ: ... dare I ask?</span><br />
+[11:26:03] <span style="color:#0080ff">CFL: from /DooM/?</span><br />
+[11:26:47] <span style="color:#2806ea">CEQ: Ah. Well. Time to get that away from the puppy, then.</span><br />
+[11:27:10] <span style="color:#ee1e00">CCP: &gt;:/</span><br />
+[11:27:23] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "what do they mean by that?" --</span><br />
+[11:27:27] <span style="color:#0080ff">CFL: I don't think it /works/.</span><br />
+[11:27:34] <span style="color:#2806ea">CEQ: Still.</span><br />
+[11:28:40] <span style="color:#0080ff">CFL: ...alright crux hand it over...</span><br />
+[11:28:45] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  back --</span><br />
+[11:28:56] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  looks at the piece of junk and decides it isn't worth it. --</span><br />
+[11:29:16] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  takes the piece of junk and captchas it. --</span><br />
+[11:29:45] <span style="color:#0080ff">CFL: ...huh.</span><br />
+[11:30:41] <span style="color:#4c2f13"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+[11:31:10] <span style="color:#4c2f13"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />
+[11:31:58] <span style="color:#a80000">CFA: (\ ...Anyywayy didnt yyou guyys have something to sayy to Ashsprite? /)</span><br />
+[11:32:13] <span style="color:#0080ff">CFL: ...</span><br />
+[11:32:21] <span style="color:#0080ff">CFL: HAPPY 111th!</span><br />
+[11:32:30] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  head tilts --</span><br />
+[11:32:31] <span style="color:#ee1e00">CCP: happy 111th :D</span><br />
+[11:32:32] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  nods --</span><br />
+[11:32:32] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  uncaptchas the diamond ship --</span><br />
+[11:32:34] <span style="color:#440000">CAS: 111th?</span><br />
+[11:32:39] <span style="color:#440000">CAS: WOAH WHAT</span><br />
+[11:32:47] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks at the massive thing --</span><br />
+[11:33:07] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uncaptchas... a pirate hat with the Space symbol on it --</span><br />
+[11:33:13] <span style="color:#0080ff">CFL: DT made the code, I got most of the grist.</span><br />
+[11:33:20] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  staaaaaaaares at the ship --</span><br />
+[11:33:29] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  stares at it in some awe --</span><br />
+[11:33:36] <span style="color:#440000">CAS: Wha.... What is this?</span><br />
+[11:33:38] <span style="color:#4c2f13">-- CURRENT cruX <span style="color:#802000">[CCX]</span>  is just staring at the ship. --</span><br />
+[11:33:55] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "is so shiny..." --</span><br />
+[11:33:56] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks to CP and takes the hat, looking it over --</span><br />
+[11:34:15] <span style="color:#440000">CAS: These are for me...?</span><br />
+[11:34:19] <span style="color:#0080ff">CFL: ...Shall we go on deck?</span><br />
+[11:34:21] <span style="color:#cb7de6">CSJ: whoaaaaa... ➜</span><br />
+[11:34:25] <span style="color:#0080ff">CFL: Captain?</span><br />
+[11:34:37] <span style="color:#0000ff">CBB: ...?...</span><br />
+[11:34:39] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  looks up --</span><br />
+[11:34:42] <span style="color:#0000ff">CBB: ...oh wow...</span><br />
+[11:34:45] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is looking at AshSprite when he said that last word. --</span><br />
+[11:34:45] <span style="color:#440000">CAS: ....</span><br />
+[11:34:53] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  squeals softly --</span><br />
+[11:35:00] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  puts the hat on and flies to the ship --</span><br />
+[11:35:01] <span style="color:#440000">CAS: SHINY</span><br />
+[11:35:17] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  jet wing boosts upward. --</span><br />
+[11:35:36] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks over to the wheel and compass. --</span><br />
+[11:35:37] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just zipboards up to the deck --</span><br />
+[11:35:47] <span style="color:#0000ff">CBB: ...Wait, are we all going?...</span><br />
+[11:35:55] <span style="color:#0080ff">CFL: Might wanna wait for everything before moving this thing.</span><br />
+[11:35:59] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  follows them i guess --</span><br />
+[11:36:02] <span style="color:#0080ff">CFL: (( everyone* ))</span><br />
+[11:36:11] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks for a ladder or something --</span><br />
+[11:36:15] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  also follows cuz hopyshit pirateship --</span><br />
+[11:36:27] <span style="color:#4c2f13"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+[11:36:27] <span style="color:#4c2f13">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  shrugs and flies over --</span><br />
+[11:36:32] <span style="color:#280262">CTT: whoaaa...</span><br />
+[11:36:43] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  floats up on a gust of the Windy Thing --</span><br />
+[11:36:43] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  deploys a springboard at ground level for the others to bounce aboard from --</span><br />
+[11:37:12] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops onto the springboard and BOIINGGGGGG! --</span><br />
+[11:37:35] <span style="color:#0080ff">CFL: (( lag, crux got first ))</span><br />
+[11:37:37] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  floats about the ship excitedly --</span><br />
+[11:38:02] <span style="color:#a80000">CFA: ((/me Ironically has attained 413 hp status on mabinogi))</span><br />
+[11:38:07] <span style="color:#0080ff">CFL: After you fly this for a bit you should check out your quarters.</span><br />
+[11:38:19] <span style="color:#280262">CTT: ((PFT))</span><br />
+[11:38:23] <span style="color:#440000">CAS: :o!!</span><br />
+[11:38:25] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  lands on deck surprizingly cleanly, only stumbling forwards a couple feet after landing [7/8] --</span><br />
+[11:38:28] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  boings aboard --</span><br />
+[11:38:30] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks for Quarters --</span><br />
+[11:38:57] <span style="color:#4c2f13">-- CURRENT timeTravlur <span style="color:#280262">[CTT]</span>  flies around it --</span><br />
+[11:39:09] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // As you open the door, you are greeted by a colored diamond shipping wall. --</span><br />
+[11:39:20] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // on the other end of the room. --</span><br />
+[11:39:37] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  stops as she stares at it, her wings drooping a bit as her eyes widen --</span><br />
+[11:40:08] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows CP as he looks around the ship --</span><br />
+[11:40:14] <span style="color:#0080ff">CFL: (( what ))</span><br />
+[11:40:31] <span style="color:#2806ea">CEQ: ((CP is following CP. okay))</span><br />
+[11:40:41] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  facepaws --</span><br />
+[11:40:53] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  this is why you couldn't pokemon while RPing --</span><br />
+[11:40:56] <span style="color:#802000">CCX: (( TAIL CHASING ))</span><br />
+[11:41:07] <span style="color:#802000">CCX: (( IT EXPLAINS IT PERFECTLY ))</span><br />
+[11:41:17] <span style="color:#cb7de6">CSJ: ((yes))</span><br />
+[11:41:26] <span style="color:#2806ea">CEQ: ((perfect))</span><br />
+[11:41:26] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ok fair enough, I'm suddenly hit with an urge to chase my tail, okay? --</span><br />
+[11:41:38] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hops over the edge to check on Ashsprite. --</span><br />
+[11:42:06] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  boggles at shenanigans, then looks for someone who isn't insane --</span><br />
+[11:42:26] <span style="color:#280262">CTT: ouo</span><br />
+[11:42:54] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  walks around the ship --</span><br />
+[11:43:33] <span style="color:#0080ff">CFL: ...Ashsprite?</span><br />
+[11:43:37] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  is still staring at the shipping wall in awe --</span><br />
+[11:43:58] <span style="color:#0080ff">CFL: ...wait when did he add that?</span><br />
+[11:44:10] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  looks at the drawing tablet near it. --</span><br />
+[11:44:26] <span style="color:#0080ff">CFL: (( LIQUID DIAMOND DISPLAY ))</span><br />
+[11:44:54] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stops chasing his tail, and looks around, finding the room the others are in --</span><br />
+[11:45:51] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  gasps and flies over to the thing --</span><br />
+[11:45:54] <span style="color:#440000">CAS: EE!!</span><br />
+[11:46:27] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Sorry I couldn't make it a touch screen.</span></span><br />
+[11:46:33] <span style="color:#0080ff">CFL: ...wait, screen?!</span><br />
+[11:46:38] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Yes.</span></span><br />
+[11:46:42] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[11:46:59] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">A bit of an upgrade from an LCD, don't you think?</span></span><br />
+[11:48:01] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  giggles a bit as she turns back to tacklehug FL --</span><br />
+[11:48:13] <span style="color:#440000">CAS: This is the best ever!! Thank you so much!!!</span><br />
+[11:48:15] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is tacklehugged. --</span><br />
+[11:48:43] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Sure, /he/ gets a hug, but the one who lacks a body has to go without.</span></span><br />
+[11:48:47] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Figures.</span></span><br />
+[11:48:52] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  follows the sound of high-pitched happiness --</span><br />
+[11:48:56] <span style="color:#0000ff">CBB: ...hm?...</span><br />
+[11:48:56] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Thanks anyway!</span></span><br />
+[11:49:05] <span style="color:#0080ff">CFL: ...uh, thanks too?</span><br />
+[11:50:04] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  blinks and takes his shades off --</span><br />
+[11:50:25] <span style="color:#802000">CCX: Woof! "why can bird lady tackle FL and not /me/?"</span><br />
+[11:50:34] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Yes?</span></span><br />
+[11:50:43] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  smiles at them --</span><br />
+[11:50:47] <span style="color:#440000">CAS: Thank you, DT...</span><br />
+[11:51:32] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Yay I finally get some recognition!</span></span><br />
+[11:51:55] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Your welcome!</span></span><br />
+[11:51:55] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "because it's a happy tackle and not a 'stop being stupid' tackle. that's about all I can say about it" --</span><br />
+[11:52:07] <span style="color:#802000">CCX: "...okay whatever."</span><br />
+[11:52:23] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  giggles and hands the shades back to FL --</span><br />
+[11:52:27] <span style="color:#802000">CCX: "I guess I'll just tackle him when he gets home."</span><br />
+[11:52:41] <span style="color:#4c2f13">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  just sorta stands around --</span><br />
+[11:52:45] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  puts the shades back on. --</span><br />
+[11:52:46] <span style="color:#4c2f13">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  leands in the doorway --</span><br />
+[11:52:50] <span style="color:#a80000">CFA: (\ Is that all? /)</span><br />
+[11:53:06] <span style="color:#0080ff">CFL: Uh... she hasen't flown the ship yet.</span><br />
+[11:53:23] <span style="color:#ee1e00">CCP: huh?</span><br />
+[11:53:27] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">I'll say it again, VVVVVV is awesome.</span></span><br />
+[11:53:30] <span style="color:#ee1e00">CCP: oh, right</span><br />
+[11:54:02] <span style="color:#ee1e00">CCP: (what does VVVVVV have to do with this, DT?)</span><br />
+[11:54:15] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">alchemy and gravity flips</span></span><br />
+[11:54:23] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[11:54:27] <span style="color:#280262">CTT: ..g...graviτy flips!?</span><br />
+[11:54:34] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">...oh hell I can't whisper stuff can I.</span></span><br />
+[11:54:38] <span style="color:#cb7de6">CSJ: are you saying this thing is going to go UPDIDE DOWN?! ➜</span><br />
+[11:54:54] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">WHY CAN'T I WHISPER?!</span></span><br />
+[11:55:13] <span style="color:#ee1e00">CCP: same reason Tavros can't whisper :P</span><br />
+[11:55:42] <span style="color:#0080ff">CFL: Uh... because text to speech sucks?</span><br />
+[11:55:47] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">...</span></span><br />
+[11:55:56] <span style="color:#ee1e00">CCP: sure, let's go with that :P</span><br />
+[11:55:57] <span style="color:#4c2f13">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  shades begin to spark. --</span><br />
+[11:56:02] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[11:56:04] <span style="color:#0080ff">CFL: DT STOP</span><br />
+[11:56:08] <span style="color:#ee1e00">CCP: uh-oh.</span><br />
+[11:56:09] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">okay fine</span></span><br />
+[11:56:18] <span style="color:#4c2f13">-- CURRENT fLmun's <span style="color:#0080ff">[CFL'S]</span>  shades stop sparking. --</span><br />
+[11:56:26] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  eyebrowraises as he pokes his head in the doorway --</span><br />
+[11:56:46] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Seriously, you gotta patch that shit.</span></span><br />
+[11:56:53] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">actually, I will.</span></span><br />
+[11:57:10] <span style="color:#802000">CCX: Woof? "what?"</span><br />
+[11:57:15] <span style="color:#0080ff">CFL: ...Okay?</span><br />
+[11:57:38] <span style="color:#ee1e00">CCP: maybe, if the text line starts with a single parenthesis, output the speech at half volume?</span><br />
+[11:57:53] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "it's tech talk, don't worry about it." --</span><br />
+[11:58:02] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Perfect.</span></span><br />
+[11:58:27] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">...wait what about multiples lowering volume by half each time?</span></span><br />
+[11:58:41] <span style="color:#0080ff">CFL: ...something tells me you shouldn't do it that way.</span><br />
+[11:58:46] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Why not?</span></span><br />
+[11:59:13] <span style="color:#4c2f13">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  does not understand a lick of this --</span><br />
+[11:59:18] <span style="color:#0080ff">CFL: Just uh... doesn't sound like a good idea.</span><br />
+[11:59:30] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Why are you afraid of two in a row?</span></span><br />
+[11:59:37] <span style="color:#cb7de6">CSJ: ((for those that can hear/see it, it's kinda confusing))</span><br />
+[11:59:37] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Or even three?</span></span><br />
+[11:59:52] <span style="color:#802000">CCX: WOOF! "THERE IT IS AGAIN!"</span><br />
+[12:00:28] <span style="color:#4c2f13">-- CURRENT kutoNe <span style="color:#bfbfbf">[CKN]</span>  "oh shut up. that goes for both you and the alien." --</span><br />
+[12:00:37] <span style="color:#802000">CCX: :&lt;</span><br />
+[12:00:52] <span style="color:#0080ff">CFL: I just... please don't</span><br />
+[12:01:02] <span style="color:#cb7de6">CSJ: ((hey, that's not nice &gt;_&gt;))</span><br />
+[12:01:03] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Alright, fiiiiiiiine.</span></span><br />
+[12:01:28] <span style="color:#cb7de6">CSJ: ((oh my gosh I can't believe I'm talkingto them.))</span><br />
+[12:01:35] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">"I" sound multiplied by 8 to get my point across.</span></span><br />
+[12:01:57] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks around at everyone --</span><br />
+[12:01:59] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  looks at Ashsprite. --</span><br />
+[12:02:02] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  smiles awkwardly --</span><br />
+[12:02:11] <span style="color:#0080ff">CFL: So, where to Captain?</span><br />
+[12:02:17] <span style="color:#440000">CAS: ...I dunno?</span><br />
+[12:02:25] <span style="color:#440000">CAS: I dont really wanna go anywhere</span><br />
+[12:02:38] <span style="color:#0000ff">CBB: .......</span><br />
+[12:02:41] <span style="color:#0080ff">CFL: ...Well, just go where your heart leads you.</span><br />
+[12:02:49] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  looks around again --</span><br />
+[12:02:51] <span style="color:#0080ff">CFL: usethecompassusethecompassusethecompass</span><br />
+[12:03:00] <span style="color:#4c2f13">-- CURRENT ashSprite <span style="color:#440000">[CAS]</span>  sits on the floor in her quarters --</span><br />
+[12:03:28] <span style="color:#4c2f13">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  peeks in at Ashsprite --</span><br />
+[12:04:03] <span style="color:#0080ff">CFL: Come on, lets go on deck and lift off!</span><br />
+[12:04:08] <span style="color:#0080ff">CFL: ...please?</span><br />
+[12:04:28] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">I for one would wish to see it in action as well.</span></span><br />
+[12:04:37] <span style="color:#440000">CAS: But I dont wanna D:</span><br />
+[12:04:43] <span style="color:#0080ff">CFL: ...Alright.</span><br />
+[12:04:51] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Boooooooo</span></span><br />
+[12:05:00] <span style="color:#0080ff">CFL: ...DT, /please/</span><br />
+[12:05:03] <span style="color:#2806ea">CEQ: 'fair enough.</span><br />
+[12:05:10] <span style="color:#ee1e00">CCP: maybe we can do it later then.</span><br />
+[12:05:15] <span style="color:#0080ff">CFL: ...Anyway, I better head back to my land.</span><br />
+[12:05:18] <span style="color:#0080ff">CFL: Get some rest.</span><br />
+[12:05:32] <span style="color:#0080ff">CFL: ...Or I should go to the crew quarters...</span><br />
+[12:05:33] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  PMs FL: "dude can this thing even fly to begin with?" --</span><br />
+[12:05:41] <span style="color:#a80000">CFA: (\ Helheim tomorrow /)</span><br />
+[12:06:00] <span style="color:#a80000">CFA: (\ Everyyone get some good sleep /)</span><br />
+[12:06:05] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pesters back "Gravity manipulation makes it possible!" --</span><br />
+[12:06:09] <span style="color:#ee1e00">CCP: yeah, Gambit's thing right?</span><br />
+[12:06:15] <span style="color:#0000ff">CBB: ...Hey Ashsprite?...</span><br />
+[12:06:16] <span style="color:#0080ff">CFL: ...</span><br />
+[12:06:20] <span style="color:#0080ff">CFL: So... tired...</span><br />
+[12:06:31] <span style="color:#4c2f13">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ==&gt; "oh, so that's why DT mentioned VVVVVV :P" --</span><br />
+[12:06:33] <span style="color:#2806ea">CEQ: Alrighty, so...</span><br />
+[12:06:35] <span style="color:#270041">CFS: mm...</span><br />
+[12:07:04] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  goes down the staircase and finds a cyanish blue bed before laying down on it. --</span><br />
+[12:07:16] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pesters back "Yeah... night..." --</span><br />
+[12:07:26] <span style="color:#4c2f13">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls asleep. --</span><br />
+[12:07:27] <span style="color:#4c2f13"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

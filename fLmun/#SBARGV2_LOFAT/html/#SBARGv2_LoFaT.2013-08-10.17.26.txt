@@ -1,0 +1,505 @@
+[05:26:34] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOFAT.</span><br />
+[05:26:57] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is pulling torwards Ash's house. --</span><br />
+[05:29:08] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  lands --</span><br />
+[05:29:23] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[05:29:23] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks outside --</span><br />
+[05:29:45] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is waiting outside, holding a rust colored Tree Frog. --</span><br />
+[05:30:33] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  waves out the front window at FL, signalling him inside --</span><br />
+[05:30:43] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks inside holding the frog. --</span><br />
+[05:30:56] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks to the door smiling --</span><br />
+[05:30:57] <span style="color:#a80000">CFA: (\ Sup /)</span><br />
+[05:31:03] <span style="color:#0080ff">CFL: (( wood frog, sorry ))</span><br />
+[05:31:28] <span style="color:#0080ff">CFL: (( like this <a href='http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg/220px-Lithobates_sylvaticus_%28Woodfrog%29.jpg'>http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg/220px-Lithobates_sylvaticus_%28Woodfrog%29.jpg</a> ))</span><br />
+[05:31:41] <span style="color:#0080ff">CFL: (( ah nuts PESTERCHUM! ))</span><br />
+[05:34:02] <span style="color:#0080ff">CFL: (( <a href='http://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_(Woodfrog).jpg'>http://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_(Woodfrog).jpg</a> ))</span><br />
+[05:34:11] <span style="color:#0080ff">CFL: (( there ))</span><br />
+[05:34:23] <span style="color:#a80000">CFA: ((Cutie ouo))</span><br />
+[05:35:18] <span style="color:#0080ff">CFL: Hey.</span><br />
+[05:35:43] <span style="color:#a80000">CFA: (\ Lemme see the little guyy /)</span><br />
+[05:36:05] <span style="color:#d1cfcd"><span style="color:#550000">CURRENT ashSprite [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[05:36:05] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  looks up from the couch where she's all coiled up, eyes watering a bit --</span><br />
+[05:36:54] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hands the actually female wood frog to Ash. --</span><br />
+[05:39:11] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes the frog, curiously examining it --</span><br />
+[05:39:20] <span style="color:#a80000">CFA: (\ ...Girl, sorryy /)</span><br />
+[05:39:35] <span style="color:#0080ff">CFL: ...its a girl?</span><br />
+[05:39:52] <span style="color:#a80000">CFA: (\ YYes /)</span><br />
+[05:41:11] <span style="color:#0080ff">CFL: Oh...</span><br />
+[05:41:21] <span style="color:#0080ff">CFL: ...Can you tell with the tadpole?</span><br />
+[05:41:28] <span style="color:#0080ff">CFL: (( boy ))</span><br />
+[05:42:09] <span style="color:#a80000">CFA: (\ Uhh.... Should be able too /)</span><br />
+[05:42:21] <span style="color:#a80000">CFA: (\ He's upstairs at the moment so I'll check later /)</span><br />
+[05:42:44] <span style="color:#0080ff">CFL: Okay.</span><br />
+[05:45:24] <span style="color:#a80000">CFA: (\ Anyywayy... /)</span><br />
+[05:45:28] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Now would be a great time to console Ashsprite.</span></span><br />
+[05:45:33] <span style="color:#0080ff">CFL: ...Oh, yeah.</span><br />
+[05:45:40] <span style="color:#0080ff">CFL: Thanks for reminding me DT.</span><br />
+[05:46:15] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  heads over to AshSprite. --</span><br />
+[05:46:21] <span style="color:#0080ff">CFL: Hey...</span><br />
+[05:46:38] <span style="color:#d1cfcd"><span style="color:#270041">CURRENT fierySwallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+[05:46:38] <span style="color:#270041">CFS: ...</span><br />
+[05:46:44] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  exits to the kitchen --</span><br />
+[05:48:06] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  looks up at FL slowly, Frowning --</span><br />
+[05:49:25] <span style="color:#0080ff">CFL: ...I'm sorry about your loss...</span><br />
+[05:49:32] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[05:49:38] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  follows FL into the kitchen --</span><br />
+[05:49:42] <span style="color:#a80000">CFA: ((FS*))</span><br />
+[05:51:07] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nods slowly, staying silent for the most part --</span><br />
+[05:55:21] <span style="color:#0080ff">CFL: ...do you need a hug?</span><br />
+[05:56:05] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nods slowly, clenching her fists as her wings droop a bit --</span><br />
+[05:56:51] <span style="color:#0080ff">CFL: ...</span><br />
+[05:56:56] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  hugs AshSprite --</span><br />
+[05:57:39] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  slowly hugs him back, whimpering before she just breaks out into tears against him --</span><br />
+[06:04:08] <span style="color:#550000">CAS: I-i knew it was coming but I still... I cant... Why couldnt it have been me?! Why couldnt I go first?!</span><br />
+[06:05:00] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  still just kinda sobbing hysterically, she really couldnt deal --</span><br />
+[06:05:58] <span style="color:#0080ff">CFL: ...Ashsprite... if you had gone first, He would be acting like this right now too...</span><br />
+[06:06:49] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  's eyes dart briefly out to the kitchen door as he overhears --</span><br />
+[06:06:55] <span style="color:#550000">CAS: T-then we shoulda gone at the same time!!</span><br />
+[06:06:58] <span style="color:#550000">CAS: This isnt fair!!</span><br />
+[06:07:47] <span style="color:#270041">CFS: ...</span><br />
+[06:08:14] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  takes another deep breath as he attempts to calm himself down --</span><br />
+[06:11:37] <span style="color:#0080ff">CFL: ...</span><br />
+[06:11:52] <span style="color:#0080ff">CFL: At least part of him is still in hank... right?</span><br />
+[06:12:26] <span style="color:#0080ff">CFL: ...Sorry, I'm not that much help...</span><br />
+[06:12:55] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  shakes her head, still crying --</span><br />
+[06:13:05] <span style="color:#550000">CAS: H-he's... not gonna be here anymore...</span><br />
+[06:13:39] <span style="color:#550000">CAS: He's in SV but how often is that personality gonna come out? he didnt even remember who Ash was after he God tiered....</span><br />
+[06:13:49] <span style="color:#550000">CAS: How is he gonna remember me...?</span><br />
+[06:14:02] <span style="color:#270041">CFS: ...</span><br />
+[06:16:49] <span style="color:#0080ff">CFL: ...that was...</span><br />
+[06:16:51] <span style="color:#0080ff">CFL: what?</span><br />
+[06:17:14] <span style="color:#0080ff">CFL: He... didn't remember ash?</span><br />
+[06:17:30] <span style="color:#550000">CAS: No, he didnt...</span><br />
+[06:17:42] <span style="color:#550000">CAS: It took him actually talking to her to even jog his memory...</span><br />
+[06:17:48] <span style="color:#550000">CAS: I think he hard reset...</span><br />
+[06:23:12] <span style="color:#0080ff">CFL: ...</span><br />
+[06:24:07] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  sobs a bit more before finally going silent --</span><br />
+[06:33:18] <span style="color:#0080ff">CFL: ...then we go and jog his memory.</span><br />
+[06:35:12] <span style="color:#550000">CAS: ...Whats the point</span><br />
+[06:35:18] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  shakes her head --</span><br />
+[06:37:45] <span style="color:#0080ff">CFL: ...</span><br />
+[06:37:54] <span style="color:#0080ff">CFL: Ash, hes still in there.</span><br />
+[06:38:10] <span style="color:#0080ff">CFL: You can't give up hope.</span><br />
+[06:40:11] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  accidently called ashsprite just ash --</span><br />
+[06:42:24] <span style="color:#550000">CAS: ...Mm...</span><br />
+[06:42:31] <span style="color:#550000">CAS: Next time, then....</span><br />
+[06:42:45] <span style="color:#0080ff">CFL: ...no.</span><br />
+[06:42:48] <span style="color:#0080ff">CFL: We should go now.</span><br />
+[06:43:16] <span style="color:#0080ff">CFL: ...actually I have no idea where he is.</span><br />
+[06:43:22] <span style="color:#0080ff">CFL: So I guess later due to that.</span><br />
+[06:43:32] <span style="color:#550000">CAS: ...</span><br />
+[06:43:32] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nods --</span><br />
+[07:02:41] <span style="color:#0080ff">CFL: (( connection ))</span><br />
+[07:04:36] <span style="color:#550000">CAS: (('scool))</span><br />
+[07:14:34] <span style="color:#0080ff">CFL: ...so what do we do until then?</span><br />
+[07:20:30] <span style="color:#550000">CAS: ...</span><br />
+[07:21:02] <span style="color:#a80000">CFA: (\ ...M /)</span><br />
+[07:21:05] <span style="color:#a80000">CFA: (\ Mm* /)</span><br />
+[07:22:08] <span style="color:#550000">CAS: ...Ash hurry up and God tier already</span><br />
+[07:22:13] <span style="color:#a80000">CFA: (\ ...Scuse me? /)</span><br />
+[07:22:35] <span style="color:#a80000">CFA: (\ Sure honeyy I'll just run right off to myy Quest bed and Shoot myyself in the head /)</span><br />
+[07:22:48] <span style="color:#a80000">CFA: (\ Sounds like a /great plan/ /)</span><br />
+[07:23:01] <span style="color:#550000">CAS: Dont get sarcastic with me!!</span><br />
+[07:23:18] <span style="color:#a80000">CFA: (\ ...Anger, 3rd stage of Grief? /)</span><br />
+[07:24:59] <span style="color:#0080ff">CFL: This is not the way to deal with this!</span><br />
+[07:33:37] <span style="color:#0080ff">CFL: Life is good, you shouldn't waste it!</span><br />
+[07:41:12] <span style="color:#0080ff">CFL: Make the most of it while you still have it...</span><br />
+[07:41:27] <span style="color:#550000">CAS: ...</span><br />
+[07:41:57] <span style="color:#550000">CAS: I just want the pain to end...</span><br />
+[07:41:58] <span style="color:#0080ff">CFL: At least you got to say goodbye.</span><br />
+[07:42:08] <span style="color:#550000">CAS: ....I know...</span><br />
+[07:42:30] <span style="color:#270041">CFS: ...</span><br />
+[07:43:00] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  sparks a bit as she folds her arms, whimpering --</span><br />
+[07:43:09] <span style="color:#0080ff">CFL: I didn't get the chance with my friends back on earth.</span><br />
+[07:43:13] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  eyebrows raise slightly --</span><br />
+[07:43:39] <span style="color:#550000">CAS: N-neither did we...</span><br />
+[07:44:13] <span style="color:#0080ff">CFL: However, we moved on with that.</span><br />
+[07:44:32] <span style="color:#0080ff">CFL: How was Hank any different?</span><br />
+[07:44:53] <span style="color:#550000">CAS: ...How long did it take you to move on...?</span><br />
+[07:45:21] <span style="color:#0080ff">CFL: ........</span><br />
+[07:45:32] <span style="color:#0080ff">CFL: I do not want to talk about this.</span><br />
+[07:45:46] <span style="color:#550000">CAS: See....?</span><br />
+[07:46:41] <span style="color:#0080ff">CFL: ...However, I'm not completely shutting down.</span><br />
+[07:47:52] <span style="color:#550000">CAS: mmmrr...</span><br />
+[07:48:14] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  stops and rolls her eyes a bit, Not sure why she's about to say this --</span><br />
+[07:48:20] <span style="color:#0080ff">CFL: And I am being a compete and utter jerk.</span><br />
+[07:48:25] <span style="color:#a80000">CFA: (\ This is a CAWtastrophe /)</span><br />
+[07:48:37] <span style="color:#0080ff">CFL: ...</span><br />
+[07:48:40] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  blinks at the pun --</span><br />
+[07:48:44] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns to Ash. --</span><br />
+[07:48:56] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  puts her hands up --</span><br />
+[07:49:01] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  giggles a bit --</span><br />
+[07:49:10] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  raises an eyebrow. --</span><br />
+[07:49:20] <span style="color:#a80000">CFA: (\ Shh /)</span><br />
+[07:49:22] <span style="color:#a80000">CFA: (\ She likes puns /)</span><br />
+[07:49:27] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[07:49:42] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  chuckles surprisedly, grimdarkness starting to fade out --</span><br />
+[07:50:28] <span style="color:#a80000">CFA: (\ Looks like we'll need to find the CAWse of all this /)</span><br />
+[07:51:38] <span style="color:#a80000">CFA: (\ Being depressed will get us nowhere, yyou and SV are just gonna have to si'down and Talk next time he's around, okayy? /)</span><br />
+[07:51:59] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  sniffles and rubs her eye --</span><br />
+[07:52:06] <span style="color:#550000">CAS: O-okay... heh...</span><br />
+[07:53:37] <span style="color:#0080ff">CFL: ...come on, lets have some cake.</span><br />
+[07:53:47] <span style="color:#0080ff">CFL: Cake sounds good for some reason.</span><br />
+[07:54:02] <span style="color:#270041">CFS: mm...</span><br />
+[07:56:11] <span style="color:#550000">CAS: Cake does sound nice...</span><br />
+[07:56:19] <span style="color:#a80000">CFA: (\ I've got some mixes in the cupboard /)</span><br />
+[07:57:02] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pillow faces --</span><br />
+[07:57:19] <span style="color:#a80000">CFA: (\ ...? /)</span><br />
+[07:58:16] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  removes pillow from face, no sign of pesterchum on screen other than the memo. --</span><br />
+[07:58:22] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // Shade Screen. --</span><br />
+[08:01:43] <span style="color:#0080ff">CFL: Hold on, I think I might have the code for some juice.</span><br />
+[08:01:57] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs outside to get to the alchemiter. --</span><br />
+[08:02:13] <span style="color:#550000">CAS: Huh...?</span><br />
+[08:02:33] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  headtilts slightly --</span><br />
+[08:03:34] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  shakes his head a bit as he ponders variously outlandish cake recipes that only he could have the lack of culinary knowledge to come up with --</span><br />
+[08:05:25] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // RAPID ALCHEMY SOUNDS. --</span><br />
+[08:07:40] <span style="color:#a80000">CFA: (\ ...Psh, Charlie /)</span><br />
+[08:10:01] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  comes back... oh gog SO MANY BOTTLES. --</span><br />
+[08:10:11] <span style="color:#0080ff">CFL: r-real... sugar...</span><br />
+[08:10:49] <span style="color:#a80000">CFA: (\ ...Charlie, honeyy /)</span><br />
+[08:10:53] <span style="color:#a80000">CFA: (\ I have a Fayygo Stash /)</span><br />
+[08:11:00] <span style="color:#a80000">CFA: (\ YYou didnt need to make that much /)</span><br />
+[08:11:01] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[08:11:06] <span style="color:#270041">CFS: I was about to say...</span><br />
+[08:11:39] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  watches FL for a bit, giggleing softly into her fist --</span><br />
+[08:12:55] <span style="color:#a80000">CFA: (\ Anyywayy, Cake? /)</span><br />
+[08:13:01] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  wanders back into the kitchen --</span><br />
+[08:13:30] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  wanders into the kitchen with her, curiously --</span><br />
+[08:13:41] <span style="color:#270041">CFS: what is it that is usually in a cake?</span><br />
+[08:14:31] <span style="color:#a80000">CFA: (\ Milk, Egg, flour /)</span><br />
+[08:14:36] <span style="color:#a80000">CFA: (\ I just use a Mix, usuallyy /)</span><br />
+[08:14:43] <span style="color:#270041">CFS: o.0</span><br />
+[08:14:49] <span style="color:#270041">CFS: flowers?</span><br />
+[08:14:56] <span style="color:#270041">CFS: I would never have guessed</span><br />
+[08:15:00] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+[08:15:08] <span style="color:#a80000">CFA: (\ Oh no honeyy not actual flowers /)</span><br />
+[08:15:12] <span style="color:#a80000">CFA: (\ Baking flour /)</span><br />
+[08:15:36] <span style="color:#270041">CFS: it is a variety not grown from the ground?</span><br />
+[08:15:39] <span style="color:#270041">CFS: 0.o</span><br />
+[08:15:47] <span style="color:#270041">CFS: my curiosity is piqued</span><br />
+[08:16:05] <span style="color:#a80000">CFA: (\ ....No its... its this white powderyy stuff made from Wheat /)</span><br />
+[08:18:01] <span style="color:#0080ff">CFL: ITS REAL SUGA-</span><br />
+[08:18:19] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  falls, and is burried in containers of Jarritos --</span><br />
+[08:21:11] <span style="color:#0080ff">CFL: ...</span><br />
+[08:21:11] <span style="color:#270041">CFS: powdery...? what?</span><br />
+[08:21:15] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  headtilts, understanding what it is but not understanding why powder would be used instead of flowers --</span><br />
+[08:21:22] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // CRASHING SOUNDS --</span><br />
+[08:21:27] <span style="color:#270041">CFS: ...?</span><br />
+[08:24:30] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is BURIED BY SODA BOTTLES --</span><br />
+[08:24:53] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // That are glass. And still intact. --</span><br />
+[08:25:16] <span style="color:#270041">CFS: ((and Ash is afk at the moment, patience young padawan))</span><br />
+[08:25:50] <span style="color:#0080ff">CFL: (( doesn't mean Alex can't help ))</span><br />
+[08:26:18] <span style="color:#270041">CFS: ((have a feeling ashsprite would react first though))</span><br />
+[08:26:27] <span style="color:#270041">CFS: ((what with her being right there))</span><br />
+[08:26:32] <span style="color:#0080ff">CFL: (( true ))</span><br />
+[08:36:35] <span style="color:#a80000">CFA: ((IM SORRY I GOT CALLED TO DINNER))</span><br />
+[08:36:49] <span style="color:#a80000">CFA: ((brb Running grandmas dog home aaaaa))</span><br />
+[08:38:22] <span style="color:#0080ff">CFL: (( sorry ))</span><br />
+[08:39:19] <span style="color:#a80000">CFA: ((and back))</span><br />
+[08:39:39] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  jumps at the sounds, wondering where the glass came from --</span><br />
+[08:39:43] <span style="color:#a80000">CFA: (\ ....Charlie? /)</span><br />
+[08:40:31] <span style="color:#0080ff">CFL: halp...</span><br />
+[08:41:03] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[08:41:12] <span style="color:#270041">CFS: what even...</span><br />
+[08:41:19] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  runs out to find the source of the noises --</span><br />
+[08:41:37] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  follows out of the kitchen --</span><br />
+[08:43:34] <span style="color:#a80000">CFA: (\ Charlie? /)</span><br />
+[08:43:36] <span style="color:#a80000">CFA: (\ YYou okayy? /)</span><br />
+[08:44:53] <span style="color:#0080ff">CFL: mfffmf</span><br />
+[08:45:21] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  boggles vacantly, what has happened? --</span><br />
+[08:46:16] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is covered in glass unbroken bottles of jarritos mexican soda. --</span><br />
+[08:46:47] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  just... blinks --</span><br />
+[08:48:40] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  scrambles over to Dig FL out --</span><br />
+[08:49:31] <span style="color:#0080ff">CFL: I'm okay!</span><br />
+[08:52:01] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  crawls out with help. --</span><br />
+[08:52:06] <span style="color:#0080ff">CFL: ...I brought soda.</span><br />
+[08:52:06] <span style="color:#a80000">CFA: (\ C'mon man stop foolin around /)</span><br />
+[08:52:09] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles --</span><br />
+[08:52:12] <span style="color:#a80000">CFA: (\ I can see that /)</span><br />
+[08:53:44] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  sighs --</span><br />
+[08:54:06] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  shakes his head --</span><br />
+[08:54:27] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sighs and walks back to the kitchen, smiling --</span><br />
+[08:56:34] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  holds out a cold bottle to ash sprite. --</span><br />
+[08:56:38] <span style="color:#0080ff">CFL: ...Oh right.</span><br />
+[08:56:45] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  looks up at it --</span><br />
+[08:56:46] <span style="color:#0080ff">CFL: ASH DO YOU HAVE ANY BOTTLE OPENERS?!</span><br />
+[08:57:02] <span style="color:#a80000">CFA: (\ Cant yyou just unscrew the top? /)</span><br />
+[08:57:33] <span style="color:#0080ff">CFL: Not this kind!</span><br />
+[08:58:04] <span style="color:#a80000">CFA: (\ Prop it against the edge of the Desk byy the door then /)</span><br />
+[08:58:13] <span style="color:#a80000">CFA: (\ I'll look for an opener /)</span><br />
+[08:59:47] <span style="color:#0080ff">CFL: ...</span><br />
+[08:59:53] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks again, incredulously before just walking back into the kitchen as well --</span><br />
+[09:00:03] <span style="color:#0080ff">CFL: Ash Sprite can you open it with your claws?</span><br />
+[09:00:08] <span style="color:#0080ff">CFL: You have claws, right?</span><br />
+[09:00:14] <span style="color:#0080ff">CFL: sorry, talons</span><br />
+[09:00:17] <span style="color:#550000">CAS: ..Oh yeah I have those</span><br />
+[09:00:18] <span style="color:#550000">CAS: ono</span><br />
+[09:00:48] <span style="color:#0080ff">CFL: ...Do you want a soda?</span><br />
+[09:00:54] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  nods --</span><br />
+[09:00:57] <span style="color:#0080ff">CFL: It has /real sugar/</span><br />
+[09:01:03] <span style="color:#0080ff">CFL: Oh, okay...</span><br />
+[09:01:07] <span style="color:#0080ff">CFL: I believe in you!</span><br />
+[09:01:23] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gives AshSprite the bottle of... grapefruit soda. --</span><br />
+[09:01:42] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  takes the bottle, raising a hand, which was now more prominently Bird-like --</span><br />
+[09:01:45] <span style="color:#550000">CAS: ....Hm</span><br />
+[09:02:01] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  just stabs the bottle cap, punctureing it --</span><br />
+[09:02:33] <span style="color:#0080ff">CFL: ...huh.</span><br />
+[09:02:38] <span style="color:#d1cfcd"><span style="color:#000000">CNV</span> ceased responding to memo.</span><br />
+[09:12:01] <span style="color:#270041">CFS: anyways...</span><br />
+[09:12:20] <span style="color:#270041">CFS: what is this powdery flower stuff that you were speaking of?</span><br />
+[09:13:00] <span style="color:#a80000">CFA: (\ Oh, over here /)</span><br />
+[09:13:50] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  wanders over to the pantry, taking a large white container out of it, setting it on the counter and opening it up, Flour filled the container up to the rim --</span><br />
+[09:14:30] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  walks over, eyebrowraising as he peers into the container --</span><br />
+[09:14:58] <span style="color:#270041">CFS: so this is what cakes are made of...</span><br />
+[09:15:19] <span style="color:#a80000">CFA: (\ mhm /)</span><br />
+[09:21:58] <span style="color:#270041">CFS: o.0</span><br />
+[09:22:07] <span style="color:#270041">CFS: well...</span><br />
+[09:22:17] <span style="color:#270041">CFS: aside from those other things that you had mentioned...</span><br />
+[09:22:19] <span style="color:#270041">CFS: what were they?</span><br />
+[09:22:21] <span style="color:#270041">CFS: eggs and...</span><br />
+[09:22:24] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  blinks --</span><br />
+[09:23:46] <span style="color:#0080ff">CFL: ...well, are you going to sit there or are you going to try it?</span><br />
+[09:23:53] <span style="color:#d1cfcd"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+[09:23:59] <span style="color:#a80000">CFA: (\ Sugar, Eggs, milk /)</span><br />
+[09:24:16] <span style="color:#a80000">CFA: (\ Reallyy I just use Water and Eggs because Cake mix is so much easier /)</span><br />
+[09:24:33] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  grabs a chocolate cake mix out of the fridge --</span><br />
+[09:24:39] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  cupboard* what --</span><br />
+[09:25:28] <span style="color:#270041">CFS: o.0</span><br />
+[09:25:40] <span style="color:#270041">CFS: but wait...</span><br />
+[09:25:45] <span style="color:#270041">CFS: didn't those...</span><br />
+[09:26:06] <span style="color:#270041">CFS: ...those drinks have real sugar in them?</span><br />
+[09:26:20] <span style="color:#270041">CFS: perhaps those would work!</span><br />
+[09:26:31] <span style="color:#270041">CFS: then you could have sugar and some form of fluid, right?</span><br />
+[09:26:38] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  blinks and takes a drink out of the soda --</span><br />
+[09:27:05] <span style="color:#a80000">CFA: (\ Oh myy goodness /)</span><br />
+[09:27:10] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles and shakes her head --</span><br />
+[09:27:41] <span style="color:#270041">CFS: mm...?</span><br />
+[09:28:15] <span style="color:#270041">CFS: oh</span><br />
+[09:28:21] <span style="color:#270041">CFS: was that a silly idea?</span><br />
+[09:28:46] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // GRAPEFRUIT SODA --</span><br />
+[09:29:16] <span style="color:#a80000">CFA: (\ kinda /)</span><br />
+[09:29:49] <span style="color:#270041">CFS: : /</span><br />
+[09:31:37] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  grins and starts mixing cake batter --</span><br />
+[09:37:28] <span style="color:#d1cfcd"><span style="color:#0000ff">CURRENT blueBassist [CBB]</span> RIGHT NOW responded to memo.</span><br />
+[09:37:28] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  flies over towards LOFAT on his STAP, approaching the dwelling spire --</span><br />
+[09:38:12] <span style="color:#0080ff">CFL: ...Lets see if I can help with this cake.</span><br />
+[09:38:28] <span style="color:#a80000">CFA: (\ YYou can help byy turning the Oven on to Pre-heat for me /)</span><br />
+[09:38:42] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  is just peering over FA's shoulder curiously --</span><br />
+[09:38:43] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulls out a horrifying tool that looks like a twist between a chainsaw and electric beater. --</span><br />
+[09:38:52] <span style="color:#a80000">CFA: (\ .....CHARLIE /)</span><br />
+[09:38:54] <span style="color:#0080ff">CFL: But I wanna use this bad boy!</span><br />
+[09:38:56] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  lands outside, captchalogueing the STAP before wlaking over and knocking on the door --</span><br />
+[09:39:00] <span style="color:#a80000">CFA: (\ ohmyygod /)</span><br />
+[09:39:12] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  answers the door --</span><br />
+[09:39:22] <span style="color:#0000ff">CBB: ...Hello Ashsprite!...</span><br />
+[09:39:24] <span style="color:#a80000">CFA: (\ Charlie No wait doooont /)</span><br />
+[09:39:33] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  turns his head --</span><br />
+[09:39:33] <span style="color:#550000">CAS: Hey...</span><br />
+[09:39:43] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  ABRUPT STARTLEDNESS AND BLINKAGE --</span><br />
+[09:39:47] <span style="color:#d1cfcd"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+[09:39:48] <span style="color:#0080ff">CFL:  <span style="color:#20b0e0">Chances of someone dying is 5 percent.</span></span><br />
+[09:39:49] <span style="color:#0000ff">CBB: ...Everything going well?...</span><br />
+[09:39:56] <span style="color:#270041">CFS: GOOD GRACIOUSNESS FL WHATEVER THAT IS</span><br />
+[09:40:03] <span style="color:#270041">CFS: DO PUT IT AWAY</span><br />
+[09:40:06] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  tilts her head at the noise --</span><br />
+[09:40:09] <span style="color:#550000">CAS: Well..</span><br />
+[09:40:21] <span style="color:#0080ff">CFL: but its awesome!</span><br />
+[09:40:24] <span style="color:#550000">CAS: They've been going well</span><br />
+[09:40:41] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  brings it over to the bowl. --</span><br />
+[09:40:43] <span style="color:#a80000">CFA: (\ Pfftt /)</span><br />
+[09:40:46] <span style="color:#a80000">CFA: (\ Oh god wait /)</span><br />
+[09:40:57] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  giant mess imminent --</span><br />
+[09:41:12] <span style="color:#0000ff">CBB: ...Good to hear... Just wanted to drop in and check on things...</span><br />
+[09:41:44] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  turns it on in the bowl and SEVERAL ELECTRIC MIXERS SPIN WHILE THE ENTIRE THING SPINS THE OTHER WAY... there is no mess but steam is flying all over... --</span><br />
+[09:41:58] <span style="color:#0080ff">CFL: AHAHAHAHA</span><br />
+[09:42:23] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks wide eyes --</span><br />
+[09:42:30] <span style="color:#a80000">CFA: (\ ...Charlie /what/ /)</span><br />
+[09:42:34] <span style="color:#270041">CFS: ._.</span><br />
+[09:42:55] <span style="color:#0000ff">CBB: .......</span><br />
+[09:43:00] <span style="color:#a80000">CFA: (\ I think yyou're /boiling it/ /)</span><br />
+[09:43:11] <span style="color:#0080ff">CFL: ITS STEAM POWERED!</span><br />
+[09:43:21] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  stops... that cake is BLENDED. --</span><br />
+[09:43:23] <span style="color:#a80000">CFA: (\ I DONT EVEN WITH YYOU RIGHT NOW /)</span><br />
+[09:43:25] <span style="color:#270041">CFS: I take it that is a bad thing, yes?</span><br />
+[09:43:45] <span style="color:#0080ff">CFL: Well?</span><br />
+[09:43:47] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks at the batter before getting a cake pan out --</span><br />
+[09:43:56] <span style="color:#a80000">CFA: (\ ....Okayy yyou did a good job /)</span><br />
+[09:43:59] <span style="color:#d1cfcd"><span style="color:#1f1f1f">CURRENT loliChronos [CLC]</span> RIGHT NOW responded to memo.</span><br />
+[09:43:59] <span style="color:#d1cfcd">-- CURRENT loliChronos <span style="color:#1f1f1f">[CLC]</span>  suddenly appears in the room and seems to be wearing a blindfold and some sort of larger hat replacing her tiny crown --</span><br />
+[09:44:34] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks as she notices LC --</span><br />
+[09:44:47] <span style="color:#0080ff">CFL: ...on a scale of 1 to 12241662?</span><br />
+[09:44:56] <span style="color:#a80000">CFA: (\ ...Elseyy? Whats going on? /)</span><br />
+[09:44:57] <span style="color:#1f1f1f">CLC: WH▲T DΘ YΘU ME▲N?</span><br />
+[09:45:07] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sets the now empty bowl down and walks over --</span><br />
+[09:45:19] <span style="color:#a80000">CFA: (\ YYou're blndfolded and wearing a... Not yyour crown /)</span><br />
+[09:45:27] <span style="color:#270041">CFS: ...?</span><br />
+[09:45:28] <span style="color:#a80000">CFA: (\ Is everyything allright? /)</span><br />
+[09:45:37] <span style="color:#1f1f1f">CLC: YES</span><br />
+[09:45:41] <span style="color:#0080ff">CFL: ...oven is too slow.</span><br />
+[09:45:46] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  looks away from the battermixture a moment to figure out what is going o- --</span><br />
+[09:45:49] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  stops --</span><br />
+[09:45:53] <span style="color:#270041">CFS: FL</span><br />
+[09:46:04] <span style="color:#270041">CFS: whatever it is you are thinking...</span><br />
+[09:46:17] <span style="color:#270041">CFS: if you cause this house to explode...</span><br />
+[09:46:20] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulls out a Cookalizer. --</span><br />
+[09:46:29] <span style="color:#0080ff">CFL: Lets make this shit...</span><br />
+[09:46:31] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Puts her fist to her mouth, tilting her head a bit --</span><br />
+[09:46:34] <span style="color:#0080ff">CFL: /transpire/</span><br />
+[09:46:40] <span style="color:#a80000">CFA: (\ Alright, if yyou sayy so /)</span><br />
+[09:46:43] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  removes the batter. --</span><br />
+[09:46:58] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  still worried about Elsey --</span><br />
+[09:47:16] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  puts it into the Cookalizer. --</span><br />
+[09:47:22] <span style="color:#0080ff">CFL: ...now, setting 2...</span><br />
+[09:47:33] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  twists it to setting 2. --</span><br />
+[09:47:38] <span style="color:#0080ff">CFL: and now... activate.</span><br />
+[09:47:42] <span style="color:#1f1f1f">CLC: WH▲T ▲RE YΘU ▲LL M▲KING?</span><br />
+[09:47:49] <span style="color:#d1cfcd">-- CURRENT loliChronos <span style="color:#1f1f1f">[CLC]</span>  tilts her head --</span><br />
+[09:47:56] <span style="color:#0000ff">CBB: ...What's...going on in there?...</span><br />
+[09:47:57] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  sighs and walks out of the kitchen --</span><br />
+[09:48:05] <span style="color:#270041">CFS: I do believe there is a cake being made</span><br />
+[09:48:06] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  waits a few moments and a cooked cake appears. --</span><br />
+[09:48:08] <span style="color:#0080ff">CFL: Done!</span><br />
+[09:48:21] <span style="color:#270041">CFS: ...</span><br />
+[09:48:22] <span style="color:#270041">CFS: was...</span><br />
+[09:48:25] <span style="color:#270041">CFS: being made</span><br />
+[09:48:26] <span style="color:#a80000">CFA: (\ YYeah, Chocolate cake /)</span><br />
+[09:48:47] <span style="color:#a80000">CFA: (\ ...Might go nice with some Coffee or Tea too... /)</span><br />
+[09:48:59] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  brings out the cake. --</span><br />
+[09:49:03] <span style="color:#1f1f1f">CLC: ...TH▲T'S NICE...</span><br />
+[09:49:08] <span style="color:#0080ff">CFL: :D</span><br />
+[09:49:13] <span style="color:#0080ff">CFL: I helped!</span><br />
+[09:49:21] <span style="color:#a80000">CFA: (\ Pfftt, Charlie /)</span><br />
+[09:49:34] <span style="color:#0000ff">CBB: .......</span><br />
+[09:49:41] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  goes to the cupboard and grabs a small container of Frosting to spread on the cake --</span><br />
+[09:49:45] <span style="color:#0080ff">CFL: Hold on, gotta enter my initals.</span><br />
+[09:49:59] <span style="color:#0080ff">CFL: I think I got the highscore on the speed run list.</span><br />
+[09:50:21] <span style="color:#270041">CFS: o.0</span><br />
+[09:50:27] <span style="color:#0080ff">CFL: Kidding.</span><br />
+[09:50:36] <span style="color:#270041">CFS: is that how the famed... coffee cake is made?</span><br />
+[09:50:48] <span style="color:#0080ff">CFL: Though I bet I just made it the fastest in the session.</span><br />
+[09:50:58] <span style="color:#a80000">CFA: (\ nnno hun Coffee cake is a completelyy different recipe /)</span><br />
+[09:51:03] <span style="color:#0080ff">CFL: Here, let me show you the tool I used for the mixing?</span><br />
+[09:51:06] <span style="color:#270041">CFS: oh...</span><br />
+[09:51:16] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  holds out the OH MY GOG ITS TERRIFYING. --</span><br />
+[09:51:24] <span style="color:#a80000">CFA: (\ Oh myy god /FL/ /)</span><br />
+[09:51:26] <span style="color:#1f1f1f">CLC: HΘW DΘES IT T▲STE, THΘUGH...</span><br />
+[09:51:37] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  finishes spreading the frosting --</span><br />
+[09:51:46] <span style="color:#a80000">CFA: (\ Well, Come and taste it for yyourself~ /)</span><br />
+[09:52:14] <span style="color:#1f1f1f">CLC: ....I...I'M NΘT HUNGRY.</span><br />
+[09:52:28] <span style="color:#0080ff">CFL: ...</span><br />
+[09:52:34] <span style="color:#0000ff">CBB: ...I'll...just go then...</span><br />
+[09:52:39] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  turns around --</span><br />
+[09:52:45] <span style="color:#550000">CAS: Wha...?</span><br />
+[09:52:50] <span style="color:#550000">CAS: No, wait, dont go</span><br />
+[09:52:54] <span style="color:#550000">CAS: You can stay</span><br />
+[09:52:55] <span style="color:#0000ff">CBB: ...hm?...</span><br />
+[09:53:00] <span style="color:#550000">CAS: ...</span><br />
+[09:53:16] <span style="color:#0000ff">CBB: ...You didn't say anything, so I thought...</span><br />
+[09:53:17] <span style="color:#0080ff">CFL: oh man, did I scare you away with my Steam Powered Eggmangler 9000?</span><br />
+[09:53:29] <span style="color:#550000">CAS: Im sorry Im...</span><br />
+[09:53:36] <span style="color:#550000">CAS: ...I've been... out of it... all day</span><br />
+[09:53:41] <span style="color:#0000ff">CBB: ...Oh...</span><br />
+[09:53:55] <span style="color:#0000ff">CBB: ...I understand...</span><br />
+[09:54:00] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  floats inside and lays back down on the couch, leaving the door open --</span><br />
+[09:54:16] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  walks in, looking around --</span><br />
+[09:54:20] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  cuts it up into manageable pieces. The cake is piping hot with a fudgy center and creamy chocolate frosting --</span><br />
+[09:54:34] <span style="color:#a80000">CFA: (\ ...Elseyy are yyou sure yyou're okayy, hun? /)</span><br />
+[09:54:44] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  pokes his head back into the kitchen again --</span><br />
+[09:54:46] <span style="color:#1f1f1f">CLC: I'M ΘK▲Y.</span><br />
+[09:54:47] <span style="color:#270041">CFS: o.0</span><br />
+[09:54:53] <span style="color:#0080ff">CFL: (( Egg Beater &amp;&amp; Mini Steam Engine || Chainsaw ))</span><br />
+[09:54:57] <span style="color:#a80000">CFA: (\ YYou're worryying me a bit... /)</span><br />
+[09:56:03] <span style="color:#0080ff">CFL: (( best recipe, it is the best ))</span><br />
+[09:56:13] <span style="color:#a80000">CFA: ((Pfft))</span><br />
+[09:56:21] <span style="color:#1f1f1f">CLC: Y..YΘU SHΘULDN'T! I'M FINE, RE▲LLY.</span><br />
+[09:56:24] <span style="color:#0080ff">CFL: (( when the egg beaters spin, so does the entire section they are on! ))</span><br />
+[09:56:34] <span style="color:#0080ff">CFL: (( and it pumps out steam! ))</span><br />
+[09:56:35] <span style="color:#a80000">CFA: (\ ...Thats not gonna stop me, hun /)</span><br />
+[09:57:02] <span style="color:#a80000">CFA: (\ If theres something wrong, please, Let me know /)</span><br />
+[09:57:36] <span style="color:#0080ff">CFL: :&lt;</span><br />
+[09:58:02] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  looks over at Ashsprite for a moment before heading towards the center of activity --</span><br />
+[09:58:04] <span style="color:#0000ff">CBB: ...Hello?~...</span><br />
+[09:58:17] <span style="color:#1f1f1f">CLC: I...UM..HNN...</span><br />
+[09:58:18] <span style="color:#0080ff">CFL: ...hey.</span><br />
+[09:58:22] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  they're all in the kitchen --</span><br />
+[09:58:29] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  goes back to frowning. --</span><br />
+[09:58:44] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  // sadly --</span><br />
+[09:58:44] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  to the kitchen! --</span><br />
+[09:58:51] <span style="color:#0000ff">CBB: ...Hello?~...</span><br />
+[09:59:09] <span style="color:#0080ff">CFL: I already said hey to you!</span><br />
+[09:59:09] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  waves at BB --</span><br />
+[09:59:23] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  waves back --</span><br />
+[09:59:25] <span style="color:#0000ff">CBB: ...What's going on?...</span><br />
+[09:59:38] <span style="color:#0080ff">CFL: I think I scared elsey with this.</span><br />
+[09:59:58] <span style="color:#1f1f1f">CLC: NΘ, I'M NΘT SC▲RED</span><br />
+[10:00:07] <span style="color:#1f1f1f">CLC: THΘUGH TH▲T IS KIND ΘF...CR▲ZY</span><br />
+[10:00:12] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  holds up the /OH MY GOD/. --</span><br />
+[10:00:38] <span style="color:#0080ff">CFL: I call it the Steam Powered Eggmangler 9000.</span><br />
+[10:00:40] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[10:00:53] <span style="color:#a80000">CFA: (\ ...Elseyy are yyou scared of Kat? /)</span><br />
+[10:00:56] <span style="color:#0080ff">CFL: Or Speed for short.</span><br />
+[10:01:00] <span style="color:#1f1f1f">CLC: NΘ...</span><br />
+[10:01:14] <span style="color:#a80000">CFA: (\ Hun tell me is Kat doing something weird? /)</span><br />
+[10:01:18] <span style="color:#0000ff">CBB: .......</span><br />
+[10:01:28] <span style="color:#a80000">CFA: (\ She's in the memo right now acting strange /)</span><br />
+[10:01:29] <span style="color:#1f1f1f">CLC: NΘ, NΘT TH▲T I KNΘW ΘF..</span><br />
+[10:01:33] <span style="color:#0080ff">CFL: ...maybe Spem, that fits more.</span><br />
+[10:01:38] <span style="color:#270041">CFS: o.0</span><br />
+[10:01:41] <span style="color:#270041">CFS: is she now?</span><br />
+[10:01:57] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[10:02:08] <span style="color:#0080ff">CFL: come on Spem, we have cakes to make.</span><br />
+[10:02:17] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulls out more cakemix --</span><br />
+[10:02:22] <span style="color:#a80000">CFA: (\ ...Elseyy, seriouslyy, What is going on? Something doesnt seem right /)</span><br />
+[10:02:46] <span style="color:#1f1f1f">CLC: I DΘN'T KNΘW WH▲T K▲T'S DΘING..I H▲VEN'T SEEN HER IN PERSΘN SINCE..</span><br />
+[10:03:08] <span style="color:#0000ff">CBB: .......</span><br />
+[10:03:10] <span style="color:#a80000">CFA: (\ ...? /)</span><br />
+[10:03:19] <span style="color:#1f1f1f">CLC: S..SINCE...</span><br />
+[10:03:27] <span style="color:#0000ff">CBB: ...Oh...</span><br />
+[10:03:33] <span style="color:#0000ff">CBB: ...The uh......</span><br />
+[10:03:35] <span style="color:#0000ff">CBB: ...Yeah...</span><br />
+[10:03:40] <span style="color:#a80000">CFA: (\ .... /)</span><br />
+[10:03:58] <span style="color:#0080ff">CFL: would you like to see her Elsey?</span><br />
+[10:04:15] <span style="color:#1f1f1f">CLC: I...I DΘN'T KNΘW...</span><br />
+[10:04:24] <span style="color:#0080ff">CFL: ...I see...</span><br />
+[10:04:25] <span style="color:#270041">CFS: o_o</span><br />
+[10:05:27] <span style="color:#0080ff">CFL: Anyway, how does a second cake sound?</span><br />
+[10:06:19] <span style="color:#a80000">CFA: (\ ...She's looking for yyou, Elseyy /)</span><br />
+[10:07:18] <span style="color:#1f1f1f">CLC: ....</span><br />
+[10:09:25] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[10:09:58] <span style="color:#0000ff">CBB: .......</span><br />
+[10:10:23] <span style="color:#0080ff">CFL: ...cake?</span><br />
+[10:10:27] <span style="color:#0080ff">CFL: cakecakecakecake?</span><br />
+[10:10:40] <span style="color:#d1cfcd"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+[10:10:43] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is looking for a distraction, something to do. --</span><br />
+[10:10:46] <span style="color:#d1cfcd">-- CURRENT loliChronos <span style="color:#1f1f1f">[CLC]</span>  fiddles with her fingers --</span><br />
+[10:11:56] <span style="color:#a80000">CFA: (\ ...Elseyy, please talk to me /)</span><br />
+[10:12:04] <span style="color:#a80000">CFA: (\ I wanna help yyou with whatevers going on /)</span><br />
+[10:12:13] <span style="color:#0000ff">CBB: ...I think we all do...</span><br />
+[10:13:13] <span style="color:#0080ff">CFL: ...I'll make a cake.</span><br />
+[10:13:38] <span style="color:#1f1f1f">CLC: ...</span><br />
+[10:13:56] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  heads back into the kitchen and begins to laugh maniacally. --</span><br />
+[10:14:49] <span style="color:#a80000">CFA: (\ /charlie/ /)</span><br />
+[10:14:54] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  comes back out holding another cake --</span><br />
+[10:14:58] <span style="color:#0080ff">CFL: Yes?</span><br />
+[10:15:08] <span style="color:#a80000">CFA: (\ YYou're having wayy to much fun with this /)</span><br />
+[10:15:15] <span style="color:#d1cfcd">-- CURRENT blueBassist <span style="color:#0000ff">[CBB]</span>  checks his smartphone --</span><br />
+[10:15:29] <span style="color:#1f1f1f">CLC: NΘ MΘRE C▲KE..</span><br />
+[10:15:43] <span style="color:#0000ff">CBB: ...Are we really having that thing now?...</span><br />
+[10:16:06] <span style="color:#a80000">CFA: (\ Its almost midnight... /)</span><br />
+[10:17:14] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is just silent --</span><br />
+[10:17:42] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  shrugs --</span><br />
+[10:17:49] <span style="color:#a80000">CFA: (\ Welp, looks like its back to the lab for me then /)</span><br />
+[10:17:52] <span style="color:#a80000">CFA: (\ Have fun yyou guyys /)</span><br />
+[10:18:02] <span style="color:#0000ff">CBB: ...I guess so...</span><br />
+[10:18:03] <span style="color:#270041">CFS: ...?</span><br />
+[10:18:06] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  heads out the door and up the stairs --</span><br />
+[10:18:23] <span style="color:#1f1f1f">CLC: ...</span><br />
+[10:18:59] <span style="color:#0000ff">CBB: ...Rob's calling that meeting he was talking about...</span><br />
+[10:19:13] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  head upstairs behind FA --</span><br />
+[10:19:48] <span style="color:#0080ff">CFL: ...</span><br />
+[10:19:51] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#270041">[CFS]</span>  hopes he gets there before the door closes --</span><br />
+[10:19:59] <span style="color:#0080ff">CFL: o... kay...</span><br />
+[10:20:17] <span style="color:#0080ff">CFL: ...need... another...</span><br />
+[10:20:25] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  passes out from lack of sleep. --</span><br />
+[10:20:25] <span style="color:#0000ff">CBB: ...huh?...</span><br />
+[10:20:34] <span style="color:#0000ff">CBB: .......</span><br />
+[10:20:44] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is on the floor. --</span><br />

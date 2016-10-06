@@ -1,0 +1,5 @@
+[08:31:28] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging fromAshes <span style="color:#a80000">[FA]</span> at 08:31 --</span><br />
+[08:31:41] <span style="color:#0080ff">FL: So uh... I guess I should talk to you Ash?</span><br />
+[08:31:43] <span style="color:#d1cfcd">-- fromAshes <span style="color:#a80000">[FA]</span> is now an idle chum! --</span><br />
+[08:31:49] <span style="color:#0080ff">FL: :| figures</span><br />
+[08:31:52] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging fromAshes <span style="color:#a80000">[FA]</span> at 08:31 --</span><br />

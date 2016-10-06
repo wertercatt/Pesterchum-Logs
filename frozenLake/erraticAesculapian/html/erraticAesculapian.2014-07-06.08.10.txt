@@ -1,0 +1,9 @@
+[08:10:14] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> began messaging erraticAesculapian <span style="color:#000000">[EA]</span> at 08:10 --</span><br />
+[08:11:37] <span style="color:#0070e0">FL: Here is the two regexes I used, note that none of the &amp;&amp; ones seemed important  &amp;&amp; [0W][0G]0[01GH]0[08][08][08GO]  || [WXYZabcdefghijklmnopqrstuvwxyz?!][GHIJKLMNOPQRSTUVmnopqrstuvwxyz?!]\S[HJLNPRTVnprtvxz!]\S[89ABCDEFOPQRSTUVefghijkluvwxyz?!][89ABCDEFOPQRSTUVefghijkluvwxyz?!][OPQRSTUVuvwxyz?!]</span><br />
+[08:12:37] <span style="color:#0070e0">FL: And the list of items for WG0H088O <a href='http://pastebin.com/Q6W4S6yN'>http://pastebin.com/Q6W4S6yN</a></span><br />
+[08:13:00] <span style="color:#0070e0">FL: Now let me just find the one for the Caledfwlch</span><br />
+[08:13:18] <span style="color:#8c8c00">EA: Wait, what'☡ thi☡ i☡ relation to?</span><br />
+[08:13:22] <span style="color:#0070e0">FL:  <a href='http://pastebin.com/C7ZeXe3V'>http://pastebin.com/C7ZeXe3V</a></span><br />
+[08:14:20] <span style="color:#0070e0">FL: Basically, Trying to hunt through the lists to see what all codes would need to be changed if Caledfwlch is edited to have a correct code compared to the Magic Cue Ball</span><br />
+[08:15:01] <span style="color:#0070e0">FL: &amp;&amp; [01234567GHIJKLMNWXYZabcdmnopqrst][0G][0123][01234567GHIJKLMN][0145GHKL][0189GHOP][028AGIOQWYegmouw][048CGKOS] || [t!][GHIJKLMNOPQRSTUVmnopqrstuvwxyz?!][37BFJNRVZdhlptx!][NVt!][LNTVrtz!][PRTVvxz!][wx?!][STUVyz?!]</span><br />
+[08:31:25] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging erraticAesculapian <span style="color:#8c8c00">[EA]</span> at 08:31 --</span><br />

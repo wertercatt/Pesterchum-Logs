@@ -1,0 +1,2 @@
+[05:31:12] <span style="color:#d1cfcd">-- renewedBeing <span style="color:#000000">[RB]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:31 --</span><br />
+[05:31:17] <span style="color:#d1cfcd">-- renewedBeing <span style="color:#a1a100">[RB]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:31 --</span><br />

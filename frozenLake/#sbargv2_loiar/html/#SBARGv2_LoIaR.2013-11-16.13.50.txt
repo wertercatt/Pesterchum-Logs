@@ -1,0 +1,34 @@
+[01:50:08] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+[01:50:46] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[01:50:46] <span style="color:#ee1e00">CCP: ((lurk mode engaged until the thing on LoHaN ends (shortly)))</span><br />
+[01:51:56] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[01:54:07] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[03:30:16] <span style="color:#d1cfcd"><span style="color:#0dc7ca">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+[03:30:16] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  descends down to the 'ole HQ --</span><br />
+[03:30:25] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  heads up to the dojo upon landing --</span><br />
+[03:31:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is waiting inside. --</span><br />
+[03:31:52] <span style="color:#0dc7ca">CPE: ~ Hey FL</span><br />
+[03:31:57] <span style="color:#0080ff">CFL: Hey.</span><br />
+[03:32:02] <span style="color:#0080ff">CFL: Shall we begin?</span><br />
+[03:32:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks up. --</span><br />
+[03:32:39] <span style="color:#0dc7ca">CPE: ~ Mhm</span><br />
+[03:32:48] <span style="color:#0dc7ca">CPE: ~ where would you like me to stand</span><br />
+[03:34:14] <span style="color:#0080ff">CFL: Over to the side.</span><br />
+[03:34:34] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  goes to "the other side" --</span><br />
+[03:34:41] <span style="color:#0dc7ca">CPE: ~ let me have it</span><br />
+[03:34:48] <span style="color:#0dc7ca">CPE: ~ let 'er rip</span><br />
+[03:35:04] <span style="color:#0080ff">CFL: Computer, activate ARK simulation.</span><br />
+[03:35:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The door closes, and the area begins to rez... --</span><br />
+[03:35:38] <span style="color:#0dc7ca">CPE: ((to rez?))</span><br />
+[03:36:10] <span style="color:#0080ff">CFL: (( Well, to render and begin to simulate. ))</span><br />
+[03:38:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A large lab comes into view, slight destruction everywhere... there are hostile robots. --</span><br />
+[03:38:26] <span style="color:#0080ff">CFL: Think fast!</span><br />
+[03:38:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  starts attacking the robots. --</span><br />
+[03:41:29] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  stops zoning out --</span><br />
+[03:41:34] <span style="color:#0dc7ca">CPE: ~ hmph</span><br />
+[03:41:43] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Some of the robots begin to shoot at PE. --</span><br />
+[03:41:45] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  uppercuts a robot with a fiery fist --</span><br />
+[03:41:58] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  barrel rolls out of harms way --</span><br />
+[03:41:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The robots begin to explode. --</span><br />
+[03:42:23] <span style="color:#d1cfcd">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  flys up to the ceiling to avoid explosive damage --</span><br />
+[03:45:44] <span style="color:#0dc7ca">CPE: ((autopilot))</span><br />

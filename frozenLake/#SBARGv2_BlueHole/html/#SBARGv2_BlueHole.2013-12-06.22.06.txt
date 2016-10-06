@@ -1,0 +1,558 @@
+[10:06:03] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 BLUEHOLE.</span><br />
+[10:06:03] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[10:06:03] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:06:03] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:06:12] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:06:25] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:08:04] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:11:11] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[10:16:28] <span style="color:#d1cfcd">You need voice (+v) (#SBARGv2_BlueHole)</span><br />
+[10:17:55] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+[10:17:55] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  stαnds by brαe's side, looking out αt the blue hole --</span><br />
+[10:18:58] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  the stαr bαrrier looks like it could crαck αt αny moment --</span><br />
+[10:19:24] <span style="color:#d1cfcd"><span style="color:#ffd607">CURRENT sourFruit [CSF]</span> RIGHT NOW responded to memo.</span><br />
+[10:19:24] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  holds Seth's hand tightly as she also stares out at the Blue Hole, nervous and scared --</span><br />
+[10:19:42] <span style="color:#ffd607">CSF: So. This is it, I guess.</span><br />
+[10:20:24] <span style="color:#000000">CFI: ...</span><br />
+[10:24:07] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  is shαking in feαr, holding onto her hαnd, but stil trying to αct strong --</span><br />
+[10:25:46] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  forces a smile at Seth and hugs him suddenly --</span><br />
+[10:26:03] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  αccepts the embrαce --</span><br />
+[10:26:47] <span style="color:#ffd607">CSF: I'm glad I got to meet you, little bro.</span><br />
+[10:27:00] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  ruffles his hair --</span><br />
+[10:27:06] <span style="color:#000000">CFI: ...likewise.</span><br />
+[10:27:53] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  the stαr bαrrier is crαcking heαvily now --</span><br />
+[10:28:45] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  it shαtters, αnd immediαtely objects αre beginning to be pulled towαrds the blue hole --</span><br />
+[10:29:18] <span style="color:#d1cfcd">Memo is no longer <span style="color:#000000">Muted</span> by <span style="color:#000000">CSF</span></span><br />
+[10:29:56] <span style="color:#000000">CFI: well... here goes nothing...</span><br />
+[10:30:02] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  holds onto Seth tightly, nodding --</span><br />
+[10:30:32] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[10:30:32] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets the heck out of range --</span><br />
+[10:31:03] <span style="color:#000000">CFI: let us initiαte the frαymotif now.</span><br />
+[10:31:16] <span style="color:#000000">CFI: HORIZON NOCTURNE!</span><br />
+[10:31:26] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[10:31:26] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  was at a pretty safe distance earlier, but Laser Wisps further away to be safe(r) --</span><br />
+[10:33:20] <span style="color:#d1cfcd"><span style="color:#008282">CURRENT circuitousAntipathy [CCA]</span> RIGHT NOW responded to memo.</span><br />
+[10:33:20] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  is already a fair distance away and floats back even more, casting an arithmancy spell to increase his backwards momentum if he starts betting pulled in. --</span><br />
+[10:33:57] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  αnd brαe αctivαte the timespαce frαymotif together, α blαck hole beginning to form --</span><br />
+[10:34:41] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  their blαck hole is beginning to combαt the blue hole --</span><br />
+[10:34:42] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[10:34:42] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  flew up ahead of the group, though not very far, just twitching as she floats there in mid-air --</span><br />
+[10:35:03] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  bites her bottom lip as she attempts to keep the black hole from getting out of hand --</span><br />
+[10:35:10] <span style="color:#d1cfcd"><span style="color:#ceca54">CURRENT fortuitousSleuth [CFS]</span> RIGHT NOW responded to memo.</span><br />
+[10:35:10] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  flies up to get a grip on FA --</span><br />
+[10:35:22] <span style="color:#a80000">CFA: (\ ........Brae....Se- NO LET GO OF ME!! /)</span><br />
+[10:35:33] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  moves over to FA and hugs her tight. --</span><br />
+[10:35:35] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  continues to hole brαe tight, strαining from the pressure --</span><br />
+[10:35:36] <span style="color:#ceca54">CFS: Amanda... we sho<span style="color:#730e8f">uld get back!</span></span><br />
+[10:35:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flies to help Alex in holding back Ash. --</span><br />
+[10:35:54] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  *hold, but hole works too --</span><br />
+[10:35:55] <span style="color:#d1cfcd"><span style="color:#00cece">CURRENT avidCurator [CAC]</span> RIGHT NOW responded to memo.</span><br />
+[10:35:55] <span style="color:#00cece">CAC: ...</span><br />
+[10:36:00] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  kicks furiously but is succesfully held down --</span><br />
+[10:36:07] <span style="color:#a80000">CFA: (\ I SAID LET GO I HAVE TO SAVE THEM DAMMIT /)</span><br />
+[10:36:19] <span style="color:#008282">CCA: ∞ We can't. Σ</span><br />
+[10:36:26] <span style="color:#008282">CCA: ∞ Unless you have some grand plan you'd like to reveal? Σ</span><br />
+[10:36:30] <span style="color:#d1cfcd"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+[10:36:30] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  lands on a nearby astroid, watching from a distance. --</span><br />
+[10:36:40] <span style="color:#a2a280">CFF: ...We Can Help them.</span><br />
+[10:36:46] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is hiding behind something, watching --</span><br />
+[10:36:46] <span style="color:#ee1e00">CCP: ........?!</span><br />
+[10:36:48] <span style="color:#a2a280">CFF: They don't have to do it alone.</span><br />
+[10:37:11] <span style="color:#a80000">CFA: (\ I-i... I dont know I...  /)</span><br />
+[10:37:16] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  frαymotif intensifies --</span><br />
+[10:37:19] <span style="color:#a80000">CFA: (\ Fuck whyy wasnt I a fucking Syylph /)</span><br />
+[10:37:41] <span style="color:#a80000">CFA: (\ OF ALL THE THINGS /)</span><br />
+[10:37:43] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  turns his  head to look at FF. --</span><br />
+[10:37:45] <span style="color:#008282">CCA: ∞ What do you mean? Σ</span><br />
+[10:37:46] <span style="color:#ceca54">CFS: I'm not letting yo<span style="color:#730e8f">u get pulled in too!</span></span><br />
+[10:37:47] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  pops out of hiding --</span><br />
+[10:37:53] <span style="color:#a2a280">CFF: I mean... we can help them.</span><br />
+[10:37:54] <span style="color:#cb7de6">CSJ: waitwhat? ➜</span><br />
+[10:38:00] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  flies towards FA and the others --</span><br />
+[10:38:05] <span style="color:#ee1e00">CCP: huh?</span><br />
+[10:38:10] <span style="color:#ceca54">CFS: Th<span style="color:#730e8f">is is...</span></span><br />
+[10:38:11] <span style="color:#cb7de6">CSJ: how? ➜</span><br />
+[10:38:20] <span style="color:#0080ff">CFL: We don't even know the plan...</span><br />
+[10:38:31] <span style="color:#a2a280">CFF: What is SF's Aspects?</span><br />
+[10:38:33] <span style="color:#0080ff">CFL: Hell, we could just make things worse.</span><br />
+[10:38:38] <span style="color:#008282">CCA: ∞ Prince of Space Σ</span><br />
+[10:39:21] <span style="color:#a2a280">CFF: Roll call of Aspects and classes! ASAP!</span><br />
+[10:39:38] <span style="color:#0080ff">CFL: ...Rogue of Heart.</span><br />
+[10:39:41] <span style="color:#a80000">CFA: (\ We cant Sburban finale the blue hole /)</span><br />
+[10:39:44] <span style="color:#cb7de6">CSJ: Prince of Time! ➜</span><br />
+[10:39:45] <span style="color:#ee1e00">CCP: Witch of Light...</span><br />
+[10:39:47] <span style="color:#a2a280">CFF: I can try and focus their powers at least. Page of Rage. I can limit things.</span><br />
+[10:39:58] <span style="color:#a80000">CFA: (\ Knight of Space... /)</span><br />
+[10:40:03] <span style="color:#a2a280">CFF: CP! For Now, give the two all the luck!</span><br />
+[10:40:14] <span style="color:#ee1e00">CCP: ...right!</span><br />
+[10:40:16] <span style="color:#ceca54">CFS: Thief of vo<span style="color:#730e8f">id... but...</span></span><br />
+[10:40:17] <span style="color:#008282">CCA: ∞ Prince of Mind Σ</span><br />
+[10:40:43] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  starts drawing Luckrise on the pair, concentrating the area's ambient fortune on them --</span><br />
+[10:40:46] <span style="color:#a2a280">CFF: FL! Try and share SF and FI's Souls a bit, so they are supporting each other, or something!</span><br />
+[10:40:52] <span style="color:#0080ff">CFL: ...</span><br />
+[10:40:58] <span style="color:#0080ff">CFL: I can't at this range.</span><br />
+[10:41:03] <span style="color:#a80000">CFA: (\ Get closer then /)</span><br />
+[10:41:08] <span style="color:#0080ff">CFL: Ha.</span><br />
+[10:41:08] <span style="color:#a2a280">CFF: Then get close!</span><br />
+[10:41:09] <span style="color:#a80000">CFA: (\ I'll teleport yyou out if it gets rough /)</span><br />
+[10:41:10] <span style="color:#0080ff">CFL: hahaha.</span><br />
+[10:41:14] <span style="color:#ceca54">CFS: ..<span style="color:#730e8f">..</span></span><br />
+[10:41:23] <span style="color:#0080ff">CFL: Ash, Jovin, you two have gone insane.</span><br />
+[10:41:40] <span style="color:#a2a280">CFF: FA! you act as the teleporter, for now! also see if you can help the black hole.</span><br />
+[10:41:43] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  raises a hand, and its glowing bright white --</span><br />
+[10:41:44] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  is in intense pαin αs horns begin to grow from his heαd, not thαt αnyone besides brαe cαn see them --</span><br />
+[10:41:45] <span style="color:#d1cfcd"><span style="color:#5c315c">CURRENT melodiousPsyche [CMP]</span> RIGHT NOW responded to memo.</span><br />
+[10:41:45] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  has been here this entire time. Totally. --</span><br />
+[10:41:47] <span style="color:#a2a280">CFF: I've always been nuts!</span><br />
+[10:41:59] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  closes her eyes tightly, blonde starting to turn black as she forces herself to keep the black hole steady --</span><br />
+[10:42:01] <span style="color:#0080ff">CFL: Ash, NO!</span><br />
+[10:42:08] <span style="color:#a80000">CFA: (\ Then go /)</span><br />
+[10:42:11] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[10:42:11] <span style="color:#6507ff">CTT: ((TE2T))</span><br />
+[10:42:14] <span style="color:#0080ff">CFL: If you send me in there I will be torn apart!</span><br />
+[10:42:15] <span style="color:#a80000">CFA: (\ I got yyou /)</span><br />
+[10:42:16] <span style="color:#cb7de6">CSJ: ((tea set))</span><br />
+[10:42:32] <span style="color:#a2a280">CFF: I'm gonna need some help getting in there as well.</span><br />
+[10:42:36] <span style="color:#0080ff">CFL: My body will be seperated into individual atoms!</span><br />
+[10:42:40] <span style="color:#a80000">CFA: (\ No /)</span><br />
+[10:42:43] <span style="color:#a80000">CFA: (\ No yyou wont /)</span><br />
+[10:42:46] <span style="color:#0080ff">CFL: I will be spagetified.</span><br />
+[10:42:46] <span style="color:#a80000">CFA: (\ I wont allow it /)</span><br />
+[10:42:48] <span style="color:#0080ff">CFL: ...</span><br />
+[10:42:52] <span style="color:#a2a280">CFF: FS, Can you do the voidy thing on FL?</span><br />
+[10:42:53] <span style="color:#a80000">CFA: (\ I'll hold yyou together just /Go/ /)</span><br />
+[10:42:57] <span style="color:#0080ff">CFL: I'm sorry, Ash.</span><br />
+[10:43:03] <span style="color:#008282">CCA: ∞ ..... Σ</span><br />
+[10:43:06] <span style="color:#ceca54">CFS: I'm a<span style="color:#730e8f"> thief...</span></span><br />
+[10:43:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a bat, and swings it at ash. --</span><br />
+[10:43:12] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[10:43:16] <span style="color:#ceca54">CFS: I can't help oth<span style="color:#730e8f">ers with my void</span></span><br />
+[10:43:20] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  catchs the bat, GLARING at FL. --</span><br />
+[10:43:21] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  was in front of Ash and so take the hit? --</span><br />
+[10:43:22] <span style="color:#a2a280">CFF: ...</span><br />
+[10:43:27] <span style="color:#0080ff">CFL: ...</span><br />
+[10:43:30] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Takes it upside the head, and she's- DAmMIT CA --</span><br />
+[10:43:38] <span style="color:#00cece">CAC: FS</span><br />
+[10:43:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // FF caught it. --</span><br />
+[10:43:40] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  opens an eye to look at Seth, her yellow irises turning red. --</span><br />
+[10:43:40] <span style="color:#00cece">CAC: HELP YOURSELF</span><br />
+[10:43:43] <span style="color:#ffd607">CSF: Seth...?</span><br />
+[10:43:44] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  WAS in front of you silly --</span><br />
+[10:43:53] <span style="color:#a2a280">CFF: ...Fuck you.</span><br />
+[10:43:57] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  :P --</span><br />
+[10:43:59] <span style="color:#a2a280">CFF: FS! Carry me to the two!</span><br />
+[10:44:00] <span style="color:#000000">CFI: yy-y-yes?</span><br />
+[10:44:07] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  craddles his broken left arm. --</span><br />
+[10:44:09] <span style="color:#a80000">CFA: (\ Alex /)</span><br />
+[10:44:11] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  grits his teeth --</span><br />
+[10:44:13] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  luckboosting intensifies --</span><br />
+[10:44:19] <span style="color:#00cece">CAC: IF YOU CAN'T SAVE US SAVE YOURSELF IN A MANNER WHICH COULD SAVE US</span><br />
+[10:44:19] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  somehow missed that whooooops --</span><br />
+[10:44:20] <span style="color:#ffd607">CSF: ...woah.</span><br />
+[10:44:22] <span style="color:#a80000">CFA: (\ ...I got yyou guyys /)</span><br />
+[10:44:27] <span style="color:#ceca54">CFS: it's not just<span style="color:#730e8f"> my life to risk</span></span><br />
+[10:44:43] <span style="color:#a2a280">CFF: FA! TELEPORT ME TO FI AND SF RIGHT NOW!</span><br />
+[10:44:48] <span style="color:#a80000">CFA: (\ UH- /)</span><br />
+[10:44:54] <span style="color:#a80000">CFA: (\ If yyou're sure /)</span><br />
+[10:45:02] <span style="color:#a2a280">CFF: YES I'M SURE!</span><br />
+[10:45:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  shakes his head... --</span><br />
+[10:45:08] <span style="color:#0080ff">CFL: no...</span><br />
+[10:45:12] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  teleports Jovin out there with them, enough distance away that he wont get sucked in though --</span><br />
+[10:45:25] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  winces as her nose starts to bleed from exerting her space powers so heavily. --</span><br />
+[10:45:31] <span style="color:#ceca54">CFS: Ash wha<span style="color:#730e8f">t are you-!</span></span><br />
+[10:45:49] <span style="color:#a2a280">CFF: Yo, SF and FI! Need some help focing your powers and beating this thing?</span><br />
+[10:45:50] <span style="color:#ceca54">CFS: what if h<span style="color:#730e8f">e- grah!</span></span><br />
+[10:46:10] <span style="color:#a80000">CFA: (\ Heyy, This is his burden to bare /)</span><br />
+[10:46:34] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[10:46:34] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  ju5t...float5 next to 2J --</span><br />
+[10:46:34] <span style="color:#a80000">CFA: (\ I wanna save them more then anyything but I- Oh dammit!! /)</span><br />
+[10:46:37] <span style="color:#a80000">CFA: (\ JOVIN HURRYY UPI /)</span><br />
+[10:46:39] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  cling --</span><br />
+[10:46:47] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  is too focused on the Blue Hole to hear --</span><br />
+[10:47:07] <span style="color:#00cece">CAC: ...</span><br />
+[10:47:23] <span style="color:#000000">CFI: ...not... sure... how much longer...</span><br />
+[10:47:26] <span style="color:#6507ff">CTT: do τhey really have τo..</span><br />
+[10:47:31] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hands crackle with Rage power as he tries to empower them with rage, focusing their powers and making them stronger, trying to help. --</span><br />
+[10:47:44] <span style="color:#00cece">CAC: ...</span><br />
+[10:47:55] <span style="color:#a2a280">CFF: TT! THEY LOOK BAD! DID YA EVER PICK UP THE LIFEY THING!</span><br />
+[10:48:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  boots up his shades, and starts trying to do something... --</span><br />
+[10:48:24] <span style="color:#6507ff">CTT: I....I...I τhink I can τry...No, I have τo τry!</span><br />
+[10:48:37] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  floats next to Kat, looking distant --</span><br />
+[10:48:54] <span style="color:#a80000">CFA: (\ YYou gotta Tryy, kat, i know yyou can do this!! /)</span><br />
+[10:49:01] <span style="color:#a2a280">CFF: PRICE OF MIND, IF FL EVEN THINKS ABOUT ANTI MATTER, DESTROY THAT THOUGHT</span><br />
+[10:49:06] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  obtαins the strength to continue viα FF's rαge buff --</span><br />
+[10:49:16] <span style="color:#a80000">CFA: (\ Best job ever, john /)</span><br />
+[10:49:29] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  is a page of rage so should help a bit. --</span><br />
+[10:49:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  isn't thinking of antimatter, shockingly enough... --</span><br />
+[10:49:48] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  points his sword at FL's throat. "If you try anthing to hurt anyone here I will make you suffer a fate worse than death." --</span><br />
+[10:50:09] <span style="color:#a2a280">CFF: AC! What can you do!</span><br />
+[10:50:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  holds his hands to his head, some small sparks appearing. --</span><br />
+[10:50:10] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  breathe5 deeply, hold5 up her hand5 toward them a5 if 5he'5 reaching for them and focu5e5... --</span><br />
+[10:50:28] <span style="color:#00cece">CAC: ((I heard my name))</span><br />
+[10:50:30] <span style="color:#0080ff">CFL: Ow...</span><br />
+[10:50:37] <span style="color:#0080ff">CFL: gotta survive...</span><br />
+[10:50:38] <span style="color:#a2a280">CFF: FS! Can you Steal some of the emptyness of the black hole?</span><br />
+[10:50:40] <span style="color:#008282">CCA: ∞ What did you just do..... Σ</span><br />
+[10:51:00] <span style="color:#a2a280">CFF: SJ! Keep an Eye on fucked up timelines!</span><br />
+[10:51:06] <span style="color:#cb7de6">CSJ: gotcha! ➜</span><br />
+[10:51:08] <span style="color:#ceca54">CFS: ..<span style="color:#730e8f">..</span></span><br />
+[10:51:21] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  watching FL supiciously. --</span><br />
+[10:51:23] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A message pops up on the shades: Beginning file copy. --</span><br />
+[10:51:24] <span style="color:#ceca54">CFS: that I can... y<span style="color:#730e8f">eah... I'll try...</span></span><br />
+[10:51:43] <span style="color:#a2a280">CFF: And See if you can locate the time of which the blue hole is gone!</span><br />
+[10:51:44] <span style="color:#008282">CCA: ∞ ....You've got to be shitting me Σ</span><br />
+[10:51:50] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  is basically just watching in silence --</span><br />
+[10:51:53] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  attempts to medigun FI and SF, but he's too far away... so he just keeps doing the luckboosty thing --</span><br />
+[10:52:01] <span style="color:#a2a280">CFF: AC! Whats ya aspect thingy!</span><br />
+[10:52:08] <span style="color:#00cece">CAC: m?</span><br />
+[10:52:11] <span style="color:#00cece">CAC: Knight of Tim</span><br />
+[10:52:13] <span style="color:#d1cfcd"><span style="color:#0000aa">CURRENT Noodles [CNN]</span> RIGHT NOW responded to memo.</span><br />
+[10:52:13] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  is asleep floating though and bumps into MP --</span><br />
+[10:52:13] <span style="color:#00cece">CAC: *Time</span><br />
+[10:52:25] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  wakes up --</span><br />
+[10:52:32] <span style="color:#cb7de6">CSJ: hey there noodle! ➜</span><br />
+[10:52:36] <span style="color:#0000aa">Noodles: What the hell is happening?</span><br />
+[10:52:37] <span style="color:#0080ff">CFL: If we fail... we gotta have someone out there to keep going. To help what ever incarnation of us will eventually succeed.</span><br />
+[10:52:38] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  extends an arm blue hole-wards and begins drawing the void of the blue hole to his own body --</span><br />
+[10:52:49] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uncaptchas the white fruitcake slice and gives it to noodle --</span><br />
+[10:52:52] <span style="color:#a2a280">CFF: FL! FUCKING HELP US!</span><br />
+[10:52:55] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  leans on Seth, despite the rage boost this is seriously wearing on her --</span><br />
+[10:52:57] <span style="color:#00cece">CAC: FL</span><br />
+[10:52:58] <span style="color:#cb7de6">CSJ: forgot about this. ➜</span><br />
+[10:52:58] <span style="color:#008282">CCA: ∞ That isn't helping..... Σ</span><br />
+[10:53:22] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  points at the stuff happening at the blue hole over there --</span><br />
+[10:53:23] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  eats the fruitcake slice --</span><br />
+[10:53:35] <span style="color:#0080ff">CFL: It might not be a perfect copy... but it will be close enough to help.</span><br />
+[10:53:37] <span style="color:#0000aa">Noodles: oh that thing</span><br />
+[10:53:44] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  the blue hole is beginning to chαnge in shαpe αnd size in reαction to the blαck hole, but they αre seriously strαining from the pressure --</span><br />
+[10:53:49] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at FL like what --</span><br />
+[10:53:58] <span style="color:#a2a280">CFF: HOW YOU TWO HOLDING UP?</span><br />
+[10:54:05] <span style="color:#0000aa">Noodles: Any way I can help?</span><br />
+[10:54:09] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  facepalms. --</span><br />
+[10:54:15] <span style="color:#008282">CCA: ∞ You know what? I don't care. Σ</span><br />
+[10:54:20] <span style="color:#000000">CFI: she's...... not doing well.....</span><br />
+[10:54:20] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  bur5t5 into green...uh...notfire a5 5he u5e5 her own will to keep the two exi5ting --</span><br />
+[10:54:27] <span style="color:#008282">CCA: ∞ Just don't try and fuck with anyone here. Σ</span><br />
+[10:54:30] <span style="color:#0080ff">CFL: ...Right.</span><br />
+[10:54:36] <span style="color:#0080ff">CFL: I understand.</span><br />
+[10:55:01] <span style="color:#a2a280">CFF: TT! Focus a bit more on SF!</span><br />
+[10:55:21] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  nod5 --</span><br />
+[10:55:39] <span style="color:#a2a280">CFF: NOODLES WHAT CAN YOU DO?</span><br />
+[10:55:57] <span style="color:#cb7de6">CSJ: I think he's a blood player last time I checked? ➜</span><br />
+[10:56:06] <span style="color:#00cece">CAC: hm...</span><br />
+[10:56:08] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  concentrates more, body crackling with rage enrgy as he gives them more power. --</span><br />
+[10:56:18] <span style="color:#a2a280">CFF: a what of blood?</span><br />
+[10:56:20] <span style="color:#d1cfcd">-- CURRENT sourFruit's <span style="color:#ffd607">[CSF'S]</span>  hair is almost completely black, and starting to turn into a tar similar to that of Chronos' being, her irises are a dull reddish-brown. --</span><br />
+[10:56:33] <span style="color:#00cece">CAC: Would now be a good time to turn on the ADD?</span><br />
+[10:56:38] <span style="color:#cb7de6">CSJ: YES. ➜</span><br />
+[10:56:39] <span style="color:#0000aa">Noodles: Mage of Blood FF</span><br />
+[10:56:42] <span style="color:#ee1e00">CCP: yeah, probably!</span><br />
+[10:57:02] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  materializes a new and improved ADD --</span><br />
+[10:57:05] <span style="color:#00cece">CAC: 5</span><br />
+[10:57:06] <span style="color:#00cece">CAC: 4</span><br />
+[10:57:07] <span style="color:#00cece">CAC: 3</span><br />
+[10:57:09] <span style="color:#00cece">CAC: 2</span><br />
+[10:57:11] <span style="color:#00cece">CAC: 1</span><br />
+[10:57:12] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  realizes FF is in medigun range, and starts healing him to keep the Rage buff from failing --</span><br />
+[10:57:24] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  the ADD activates, aspect powers should amplify --</span><br />
+[10:58:17] <span style="color:#a2a280">CFF: Okay.... what can you do with blood aspect, Noodles?</span><br />
+[10:58:24] <span style="color:#00cece">CAC: Your aspects should be getting stronger any moment now!</span><br />
+[10:58:56] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  the flame5 waver5 5lightly, then inten5ify --</span><br />
+[10:59:50] <span style="color:#a2a280">CFF: CA! Keep track of everyones thoughts! Espically the main two!</span><br />
+[10:59:51] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  feels his Time powers αmplify, still strαining from the immense pressure αs they continue holding up the blαck hole --</span><br />
+[11:00:24] <span style="color:#a2a280">CFF: Well, Noodles!</span><br />
+[11:00:25] <span style="color:#00cece">CAC: Okay, with this new version, possessing two Cosmic Legos, i'm able to amplify specific elements</span><br />
+[11:00:29] <span style="color:#00cece">CAC: *aspects</span><br />
+[11:00:37] <span style="color:#0000aa">Noodles: FF, nothing that will really help our situation right now.</span><br />
+[11:00:51] <span style="color:#00cece">CAC: is there anyone who I should amplify in particular or just leave it on the spread effect</span><br />
+[11:01:26] <span style="color:#ee1e00">CCP: amplify FI and SF, obviously! they need all the help they can get!</span><br />
+[11:01:32] <span style="color:#a2a280">CFF: Seriously? You Can't like, link us together, and boosts our effects on each other?</span><br />
+[11:01:45] <span style="color:#00cece">CAC: Let me do a thing</span><br />
+[11:01:53] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  is suddenly gone and will be back in a few seconds --</span><br />
+[11:02:04] <span style="color:#000000">CFI: BRαE, I WαNT YOU TO LIVE.</span><br />
+[11:02:11] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  back to the future :P --</span><br />
+[11:02:21] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  tenses up as the black hole starts to get unstable, and looks at Seth, eyes wide. --</span><br />
+[11:02:23] <span style="color:#00cece">CAC: YOU'RE BOTH GOING TO LIVE</span><br />
+[11:02:44] <span style="color:#ffd607">CSF: But we have to do this together!</span><br />
+[11:02:55] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  presses colorful buttons and the thinf FF described happens --</span><br />
+[11:03:02] <span style="color:#a2a280">CFF: And Also, a Seer of blood could see what happened in another timeline, becuase of of bloodlines. what if you... access FI's Future power through his blood, and give him some of cronos power- they are the same person- the same BLOOD!</span><br />
+[11:03:35] <span style="color:#000000">CFI: I... I CαN HOLD THE REST OF THIS .....TOGETHER...</span><br />
+[11:03:53] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  narrows his eyes as the the pulling bluehole void increases in its intensity, his extended arm really beginning to tense up in the process --</span><br />
+[11:04:14] <span style="color:#a2a280">CFF: And FI! I know you like and maybe love the girl, but do you REALLY want to abbadon her alone in the new universe?</span><br />
+[11:04:16] <span style="color:#d1cfcd">-- CURRENT sourFruit's <span style="color:#ffd607">[CSF'S]</span>  space powers decide to break at that point, the black hole glitching for a moment --</span><br />
+[11:04:38] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  [LUCKBOOSTING INTENSIFIES] --</span><br />
+[11:04:39] <span style="color:#a2a280">CFF: If you become chronos you will be stuck in a stable time loop and OHGOD.</span><br />
+[11:04:39] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  links everyone together in an attempt to amplify everyone along with the ADD --</span><br />
+[11:04:57] <span style="color:#00cece">CAC: Let me do another thing...</span><br />
+[11:04:57] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[11:04:58] <span style="color:#000000">CFI: SHE HαS YOU αLL TO KEEP COMPαNY.....</span><br />
+[11:05:02] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks about helplessly --</span><br />
+[11:05:03] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  grind5 her teeth a5 the 5tart5 to u5e ALL HER WILLPOWER --</span><br />
+[11:05:04] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  flails --</span><br />
+[11:05:11] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  has nothing that helps! --</span><br />
+[11:05:12] <span style="color:#00cece">CAC: Something you'll all remember from back when I first joined the session</span><br />
+[11:05:16] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  disappears --</span><br />
+[11:05:30] <span style="color:#a80000">CFA: (\ Can i weaponize their black hole to Destroyy the blue hole or....? /)</span><br />
+[11:05:34] <span style="color:#a2a280">CFF: SO WHAT! IT's SHE LOVES/LIKES YOU MORE THEN SHE DOES US!</span><br />
+[11:05:44] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks about quickly, not sure what to do --</span><br />
+[11:06:03] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  not true, CA. Think about it for a moment. You are a prince of mind. --</span><br />
+[11:06:11] <span style="color:#a80000">CFA: (\ .... /)</span><br />
+[11:06:12] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  appears again --</span><br />
+[11:06:19] <span style="color:#ee1e00">CCP: Ash, you could try... but I think you'd need a Knight of Time to help with that, since black holes are both Space /and/ Time things</span><br />
+[11:06:22] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  is still trying her hardest to keep a grip on the black hole, but every few minutes it looks like it's glitching. --</span><br />
+[11:06:24] <span style="color:#a80000">CFA: (\ Would adding another black hole to the equation work? /)</span><br />
+[11:06:35] <span style="color:#000000">CFI: TαKE.... GOOD CαRE OF HER......</span><br />
+[11:06:38] <span style="color:#a80000">CFA: (\ Like combining the two? /)</span><br />
+[11:06:41] <span style="color:#a80000">CFA: (\ SETH NO /)</span><br />
+[11:06:41] <span style="color:#00cece">CAC: Okay, i'm going to try this again...</span><br />
+[11:06:47] <span style="color:#6507ff">CTT: DΘN'T!</span><br />
+[11:06:47] <span style="color:#a2a280">CFF: NO! YOU TAKE CARE OF HER!</span><br />
+[11:06:53] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  turns on the ADDv4 --</span><br />
+[11:06:59] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  blinks --</span><br />
+[11:07:10] <span style="color:#ceca54">CFS: it... are yo<span style="color:#730e8f">u thinking...</span></span><br />
+[11:07:16] <span style="color:#a80000">CFA: (\ GOD IM SO USELESS HERE I... /)</span><br />
+[11:07:17] <span style="color:#a2a280">CFF: FUCK IT! CA! DON'T LET HIM SACERFICE HIMSELF LIKE THIS!</span><br />
+[11:07:17] <span style="color:#ffd607">CSF: Seth, no!</span><br />
+[11:07:32] <span style="color:#000000">CFI: SHE WILL DIE IF SHE PUSHES HERSELF FURTHER</span><br />
+[11:07:41] <span style="color:#a2a280">CFF: SO WILL YOU!</span><br />
+[11:07:44] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  tries to touch FI's mind with his own --</span><br />
+[11:07:44] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  powers should amplify immensly more than they had previously --</span><br />
+[11:07:44] <span style="color:#ceca54">CFS: What if we c<span style="color:#730e8f">an't maintain it?</span></span><br />
+[11:07:45] <span style="color:#a80000">CFA: (\ Ahhhh--!!! /)</span><br />
+[11:07:55] <span style="color:#00cece">CAC: I CAN FOCUS IT ON SF</span><br />
+[11:07:55] <span style="color:#a2a280">CFF: ONLY YOU TOO BUGGERS CAN SAVE US!</span><br />
+[11:08:13] <span style="color:#00cece">CAC: Please don't do something so rash...</span><br />
+[11:08:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  at this point, FI and SF probably have /all/ the luck in a half-kilometer radius --</span><br />
+[11:08:27] <span style="color:#ceca54">CFS: We haven't held something that <span style="color:#730e8f">would be no doubt so... large before!</span></span><br />
+[11:08:30] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  tries to use Baroque Bandeau to force FI not to overwork himself and sacrifice himself --</span><br />
+[11:08:30] <span style="color:#0080ff">CFL: ...splinter.</span><br />
+[11:08:35] <span style="color:#a2a280">CFF: SJ! TRY AND FOCUS ON THE MOMENT OF DISTRUCTION OF THE BLUE HOLE! AND BRING IT TO THE NOW!</span><br />
+[11:08:35] <span style="color:#0080ff">CFL: I have a plan.</span><br />
+[11:08:38] <span style="color:#6507ff">CTT: IF I...IF I Shifτ...moSτ of my power τo her...maybe...M...maybe...</span><br />
+[11:08:44] <span style="color:#cb7de6">CSJ: huhwhat? ➜</span><br />
+[11:08:44] <span style="color:#ee1e00">CCP: ...FL what?</span><br />
+[11:08:47] <span style="color:#a2a280">CFF: TT, YOU OKAY.</span><br />
+[11:08:54] <span style="color:#cb7de6">CSJ: do you think, I could do that? ➜</span><br />
+[11:09:11] <span style="color:#00cece">CAC: SJ, i'll help you</span><br />
+[11:09:11] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  CAN'T TALK AND DO INTEN2E LIFING AT THE 2AME TIME --</span><br />
+[11:09:14] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  holds up the ADD --</span><br />
+[11:09:21] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  is sweating hard, looking a bit unsteady, breating hard. --</span><br />
+[11:09:26] <span style="color:#a2a280">CFF: I DUNNO! TRY!</span><br />
+[11:09:33] <span style="color:#cb7de6">CSJ: okay, Time players, let's do this thing! ➜</span><br />
+[11:09:37] <span style="color:#ee1e00">CCP: yeah SJ, like what you did with Shon's land to help revive it!</span><br />
+[11:09:39] <span style="color:#ceca54">CFS: ..<span style="color:#730e8f">..</span></span><br />
+[11:09:41] <span style="color:#00cece">CAC: FOCUSING ADD ON SJ AND ALL TIME PLAYERS</span><br />
+[11:09:46] <span style="color:#a2a280">CFF: FL! HELP US OR I'M THROWING YOU INTO THE SPIDER DIMENSION!</span><br />
+[11:09:52] <span style="color:#00cece">CAC: TIME POWERS SHOULD BE ENHANCED TO A GREAT EXTENT</span><br />
+[11:10:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a sword... with a large crack in it. --</span><br />
+[11:10:05] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  holds out the ribbon of the blue hole's timeline --</span><br />
+[11:10:05] <span style="color:#0080ff">CFL: ...I hope this works.</span><br />
+[11:10:13] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  goes with the other time players --</span><br />
+[11:10:20] <span style="color:#cb7de6">CSJ: this is gonna be a tough one.... ➜</span><br />
+[11:10:29] <span style="color:#ceca54">CFS: Everybody's... we ha<span style="color:#730e8f">ve to try though...</span></span><br />
+[11:10:49] <span style="color:#ceca54">CFS: you up f<span style="color:#730e8f">or it, Ash?</span></span><br />
+[11:10:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins pulling on the middle of the ribbon, it seems to be very stiff --</span><br />
+[11:10:53] <span style="color:#a80000">CFA: (\ I dont wanna make shit worse... ahhh /)</span><br />
+[11:11:14] <span style="color:#cb7de6">CSJ: help me pull this ribbon! ➜</span><br />
+[11:11:17] <span style="color:#00cece">CAC: ADD OUTPUT AT MAX</span><br />
+[11:11:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  launches torwards a meteor, driving the sword in... attempting to... break it. --</span><br />
+[11:11:39] <span style="color:#0080ff">CFL: augh...</span><br />
+[11:12:00] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  holds on as well, looking at Niki once before nodding --</span><br />
+[11:12:31] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the ribbon is beginning to loosen up --</span><br />
+[11:13:39] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  holds on because time --</span><br />
+[11:13:59] <span style="color:#00cece">CAC: ((i'm playing like the best chiptune song for this))</span><br />
+[11:14:02] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  links himself to the time players to boost them --</span><br />
+[11:14:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transfers some of his own luck to the Time players --</span><br />
+[11:14:46] <span style="color:#00cece">CAC: what's this?</span><br />
+[11:14:49] <span style="color:#6507ff">CTT: ((I'm li5tening to 5omething but it'5 kind of 5poiler5 for the 3rd madoka movie 5ince it play5 at a key part near the end))</span><br />
+[11:15:19] <span style="color:#00cece">CAC: The ADD is putting out more than expectation</span><br />
+[11:16:01] <span style="color:#ee1e00">CCP: ((I was considering listening to "Eternity Served Cold", but it's kinda the /wrong/ mood for this))</span><br />
+[11:16:27] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  lets wait for FI and SF to respond, okay? --</span><br />
+[11:16:29] <span style="color:#00cece">CAC: ((I'm listening to the final boss theme of Cave Story as well as Running Hell also from Cave Story))</span><br />
+[11:16:50] <span style="color:#ceca54">CFS: ((Savior of the Dreaming Dead maybe?))</span><br />
+[11:17:20] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  fights Cα's block αnd pushes brαe out of hαrm's wαy! --</span><br />
+[11:17:26] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  meαnwhile, the ribbon of the blue hole's timeline is broken, αnd with everyone's combined efforts, the blue hole is seαled! --</span><br />
+[11:17:49] <span style="color:#00cece">CAC: ((so is that it))</span><br />
+[11:17:49] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  αttempts to dispel the blαck hole --</span><br />
+[11:17:50] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  her face lights up and she immediately flies out to check on seth --</span><br />
+[11:18:01] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  stops --</span><br />
+[11:18:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is flung backwards from the ribbon snapping --</span><br />
+[11:18:16] <span style="color:#cb7de6">CSJ: whoaaaaa ➜</span><br />
+[11:18:19] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  KEEPS HOLDING ON CUZ NO YOU AINT FLYING INTO A BLACK HOLE NUH UH --</span><br />
+[11:18:27] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  holds out her hand, hoping her control on space will help to close it as she starts trying to force it closed --</span><br />
+[11:18:38] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  flies over to catch SJ --</span><br />
+[11:18:48] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  is thrown backwards from the two, flying towards the others, unable to control his path. --</span><br />
+[11:18:53] <span style="color:#00cece">CAC: ...</span><br />
+[11:18:54] <span style="color:#a2a280">CFF: H-Help!</span><br />
+[11:18:55] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  focuses his voidstealing efforts on taking the void out of the black hole next --</span><br />
+[11:19:02] <span style="color:#ee1e00">CCP: ((and yes FS, that was the right bgm choice, wish I had asked earlier :P))</span><br />
+[11:19:07] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  extends another hand to Slow Jovin down --</span><br />
+[11:19:24] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  the blαck hole fizzles out, reveαling α severely dαmαged αnd very chronos-like seth, exαusted beyond reαson --</span><br />
+[11:19:28] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  links everyone to FI --</span><br />
+[11:19:29] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  is now splitting her power both ways and it HURTS,Evident on her face --</span><br />
+[11:19:40] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  is shaking as she's pushed out of the way, eyes on Seth --</span><br />
+[11:19:50] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sighs in relief as she releases it, flying out to get Seth --</span><br />
+[11:19:58] <span style="color:#d1cfcd">-- CURRENT Noodles <span style="color:#0000aa">[CNN]</span>  ((disregard that last one)) --</span><br />
+[11:19:59] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  is slowed down, and he tries to "swim" through space, looking tired as hell, and his nose is bleeding as well. --</span><br />
+[11:20:05] <span style="color:#d1cfcd">-- CURRENT avidCurator <span style="color:#00cece">[CAC]</span>  follows the others --</span><br />
+[11:20:11] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  flies Seth-ward, medigun already primed --</span><br />
+[11:20:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks up. --</span><br />
+[11:20:14] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  i5 5till doing the inten5e lifey thing albeit a little le55 inten5e --</span><br />
+[11:20:16] <span style="color:#0080ff">CFL: ...Well.</span><br />
+[11:20:17] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  stops along side him, grabbing his arm and draping it over her shoulder --</span><br />
+[11:20:20] <span style="color:#a80000">CFA: (\ Talk to me Seth /)</span><br />
+[11:20:29] <span style="color:#6507ff">CTT: ▲ah,,</span><br />
+[11:20:32] <span style="color:#000000">CFI: ..........</span><br />
+[11:20:33] <span style="color:#00cece">CAC: I'm switching the ADD to TT</span><br />
+[11:20:34] <span style="color:#008282">CCA: ∞ No.... Σ</span><br />
+[11:20:38] <span style="color:#a80000">CFA: (\ Sayy something... /)</span><br />
+[11:20:38] <span style="color:#00cece">CAC: TT, you might feel a little jolt</span><br />
+[11:20:39] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  also flies out towards Seth, releasing his grip on the void --</span><br />
+[11:20:41] <span style="color:#00cece">CAC: 5</span><br />
+[11:20:42] <span style="color:#00cece">CAC: 4</span><br />
+[11:20:42] <span style="color:#00cece">CAC: 3</span><br />
+[11:20:50] <span style="color:#00cece">CAC: 2</span><br />
+[11:20:51] <span style="color:#00cece">CAC: 1</span><br />
+[11:21:01] <span style="color:#ee1e00">CCP: ........</span><br />
+[11:21:28] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  the flame5 inten5ify again but 5he 5eem5 to be exerting a little le55 effort --</span><br />
+[11:21:31] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  turns, Extending her other hand to Brae --</span><br />
+[11:21:38] <span style="color:#6507ff">CTT: ▲re τhey...</span><br />
+[11:21:40] <span style="color:#a80000">CFA: (\ Grab myy hand, lets go home... /)</span><br />
+[11:21:43] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  swims towards TT. --</span><br />
+[11:21:59] <span style="color:#a2a280">CFF: Hey... Kat. Good Job. You Helped us out alot.</span><br />
+[11:22:01] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  is holding her hands to her chest, shaking horribly --</span><br />
+[11:22:18] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  beckons her with her fingers, looking extremely worried as well --</span><br />
+[11:22:22] <span style="color:#ffd607">CSF: (( <a href='http://www.youtube.com/watch?v=yeSnHu-NWcs'>http://www.youtube.com/watch?v=yeSnHu-NWcs</a> ))</span><br />
+[11:22:26] <span style="color:#00cece">CAC: Please be enough...</span><br />
+[11:22:28] <span style="color:#a80000">CFA: (\ Brae, c'mon, its okayy now... /)</span><br />
+[11:23:11] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  hugs Brae --</span><br />
+[11:23:20] <span style="color:#a80000">CFA: (\ ....heh... /)</span><br />
+[11:23:20] <span style="color:#ffd607">CSF: M-My powers t-tho-</span><br />
+[11:23:37] <span style="color:#a80000">CFA: (\ YYou wielded them wonderfullyy, Brae, and we're all veryy proud of yyou /)</span><br />
+[11:23:40] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  is floαting in plαce, but somehow still breαthing --</span><br />
+[11:23:43] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  hugs TT when he gets close enough. --</span><br />
+[11:23:49] <span style="color:#ceca54">CFS: Aye<span style="color:#730e8f">...</span></span><br />
+[11:23:51] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  checks Seth over again --</span><br />
+[11:23:56] <span style="color:#cb7de6">CSJ: I... can't believe it... ➜</span><br />
+[11:23:56] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  good thing the flame5 aren't real flame5 --</span><br />
+[11:23:59] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  jolts as she's hugged, her tar hair sticking to CA --</span><br />
+[11:24:04] <span style="color:#ceca54">CFS: you... both d<span style="color:#730e8f">id wonderfully</span></span><br />
+[11:24:05] <span style="color:#a80000">CFA: (\ Heyy, Kat /)</span><br />
+[11:24:06] <span style="color:#cb7de6">CSJ: ....we did it. ➜</span><br />
+[11:24:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  blinks, and FLIES AWAY RUN AWAY --</span><br />
+[11:24:15] <span style="color:#cb7de6">CSJ: I actually was useful for once! ➜</span><br />
+[11:24:21] <span style="color:#6507ff">CTT: Yes...?</span><br />
+[11:24:23] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  turns to FA --</span><br />
+[11:24:33] <span style="color:#a80000">CFA: (\ Think yyou can muster up enough Energyy to Life Seth? /)</span><br />
+[11:24:38] <span style="color:#cb7de6">CSJ: we all did it! ➜</span><br />
+[11:24:39] <span style="color:#ceca54">CFS: is he <span style="color:#730e8f">alive?</span></span><br />
+[11:24:40] <span style="color:#00cece">CAC: And my inventions actually did something that mattered!</span><br />
+[11:24:41] <span style="color:#a80000">CFA: (\ If not, dont push yyourself /)</span><br />
+[11:24:44] <span style="color:#ee1e00">CCP: Niki, you've always been useful... everyone's always been useful.</span><br />
+[11:24:48] <span style="color:#6507ff">CTT: I can...</span><br />
+[11:24:55] <span style="color:#00cece">CAC: this is great!</span><br />
+[11:25:08] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes seth and flies over to Kat, still supporting him on her shoulder --</span><br />
+[11:25:12] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  lets go of TT, just... laying in the middle of space. --</span><br />
+[11:25:33] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  extend5 a hand, almo5t touching. --</span><br />
+[11:25:38] <span style="color:#a2a280">CFF: ...Ash... Be careful.</span><br />
+[11:25:57] <span style="color:#a80000">CFA: (\ Im fine, FF... /)</span><br />
+[11:26:11] <span style="color:#00cece">CAC: Do you think this is the last time we'll need the ADD?</span><br />
+[11:26:13] <span style="color:#a2a280">CFF: ...Just Be careful...</span><br />
+[11:26:15] <span style="color:#00cece">CAC: Because if so...</span><br />
+[11:26:29] <span style="color:#ee1e00">CCP: no, hold onto it...</span><br />
+[11:26:31] <span style="color:#00cece">CAC: the thing can do a pretty big go and then retire itself...</span><br />
+[11:26:59] <span style="color:#a2a280">CFF: How you doing SF and FI?</span><br />
+[11:27:05] <span style="color:#ceca54">CFS: ..<span style="color:#730e8f">..</span></span><br />
+[11:27:07] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  sighs and slowly stops shaking --</span><br />
+[11:27:24] <span style="color:#6507ff">CTT: Iτ'll be alrighτ..</span><br />
+[11:27:28] <span style="color:#ffd607">CSF: I-I don't know.</span><br />
+[11:27:43] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  reaches up to touch her not-quite-hair-anymore. --</span><br />
+[11:27:50] <span style="color:#a2a280">CFF: Well... you did just stop blue hole.</span><br />
+[11:28:05] <span style="color:#a2a280">CFF: ...And you look odd with that hair.</span><br />
+[11:28:16] <span style="color:#00cece">CAC: Heh...</span><br />
+[11:28:21] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  opens his eyes slowly, coughing --</span><br />
+[11:28:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finally begins medigunning everyone in range, including and especially FI and SF --</span><br />
+[11:28:34] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  looks at Seth, worried. --</span><br />
+[11:28:47] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  points at the horns --</span><br />
+[11:29:03] <span style="color:#ffd607">CSF: Those are new.</span><br />
+[11:29:04] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  pats his back --</span><br />
+[11:29:06] <span style="color:#a2a280">CFF: ...a Bit exotic. and the horns look alright on you. But anyones. You okay? Powers not gone, or anything?</span><br />
+[11:29:07] <span style="color:#000000">CFI: ...i'm... αlive?</span><br />
+[11:29:11] <span style="color:#a80000">CFA: (\ Ayye... /)</span><br />
+[11:29:15] <span style="color:#6507ff">CTT: Mm..mmhm..</span><br />
+[11:29:20] <span style="color:#a2a280">CFF: And yeah, ya are.</span><br />
+[11:29:21] <span style="color:#ee1e00">CCP: yup.</span><br />
+[11:29:34] <span style="color:#00cece">CAC: Thankfully</span><br />
+[11:29:44] <span style="color:#ffd607">CSF: (( <a href='http://www.youtube.com/watch?v=8tEEVG8bb0A'>http://www.youtube.com/watch?v=8tEEVG8bb0A</a> ))</span><br />
+[11:29:48] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is at the other end of the session. --</span><br />
+[11:29:54] <span style="color:#ceca54">CFS: ...ye<span style="color:#730e8f">ah...</span></span><br />
+[11:30:04] <span style="color:#00cece">CAC: Like I said on the memo...</span><br />
+[11:30:11] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  purses her lips --</span><br />
+[11:30:13] <span style="color:#ceca54">CFS: he<span style="color:#730e8f">h...</span></span><br />
+[11:30:19] <span style="color:#ffd607">CSF: Does anyone have a knife? Or a sword?</span><br />
+[11:30:27] <span style="color:#a2a280">CFF: ...Why?</span><br />
+[11:30:28] <span style="color:#d1cfcd">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  puts his hαnds on his heαd, feeling the horns --</span><br />
+[11:30:36] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  hands her a knife --</span><br />
+[11:30:39] <span style="color:#00cece">CAC: It's cliche but nice, isn't it?</span><br />
+[11:30:41] <span style="color:#ee1e00">CCP: hm?</span><br />
+[11:30:46] <span style="color:#a80000">CFA: (\ Heh... /)</span><br />
+[11:30:57] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  nods and grabs her hair, cutting it off where black and blonde meet --</span><br />
+[11:31:03] <span style="color:#a80000">CFA: (\ The horns are new but... Eh... iunno, I think theyy look cool on yyou /)</span><br />
+[11:31:08] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  i5 5till kind of doing the lifey thing --</span><br />
+[11:31:23] <span style="color:#a2a280">CFF: TT... I think you can stop now.</span><br />
+[11:31:36] <span style="color:#a80000">CFA: (\ YYeah, Dont push yyourself farther, Kat, yyou did a wonderful job /)</span><br />
+[11:31:41] <span style="color:#6507ff">CTT: I'm...so glad...</span><br />
+[11:31:48] <span style="color:#00cece">CAC: YOU ALL DID A WONDERFUL JOB!</span><br />
+[11:31:49] <span style="color:#ceca54">CFS: aye... it's... a mark of th<span style="color:#730e8f">is great thing you've done</span></span><br />
+[11:31:51] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  the flame5 5lowly di5per5e --</span><br />
+[11:32:00] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  puts an arm around Kat to support her --</span><br />
+[11:32:40] <span style="color:#008282">CCA: ∞ You all did well. Σ</span><br />
+[11:32:45] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  with the short hair and reddish eyes and her default prince of space outfit, she kind of looks like a he. --</span><br />
+[11:33:06] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks over At Brae, eyes widening a bit --</span><br />
+[11:33:25] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  clo5e5 her eye5 --</span><br />
+[11:33:35] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  also glances at SF, confused --</span><br />
+[11:33:55] <span style="color:#ffd607">CSF: ...What?</span><br />
+[11:34:08] <span style="color:#cb7de6">CSJ: okay, I'm not sure about you guys, and I never thought I'd say this, but I think we all need a drink. ➜</span><br />
+[11:34:09] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  blinks over at SF --</span><br />
+[11:34:11] <span style="color:#5c315c">CMP: You did amazing, KitKat.</span><br />
+[11:34:21] <span style="color:#ee1e00">CCP: yeah...</span><br />
+[11:34:35] <span style="color:#a2a280">CFF: I need to sleep.</span><br />
+[11:34:59] <span style="color:#00cece">CAC: I think we should get started on opening this gate...</span><br />
+[11:35:12] <span style="color:#a2a280">CFF: And Yeah... All you Buggers... Did VERY WELL. Expect for FL. Because he's dumb....</span><br />
+[11:35:15] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  crosses her arms over her chest... which is actually pretty flat if anyone is paying much attention. --</span><br />
+[11:35:39] <span style="color:#6507ff">CTT: mmmhm....τhan..ks..</span><br />
+[11:35:40] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  headtilts. --</span><br />
+[11:36:17] <span style="color:#5c315c">CMP: Niki you did absolutely wonderful too</span><br />
+[11:36:56] <span style="color:#a2a280">CFF: ...You Look like a dude, SF.</span><br />
+[11:37:04] <span style="color:#008282">CCA: ∞  /me pats Brae's head and chuckles Σ</span><br />
+[11:37:04] <span style="color:#00cece">CAC: Seriously though, when are we opening the gate?</span><br />
+[11:37:09] <span style="color:#a2a280">CFF: Should have kept the hair. made you more exotic looking.</span><br />
+[11:37:10] <span style="color:#ee1e00">CCP: ........</span><br />
+[11:37:16] <span style="color:#d1cfcd">-- CURRENT circuitousAntipathy <span style="color:#008282">[CCA]</span>  pats Brae's head and chuckles* --</span><br />
+[11:37:20] <span style="color:#00cece">CAC: I feel like sooner is better than later...</span><br />
+[11:37:36] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  open5 her eye5 halfway-i5h? --</span><br />
+[11:37:43] <span style="color:#6507ff">CTT: hu..huh...</span><br />
+[11:37:54] <span style="color:#ffd607">CSF: If you want the hair, it's all yours dude.</span><br />
+[11:38:00] <span style="color:#5c315c">CMP: Hah!</span><br />
+[11:38:05] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  chucks the wad of tar at FF --</span><br />
+[11:38:05] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  snickers --</span><br />
+[11:38:08] <span style="color:#a2a280">CFF: Nah. Not my thing.</span><br />
+[11:38:15] <span style="color:#ee1e00">CCP: pfft.</span><br />
+[11:38:17] <span style="color:#6507ff">CTT: ..h...heheh..</span><br />
+[11:38:20] <span style="color:#cb7de6">CSJ: ...thanks. I really have to thank Shon for inspiring me to figure out how to use my powers that way. ➜</span><br />
+[11:38:27] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  it hits his face, too tired to move. --</span><br />
+[11:38:28] <span style="color:#d1cfcd">-- CURRENT fortuitousSleuth <span style="color:#ceca54">[CFS]</span>  chuckles --</span><br />
+[11:38:53] <span style="color:#d1cfcd">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  twitches. --</span><br />
+[11:38:54] <span style="color:#00cece">CAC: So are we going to super-size this frog or wait? ;)</span><br />
+[11:38:56] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  releases seth a moment, letting him float on his own --</span><br />
+[11:39:00] <span style="color:#a80000">CFA: (\ YYOu gonna be okayy, dude? /)</span><br />
+[11:39:04] <span style="color:#00cece">CAC: *fuck wrong copy thing</span><br />
+[11:39:06] <span style="color:#6507ff">CTT: I...I missed τhe parτy...b...buτ...I'm glad....I....*yawn*</span><br />
+[11:39:12] <span style="color:#00cece">CAC: *(())</span><br />
+[11:39:50] <span style="color:#a80000">CFA: (\ ...YYeah yyou'll be fine /)</span><br />
+[11:39:55] <span style="color:#d1cfcd">-- CURRENT melodiousPsyche <span style="color:#5c315c">[CMP]</span>  rubs Kat's back gently, hugging her from the side. --</span><br />
+[11:40:07] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Immediately flies over to hug Brae, throwing her arms around her --</span><br />
+[11:40:15] <span style="color:#5c315c">CMP: Wish I didn't miss the Prospit Ball on Wednesday, but so exhausted and distracted... Well, heh.</span><br />
+[11:40:16] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Shaking a bit as well --</span><br />
+[11:40:21] <span style="color:#a2a280">CFF: ...</span><br />
+[11:40:38] <span style="color:#d1cfcd">-- CURRENT sourFruit <span style="color:#ffd607">[CSF]</span>  stiffens and hugs Ash back awkwardly. --</span><br />

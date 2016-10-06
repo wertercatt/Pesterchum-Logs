@@ -1,0 +1,115 @@
+[07:54:47] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 QUINNPRIME.</span><br />
+[07:54:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  warps up from the hangar onto the ship. --</span><br />
+[07:55:16] <span style="color:#d1cfcd"><span style="color:#5c6f61">CURRENT artfulDeviant [CAD]</span> RIGHT NOW responded to memo.</span><br />
+[07:55:16] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  is idly hanging around the ship --</span><br />
+[08:02:46] <span style="color:#d1cfcd"><span style="color:#000000">CAS</span> ceased responding to memo.</span><br />
+[08:05:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks around the cargo bay. --</span><br />
+[08:05:42] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  glances at FL. --</span><br />
+[08:06:38] <span style="color:#0080ff">CFL: ...wanna take this ship for a spin around the suns?</span><br />
+[08:06:56] <span style="color:#5c6f61">CAD: ...</span><br />
+[08:07:03] <span style="color:#5c6f61">CAD: Not really...</span><br />
+[08:07:34] <span style="color:#0080ff">CFL: Might be a good test for the FTL drive at least.</span><br />
+[08:07:57] <span style="color:#5c6f61">CAD: I just don't want to crash.</span><br />
+[08:08:24] <span style="color:#0080ff">CFL: ...</span><br />
+[08:08:32] <span style="color:#5c6f61">CAD: ...</span><br />
+[08:08:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  bangs his head against a support beam. --</span><br />
+[08:08:43] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  cringes --</span><br />
+[08:08:44] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[08:08:44] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  transportalizes aboard --</span><br />
+[08:09:02] <span style="color:#0080ff">CFL: the ship didn't even have actual /landing gear/.</span><br />
+[08:09:03] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  heals FL --</span><br />
+[08:09:12] <span style="color:#ee1e00">CCP: ...FL, not this again. stop trying to shatter your skull beyond GT-regen.</span><br />
+[08:09:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is still banging his head against the wall --</span><br />
+[08:09:25] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  still healing. --</span><br />
+[08:11:43] <span style="color:#0080ff">CFL: Its not like I crash everything I touch!</span><br />
+[08:12:06] <span style="color:#0080ff">CFL: It landed /exactly as it was designed to/.</span><br />
+[08:12:42] <span style="color:#5c6f61">CAD: Sorry...</span><br />
+[08:13:05] <span style="color:#0080ff">CFL: Infact, the one time anyone died on my ship was the ship that /didn't/ crash!</span><br />
+[08:16:11] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  backs away. --</span><br />
+[08:16:37] <span style="color:#ee1e00">CCP: ........</span><br />
+[08:16:52] <span style="color:#5c6f61">CAD: Not really brimming with confidence here...</span><br />
+[08:18:10] <span style="color:#0080ff">CFL: And it had nothing to do with my skills of piloting the ship.</span><br />
+[08:30:20] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  holds her hands behind her back and timidly stands out of the way. --</span><br />
+[08:31:41] <span style="color:#0080ff">CFL: ...maybe I should just get off the ship.</span><br />
+[08:32:00] <span style="color:#0080ff">CFL: Actually... Kimura, do you know how my luck is doing today?</span><br />
+[08:32:10] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  suddenly guilt stricken. --</span><br />
+[08:32:18] <span style="color:#5c6f61">CAD: You don't have to...</span><br />
+[08:32:25] <span style="color:#ee1e00">CCP: ...uh... you okay over there?</span><br />
+[08:32:30] <span style="color:#ee1e00">CCP: also, lemme check...</span><br />
+[08:32:45] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  does a Lighty Thing to sense FL's luck, what's the result? --</span><br />
+[08:32:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // HOW CAN ANYONE IN PARADOX SPACE CARRY THAT MUCH BAD LUCK --</span><br />
+[08:33:07] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  // its over 9000 --</span><br />
+[08:33:43] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  slowly backs away from FL, internally whimpering but externally just O_O face --</span><br />
+[08:34:12] <span style="color:#0080ff">CFL: ...Kimura?</span><br />
+[08:34:44] <span style="color:#d1cfcd"><span style="color:#070707">CURRENT somethingAwful [CSA]</span> RIGHT NOW responded to memo.</span><br />
+[08:34:44] <span style="color:#d1cfcd">-- CURRENT somethingAwful <span style="color:#070707">[CSA]</span>  exits his room and looks down at FL. --</span><br />
+[08:34:51] <span style="color:#070707">CSA: ...</span><br />
+[08:35:07] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  looks at SA and back to FL. "...oh sh!t..." --</span><br />
+[08:35:28] <span style="color:#ee1e00">CCP: ...I think once we fix Kat, you need to have her grow an /acre/ of four-leaf clovers for you...</span><br />
+[08:35:54] <span style="color:#d1cfcd">-- CURRENT somethingAwful <span style="color:#070707">[CSA]</span>  has dawned LORD OF DOOM outfit... and then a cairocoat that matches his colors. --</span><br />
+[08:36:01] <span style="color:#d1cfcd">-- CURRENT somethingAwful <span style="color:#070707">[CSA]</span>  makes his way down to FL --</span><br />
+[08:36:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at SA like wat --</span><br />
+[08:36:06] <span style="color:#0080ff">CFL: why not five leaf clovers</span><br />
+[08:37:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The ship shakes slightly, and a box of kitchen knives that was on an upper platform tips. --</span><br />
+[08:37:17] <span style="color:#ee1e00">CCP: look out!</span><br />
+[08:37:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // SHUNK --</span><br />
+[08:37:29] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  freezes. --</span><br />
+[08:37:40] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  body falls over. --</span><br />
+[08:37:40] <span style="color:#070707">CSA: ...Fate does not smile upon him...</span><br />
+[08:37:59] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  instant healing activates. --</span><br />
+[08:38:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is too dead to be healed. --</span><br />
+[08:38:28] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  healing regardless --</span><br />
+[08:38:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // might be the five knives in his brain. --</span><br />
+[08:38:40] <span style="color:#d1cfcd">-- CURRENT somethingAwful <span style="color:#070707">[CSA]</span>  // would Lord have control over the fate of others --</span><br />
+[08:39:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shifts form, runs over, and yanks those knives out... probably only causing further trauma --</span><br />
+[08:39:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is leaking. --</span><br />
+[08:39:16] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  so much healing. --</span><br />
+[08:39:27] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  wounds close up, and FL is glowing. --</span><br />
+[08:39:54] <span style="color:#070707">CSA: ...</span><br />
+[08:40:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is godtier revived. --</span><br />
+[08:40:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // for the 50th time this week. --</span><br />
+[08:43:02] <span style="color:#d1cfcd">-- CURRENT somethingAwful <span style="color:#070707">[CSA]</span>  turns around and leaves. --</span><br />
+[08:43:07] <span style="color:#5c6f61">CAD: ...</span><br />
+[08:44:40] <span style="color:#0080ff">CFL: ...ow.</span><br />
+[08:44:47] <span style="color:#0080ff">CFL: That had to have hurt.</span><br />
+[08:47:34] <span style="color:#ee1e00">CCP: uh, yeah. steak knifes in the thinkpan tend to.</span><br />
+[08:48:29] <span style="color:#0080ff">CFL: ...so, how was my luck?</span><br />
+[08:49:47] <span style="color:#ee1e00">CCP: ...as negative as a 64-bit signed integer can go.</span><br />
+[08:50:07] <span style="color:#0080ff">CFL: ...that /can't/ be right...</span><br />
+[08:50:57] <span style="color:#ee1e00">CCP: eh, I dunno for sure. Lighty Thing's not an exact science.</span><br />
+[08:51:51] <span style="color:#ee1e00">CCP: ...but whatever it actually is, considering those knives it's gotta be worse than "fall on your face every step in animal crossing", if not Super High-School Level Unlucky.</span><br />
+[08:52:34] <span style="color:#5c6f61">CAD: ..</span><br />
+[09:21:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking where he is stepping. --</span><br />
+[09:22:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Maybe you should look again at his luck stat? --</span><br />
+[09:22:48] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  uses Detect Luck again --</span><br />
+[09:23:27] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // ...and now its high- no, low. no, h- HOW CAN A LUCK STAT HAVE POTATOES AS A VALUE --</span><br />
+[09:24:37] <span style="color:#ee1e00">CCP: ........</span><br />
+[09:25:08] <span style="color:#d1cfcd">-- CURRENT creeperPuncher's <span style="color:#ee1e00">[CCP'S]</span>  face right now is basically Terezi's glasses-pull when she got the 413 boonbonds... minus the glasses, obviously --</span><br />
+[09:25:28] <span style="color:#ee1e00">CCP: FL, your luck stat is /broken/.</span><br />
+[09:25:41] <span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
+[09:25:45] <span style="color:#0080ff">CFL: ...oh.</span><br />
+[09:25:50] <span style="color:#ee1e00">CCP: like, "how did the door even let you through" broken.</span><br />
+[09:26:12] <span style="color:#ee1e00">CCP: (the answer probably being that Luck is only a minor stat)</span><br />
+[09:26:37] <span style="color:#0080ff">CFL: Or that it wasn't broken until we left or something.</span><br />
+[09:26:53] <span style="color:#ee1e00">CCP: or that, I guess.</span><br />
+[09:27:16] <span style="color:#ee1e00">CCP: still, that is /freaky/.</span><br />
+[09:30:38] <span style="color:#0080ff">CFL: ...could be the void player write over maybe</span><br />
+[09:30:48] <span style="color:#0080ff">CFL: but that would have been in the session...</span><br />
+[09:30:51] <span style="color:#ee1e00">CCP: the wh-- /oh/.</span><br />
+[09:30:58] <span style="color:#ee1e00">CCP: and yeah, it would be.</span><br />
+[09:32:13] <span style="color:#0080ff">CFL: welp, time to consult the glitch faq.</span><br />
+[09:49:30] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  escaped to her room a bit ago. --</span><br />
+[09:49:40] <span style="color:#d1cfcd">-- CURRENT artfulDeviant <span style="color:#5c6f61">[CAD]</span>  is now just, lying in bed. --</span><br />
+[09:50:21] <span style="color:#ee1e00">CCP: find anything?</span><br />
+[09:52:27] <span style="color:#0080ff">CFL: Nope</span><br />
+[09:53:21] <span style="color:#0080ff">CFL: just that I'm gonna start blocking stuff with my face if otherwise your clothes would get dirt on them.</span><br />
+[09:54:11] <span style="color:#ee1e00">CCP: ........oh. yeah, I remember that bit.</span><br />
+[09:54:41] <span style="color:#0080ff">CFL: Dance of Thorns, yeah.</span><br />
+[10:01:24] <span style="color:#0080ff">CFL: ...what if its corruption?</span><br />
+[10:01:55] <span style="color:#ee1e00">CCP: ...like, corruption from attempting to Hearty Thing on Kat?</span><br />
+[10:02:51] <span style="color:#0080ff">CFL: Or worse, its somehow being generated by the AU Machine.</span><br />
+[10:03:02] <span style="color:#ee1e00">CCP: fuck.</span><br />
+[10:03:14] <span style="color:#0080ff">CFL: which means AU Angels and Horrorterrors aren't safe.</span><br />
+[10:06:10] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shudders --</span><br />
+[10:07:45] <span style="color:#0080ff">CFL: ...Yeah I'll see what Kat is doing.</span><br />
+[10:07:56] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs to the transportalizer, rolling into it. --</span><br />

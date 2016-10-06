@@ -1,0 +1,11 @@
+[06:03:07] <span style="color:#d1cfcd">-- blackMagic <span style="color:#000000">[BM]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:03 --</span><br />
+[06:03:07] <span style="color:#000000">BM: BLACK MAGIC</span><br />
+[06:03:08] <span style="color:#000000">BM: CLACK</span><br />
+[06:03:11] <span style="color:#000000">BM: BLACK</span><br />
+[06:03:12] <span style="color:#000000">BM: MAGIC</span><br />
+[06:03:16] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging blackMagic <span style="color:#000000">[BM]</span> at 18:03 --</span><br />
+[06:03:19] <span style="color:#d1cfcd">-- blackMagic <span style="color:#000000">[BM]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:03 --</span><br />
+[06:03:19] <span style="color:#000000">BM: MAJIC OF THE BLACK VARITY</span><br />
+[06:03:22] <span style="color:#d1cfcd">-- blackMagic <span style="color:#000000">[BM]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:03 --</span><br />
+[06:03:28] <span style="color:#0080ff">FL:  <span style="color:#ffffff">Nope.</span></span><br />
+[06:03:31] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging blackMagic <span style="color:#000000">[BM]</span> at 18:03 --</span><br />

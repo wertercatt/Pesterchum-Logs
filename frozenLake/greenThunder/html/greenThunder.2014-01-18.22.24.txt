@@ -1,0 +1,11 @@
+[10:24:53] <span style="color:#d1cfcd">-- greenThunder <span style="color:#005500">[GT]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 22:24 --</span><br />
+[10:24:53] <span style="color:#005500">GT: I MUST KNOW</span><br />
+[10:24:56] <span style="color:#005500">GT: SENTRY</span><br />
+[10:25:02] <span style="color:#005500">GT: WHO SENT YOU TO FIND ME</span><br />
+[10:25:32] <span style="color:#0080ff">FL: noone.</span><br />
+[10:25:38] <span style="color:#005500">GT: oh okay</span><br />
+[10:25:46] <span style="color:#0080ff">FL: You were the one that /pestered me/</span><br />
+[10:25:55] <span style="color:#005500">GT: ...i did?</span><br />
+[10:26:07] <span style="color:#0080ff">FL: YES.</span><br />
+[10:26:40] <span style="color:#0080ff">FL: ...alright, so, bye.</span><br />
+[10:26:42] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging greenThunder <span style="color:#005500">[GT]</span> at 22:26 --</span><br />

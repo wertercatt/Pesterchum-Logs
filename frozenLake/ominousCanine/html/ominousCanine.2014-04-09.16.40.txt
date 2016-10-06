@@ -1,0 +1,3 @@
+[16:40:49] <span style="color:#d1cfcd">-- ominousCanine <span style="color:#000000">[OC]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 16:40 --</span><br />
+[16:40:52] <span style="color:#69009d">OC: hi</span><br />
+[16:40:59] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging ominousCanine <span style="color:#69009d">[OC]</span> at 16:40 --</span><br />

@@ -1,0 +1,645 @@
+[06:26:48] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 HOTEL.</span><br />
+[06:27:01] <span style="color:#0080ff">CFL: (( so should I save the plot for Sunday? ))</span><br />
+[06:27:15] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[06:27:15] <span style="color:#ee1e00">CCP: (("CCC took away CP's OP powers."? wh-- oh right, Noodles registered memo))</span><br />
+[06:27:38] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[06:27:38] <span style="color:#cb7de6">CSJ: ((if you want. ((I have a date on sunday))))</span><br />
+[06:27:48] <span style="color:#ee1e00">CCP: ((when would we be hotelling tomorrow then? also maybe, if you want more people on...))</span><br />
+[06:28:22] <span style="color:#0080ff">CFL: (( I would like more people on, to be honest ))</span><br />
+[06:28:25] <span style="color:#0080ff">CFL: (( Including DS. ))</span><br />
+[06:28:29] <span style="color:#cb7de6">CSJ: ((ah))</span><br />
+[06:28:45] <span style="color:#ee1e00">CCP: ((okay, let's save the event for later and just freeform today then.))</span><br />
+[06:29:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks down the stairs into the lobby. --</span><br />
+[06:29:28] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is in the library --</span><br />
+[06:29:46] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wakes up in the lobby, having fallen asleep on a couch --</span><br />
+[06:30:25] <span style="color:#ee1e00">CCP: oh, hey there.</span><br />
+[06:31:34] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  flipping through books, taking notes on things --</span><br />
+[06:31:47] <span style="color:#0080ff">CFL: Hey.</span><br />
+[06:32:14] <span style="color:#ee1e00">CCP: anything new lately?</span><br />
+[06:33:59] <span style="color:#0080ff">CFL: Not really, that troll still hasn't woken up.</span><br />
+[06:34:11] <span style="color:#0080ff">CFL: Maybe we should do a little bit of research...</span><br />
+[06:35:01] <span style="color:#ee1e00">CCP: huh... yeah, might be good idea... I've been wanting to find out about trolls for a while now, since we found him...</span><br />
+[06:36:11] <span style="color:#d1cfcd">-- CURRENT shinyJiggly's <span style="color:#cb7de6">[CSJ'S]</span>  pencil tip breaks --</span><br />
+[06:36:17] <span style="color:#cb7de6">CSJ: ...darn it. ➜</span><br />
+[06:36:21] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets up --</span><br />
+[06:36:34] <span style="color:#cb7de6">CSJ: where's that pencil sharpener... ➜</span><br />
+[06:36:57] <span style="color:#0080ff">CFL: Have you seen Alanna?</span><br />
+[06:37:10] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks to the other side of the tabled area --</span><br />
+[06:37:27] <span style="color:#cb7de6">CSJ: there we go. ➜</span><br />
+[06:37:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shakes his head --</span><br />
+[06:37:45] <span style="color:#ee1e00">CCP: she hasn't been around for a while...</span><br />
+[06:38:06] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  puts the pencil in the pencil sharpener, it's a low-quality crank-style pencil sharpener. --</span><br />
+[06:38:20] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins the grinding --</span><br />
+[06:39:01] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it can be heard fairly well within the tabled area of the library --</span><br />
+[06:39:16] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  checks the pencil --</span><br />
+[06:39:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the shavings are hairy looking and the pencil is still unsharpened --</span><br />
+[06:40:01] <span style="color:#cb7de6">CSJ: oh goody... ➜</span><br />
+[06:40:10] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  resumes sharpening --</span><br />
+[06:40:34] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  removes it again --</span><br />
+[06:41:48] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the pencil has one of those awkward crooked sharpenings that leaves it with a long pointy wooden end and barely any writing surface --</span><br />
+[06:41:55] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[06:42:11] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  grumbles --</span><br />
+[06:42:20] <span style="color:#cb7de6">CSJ: seriously??? ➜</span><br />
+[06:42:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  jams it back in there and cranks the thing like heck --</span><br />
+[06:43:01] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  pulls it back out --</span><br />
+[06:43:48] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the tip is extremely sharp... and the pencil is down to 3/4th its original size --</span><br />
+[06:43:57] <span style="color:#cb7de6">CSJ: FINALLY. ➜</span><br />
+[06:44:16] <span style="color:#cb7de6">CSJ: ...oops, sorry ➜</span><br />
+[06:44:30] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  goes to sit down again --</span><br />
+[06:44:43] <span style="color:#cb7de6">CSJ: okay, back to this thing... ➜</span><br />
+[06:44:52] <span style="color:#cb7de6">CSJ: ((hello?))</span><br />
+[06:45:04] <span style="color:#ee1e00">CCP: ((sorry, getting dinner))</span><br />
+[06:45:13] <span style="color:#cb7de6">CSJ: ((ah, okay.))</span><br />
+[06:46:12] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hears the noise from the Library. --</span><br />
+[06:46:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  starts writing athing, the graphite makes a slight mess from the first depression on the paper, but writes just fine after that --</span><br />
+[06:47:00] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  *a thing --</span><br />
+[06:47:45] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads over. --</span><br />
+[06:47:47] <span style="color:#0080ff">CFL: Hey...</span><br />
+[06:47:58] <span style="color:#cb7de6">CSJ: oh, hey there. ➜</span><br />
+[06:48:09] <span style="color:#cb7de6">CSJ: was I being too loud here? ➜</span><br />
+[06:48:10] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows FL --</span><br />
+[06:48:22] <span style="color:#cb7de6">CSJ: freaking pencil sharpener... ➜</span><br />
+[06:48:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  glances at the paper. --</span><br />
+[06:48:34] <span style="color:#ee1e00">CCP: nah, not really... it's really been quiet around here lately :/</span><br />
+[06:48:46] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it's a bunch of messy notes and doodles --</span><br />
+[06:49:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  tries to make sense of the notes. --</span><br />
+[06:50:01] <span style="color:#ee1e00">CCP: whatcha writing?</span><br />
+[06:50:25] <span style="color:#cb7de6">CSJ: trying to research some stuff about this place. ➜</span><br />
+[06:51:41] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  there seems to be some notes about the three McGuffin gems, along with some drawings of some odd areas --</span><br />
+[06:52:06] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  glances at the notes, boggling in confusion --</span><br />
+[06:52:15] <span style="color:#0080ff">CFL: Well, this place seems to be a major dimentional node, which explains all the visitors...</span><br />
+[06:52:49] <span style="color:#0080ff">CFL: Reminds me alot of Sigil, except this has more stable physics.</span><br />
+[06:53:51] <span style="color:#cb7de6">CSJ: do you guys know anything about the McGuffin gems? ➜</span><br />
+[06:54:12] <span style="color:#ee1e00">CCP: nope, not a clue.</span><br />
+[06:54:31] <span style="color:#cb7de6">CSJ: a groupof earlier visitors along with myself went on some dumb quest to find al three of them a while back. ➜</span><br />
+[06:55:17] <span style="color:#0080ff">CFL: Do you have... any of them?</span><br />
+[06:55:42] <span style="color:#cb7de6">CSJ: yeah actually. they're kept in the storage area. ➜</span><br />
+[06:56:10] <span style="color:#ee1e00">CCP: do they do anything?</span><br />
+[06:56:37] <span style="color:#0080ff">CFL: So, how many do we have?</span><br />
+[06:56:42] <span style="color:#0080ff">CFL: 2? or all three?</span><br />
+[06:56:48] <span style="color:#cb7de6">CSJ: well, they were the keys for the wierd door downstairs. ➜</span><br />
+[06:56:58] <span style="color:#cb7de6">CSJ: all three of them. ➜</span><br />
+[06:57:04] <span style="color:#0080ff">CFL: What weird door.</span><br />
+[06:57:16] <span style="color:#cb7de6">CSJ: you know, that really creepy and ornate one? ➜</span><br />
+[06:57:34] <span style="color:#ee1e00">CCP: ...not sure if I've seen that yet...</span><br />
+[06:57:37] <span style="color:#0080ff">CFL: ...Musta missed it.</span><br />
+[06:58:10] <span style="color:#cb7de6">CSJ: ((do you guys even read the logs or are you just asking questions for the sake of your characters?))</span><br />
+[06:59:04] <span style="color:#ee1e00">CCP: ((asking ICly... I think I remember the door thing from before, when I hotelled as myself for a couple things))</span><br />
+[06:59:20] <span style="color:#0080ff">CFL: (( I didn't read the logs, and I'm asking ICly at the same time. ))</span><br />
+[06:59:22] <span style="color:#ee1e00">CCP: ((it was one of Kat's events, wasn't it?))</span><br />
+[06:59:45] <span style="color:#cb7de6">CSJ: ((that was the one where the door got used. it was planned to be used for something else though probably.))</span><br />
+[07:00:16] <span style="color:#0080ff">CFL: ...well?</span><br />
+[07:00:32] <span style="color:#cb7de6">CSJ: they have strong ties to some kinda disturbing alternate dimension. ➜</span><br />
+[07:00:46] <span style="color:#0080ff">CFL: ...Was it that one with everyone getting consumed?</span><br />
+[07:01:00] <span style="color:#ee1e00">CCP: that doesn't sound very good...</span><br />
+[07:01:05] <span style="color:#cb7de6">CSJ: um... maybe? it's been a while. ➜</span><br />
+[07:01:24] <span style="color:#0080ff">CFL: After all, I remember that place... vaguely.</span><br />
+[07:01:33] <span style="color:#cb7de6">CSJ: a lot of parts from the dungeons we had to go through I can barely even remember. ➜</span><br />
+[07:02:13] <span style="color:#0080ff">CFL: ...Okay, I don't remember /that/.</span><br />
+[07:02:52] <span style="color:#0080ff">CFL: Um, do you have a computer somewhere? Or am I going to need to use the TV for browsing the web?</span><br />
+[07:03:01] <span style="color:#cb7de6">CSJ: I have a laptop. ➜</span><br />
+[07:03:03] <span style="color:#0080ff">CFL: Rather interesting how fast its gotten...</span><br />
+[07:03:24] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uncaptchas her laptop from her cheap modus --</span><br />
+[07:03:38] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  puts the cardboard captchacard away --</span><br />
+[07:03:46] <span style="color:#0080ff">CFL: Back in my day, the internet was so slow it took a few minutes to get a picture on the screen!</span><br />
+[07:03:54] <span style="color:#cb7de6">CSJ: wow. ➜</span><br />
+[07:04:07] <span style="color:#cb7de6">CSJ: ...how old are you exactly? ➜</span><br />
+[07:04:36] <span style="color:#0080ff">CFL: Well, I fell into my first alternate universe when I was 6...</span><br />
+[07:04:58] <span style="color:#ee1e00">CCP: whoa...</span><br />
+[07:05:12] <span style="color:#cb7de6">CSJ: oh boy... ➜</span><br />
+[07:05:14] <span style="color:#0080ff">CFL: And that was the last time I saw earth other than it being Radioactive Craters.</span><br />
+[07:05:27] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[07:05:37] <span style="color:#ee1e00">CCP: ...</span><br />
+[07:05:43] <span style="color:#0080ff">CFL: ... :&lt;</span><br />
+[07:06:21] <span style="color:#0080ff">CFL: I hate timetravel.</span><br />
+[07:06:24] <span style="color:#cb7de6">CSJ: so, you last left off with like, windows 98 or something? ➜</span><br />
+[07:06:36] <span style="color:#0080ff">CFL: Yeah, it was the Year 2000...</span><br />
+[07:07:00] <span style="color:#0080ff">CFL: I remember everyone freaking out about Y2K or something</span><br />
+[07:07:23] <span style="color:#cb7de6">CSJ: heh, I remember that vaguely. ➜</span><br />
+[07:07:50] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  turns on the laptop --</span><br />
+[07:08:00] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  waits for it to boot up silently --</span><br />
+[07:08:07] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[07:08:45] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it does the thing, the background pic is some rainbow checkerboard pattern --</span><br />
+[07:09:07] <span style="color:#cb7de6">CSJ: um, what were you going to look up? ➜</span><br />
+[07:10:07] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  doubleclicks on the firefox icon --</span><br />
+[07:10:29] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the page loads to mspa, still on gigapause --</span><br />
+[07:11:42] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues staring at the laptop, silently accepting he'll always be confused by modern earth technology --</span><br />
+[07:12:15] <span style="color:#0080ff">CFL: Well, I wanted to find out about that Troll thing... I think you recognized it.</span><br />
+[07:12:44] <span style="color:#cb7de6">CSJ: oh yeah. I've read about them online a bit. ➜</span><br />
+[07:13:14] <span style="color:#cb7de6">CSJ: mostly info on them tends to be really inaccurate headcannons though. ➜</span><br />
+[07:13:30] <span style="color:#0080ff">CFL: wait, whats that Google thing?</span><br />
+[07:13:36] <span style="color:#ee1e00">CCP: ((#fandoms in a nutshell))</span><br />
+[07:13:45] <span style="color:#cb7de6">CSJ: oh, that in the corner? ➜</span><br />
+[07:13:49] <span style="color:#0080ff">CFL: Yeah!</span><br />
+[07:13:52] <span style="color:#cb7de6">CSJ: I'll show you. ➜</span><br />
+[07:13:54] <span style="color:#0080ff">CFL: I've never heard of it before.</span><br />
+[07:14:14] <span style="color:#cb7de6">CSJ: wait, seriously??? I thought they had google back then or something. ➜</span><br />
+[07:14:44] <span style="color:#0080ff">CFL: ...Looks alot like Yahoo.</span><br />
+[07:15:00] <span style="color:#cb7de6">CSJ: I forgot, did we find out what planet that troll guy came from? ➜</span><br />
+[07:15:02] <span style="color:#0080ff">CFL: (( Technically they did, but it wasn't very popular. ))</span><br />
+[07:15:10] <span style="color:#cb7de6">CSJ: ((ah))</span><br />
+[07:15:14] <span style="color:#0080ff">CFL: No...</span><br />
+[07:15:22] <span style="color:#0080ff">CFL: He still hasen't woken up.</span><br />
+[07:15:26] <span style="color:#cb7de6">CSJ: oh, okay. ➜</span><br />
+[07:15:43] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  types in alternian troll into the search bar --</span><br />
+[07:15:45] <span style="color:#0080ff">CFL: And the ships logs seem to be almost entirely written by him after a point.</span><br />
+[07:16:02] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a booklet. --</span><br />
+[07:16:25] <span style="color:#0080ff">CFL: It was a simple cypher, but I cracked it with ease.</span><br />
+[07:16:34] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  clicks on the link on the mspa wiki --</span><br />
+[07:17:07] <span style="color:#0080ff">CFL: ...Well, it seems he came from another universe...</span><br />
+[07:17:17] <span style="color:#0080ff">CFL: though DS mentioned them as well...</span><br />
+[07:17:19] <span style="color:#cb7de6">CSJ: aaa, freaking wiki ads... ➜</span><br />
+[07:17:30] <span style="color:#0080ff">CFL: Some sort of event that wiped them out?</span><br />
+[07:17:47] <span style="color:#cb7de6">CSJ: the vast glub. ➜</span><br />
+[07:17:53] <span style="color:#0080ff">CFL: hehe, glub.</span><br />
+[07:17:55] <span style="color:#ee1e00">CCP: the what now?</span><br />
+[07:17:57] <span style="color:#cb7de6">CSJ: that's what it was called apparently. ➜</span><br />
+[07:18:06] <span style="color:#0080ff">CFL: Signs of the zodiac...</span><br />
+[07:18:13] <span style="color:#0080ff">CFL: DNA?</span><br />
+[07:18:15] <span style="color:#ee1e00">CCP: kind of a weird name to call a species wipeout...</span><br />
+[07:18:51] <span style="color:#cb7de6">CSJ: basically, some eldrich monster screamed like that clam from that one episode of spongebob and they all like, exploded or something. ➜</span><br />
+[07:19:26] <span style="color:#0080ff">CFL: ...scratch?</span><br />
+[07:19:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hits the down key some more to scroll down. --</span><br />
+[07:19:54] <span style="color:#ee1e00">CCP: ?</span><br />
+[07:20:00] <span style="color:#cb7de6">CSJ: it has something to do with a game that a select few of their race had to play. ➜</span><br />
+[07:20:23] <span style="color:#cb7de6">CSJ: scratch being a hard reset of the game. ➜</span><br />
+[07:20:42] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs --</span><br />
+[07:20:43] <span style="color:#0080ff">CFL: Oh, like Jumanji?</span><br />
+[07:20:50] <span style="color:#cb7de6">CSJ: sorta. ➜</span><br />
+[07:22:56] <span style="color:#0080ff">CFL: Oh, we better move the buckets out of that room.</span><br />
+[07:23:02] <span style="color:#cb7de6">CSJ: yeah... ➜</span><br />
+[07:23:16] <span style="color:#0080ff">CFL: ...wait, sopor slime?</span><br />
+[07:23:31] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at the thing some more --</span><br />
+[07:23:32] <span style="color:#cb7de6">CSJ: some weird goo stuff. ➜</span><br />
+[07:23:39] <span style="color:#0080ff">CFL: Ah hell, this is going to /suck/ when he wakes up.</span><br />
+[07:23:46] <span style="color:#0080ff">CFL: At least I think its a he.</span><br />
+[07:24:06] <span style="color:#cb7de6">CSJ: they only need it if there's somebody delivering chucklevoodoos. ➜</span><br />
+[07:24:16] <span style="color:#0080ff">CFL: Okay...</span><br />
+[07:24:17] <span style="color:#ee1e00">CCP: ...ouch. I hope he'll be okay...</span><br />
+[07:25:09] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a second notebook and a scrap of paper and continues the log book translation. --</span><br />
+[07:25:50] <span style="color:#0080ff">CFL: ...ring like black hole?</span><br />
+[07:25:54] <span style="color:#0080ff">CFL: Huh.</span><br />
+[07:26:19] <span style="color:#0080ff">CFL: thats weird...</span><br />
+[07:26:28] <span style="color:#0080ff">CFL: Hey, do you have anything like that here?</span><br />
+[07:26:37] <span style="color:#cb7de6">CSJ: um... I'm not sure. ➜</span><br />
+[07:26:44] <span style="color:#0080ff">CFL: Alright...</span><br />
+[07:27:01] <span style="color:#0080ff">CFL: maybe you should search it up.</span><br />
+[07:27:23] <span style="color:#cb7de6">CSJ: okay then. ➜</span><br />
+[07:27:36] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  writes down a quick note --</span><br />
+[07:28:52] <span style="color:#0080ff">CFL: ...Starmage?</span><br />
+[07:29:05] <span style="color:#cb7de6">CSJ: huhwhat? ➜</span><br />
+[07:29:06] <span style="color:#ee1e00">CCP: hm?</span><br />
+[07:29:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  continues translating by hand, glancing at the key he had made. --</span><br />
+[07:29:38] <span style="color:#0080ff">CFL: Let me get some context...</span><br />
+[07:33:55] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues staring at things --</span><br />
+[07:35:03] <span style="color:#0080ff">CFL: "When we had finished research on the Ring Singularity, Something seemed to come out of it, yellow skin like the stars we had flown by. The "Starmage" was somewhat confused, and the captain decided to well... shoot at it. Somehow, it blocked our incoming attacks like nothing, and then... it sent out a pulse, which knocked most of the crew unconsious. I managed to hang on as the ship got pulled into the ring... when we got to the otherside, the crew seemed to have been microwaved, and I was the only one left."</span><br />
+[07:35:37] <span style="color:#0080ff">CFL: ...Yeah, I don't get it either.</span><br />
+[07:35:40] <span style="color:#0080ff">CFL: Yellow skin?</span><br />
+[07:36:00] <span style="color:#0080ff">CFL: Pulse?</span><br />
+[07:36:04] <span style="color:#cb7de6">CSJ: okay then??? ➜</span><br />
+[07:36:05] <span style="color:#ee1e00">CCP: no idea... also, yikes.</span><br />
+[07:36:08] <span style="color:#0080ff">CFL: Everyone getting knocked out?</span><br />
+[07:36:22] <span style="color:#cb7de6">CSJ: and getting... MICROWAVED?? ➜</span><br />
+[07:36:46] <span style="color:#0080ff">CFL: Well, I suppose that the inside of a black hole would be constantly bombarded with radiation.</span><br />
+[07:37:06] <span style="color:#0080ff">CFL: But I have no idea what a ring like black hole would be like...</span><br />
+[07:37:38] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks up "ring shaped black hole" --</span><br />
+[07:37:52] <span style="color:#0080ff">CFL: So, apparently the trolls name was Achern Ptolem...</span><br />
+[07:37:59] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  clicks on the thing that says "ring singularity" --</span><br />
+[07:38:55] <span style="color:#0080ff">CFL: I'll try to do more research into this...</span><br />
+[07:39:08] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  wanders and clicks the "spaghettification" thing --</span><br />
+[07:39:35] <span style="color:#0080ff">CFL: ...ripped apart?</span><br />
+[07:39:44] <span style="color:#0080ff">CFL: The ship looked mostly intact...</span><br />
+[07:39:57] <span style="color:#cb7de6">CSJ: it said spaghetti. ➜</span><br />
+[07:40:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  winces at the drawing of that --</span><br />
+[07:40:35] <span style="color:#cb7de6">CSJ: why do they give something so freaky a cool name like that? ➜</span><br />
+[07:40:49] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  presses the back button --</span><br />
+[07:41:52] <span style="color:#cb7de6">CSJ: says something about wormholes and infinite blueshifting??? ➜</span><br />
+[07:42:07] <span style="color:#0080ff">CFL: Well, the wormhole thing explains it...</span><br />
+[07:42:21] <span style="color:#0080ff">CFL: but the infinte blueshifiting... No idea what that is.</span><br />
+[07:42:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  confused look intensifies --</span><br />
+[07:43:38] <span style="color:#cb7de6">CSJ: so... he got here through a wormhole thing? ➜</span><br />
+[07:43:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks into it some more. --</span><br />
+[07:44:10] <span style="color:#ee1e00">CCP: ...makes about as much sense as how the rest of us got here.</span><br />
+[07:44:14] <span style="color:#0080ff">CFL: Blueshifting, visible light, electromagnetic spectrum...</span><br />
+[07:44:57] <span style="color:#0080ff">CFL: If it was infinite blueshfiting... wouldn't it bombard them with a fuckton of X rays and Gamma Rays?</span><br />
+[07:45:40] <span style="color:#0080ff">CFL: It might not be true microwaves... but wouldn't it have a similar effect?</span><br />
+[07:45:46] <span style="color:#cb7de6">CSJ: no idea, I'm not the expert here. ➜</span><br />
+[07:46:26] <span style="color:#ee1e00">CCP: I guess another question is... how did he survive when everyone else was turned into goo?</span><br />
+[07:46:56] <span style="color:#0080ff">CFL: Phychic shielding?</span><br />
+[07:47:07] <span style="color:#0080ff">CFL: psychic*</span><br />
+[07:47:30] <span style="color:#0080ff">CFL: After all, I've met a bunch of people with Psychic powers... pretty powerful too.</span><br />
+[07:48:27] <span style="color:#0080ff">CFL: and apparently trolls lower on the spectrum have psychic powers.</span><br />
+[07:48:36] <span style="color:#cb7de6">CSJ: yeah, apparently. ➜</span><br />
+[07:49:25] <span style="color:#0080ff">CFL: ...wait a minute.</span><br />
+[07:49:30] <span style="color:#ee1e00">CCP: well, the guy's blood was, what, some kinda reddish orange? I guess that's low on the thing...</span><br />
+[07:49:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  flips though his spell book. --</span><br />
+[07:49:36] <span style="color:#cb7de6">CSJ: though does psychic shielding count as a possible thing? ➜</span><br />
+[07:49:43] <span style="color:#0080ff">CFL: Sleep...</span><br />
+[07:49:52] <span style="color:#0080ff">CFL: ...</span><br />
+[07:50:10] <span style="color:#0080ff">CFL: Well, apparently the starmage had some pretty powerful magic.</span><br />
+[07:50:19] <span style="color:#0080ff">CFL: I have two spells that do a similar effect...</span><br />
+[07:50:35] <span style="color:#0080ff">CFL: Strong will tends to prevent it though...</span><br />
+[07:52:28] <span style="color:#0080ff">CFL: ...</span><br />
+[07:52:59] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is resuming her research --</span><br />
+[07:55:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks between the book and the translation again. --</span><br />
+[07:56:08] <span style="color:#0080ff">CFL: ...is it possible this starmage was a human?</span><br />
+[07:56:34] <span style="color:#ee1e00">CCP: hm?</span><br />
+[07:56:39] <span style="color:#ee1e00">CCP: what makes you say that?</span><br />
+[07:56:56] <span style="color:#0080ff">CFL: Well, our skin /kinda/ looks yellow...</span><br />
+[07:57:07] <span style="color:#cb7de6">CSJ: are you sure? ➜</span><br />
+[07:57:11] <span style="color:#0080ff">CFL: its more of a pinkish tint, but... still...</span><br />
+[07:57:32] <span style="color:#cb7de6">CSJ: I was kinda picturing the dude to be like, a bananaman or something. ➜</span><br />
+[07:57:35] <span style="color:#0080ff">CFL: Was pretty close to the black hole...</span><br />
+[07:57:49] <span style="color:#0080ff">CFL: so perhaps there was a small amount of blueshift...</span><br />
+[07:58:23] <span style="color:#0080ff">CFL: Perhaps we could learn more when this guy wakes up...</span><br />
+[07:58:35] <span style="color:#cb7de6">CSJ: maybe. ➜</span><br />
+[07:58:43] <span style="color:#ee1e00">CCP: yeah. he'd probably be the best one to talk to...</span><br />
+[07:59:07] <span style="color:#ee1e00">CCP: ...though I just realized something. if he /does/ have powers, and sees us as an unknown threat...</span><br />
+[07:59:34] <span style="color:#0080ff">CFL: Then we figure out how to kick his ass.</span><br />
+[07:59:49] <span style="color:#cb7de6">CSJ: ((FL, why does it sound like you're railroading forced assumptions that sound like they're supposed to be right even though there should be a degree of uncertainty and getting the guess wrong?))</span><br />
+[08:00:11] <span style="color:#0080ff">CFL: (( ...woops. ))</span><br />
+[08:00:12] <span style="color:#cb7de6">CSJ: ((maybe I'm just being a complete butt here...))</span><br />
+[08:01:43] <span style="color:#0080ff">CFL: (( No, you have a point. ))</span><br />
+[08:01:57] <span style="color:#0080ff">CFL: ...Eh, maybe I'm just being an idiot.</span><br />
+[08:02:10] <span style="color:#0080ff">CFL: What aliens with yellow skin do you know of?</span><br />
+[08:02:25] <span style="color:#cb7de6">CSJ: I have no idea. ➜</span><br />
+[08:02:27] <span style="color:#0080ff">CFL: Maybe it was a Pikachu or something!</span><br />
+[08:03:00] <span style="color:#0080ff">CFL: Or a Hypno...</span><br />
+[08:03:02] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  holds back a laugh --</span><br />
+[08:04:00] <span style="color:#0080ff">CFL: Back from my days on Eberron, bad guys were either human or humanoid.</span><br />
+[08:04:20] <span style="color:#0080ff">CFL: at least the ones that weren't dragons.</span><br />
+[08:04:23] <span style="color:#0080ff">CFL: or demons.</span><br />
+[08:06:29] <span style="color:#0080ff">CFL: ...I kinda miss the days when I was fighting demons.</span><br />
+[08:06:35] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is drawing a thing --</span><br />
+[08:09:28] <span style="color:#0080ff">CFL: It was alot more simple.</span><br />
+[08:10:29] <span style="color:#ee1e00">CCP: yeah... fighting monsters, helping people... definitely a lot simpler than this kind of stuff</span><br />
+[08:16:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs, agaig --</span><br />
+[08:23:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the drawing. --</span><br />
+[08:26:28] <span style="color:#ee1e00">CCP: ((tost?))</span><br />
+[08:26:57] <span style="color:#0080ff">CFL: (( SJ? ))</span><br />
+[08:29:32] <span style="color:#cb7de6">CSJ: ((back))</span><br />
+[08:31:38] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it's a heavily simplified map of the areas where the mcguffins were kept, as well as some diagrams of doorways, one of which being a set of plugged-in windows, one saying "home" and the other saying "hotel" --</span><br />
+[08:32:05] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at the map, trying to make sense of it --</span><br />
+[08:32:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the windows. --</span><br />
+[08:32:33] <span style="color:#0080ff">CFL: ...what.</span><br />
+[08:32:59] <span style="color:#ee1e00">CCP: ...are you confused about the windows too?</span><br />
+[08:33:27] <span style="color:#cb7de6">CSJ: oh, those are the kinda windows that the first group I hung out with used to get here. ➜</span><br />
+[08:34:55] <span style="color:#cb7de6">CSJ: none of us knew exactly where they came from really. ➜</span><br />
+[08:35:08] <span style="color:#cb7de6">CSJ: but they all led us to the hotel. ➜</span><br />
+[08:35:45] <span style="color:#0080ff">CFL: ...</span><br />
+[08:35:55] <span style="color:#cb7de6">CSJ: they don't work anymore though. ➜</span><br />
+[08:36:11] <span style="color:#ee1e00">CCP: ((hopy shit guys I /just barking now/ realized it........ PROBLEM SLEUTH WINDOWS WERE PROBABLY BASED ON MONSTERS INC DOORS.))</span><br />
+[08:36:12] <span style="color:#cb7de6">CSJ: apparently both sides need to be plugged in. ➜</span><br />
+[08:36:18] <span style="color:#ee1e00">CCP: ...</span><br />
+[08:36:38] <span style="color:#cb7de6">CSJ: or at least have some kinda power source. ➜</span><br />
+[08:37:22] <span style="color:#0080ff">CFL: ...</span><br />
+[08:37:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  panics and digs in his bag of holding. --</span><br />
+[08:38:33] <span style="color:#ee1e00">CCP: what's wrong?</span><br />
+[08:38:33] <span style="color:#0080ff">CFL: Alright, hold the bottom of the bag.</span><br />
+[08:38:45] <span style="color:#cb7de6">CSJ: okay then? ➜</span><br />
+[08:38:58] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  ...holds it I think? --</span><br />
+[08:39:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  begins to pull out a circular frame... --</span><br />
+[08:39:21] <span style="color:#0080ff">CFL: Come on...</span><br />
+[08:39:45] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The lip of the bag widens as the object is pulled out even more. --</span><br />
+[08:39:53] <span style="color:#0080ff">CFL: Almost... got... it...</span><br />
+[08:39:57] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[08:40:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  yanks a large window out of the bag. --</span><br />
+[08:40:30] <span style="color:#cb7de6">CSJ: (( drawn thingie: <a href='http://i.imgur.com/fCmuSgi.jpg?2'>http://i.imgur.com/fCmuSgi.jpg?2</a> ))</span><br />
+[08:40:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // There is a powercord dangling from the end. --</span><br />
+[08:40:57] <span style="color:#cb7de6">CSJ: ...where'd you find that one? ➜</span><br />
+[08:40:58] <span style="color:#ee1e00">CCP: ...</span><br />
+[08:41:35] <span style="color:#0080ff">CFL: Some evil wizard was trying to summon an elder god with it.</span><br />
+[08:41:50] <span style="color:#0080ff">CFL: ...that was about... 3 years ago?</span><br />
+[08:42:01] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[08:42:08] <span style="color:#cb7de6">CSJ: oh gog... ➜</span><br />
+[08:42:35] <span style="color:#cb7de6">CSJ: you need to be careful about that thing. ➜</span><br />
+[08:42:49] <span style="color:#0080ff">CFL: ...is this like the windows you used?</span><br />
+[08:43:02] <span style="color:#cb7de6">CSJ: yeah, but they have another use too. ➜</span><br />
+[08:43:13] <span style="color:#0080ff">CFL: ...Whats the other use?</span><br />
+[08:43:58] <span style="color:#cb7de6">CSJ: at least according to the webcomics I've been reading, they work as portals to the void, sometimes lining up with others. ➜</span><br />
+[08:45:16] <span style="color:#cb7de6">CSJ: and in the void, there's supposed to be distrubing creatures that would probably qualify as "elder gods" out there. ➜</span><br />
+[08:46:21] <span style="color:#cb7de6">CSJ: so while they can be used conventionally if you know what you're doing, they have that margin of danger to them. ➜</span><br />
+[08:46:23] <span style="color:#ee1e00">CCP: yikes... let's try not to summon them, then...</span><br />
+[08:47:10] <span style="color:#0080ff">CFL: So, this thing had another side to it?</span><br />
+[08:47:33] <span style="color:#cb7de6">CSJ: when plugged in, yeah, it leads out there. ➜</span><br />
+[08:47:37] <span style="color:#0080ff">CFL: I wonder where it goes...</span><br />
+[08:48:01] <span style="color:#cb7de6">CSJ: only if both counterparts are plugged in and working can it lead to slightly more normal places. ➜</span><br />
+[08:48:06] <span style="color:#0080ff">CFL: ...shall we plug it in?</span><br />
+[08:48:13] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[08:49:07] <span style="color:#cb7de6">CSJ: ...on one condition: only for a limited amount of time and very very carefully. ➜</span><br />
+[08:49:15] <span style="color:#0080ff">CFL: Alright.</span><br />
+[08:49:18] <span style="color:#cb7de6">CSJ: I don't want to risk anything. ➜</span><br />
+[08:49:30] <span style="color:#0080ff">CFL: Hold on, I need to do something...</span><br />
+[08:49:38] <span style="color:#ee1e00">CCP: hm?</span><br />
+[08:49:42] <span style="color:#0080ff">CFL: Do we have a room with a taller ceiling?</span><br />
+[08:49:57] <span style="color:#cb7de6">CSJ: there's the bouncy room upstairs. ➜</span><br />
+[08:50:05] <span style="color:#cb7de6">CSJ: that has a pretty high ceiling. ➜</span><br />
+[08:50:07] <span style="color:#0080ff">CFL: Alright, lets run over there then.</span><br />
+[08:50:18] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets up --</span><br />
+[08:50:33] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  shoves her laptop into her captchacard --</span><br />
+[08:50:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  picks up the window... the plug /does/ seem rather small... --</span><br />
+[08:50:46] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  puts it away --</span><br />
+[08:51:09] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks towards the elevator --</span><br />
+[08:52:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[08:57:55] <span style="color:#0080ff">CFL: ...</span><br />
+[08:58:00] <span style="color:#0080ff">CFL: can we take the stairs?</span><br />
+[08:58:10] <span style="color:#cb7de6">CSJ: you can take the stairs if you want. ➜</span><br />
+[08:58:22] <span style="color:#0080ff">CFL: Alright.</span><br />
+[08:58:29] <span style="color:#0080ff">CFL: Which floor?</span><br />
+[08:58:34] <span style="color:#ee1e00">CCP: ...I'm still not sure why you're so afraid of an elevator, but okay...</span><br />
+[08:58:36] <span style="color:#cb7de6">CSJ: 3rd floor. ➜</span><br />
+[08:58:45] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  presses the 3 button --</span><br />
+[08:58:46] <span style="color:#0080ff">CFL: Thanks.</span><br />
+[08:58:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs to the stairs. --</span><br />
+[08:58:57] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the elevator closes --</span><br />
+[08:59:10] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it goes up and then stops at 3 --</span><br />
+[08:59:17] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it opens --</span><br />
+[08:59:21] <span style="color:#cb7de6">CSJ: okay, here we are. ➜</span><br />
+[08:59:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is panting near the door. --</span><br />
+[08:59:32] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks out of the elevator --</span><br />
+[08:59:35] <span style="color:#0080ff">CFL: Beat... you...</span><br />
+[09:00:15] <span style="color:#0080ff">CFL: Right, so... bounce house.</span><br />
+[09:00:18] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  just sorta makes some sorta shrug expression thing :b --</span><br />
+[09:00:34] <span style="color:#0080ff">CFL: which way.</span><br />
+[09:00:41] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs as well --</span><br />
+[09:00:51] <span style="color:#cb7de6">CSJ: it's down that way, pretty close. ➜</span><br />
+[09:00:57] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks towards it --</span><br />
+[09:00:58] <span style="color:#0080ff">CFL: Also, do you have any extension cords? I'm not sure the bouncy room would have any plugins.</span><br />
+[09:01:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows. --</span><br />
+[09:01:47] <span style="color:#cb7de6">CSJ: remember to take your shoes off first. ➜</span><br />
+[09:01:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  removes his shoes. --</span><br />
+[09:02:05] <span style="color:#cb7de6">CSJ: bouncy room rule. ➜</span><br />
+[09:02:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  carries the Window in, and sets it down. --</span><br />
+[09:02:35] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  takes off her shoe and walks inside --</span><br />
+[09:03:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  bounces away from the window. --</span><br />
+[09:03:45] <span style="color:#0080ff">CFL: Alright, uh, step away.</span><br />
+[09:03:47] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the bouncy room is pretty big and the raised floor has a firm bounciness to it --</span><br />
+[09:04:00] <span style="color:#0080ff">CFL: I don't know how much this thing is gonna shift.</span><br />
+[09:04:02] <span style="color:#cb7de6">CSJ: okay then ➜</span><br />
+[09:04:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  holds his hands out. --</span><br />
+[09:04:24] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops off to the side --</span><br />
+[09:04:31] <span style="color:#0080ff">CFL: DISPEL MAGIC!</span><br />
+[09:04:42] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  enters the room, not having any shoes in the first place :P --</span><br />
+[09:05:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // The window expands to its orignal size, twice as big in every direction. --</span><br />
+[09:05:46] <span style="color:#ee1e00">CCP: ...whoa</span><br />
+[09:06:05] <span style="color:#0080ff">CFL: Alright, extension cords...</span><br />
+[09:06:06] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is just sorta bouncy-standing there --</span><br />
+[09:06:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks for a plug in. --</span><br />
+[09:06:29] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  bounces a bit --</span><br />
+[09:06:54] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  there's a plug-in off to the side in the un-raised section of the room --</span><br />
+[09:07:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  plugs in the window, there being a faint light on the other side of it. --</span><br />
+[09:07:32] <span style="color:#ee1e00">CCP: man, how did I not know this room was a thing? this is fun :D</span><br />
+[09:07:37] <span style="color:#0080ff">CFL: ...</span><br />
+[09:07:42] <span style="color:#0080ff">CFL: Seems the other side is on.</span><br />
+[09:07:58] <span style="color:#ee1e00">CCP: ...huh.</span><br />
+[09:08:08] <span style="color:#cb7de6">CSJ: ((you guys need to read the logs moar often &gt;_&gt;))</span><br />
+[09:08:25] <span style="color:#0080ff">CFL: (( But IC Knowledge! ))</span><br />
+[09:08:45] <span style="color:#cb7de6">CSJ: ((at least related to map stuff))</span><br />
+[09:09:11] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[09:09:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  bounces into the window, going through it. --</span><br />
+[09:09:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  runs over to the other side. --</span><br />
+[09:09:54] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hops towards the window, peering inwards --</span><br />
+[09:10:28] <span style="color:#0080ff">CFL: ...oh.</span><br />
+[09:10:32] <span style="color:#0080ff">CFL: ...</span><br />
+[09:10:46] <span style="color:#cb7de6">CSJ: are you okay over there? ➜</span><br />
+[09:10:50] <span style="color:#0080ff">CFL: The fact this thing still has power puzzles me.</span><br />
+[09:10:54] <span style="color:#ee1e00">CCP: ...what is it?</span><br />
+[09:11:04] <span style="color:#000000">CCC</span> made <span style="color:#000000">NN</span> an OP.<br />
+[09:11:19] <span style="color:#0080ff">CFL: ...</span><br />
+[09:11:35] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares through the window, trying not to fall onto it --</span><br />
+[09:11:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  steps back torwards the hotel side of the window, exiting it. --</span><br />
+[09:11:49] <span style="color:#0080ff">CFL: ...Turn it off.</span><br />
+[09:11:53] <span style="color:#cb7de6">CSJ: okay. ➜</span><br />
+[09:12:13] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  bounces over to the non-bouncy part, almost slipping --</span><br />
+[09:12:22] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  steps back further --</span><br />
+[09:12:28] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks to the outlet and unplugs it --</span><br />
+[09:12:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is looking down at the floor. --</span><br />
+[09:12:41] <span style="color:#ee1e00">CCP: ...what did you see?</span><br />
+[09:12:47] <span style="color:#0080ff">CFL: ...Do what you want with it.</span><br />
+[09:13:07] <span style="color:#cb7de6">CSJ: where did it lead? ➜</span><br />
+[09:13:29] <span style="color:#0080ff">CFL: ...</span><br />
+[09:13:42] <span style="color:#0080ff">CFL: :|</span><br />
+[09:13:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... walks out of the room. --</span><br />
+[09:13:59] <span style="color:#cb7de6">CSJ: okay then... ➜</span><br />
+[09:14:16] <span style="color:#ee1e00">CCP: must've been something really bad...</span><br />
+[09:14:46] <span style="color:#cb7de6">CSJ: ...man, how are we gonna carry this out of the room? ➜</span><br />
+[09:15:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Its round for a reason :P --</span><br />
+[09:15:47] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //Death Star Window and Fluthulu, ri-- oh, /that/ reason. --</span><br />
+[09:15:57] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  checks the height of the thing, and then the height of the doorway --</span><br />
+[09:16:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // You should be able to get it through if you go diagonally. --</span><br />
+[09:16:47] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Or you could just captcha it. --</span><br />
+[09:17:06] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //though not with my current modus. --</span><br />
+[09:17:27] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //cheap modus has a size limit on it. --</span><br />
+[09:19:05] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  attempts to push the thing, guessing it's kinda heavy? --</span><br />
+[09:19:21] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  *roll the thing --</span><br />
+[09:19:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Its actually shockingly light... --</span><br />
+[09:19:52] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stands on the other side of it, leaning to try to keep it upright --</span><br />
+[09:19:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Are you sure you don't want to snoop? --</span><br />
+[09:20:10] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //pretty sure &gt;_&gt; --</span><br />
+[09:20:14] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // No, this isn't a "but thou must option". --</span><br />
+[09:20:41] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[09:21:07] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // You successfuly get it though the door. --</span><br />
+[09:21:13] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  rolls it towards the doorway, it rolls away after clearing the change in elevation, heading towards the extreme sports room across the hall --</span><br />
+[09:21:30] <span style="color:#cb7de6">CSJ: aw crud! ➜</span><br />
+[09:21:38] <span style="color:#ee1e00">CCP: uh-oh</span><br />
+[09:21:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is over by a vending machine, inserting a card into the slot. --</span><br />
+[09:21:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gets a can of Root Beer. --</span><br />
+[09:22:08] <span style="color:#000000">CCC</span> made <span style="color:#000000">NN</span> an OP.<br />
+[09:22:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  runs to try to catch up with it --</span><br />
+[09:22:40] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  chases the window into the extreme sports room --</span><br />
+[09:23:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // It starts rolling in a spiral... --</span><br />
+[09:23:29] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stops running, and gets out of the way so it doesn't fall on him --</span><br />
+[09:24:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  it finally comes to a stop, flat on the floor. --</span><br />
+[09:24:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Meanwhile Edward is drinking rootbeer. lots of root beer. --</span><br />
+[09:25:17] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  peeks into the hallway at Edward --</span><br />
+[09:25:22] <span style="color:#ee1e00">CCP: uh... what?</span><br />
+[09:25:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is on his tenth can. --</span><br />
+[09:25:44] <span style="color:#ee1e00">CCP: you okay there?</span><br />
+[09:26:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  just leaves the window in the extreme sports room --</span><br />
+[09:26:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just looks... down. --</span><br />
+[09:26:46] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over --</span><br />
+[09:28:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  opens his 11th can. --</span><br />
+[09:29:09] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[09:29:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads back over to the vending machine... then walks over to the next one over. --</span><br />
+[09:30:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  confused headtilt --</span><br />
+[09:31:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  proceeds to deplete that machines stock of rootbeer. --</span><br />
+[09:31:09] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[09:31:16] <span style="color:#ee1e00">CCP: ...</span><br />
+[09:31:17] <span style="color:#cb7de6">CSJ: okay, wat. ➜</span><br />
+[09:31:51] <span style="color:#ee1e00">CCP: ...is this normal behavior for humans from your time period, Niki?</span><br />
+[09:32:02] <span style="color:#cb7de6">CSJ: ...definately not. ➜</span><br />
+[09:32:44] <span style="color:#ee1e00">CCP: I thought not...</span><br />
+[09:33:02] <span style="color:#cb7de6">CSJ: ...Edward, are you okay over there??? ➜</span><br />
+[09:33:24] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  doesn't respond, drinking another root beer. --</span><br />
+[09:33:39] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[09:34:12] <span style="color:#ee1e00">CCP: ...</span><br />
+[09:34:41] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
+[09:35:10] <span style="color:#cb7de6">CSJ: ...how are you even DRINKING that many??? ➜</span><br />
+[09:35:40] <span style="color:#0080ff">CFL: ...</span><br />
+[09:36:25] <span style="color:#0080ff">CFL: I guess what they say about drinking your sorrows away is false...</span><br />
+[09:36:37] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[09:36:41] <span style="color:#0080ff">CFL: ...You can have the rest.</span><br />
+[09:36:42] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  facepalms --</span><br />
+[09:36:54] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[09:36:54] <span style="color:#ee1e00">CCP: [[((anything happen while DP's zalgo CRASHED /ME/?))]]</span><br />
+[09:36:57] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stands up, and begins to walk to the stairs. --</span><br />
+[09:37:03] <span style="color:#ee1e00">CCP: ...</span><br />
+[09:37:09] <span style="color:#cb7de6">CSJ: you do realize root beer doesn't have any alcohol? ➜</span><br />
+[09:37:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has drunken 13 cans. --</span><br />
+[09:37:25] <span style="color:#ee1e00">CCP: you gonna be okay over there?</span><br />
+[09:37:30] <span style="color:#0080ff">CFL: :&lt;</span><br />
+[09:37:51] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //potty emergency in three, two, /one/... --</span><br />
+[09:38:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  unleashes the vast burp. --</span><br />
+[09:38:27] <span style="color:#ee1e00">CCP: .............................................</span><br />
+[09:38:36] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  pretty sure that echoed or something --</span><br />
+[09:39:18] <span style="color:#ee1e00">CCP: Edward... seriously, you okay over there?</span><br />
+[09:39:37] <span style="color:#0080ff">CFL: ...You don't need to worry.</span><br />
+[09:39:44] <span style="color:#0080ff">CFL: Its nothing importaint.</span><br />
+[09:40:18] <span style="color:#cb7de6">CSJ: you do realize how unhealthy /that much/ soda can be? ➜</span><br />
+[09:40:21] <span style="color:#ee1e00">CCP: that building-shaking burp says otherwise.'</span><br />
+[09:41:23] <span style="color:#cb7de6">CSJ: like, do you even care about the sheer level of diabetes you could get from that? ➜</span><br />
+[09:41:53] <span style="color:#0080ff">CFL: nothing magic can't solve.</span><br />
+[09:42:04] <span style="color:#ee1e00">CCP: not to mention you're probably gonna be running outside in a few minutes...</span><br />
+[09:43:08] <span style="color:#0080ff">CFL: Its /nothing to worry about/</span><br />
+[09:45:48] <span style="color:#cb7de6">CSJ: dude, one day you're not gonna have magic to save your butt. ➜</span><br />
+[09:46:59] <span style="color:#0080ff">CFL: and one day I won't have to worry about people pestering me.</span><br />
+[09:47:29] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  signnnn --</span><br />
+[09:48:31] <span style="color:#ee1e00">CCP: ...</span><br />
+[09:50:01] <span style="color:#ee1e00">CCP: so... now what?</span><br />
+[09:50:14] <span style="color:#ee1e00">CCP: also, what was on the other side?</span><br />
+[09:50:41] <span style="color:#cb7de6">CSJ: maybe it's best not to press further about it. ➜</span><br />
+[09:50:49] <span style="color:#0080ff">CFL: ...</span><br />
+[09:50:51] <span style="color:#0080ff">CFL: Your mother.</span><br />
+[09:51:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws --</span><br />
+[09:51:07] <span style="color:#ee1e00">CCP: nevermind...</span><br />
+[09:51:14] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  throws her show at FL --</span><br />
+[09:51:20] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  *shoe --</span><br />
+[09:51:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is hit by a shoe. --</span><br />
+[09:52:01] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it's a well-worn brown sneaker, right side --</span><br />
+[09:53:36] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  picks up the shoe and puts it back on --</span><br />
+[09:55:02] <span style="color:#cb7de6">CSJ: welp, I'm gonna get back to researching downstairs. ➜</span><br />
+[09:55:14] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  enters the elevator --</span><br />
+[09:55:19] <span style="color:#0080ff">CFL: Why would you even bother.</span><br />
+[09:56:01] <span style="color:#cb7de6">CSJ: hey, it's better than whining about whatever and it's productive. ➜</span><br />
+[09:56:16] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  presses the 1 button and the doors close --</span><br />
+[09:56:29] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets out at the 1st floor --</span><br />
+[09:56:38] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks to the library --</span><br />
+[09:57:01] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits back down at her spot --</span><br />
+[09:58:46] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows SJ... stairs-ways to the library --</span><br />
+[10:05:43] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  back to researching --</span><br />
+[10:06:43] <span style="color:#ee1e00">CCP: so, should we just let him calm down on his own then?</span><br />
+[10:07:00] <span style="color:#cb7de6">CSJ: might be a good idea. ➜</span><br />
+[10:11:40] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is writing down notes --</span><br />
+[10:16:12] <span style="color:#cb7de6">CSJ: "...the mcguffins were held in these dungeons closely connected to a parallel dimension, where everything had the same basic layout, but it was 20 times more distrubing... " ➜</span><br />
+[10:17:32] <span style="color:#ee1e00">CCP: ...?</span><br />
+[10:17:47] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks up from her writing --</span><br />
+[10:19:58] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets back to writing stuff --</span><br />
+[10:21:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs, laying down on a lounge chair --</span><br />
+[10:21:56] <span style="color:#cb7de6">CSJ: "...in the city, there was an attempt to locate the third one, which failed at first because of an interruption, and thus summoned a horde of the undead after the mis-spelling party. The spellcasting zombiemaster thing in charge kinda reminded me of the guy we caled to do the location job, which leads me to believe that perhaps the alt dimension contains alternate versions of everyone in the regular dimension</span><br />
+[10:23:01] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  adds a footnote: "eh, probably not though. they didn't look /that/ similar..." --</span><br />
+[10:29:47] <span style="color:#cb7de6">CSJ: "...in the 3rd dungeon, there were these cursed weapons that brought about temproary personality shifts to the users, whispering things and refusing to be unequipped. They might also have a strong link to the alt dimension too, but I'm not sure exactly what their purpose is exactly..." ➜</span><br />
+[10:30:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // wait, why can you hear smashing from upstairs? --</span><br />
+[10:30:44] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[10:31:33] <span style="color:#ee1e00">CCP: ...</span><br />
+[10:31:38] <span style="color:#ee1e00">CCP: ...tell me he's not...</span><br />
+[10:32:21] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sighs --</span><br />
+[10:35:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // SMASH SMASH SMASH SMASH --</span><br />
+[10:35:50] <span style="color:#d1cfcd"><span style="color:#2b2420">CURRENT zoruaMaidoutfit [CZM]</span> RIGHT NOW responded to memo.</span><br />
+[10:35:50] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  hops out of a laundry shute on the 3rd floor --</span><br />
+[10:36:01] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is smashing the Window. --</span><br />
+[10:36:03] <span style="color:#ee1e00">CCP: . . . . . . . . . . . . . . . </span><br />
+[10:36:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Its not very effective... --</span><br />
+[10:36:54] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  walks up towards the smashing noises --</span><br />
+[10:37:07] <span style="color:#2b2420">CZM: AHEM!</span><br />
+[10:37:29] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hits the window one more time for good measure... having put several dents in it. --</span><br />
+[10:37:32] <span style="color:#0080ff">CFL: ...</span><br />
+[10:37:37] <span style="color:#0080ff">CFL: meep.</span><br />
+[10:39:27] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks for an exit. --</span><br />
+[10:43:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  spots an open window. --</span><br />
+[10:43:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  begins backing up... --</span><br />
+[10:44:03] <span style="color:#2b2420">CZM: Don't even think about it.</span><br />
+[10:44:14] <span style="color:#0080ff">CFL: Too late.</span><br />
+[10:44:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sprints for it. --</span><br />
+[10:44:48] <span style="color:#0080ff">CFL: /FEATHER FALL/</span><br />
+[10:45:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  leaps out of the window, and falls the three stories. --</span><br />
+[10:45:27] <span style="color:#d1cfcd"><span style="color:#830000">CURRENT naK [CNK]</span> RIGHT NOW responded to memo.</span><br />
+[10:45:27] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  enters nakdow --</span><br />
+[10:46:21] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  stops at the window, being blocked by the nak --</span><br />
+[10:46:39] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  facepaws --</span><br />
+[10:46:51] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  begins to flee on foot. --</span><br />
+[10:47:08] <span style="color:#2b2420">CZM: that edward...</span><br />
+[10:47:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // before slowing down... and just sitting in the grass. --</span><br />
+[10:47:42] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  looks up at the new visitor --</span><br />
+[10:48:03] <span style="color:#2b2420">CZM: the registration desk is downstairs.</span><br />
+[10:48:07] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  places the many NAKDOLLARS on head of ZM --</span><br />
+[10:48:51] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  what does "the many NAKDOLLARS" look like? --</span><br />
+[10:49:06] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  many dollars of nak --</span><br />
+[10:49:48] <span style="color:#2b2420">CZM: okay then, I guess I will tell the deskguy to get you a room key.</span><br />
+[10:50:22] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  puts the nakdollars away in her apron, scampering off to the laundry chute --</span><br />
+[10:50:48] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  wait, I forgot, ZM is a dude --</span><br />
+[10:50:54] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  I think? --</span><br />
+[10:51:26] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  dons UMBRELLA HAT and nakscends to ground --</span><br />
+[10:52:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // the main question is... is it all one zorua? --</span><br />
+[10:52:29] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  //maybe??? --</span><br />
+[10:52:39] <span style="color:#d1cfcd">-- CURRENT zoruaMaidoutfit <span style="color:#2b2420">[CZM]</span>  map of hotel: <a href='http://sbarghotelrp.tumblr.com/post/39350312774/nns-hotel-interior-layout'>http://sbarghotelrp.tumblr.com/post/39350312774/nns-hotel-interior-layout</a> --</span><br />
+[10:54:47] <span style="color:#d1cfcd"><span style="color:#000000">CZM</span> ceased responding to memo.</span><br />
+[10:55:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is just outside... sighing. --</span><br />
+[10:55:18] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT zoruaDeskguy [CZD]</span> RIGHT NOW responded to memo.</span><br />
+[10:55:18] <span style="color:#d1cfcd">-- CURRENT zoruaDeskguy <span style="color:#000000">[CZD]</span>  hops out of the laundry chute and gives Nak a room key --</span><br />
+[10:55:46] <span style="color:#564239">CZD: enjoy your stay.</span><br />
+[10:55:46] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  nakscends back to floor nak room on --</span><br />
+[10:56:10] <span style="color:#d1cfcd">-- CURRENT zoruaDeskguy <span style="color:#564239">[CZD]</span>  gets back into the laundry chute weeee! --</span><br />
+[10:56:13] <span style="color:#d1cfcd"><span style="color:#000000">CZD</span> ceased responding to memo.</span><br />
+[10:56:39] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  is still researching stuff in the library --</span><br />
+[10:57:57] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is just... sitting outside. --</span><br />
+[10:58:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // You can run... but you can't hide. --</span><br />
+[10:59:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is resting on a couch thing in the library --</span><br />
+[11:06:49] <span style="color:#d1cfcd">-- CURRENT naK <span style="color:#830000">[CNK]</span>  hotels --</span><br />
+[11:07:35] <span style="color:#cb7de6">CSJ: "the door that lies in the basement is known as 'Chekov's door', and requires the 3 mcguffins to work. it leads to the other dimension. there is a chance however that the last time it was entered, that it led elsewhere, since it resembled Kat's mindspace a lot more than any sort of dark world..." ➜</span><br />
+[11:08:49] <span style="color:#0080ff">CFL: (( When was the last time you updated the hotel blog? ))</span><br />
+[11:09:13] <span style="color:#cb7de6">CSJ: ((a while ago. I probably need to update it more often. @ _@))</span><br />
+[11:10:16] <span style="color:#0080ff">CFL: (( Yeah, with the events involving Riyitic ))</span><br />
+[11:10:37] <span style="color:#0080ff">CFL: (( I could send you a log for the second one. ))</span><br />
+[11:10:45] <span style="color:#0080ff">CFL: (( Actually, for both. ))</span><br />
+[11:11:07] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[11:11:10] <span style="color:#cb7de6">CSJ: ((that would be cool))</span><br />
+[11:11:38] <span style="color:#0080ff">CFL: (( Should I make two seperate paste bins in HTML format? ))</span><br />
+[11:11:50] <span style="color:#0080ff">CFL: (( That you can copy onto the blog? ))</span><br />
+[11:12:24] <span style="color:#000000">CCC</span> made <span style="color:#000000">NN</span> an OP.<br />
+[11:12:24] <span style="color:#cb7de6">CSJ: ((um, sure.))</span><br />
+[11:12:39] <span style="color:#ee1e00">CCP: ((tumblr doesn't preserve color formatting though!))</span><br />
+[11:12:54] <span style="color:#0080ff">CFL: (( it does if you make a seperate page. ))</span><br />
+[11:13:20] <span style="color:#cb7de6">CSJ: ((that's why I save the html logs on dropbox))</span><br />
+[11:13:31] <span style="color:#ee1e00">CCP: ((^ dropbox ftw))</span><br />
+[11:14:09] <span style="color:#d1cfcd"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
+[11:14:39] <span style="color:#ee1e00">CCP: ((but yeah, to do colored text, you have to add custom classes to the blog theme itself. do View Source on my blog and scroll down to &lt;style type="text/css"&gt; to see what I mean...))</span><br />
+[11:19:52] <span style="color:#0080ff">CFL: (( Customize, add a page, custom layout, <a href='http://flmun.tumblr.com/Riyitic2'>http://flmun.tumblr.com/Riyitic2</a> ))</span><br />
+[11:20:15] <span style="color:#ee1e00">CCP: ((........))</span><br />
+[11:29:59] <span style="color:#0080ff">CFL: (( <a href='http://flmun.tumblr.com/Riyitic1'>http://flmun.tumblr.com/Riyitic1</a> <a href='http://flmun.tumblr.com/Riyitic2'>http://flmun.tumblr.com/Riyitic2</a> <a href='http://flmun.tumblr.com/Riyitic3'>http://flmun.tumblr.com/Riyitic3</a> ))</span><br />
+[11:30:16] <span style="color:#0080ff">CFL: (( thats all 3 of the events. ))</span><br />
+[11:30:52] <span style="color:#cb7de6">CSJ: ((why do I feel like I'm somehow somebody's maid or something???))</span><br />
+[11:31:23] <span style="color:#cb7de6">CSJ: ((why am I even overreacting about something so freaking simple to do))</span><br />
+[11:31:29] <span style="color:#cb7de6">CSJ: ((?))</span><br />
+[11:31:31] <span style="color:#0080ff">CFL: (( ...why would you think that? ))</span><br />
+[11:32:25] <span style="color:#cb7de6">CSJ: ((maybe it's the fact that I'd have to post an ENTIRE BULLETED RECAP for each one.))</span><br />
+[11:32:41] <span style="color:#0080ff">CFL: (( Or you could just post the links to the logs. ))</span><br />
+[11:32:50] <span style="color:#cb7de6">CSJ: ((I do both things.))</span><br />
+[11:32:54] <span style="color:#0080ff">CFL: (( and edit it with the recaps later. ))</span><br />
+[11:33:03] <span style="color:#0080ff">CFL: (( Over a larger period of time. ))</span><br />
+[11:33:13] <span style="color:#cb7de6">CSJ: (("later" meaning most likely never))</span><br />
+[11:33:32] <span style="color:#cb7de6">CSJ: ((I'm getting angry at myself for not complying))</span><br />
+[11:34:22] <span style="color:#0080ff">CFL: (( ...sorry. ))</span><br />
+[11:34:38] <span style="color:#0080ff">CFL: (( But now you know why Edward avoids the elevator. ))</span><br />
+[11:34:43] <span style="color:#cb7de6">CSJ: ((because clearly I'm supposed to update everything on this thing, seeing as I was left with the hotel blog without any left who appriciate its former history))</span><br />
+[11:35:26] <span style="color:#cb7de6">CSJ: ((you do know that I was there, right?))</span><br />
+[11:36:31] <span style="color:#0080ff">CFL: (( well I'm getting kinda tired, not thinking right. ))</span><br />
+[11:36:40] <span style="color:#d1cfcd"><span style="color:#000000">CUD</span> ceased responding to memo.</span><br />
+[11:37:30] <span style="color:#0080ff">CFL: (( well, you were gone for part 3 ))</span><br />
+[11:37:42] <span style="color:#cb7de6">CSJ: ((is it normal to be frustrated at the fact that I'm not entirely interested in being the only living person who still updates the hotel blog, despite the fact that nobody even reads it besides me?))</span><br />
+[11:38:16] <span style="color:#0080ff">CFL: (( Yes that is normal. ))</span><br />
+[11:40:11] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  nods off and falls asleep while reading --</span><br />
+[11:42:58] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  lightly snores on the library couch --</span><br />
+[11:43:19] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stares at the ground. --</span><br />
+[11:58:24] <span style="color:#0080ff">CFL: ...</span><br />
+[12:23:49] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:57:51] <span style="color:#000000">CCC</span> took away <span style="color:#0080ff">FL</span>'s OP powers.<br />

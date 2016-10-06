@@ -1,0 +1,735 @@
+[03:53:55] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 HOTEL.</span><br />
+[03:54:29] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:54:29] <span style="color:#ee1e00">CCP: [[((brb actually, gotta go press L and then I'll start))]]</span><br />
+[03:55:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks out of his room, wearing some cyan and pink clothing... that seems to be a bit sturdy. --</span><br />
+[03:56:09] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // And it looks like /cotton candy/ --</span><br />
+[03:56:40] <span style="color:#d1cfcd"><span style="color:#7ccfb2">CURRENT apocalypseGambit [CAG]</span> RIGHT NOW responded to memo.</span><br />
+[03:56:40] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is sprawled comfortably over her bed, half-asleep. She's reading through a book with a golden cover. --</span><br />
+[03:56:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  knocks on Alanna's door --</span><br />
+[03:57:00] <span style="color:#0080ff">CFL: Hey, would you mind setting me on fire?</span><br />
+[03:57:06] <span style="color:#0080ff">CFL: I wanna test this thing out.</span><br />
+[03:57:27] <span style="color:#ee1e00">CCP: [[((kback))]]</span><br />
+[03:57:41] <span style="color:#0080ff">CFL: ...</span><br />
+[03:57:46] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wakes up in his room, yawning... --</span><br />
+[03:57:47] <span style="color:#0080ff">CFL: I guess shes in the library...</span><br />
+[03:57:57] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  blinks, yawning as she sets her book down, rolls off her bed, and opens her door. --</span><br />
+[03:58:02] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[03:58:02] <span style="color:#000000">CTT: ((what'5 happening?))</span><br />
+[03:58:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  heads into the hall --</span><br />
+[03:58:06] <span style="color:#ee1e00">CCP: hm?</span><br />
+[03:58:12] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is walking to the elevator as the door is opened --</span><br />
+[03:58:14] <span style="color:#ee1e00">CCP: ((not much, just started))</span><br />
+[03:58:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has not noticed. --</span><br />
+[03:58:22] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  snaps her fingers, conjuring up a blast of fire and hurling it down the hall at Edward without a second thought. --</span><br />
+[03:58:31] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  ducks the fireball --</span><br />
+[03:58:36] <span style="color:#ee1e00">CCP: whoa! what?</span><br />
+[03:58:44] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gets hit in the back by the fireball, blinking and turning around. --</span><br />
+[03:58:48] <span style="color:#7ccfb2">CAG: He said to. Morning, puppy.</span><br />
+[03:58:50] <span style="color:#0080ff">CFL: ...Well, I know one thing.</span><br />
+[03:58:58] <span style="color:#0080ff">CFL: /The Fire Resistance works/</span><br />
+[03:59:10] <span style="color:#7ccfb2">CAG: That's cool, really. Mine works too.</span><br />
+[03:59:41] <span style="color:#0080ff">CFL: Not entirely immune to fire damage, so I won't be swimming in lava any time soon...</span><br />
+[03:59:48] <span style="color:#0080ff">CFL: Ah well...</span><br />
+[04:00:05] <span style="color:#ee1e00">CCP: ...</span><br />
+[04:00:09] <span style="color:#ee1e00">CCP: okay then...</span><br />
+[04:00:14] <span style="color:#7ccfb2">CAG: Lava is pretty thick. Not good for swimming.</span><br />
+[04:00:56] <span style="color:#0080ff">CFL: True...</span><br />
+[04:01:17] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  yawns again. --</span><br />
+[04:01:19] <span style="color:#0080ff">CFL: Might need a source of oxygen even if that did work...</span><br />
+[04:01:47] <span style="color:#7ccfb2">CAG: You can't /breathe/ fire. That's dumb.</span><br />
+[04:01:48] <span style="color:#0080ff">CFL: But I bet I could run along the surface if I was fast enough.</span><br />
+[04:02:11] <span style="color:#7ccfb2">CAG: Probably.</span><br />
+[04:02:22] <span style="color:#7ccfb2">CAG: I dunno, never tried.</span><br />
+[04:03:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // If Alanna has been to a Dwarf Fortress universe, she would recognize that Edward's new duds were made out of woven Adamantine. --</span><br />
+[04:03:29] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  knows nothing about adamantine. So much for that. --</span><br />
+[04:03:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Otherwise it just looks like cotton candy. --</span><br />
+[04:04:08] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  knows nothing about cotton candy either. --</span><br />
+[04:04:14] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares confused at Edward's clothes --</span><br />
+[04:05:48] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  where i5 everyone --</span><br />
+[04:06:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Second Floor --</span><br />
+[04:06:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Hallway. --</span><br />
+[04:08:39] <span style="color:#0080ff">CFL: ...So...</span><br />
+[04:08:42] <span style="color:#0080ff">CFL: Ah!</span><br />
+[04:08:50] <span style="color:#0080ff">CFL: I remember what I had planned today!</span><br />
+[04:08:56] <span style="color:#ee1e00">CCP: hm?</span><br />
+[04:09:14] <span style="color:#0080ff">CFL: I was going to go with Puppy back to his home plane and restore a god!</span><br />
+[04:09:28] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  peek5 in --</span><br />
+[04:09:31] <span style="color:#7ccfb2">CAG: … Hold up and /what/?</span><br />
+[04:09:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a small diamond, looking at it. --</span><br />
+[04:09:51] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  tucks it safely away. --</span><br />
+[04:10:37] <span style="color:#ee1e00">CCP: were you able to find a way to ensure we could return here afterward?</span><br />
+[04:10:55] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  stares intently at FL. She's trying to detect his surface thoughts. --</span><br />
+[04:11:05] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[04:11:26] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is thinking about how he /really/ hopes that Wish Diamond is going to work. --</span><br />
+[04:11:43] <span style="color:#7ccfb2">CAG: So… /what're/ we doing, exactly?</span><br />
+[04:12:11] <span style="color:#0080ff">CFL: We are going to go to Puppy's home and revive a god.</span><br />
+[04:12:21] <span style="color:#7ccfb2">CAG: Okay. How will we get back?</span><br />
+[04:12:24] <span style="color:#0080ff">CFL: And then we are going to go back.</span><br />
+[04:12:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  holds up two punch cards of information. --</span><br />
+[04:13:00] <span style="color:#0080ff">CFL: One going out, one to come back.</span><br />
+[04:13:10] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at the cards confused --</span><br />
+[04:13:11] <span style="color:#0080ff">CFL: Though we might need to stay a night.</span><br />
+[04:13:23] <span style="color:#7ccfb2">CAG: What's your dimension like, puppy?</span><br />
+[04:13:25] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  puts the normal classical punch cards away. --</span><br />
+[04:13:56] <span style="color:#ee1e00">CCP: it's kind of calm and peaceful, nothing like this place... except for the random monsters...</span><br />
+[04:14:15] <span style="color:#7ccfb2">CAG: Is it more of a magic, tech, or neutral dimension?</span><br />
+[04:14:24] <span style="color:#0080ff">CFL: ...random monsters.</span><br />
+[04:14:32] <span style="color:#0080ff">CFL: Yeah we better fix things there.</span><br />
+[04:14:37] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  inche5 clo5er --</span><br />
+[04:14:42] <span style="color:#7ccfb2">CAG: What makes it up to us?</span><br />
+[04:14:50] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  turns and notices TT --</span><br />
+[04:14:52] <span style="color:#ee1e00">CCP: ?</span><br />
+[04:15:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  finally picks up on the fact that Alanna is reading his thoughts, and blocks her out with a single word. "RUDE". --</span><br />
+[04:15:35] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // a single mental word that is. --</span><br />
+[04:15:36] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  stopped doing that a while ago. --</span><br />
+[04:15:43] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // oh nevermind then --</span><br />
+[04:16:09] <span style="color:#000000">CTT: h-h-hello...</span><br />
+[04:17:00] <span style="color:#ee1e00">CCP: hi there...</span><br />
+[04:17:12] <span style="color:#0080ff">CFL: Hey...</span><br />
+[04:17:36] <span style="color:#0080ff">CFL: You were there when we got back from the beach?</span><br />
+[04:17:39] <span style="color:#7ccfb2">CAG: 'ello.</span><br />
+[04:17:49] <span style="color:#7ccfb2">CAG: I have no idea what's going on.</span><br />
+[04:18:09] <span style="color:#000000">CTT: hmm...</span><br />
+[04:18:18] <span style="color:#0080ff">CFL: ...wait, now I remember!</span><br />
+[04:18:34] <span style="color:#0080ff">CFL: We bumped into you when we were in that Dragon made maze!</span><br />
+[04:18:55] <span style="color:#7ccfb2">CAG: Do you /know/ her, Edward?</span><br />
+[04:19:01] <span style="color:#0080ff">CFL: ...no sorry.</span><br />
+[04:19:06] <span style="color:#7ccfb2">CAG: Welp.</span><br />
+[04:19:11] <span style="color:#7ccfb2">CAG: Hi there, then.</span><br />
+[04:19:27] <span style="color:#0080ff">CFL: I just... kinda recognize her.</span><br />
+[04:19:49] <span style="color:#000000">CTT: huh..</span><br />
+[04:20:05] <span style="color:#0080ff">CFL: Lets go out into a large area for the Plane Shift.</span><br />
+[04:20:12] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads over to the elevator. --</span><br />
+[04:20:19] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[04:20:22] <span style="color:#000000">CTT: The wha...</span><br />
+[04:20:32] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  follow5 after out of curio5ity --</span><br />
+[04:21:00] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  heads after him. --</span><br />
+[04:22:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  goes to the ground floor using the elevator, and walks outside. --</span><br />
+[04:22:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues following --</span><br />
+[04:22:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stops. --</span><br />
+[04:23:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks infront of him. --</span><br />
+[04:23:03] <span style="color:#0080ff">CFL: Alright.</span><br />
+[04:23:18] <span style="color:#0080ff">CFL: I want you all to grab onto my right hand, and form a ring.</span><br />
+[04:23:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out the Pole of Plane Shift using his left hand. --</span><br />
+[04:24:00] <span style="color:#0080ff">CFL: As soon as I slam this into the ground, I want you to grab onto my left hand as fast as you can.</span><br />
+[04:24:28] <span style="color:#000000">CTT: ono</span><br />
+[04:24:32] <span style="color:#ee1e00">CCP: ?</span><br />
+[04:24:52] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  just sort of... grabs onto his hand? --</span><br />
+[04:24:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  grabs one of puppies paws using his Right hand. --</span><br />
+[04:25:13] <span style="color:#0080ff">CFL: Alanna, you grab onto Puppy.</span><br />
+[04:25:21] <span style="color:#0080ff">CFL: ...You coming with, uh....</span><br />
+[04:25:32] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  holds up his right front paw for her --</span><br />
+[04:26:34] <span style="color:#0080ff">CFL: ...What was your name again?</span><br />
+[04:27:51] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // oh man, I just got the /best idea/ for where they pop in. --</span><br />
+[04:28:06] <span style="color:#0080ff">CFL: (( TT? ))</span><br />
+[04:28:19] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  // I was thinking Kamui since that's where the power transfer happened... what did you have in mind? --</span><br />
+[04:28:31] <span style="color:#000000">CTT: U-um..me?</span><br />
+[04:28:38] <span style="color:#0080ff">CFL: (( A Kilometer above the ground. ))</span><br />
+[04:28:48] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[04:29:01] <span style="color:#000000">CTT: I'm..Kaτ..</span><br />
+[04:29:05] <span style="color:#0080ff">CFL: Alright Kat.</span><br />
+[04:29:27] <span style="color:#ee1e00">CCP: ((eh, that could work. because deep snow.))</span><br />
+[04:29:39] <span style="color:#0080ff">CFL: Grab onto Alanna's Right hand, and as soon as I slam this into the ground, grab my left.</span><br />
+[04:29:53] <span style="color:#0080ff">CFL: (( Well, FL knows feather fall, and could cast it ))</span><br />
+[04:30:09] <span style="color:#000000">CTT: Θ...okay..</span><br />
+[04:30:33] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  focuses, holding the Rod infront of him. --</span><br />
+[04:31:04] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  assumes AG grabbed on despite her afkness --</span><br />
+[04:31:14] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  i5 ju5t...ye --</span><br />
+[04:31:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  thrusts the Rod into the ground, magical runes popping up. --</span><br />
+[04:31:49] <span style="color:#0080ff">CFL: /PLANE SHIFT!/</span><br />
+[04:32:10] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  holds on tight --</span><br />
+[04:32:21] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  grab5 on --</span><br />
+[04:32:23] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  hand manages to link with Kats before the rod, and they... get warped a kilometer in the air above Kamui. --</span><br />
+[04:32:33] <span style="color:#0080ff">CFL: ...</span><br />
+[04:32:36] <span style="color:#ee1e00">CCP: ...</span><br />
+[04:32:44] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks down --</span><br />
+[04:33:02] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  grabs onto the rod, forming a chain... he is gonna have to cut this one close... closer... --</span><br />
+[04:33:07] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  muttered canine expletives --</span><br />
+[04:33:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is almost to the ground, when --</span><br />
+[04:33:16] <span style="color:#0080ff">CFL: /FEATHER FALL!/</span><br />
+[04:33:33] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  wait can i float --</span><br />
+[04:33:36] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  and the rest of the group instantly decelerate, landing softly in the snow. --</span><br />
+[04:34:21] <span style="color:#0080ff">CFL: ...that was a close one.</span><br />
+[04:34:41] <span style="color:#0080ff">CFL: At least it was snow this time.</span><br />
+[04:34:44] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //mandatory bgm, 8-bit edition: <a href='http://www.youtube.com/watch?v=zE_yUFcPbKo'>http://www.youtube.com/watch?v=zE_yUFcPbKo</a> --</span><br />
+[04:34:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slowly stands up. --</span><br />
+[04:34:52] <span style="color:#ee1e00">CCP: ...</span><br />
+[04:34:59] <span style="color:#0080ff">CFL: So, is this the place?</span><br />
+[04:35:09] <span style="color:#ee1e00">CCP: I... think so...?</span><br />
+[04:35:13] <span style="color:#0080ff">CFL: Alright.</span><br />
+[04:35:33] <span style="color:#0080ff">CFL: Did she leave a body? It might make this process easier...</span><br />
+[04:35:40] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  it's the frozen northern lands of Nippon alright... but very blizzardy, like WORSE than when you first visit in the game! --</span><br />
+[04:35:58] <span style="color:#ee1e00">CCP: I don't remember... it was a few years ago...</span><br />
+[04:36:06] <span style="color:#0080ff">CFL: I can do it without... ah, okay.</span><br />
+[04:36:30] <span style="color:#000000">CTT: c-c-cold...</span><br />
+[04:36:51] <span style="color:#ee1e00">CCP: it would probably help if we're at least /where/ it happened, it's not far...</span><br />
+[04:37:08] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  starts walking toward the Guardian Sapling... which is a solid ice cube?! --</span><br />
+[04:37:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows Kimura. --</span><br />
+[04:37:47] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // I mean puppy. --</span><br />
+[04:38:08] <span style="color:#000000">CTT: ...τhaτ's...</span><br />
+[04:38:12] <span style="color:#0080ff">CFL: ...what happened here.</span><br />
+[04:38:31] <span style="color:#ee1e00">CCP: I don't know... it was calm when I left...</span><br />
+[04:39:38] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stops at the foot of the Sapling --</span><br />
+[04:39:45] <span style="color:#ee1e00">CCP: here, this is where I met her...</span><br />
+[04:39:48] <span style="color:#0080ff">CFL: ...Do you know what she looked like?</span><br />
+[04:40:26] <span style="color:#ee1e00">CCP: did you bring your book thing? she looked very similar to the picture...</span><br />
+[04:40:34] <span style="color:#0080ff">CFL: ...alright.</span><br />
+[04:40:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  focuses. --</span><br />
+[04:40:47] <span style="color:#0080ff">CFL: /locate object Amaterasu's corpse/</span><br />
+[04:40:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is trying to find the body. --</span><br />
+[04:41:40] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT okamiAmmy [COA]</span> RIGHT NOW responded to memo.</span><br />
+[04:41:40] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#000000">[COA]</span>  is conveniently frozen in a sort of statue pose under a pile of snow nearby --</span><br />
+[04:41:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the snow. --</span><br />
+[04:42:01] <span style="color:#0080ff">CFL: ...Over here.</span><br />
+[04:42:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads over and begins to brush off the snow. --</span><br />
+[04:42:39] <span style="color:#ee1e00">COA: ((I have THREE IDENTICAL SHADES OF RED on my screen &gt;_&gt;))</span><br />
+[04:42:55] <span style="color:#0080ff">CFL: (( try a more... faded red ))</span><br />
+[04:43:18] <span style="color:#0080ff">CFL: (( like increasing the saturation to account for the white ))</span><br />
+[04:43:19] <span style="color:#770f00">COA: ((test))</span><br />
+[04:43:52] <span style="color:#000000">CTT: ...?</span><br />
+[04:43:52] <span style="color:#0080ff">CFL: (( I guess that works? ))</span><br />
+[04:44:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the frozen Ammy. --</span><br />
+[04:44:18] <span style="color:#770f00">COA: ((shrug. at least until revival, then I have to switch back because reasons.))</span><br />
+[04:44:29] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks over to look --</span><br />
+[04:44:33] <span style="color:#0080ff">CFL: ...oh my.</span><br />
+[04:44:50] <span style="color:#0080ff">CFL: ...think you can defrost the body slightly?</span><br />
+[04:44:50] <span style="color:#ee1e00">CCP: yeah... that's her! I think... I don't remember her being an ice statue though...</span><br />
+[04:45:15] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  nods and draws a small Fireburst --</span><br />
+[04:45:22] <span style="color:#0080ff">CFL: Alright.</span><br />
+[04:45:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out the diamond, cuping it in his two hands, holding it close to his chest, focusing. --</span><br />
+[04:46:42] <span style="color:#0080ff">CFL: /Resurrection/</span><br />
+[04:47:15] <span style="color:#d1cfcd">-- CURRENT okamiAmmy's <span style="color:#770f00">[COA'S]</span>  frozen body begins to glow --</span><br />
+[04:47:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Bright light shoots out from the gaps between Edward's fingers, as the Diamond shatters... something is happening... --</span><br />
+[04:48:11] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  a paw twitches... then the rest of the body slowly starts moving... --</span><br />
+[04:48:26] <span style="color:#ee1e00">CCP: ...!</span><br />
+[04:48:35] <span style="color:#0080ff">CFL: It worked!</span><br />
+[04:48:58] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  the glow subsides... and there she is, alive again... without markings? what. --</span><br />
+[04:48:59] <span style="color:#000000">CTT: wh..wha...</span><br />
+[04:49:01] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit's <span style="color:#7ccfb2">[CAG'S]</span>  Playe is basically asleep. She's standing there watching curiously. --</span><br />
+[04:49:15] *Player<br />
+[04:49:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  opens his hands, some tiny diamond dust glimmering as it rises into the air. --</span><br />
+[04:49:24] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  quietly barks "wh... where, am I?" --</span><br />
+[04:49:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at Puppy, hoping for a translation. --</span><br />
+[04:49:53] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "you... you're alive... and also, we're in Kamui..." --</span><br />
+[04:50:07] <span style="color:#ee1e00">CCP: she's asking what happened, basically.</span><br />
+[04:50:10] <span style="color:#0080ff">CFL: Ah.</span><br />
+[04:51:10] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "I... I remember you... Take, son of Canine Warrior Gi..." --</span><br />
+[04:51:22] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "...?!" --</span><br />
+[04:51:41] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "whaaaat?" --</span><br />
+[04:51:58] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at her, confused and amazed simultaniously --</span><br />
+[04:52:04] <span style="color:#0080ff">CFL: ...</span><br />
+[04:52:20] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "yes... what has happened... since I have been gone?" --</span><br />
+[04:53:07] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "quite a bit. been cleaning up the mess left over after you defeated the demons... then I got sent to a different world..." --</span><br />
+[04:53:27] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is watching the two. --</span><br />
+[04:53:29] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "another world? how?" --</span><br />
+[04:53:58] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "I wish I knew... and I think Nippon has gotten worse while I was gone..." --</span><br />
+[04:54:22] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  looks around at the uncannybrutal blizzard, and monsters in the distance --</span><br />
+[04:54:28] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  curl5 up trying to warm up --</span><br />
+[04:54:28] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "..." --</span><br />
+[04:54:54] <span style="color:#0080ff">CFL: ...so uh... anything I can do?</span><br />
+[04:55:05] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs at Edward --</span><br />
+[04:55:51] <span style="color:#0080ff">CFL: ...Well, we should at least find some shelter...</span><br />
+[04:55:55] <span style="color:#0080ff">CFL: Hold on.</span><br />
+[04:55:57] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "listen, Take... you have done well in my stead, but I need the brush powers back. please return them, so I can save this land again..." --</span><br />
+[04:56:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  digs into his Bag of Holding. --</span><br />
+[04:56:11] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  there is a nearby abandoned hut --</span><br />
+[04:56:11] <span style="color:#000000">CTT: s-s-someplace...warmer...hopefully</span><br />
+[04:56:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  spots the hut. --</span><br />
+[04:56:40] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "your friends appear to need help. let's take this inside..." --</span><br />
+[04:56:50] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  walks over toward the hut --</span><br />
+[04:56:53] <span style="color:#0080ff">CFL: ...</span><br />
+[04:56:57] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[04:57:10] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  walk5 --</span><br />
+[04:57:11] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows, putting away a miniature house model. --</span><br />
+[04:58:20] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  the inside of the hut is just a basic Oina-style house. there is a firepit inside, with a few pieces of wood in it already --</span><br />
+[04:58:26] <span style="color:#0080ff">CFL: ...</span><br />
+[04:58:41] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  points at the wood. --</span><br />
+[04:58:47] <span style="color:#ee1e00">CCP: yeah, got it.</span><br />
+[04:58:53] <span style="color:#0080ff">CFL: /Cone of Fire/</span><br />
+[04:58:58] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sets the wood on fire. --</span><br />
+[04:58:58] <span style="color:#ee1e00">CCP: ...oh.</span><br />
+[04:59:03] <span style="color:#ee1e00">CCP: that works too.</span><br />
+[04:59:21] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  5it5 on the floor --</span><br />
+[04:59:36] <span style="color:#0080ff">CFL: (( I mean burning hands shit ))</span><br />
+[04:59:44] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "yes, it is better to be warm, especially when you've been an ice statue for several years..." --</span><br />
+[04:59:54] <span style="color:#ee1e00">CCP: ((pff))</span><br />
+[04:59:59] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a box of granola bars. --</span><br />
+[05:00:07] <span style="color:#0080ff">CFL: Anyone hungry?</span><br />
+[05:00:16] <span style="color:#0080ff">CFL: I brought some rations.</span><br />
+[05:01:03] <span style="color:#000000">CTT: I'm o-okay....</span><br />
+[05:01:23] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  "now then... Take? the spell you require is called 'Ability Return'. you should be capable of it already, so when you are ready, please do so..." --</span><br />
+[05:01:34] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  hands one of the tasteless granola bars to TT. --</span><br />
+[05:01:36] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "okay." --</span><br />
+[05:01:58] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  take5 one anyway --</span><br />
+[05:02:07] <span style="color:#ee1e00">CCP: well... here I go, I guess...</span><br />
+[05:02:13] <span style="color:#0080ff">CFL: ...Hmm?</span><br />
+[05:02:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stands up, looking right at Ammy --</span><br />
+[05:02:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at Take and Ammy. --</span><br />
+[05:02:32] <span style="color:#ee1e00">CCP: /Ability Return/!</span><br />
+[05:03:10] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#770f00">[COA]</span>  a bunch of power orbs of the various brush techniques start to float out of Take, swirling around and entering Ammy --</span><br />
+[05:03:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  watches. --</span><br />
+[05:04:10] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  the red markings on him disappear, at the same time as they appear on her --</span><br />
+[05:04:27] <span style="color:#000000">CTT: h-h-huh..</span><br />
+[05:04:51] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  turns to Edward and tries to say "I think I did it...", but only barks instead --</span><br />
+[05:05:01] <span style="color:#0080ff">CFL: ...</span><br />
+[05:05:14] <span style="color:#0080ff">CFL: Welp looks like I have to do that... again.</span><br />
+[05:05:29] <span style="color:#ee1e00">COA: ...</span><br />
+[05:05:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at Ammy. --</span><br />
+[05:05:41] <span style="color:#0080ff">CFL: Everything alright?</span><br />
+[05:05:48] <span style="color:#ee1e00">COA: um... I think you overdid it, Take...</span><br />
+[05:06:02] <span style="color:#0080ff">CFL: ...is that puppy's name?</span><br />
+[05:06:21] <span style="color:#ee1e00">COA: it transferred /all/ your abilities, including Tongues. and yes, that is his name.</span><br />
+[05:06:43] <span style="color:#0080ff">CFL: Ah.</span><br />
+[05:06:55] <span style="color:#0080ff">CFL: That explains it.</span><br />
+[05:07:20] <span style="color:#ee1e00">COA: hold on, just need to take care of something first...</span><br />
+[05:07:26] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  heads outside --</span><br />
+[05:07:28] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  digs in his bag, looking for the button he used before. --</span><br />
+[05:07:59] <span style="color:#7ccfb2">CAG: Huh. So puppy has a name.</span><br />
+[05:08:28] <span style="color:#ee1e00">COA: [[((pseudo-afk, talking oocly to SL about something...))]]</span><br />
+[05:09:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out the Button of Permanency --</span><br />
+[05:10:06] <span style="color:#ee1e00">COA: [[((kback))]]</span><br />
+[05:10:33] <span style="color:#0080ff">CFL: There is way.</span><br />
+[05:10:33] <span style="color:#7ccfb2">CAG: [[(( aaagh cannot stay awake ))]]</span><br />
+[05:10:37] <span style="color:#0080ff">CFL: was*</span><br />
+[05:10:47] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  looks up into the sky, at the VERY angry clouds and the ice cube of a Sapling --</span><br />
+[05:10:55] <span style="color:#0080ff">CFL: there it was*</span><br />
+[05:11:11] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "hold on guys, I think she has a plan first..." --</span><br />
+[05:11:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "oh... right." --</span><br />
+[05:11:22] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  nervou5ly look5 around --</span><br />
+[05:11:43] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at puppy. --</span><br />
+[05:11:45] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  focuses... and draws a canvas-filling Sunrise --</span><br />
+[05:11:54] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks to the door to watch --</span><br />
+[05:11:55] <span style="color:#0080ff">CFL: /Tongues/</span><br />
+[05:12:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has cast the magic spell on Take. --</span><br />
+[05:12:42] <span style="color:#ee1e00">CCP: ...</span><br />
+[05:12:45] <span style="color:#ee1e00">CCP: okay then...</span><br />
+[05:13:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waits for the button thingy, still watching the sky --</span><br />
+[05:13:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sets the button down near Take. --</span><br />
+[05:13:23] <span style="color:#7ccfb2">CAG: This is curious.</span><br />
+[05:13:40] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  presses it --</span><br />
+[05:13:54] <span style="color:#ee1e00">COA: ((sorry, loading screen, looking a thing up!))</span><br />
+[05:14:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // It works, a voice saying "that was easy!" can be heard from the button. --</span><br />
+[05:14:33] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //pfffffffft --</span><br />
+[05:14:52] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  //shakes her fist at Chaos --</span><br />
+[05:15:06] <span style="color:#0080ff">CFL: (( what ))</span><br />
+[05:15:17] <span style="color:#0080ff">CFL: (( Did chaos do that or- ))</span><br />
+[05:15:23] <span style="color:#7ccfb2">CAG: (( Easy buttons, man. They were his thing. ))</span><br />
+[05:15:29] <span style="color:#0080ff">CFL: (( ah. ))</span><br />
+[05:15:31] <span style="color:#7ccfb2">CAG: (( Well, one of his things. ))</span><br />
+[05:17:35] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  the sky starts to glow around where Sunrise was used... a beam of light slowly opening above the Guardian Ice Cube. moments later, a rough-sketch drawing of the sapling descends around it... a wave of ink washing over it, and the Sapling regains its form, doing the old "restoring the land" sequence over Kamui --</span><br />
+[05:18:49] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  watches the lights, a grin forming on his face. --</span><br />
+[05:19:05] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  in the distance to the south, more beams of light open, corresponding to the other Saplings. the same thing happens to them, an ink-sketch form descending onto them, they restore, then it washes over the other parts of Nippon --</span><br />
+[05:19:39] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at the light show, amazed --</span><br />
+[05:20:41] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  the infinite snowstorm finally subsides, and a second wave of ink washes over the land from each Sapling, restoring the statue people you didn't notice until just now --</span><br />
+[05:21:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  watchs the magical light show. --</span><br />
+[05:21:47] <span style="color:#000000">CTT: w-w-whoa...</span><br />
+[05:21:48] <span style="color:#0080ff">CFL: ...wow.</span><br />
+[05:21:54] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  the light show in the sky fades to a regular light grey with calm snowfall. hey, you /are/ in the northern part of the land after all! --</span><br />
+[05:22:03] <span style="color:#ee1e00">CCP: cool...</span><br />
+[05:22:06] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  more staring! --</span><br />
+[05:22:24] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  flops down, panting... --</span><br />
+[05:22:34] <span style="color:#ee1e00">COA: phew... it's been forever since I had to do that...</span><br />
+[05:22:46] <span style="color:#0080ff">CFL: ...You alright?</span><br />
+[05:23:08] <span style="color:#ee1e00">COA: yeah, think so.</span><br />
+[05:23:20] <span style="color:#0080ff">CFL: Okay, good.</span><br />
+[05:23:30] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  gets up and walks over to them --</span><br />
+[05:23:33] <span style="color:#7ccfb2">CAG: That was /incredibly/ cool.</span><br />
+[05:23:49] <span style="color:#7ccfb2">CAG: So… you're a god?</span><br />
+[05:24:03] <span style="color:#ee1e00">COA: thank you, Take. now I can resume my role as this land's protector. and yes Alanna.</span><br />
+[05:24:14] <span style="color:#0080ff">CFL: ...</span><br />
+[05:24:31] <span style="color:#ee1e00">COA: what, surprised I know your names already? :D</span><br />
+[05:24:45] <span style="color:#0080ff">CFL: Okay either you two have met, Take introduced you, or She can read minds.</span><br />
+[05:25:08] <span style="color:#ee1e00">CCP: don't look at me, I didn't say anything...</span><br />
+[05:25:10] <span style="color:#7ccfb2">CAG: … I'm not surprised, I mean, you're a god.</span><br />
+[05:25:26] <span style="color:#7ccfb2">CAG: I'm not entirely unfamiliar with gods.</span><br />
+[05:25:41] <span style="color:#ee1e00">CCP: anyway, now what? I guess I'm just a regular wolf again. one that can talk, but still.</span><br />
+[05:25:45] <span style="color:#7ccfb2">CAG: Should I be bowing or something, actually? I don't know how strict you are about rituals, or what they are.</span><br />
+[05:26:16] <span style="color:#ee1e00">COA: no, it's fine. really, I'm just happy to be back in the land.</span><br />
+[05:26:48] <span style="color:#0080ff">CFL: ...So, I guess the Wish Diamond really did the trick.</span><br />
+[05:26:52] <span style="color:#ee1e00">COA: [[((brbafk, weird noise in the back!))]]</span><br />
+[05:28:53] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  stares intently at puppy, curious about something. Then she shakes her head, steps over, and places a hand on his back, resuming staring. She's trying to see whether he has anything detectable as a channelling capacity, though isn't entirely sure what other dimensions' capacity for magic feels the same as hers. --</span><br />
+[05:30:28] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  //I dunno either, I'm not that familiar with most RPGs' magic systems :P --</span><br />
+[05:31:04] <span style="color:#ee1e00">COA: yes Edward, the diamond is precisely what was necessary...</span><br />
+[05:31:05] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  //shruuugs I actually am not primarily using RPG systems with her --</span><br />
+[05:31:15] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  //wwhatevver --</span><br />
+[05:31:15] <span style="color:#000000">CTT: ...so...sleepy...</span><br />
+[05:31:58] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  gives up. --</span><br />
+[05:33:16] <span style="color:#7ccfb2">CAG: Uh… puppy, are you still a magical creature in any way?</span><br />
+[05:33:22] <span style="color:#ee1e00">COA: also, there is something else I want to inform you of, Take. it's a bit hard to explain, though...</span><br />
+[05:33:52] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "plus, I would prefer to tell you in a way that the others can't understand, since it's kind of a secret..." --</span><br />
+[05:33:56] <span style="color:#ee1e00">CCP: ?</span><br />
+[05:34:05] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "what is it?" --</span><br />
+[05:34:13] <span style="color:#0080ff">CFL: ...Okay, Secret, I got it.</span><br />
+[05:34:21] <span style="color:#7ccfb2">CAG: Aw.</span><br />
+[05:34:26] <span style="color:#0080ff">CFL: I guess thats why you two are barking anyways...</span><br />
+[05:34:45] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  nods at him --</span><br />
+[05:34:49] <span style="color:#0080ff">CFL: Come on, lets go before I change my mind about not using tongues on myself.</span><br />
+[05:34:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks outside. --</span><br />
+[05:35:19] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  sighs and follows him. --</span><br />
+[05:35:19] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "basically... even without the Brush Gods, you are still capable of using the Brush." --</span><br />
+[05:35:34] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  kinda assumed everyone WAS outside because of the light show... --</span><br />
+[05:35:46] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  had been watching from a window! --</span><br />
+[05:36:12] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "it will take a lot of effort on your part, but you can relearn the techniques, and more, on your own." --</span><br />
+[05:36:14] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  was in no way going outside while gods were doing magic there. --</span><br />
+[05:36:23] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "wait, really?" --</span><br />
+[05:36:55] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  decides to attempt to prepare the Rod of Plane Shift... but fails because /fucking cooldown time/ --</span><br />
+[05:37:11] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "yeah. they will not be quite the same as my own, but in time you should be able to..." --</span><br />
+[05:37:16] <span style="color:#0080ff">CFL: Alanna, we might be spending a night here.</span><br />
+[05:37:35] <span style="color:#000000">CTT: b-b-b-buτ iτ's so cold...</span><br />
+[05:37:53] <span style="color:#ee1e00">COA: hold on there, you're not leaving without Take... or at the very least, not without a way for him to return to your dimension and back.</span><br />
+[05:37:57] <span style="color:#7ccfb2">CAG: Fine by me. *snaps her fingers, conjuring a very hot ball of fire* I have warmth.</span><br />
+[05:38:05] <span style="color:#0080ff">CFL: I wasn't going to!</span><br />
+[05:38:18] <span style="color:#0080ff">CFL: I was just going to prepare it so we could!</span><br />
+[05:38:28] <span style="color:#0080ff">CFL: After all, it still has the settings for /here/</span><br />
+[05:38:43] <span style="color:#ee1e00">COA: ...and if you need a warm place to go, take the tunnel to the side. it will take you south to Shinshu Field.</span><br />
+[05:38:50] <span style="color:#0080ff">CFL: Or would you rather we teleport to a plane randomly that might not even have /air/?</span><br />
+[05:38:55] <span style="color:#0080ff">CFL: ...Sorry.</span><br />
+[05:39:01] <span style="color:#ee1e00">COA: ...</span><br />
+[05:39:04] <span style="color:#0080ff">CFL: I guess I'm a bit in a bad mood.</span><br />
+[05:39:16] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  stares at him confused about that comment --</span><br />
+[05:39:46] <span style="color:#0080ff">CFL: Sorry, I warped to the elemental plane of water once... not fun.</span><br />
+[05:39:52] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "anyway, if you get really good at it, you might even be able to make up your own brush techniques." --</span><br />
+[05:40:02] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "...whoa, really?" --</span><br />
+[05:40:07] <span style="color:#7ccfb2">CAG: Oooh, uuugh… that doesn't sound like fun.</span><br />
+[05:40:40] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "yeah. but for now, I think all of you should probably rest... and I need to get back to work." --</span><br />
+[05:41:31] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "you remember the way to Kamiki Village, correct?" --</span><br />
+[05:41:36] <span style="color:#0080ff">CFL: ...Lets spruce up the cabin a bit more.</span><br />
+[05:41:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at the cabin. --</span><br />
+[05:41:59] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "yeah. south to Shinshu, then a right at the dojo." --</span><br />
+[05:42:05] <span style="color:#7ccfb2">CAG: Like how?</span><br />
+[05:42:25] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  "okay. but I think your friends seem to be working on something already..." --</span><br />
+[05:42:41] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  stares at FL and AG doing things --</span><br />
+[05:42:47] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  i5 ju5t being...uhh..u5ele55 --</span><br />
+[05:42:53] <span style="color:#ee1e00">CCP: yeah, probably should go help them out...</span><br />
+[05:42:57] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is covered in fire now because she's cold. --</span><br />
+[05:43:34] <span style="color:#ee1e00">COA: indeed. and before you all leave, I have something to give you, but I have to go to Sei-An City first...</span><br />
+[05:43:54] <span style="color:#ee1e00">COA: see you later...</span><br />
+[05:44:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  backs away from Alanna. --</span><br />
+[05:44:01] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  waves. --</span><br />
+[05:44:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  waves. --</span><br />
+[05:44:12] <span style="color:#7ccfb2">CAG: Can we hurry up I'm freezing out here.</span><br />
+[05:44:13] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  runs southward through the tunnel to Shinshu --</span><br />
+[05:44:22] <span style="color:#d1cfcd"><span style="color:#000000">COA</span> ceased responding to memo.</span><br />
+[05:44:32] <span style="color:#0080ff">CFL: Alright.</span><br />
+[05:44:34] <span style="color:#ee1e00">CCP: ...okay then.</span><br />
+[05:45:05] <span style="color:#ee1e00">CCP: now, she said we can spend the night at Kamiki Village, which is a LOT warmer than here...</span><br />
+[05:45:16] <span style="color:#000000">CTT: LET'S GΘ THERE.</span><br />
+[05:45:23] <span style="color:#0080ff">CFL: I can magically create a better hut, as the Rod is going to take until tomorrow to recharge.</span><br />
+[05:45:30] <span style="color:#0080ff">CFL: It has electric heating.</span><br />
+[05:45:33] <span style="color:#000000">CTT: I LIKE THE CΘLD BUT THIS IS /TΘΘ CΘLD/</span><br />
+[05:45:51] <span style="color:#7ccfb2">CAG: I hate cold. It's too cold. Let's go to the other place and… /explore/.</span><br />
+[05:46:02] <span style="color:#ee1e00">CCP: so, shall we go then?</span><br />
+[05:46:05] <span style="color:#000000">CTT: ....FL...we're in anoτher realm...leτ's noτ modify τoo much of iτ because bad τhings τend τo happen if you do τhaτ</span><br />
+[05:46:13] <span style="color:#0080ff">CFL: ...Well, its temporary.</span><br />
+[05:46:21] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out a model house. --</span><br />
+[05:46:23] <span style="color:#7ccfb2">CAG: Yes. We shall go.</span><br />
+[05:46:28] <span style="color:#0080ff">CFL: ...aw.</span><br />
+[05:46:36] <span style="color:#000000">CTT: ...buτ I...I kind of wanτ τo look around...</span><br />
+[05:46:36] <span style="color:#0080ff">CFL: I wanted an excuse to use this :&lt;</span><br />
+[05:46:43] <span style="color:#7ccfb2">CAG: But /exploring/!</span><br />
+[05:46:57] <span style="color:#7ccfb2">CAG: C'mon puppy, you know the way.</span><br />
+[05:47:11] <span style="color:#ee1e00">CCP: yeah</span><br />
+[05:47:27] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  starts heading for the same tunnel Ammy ran off through --</span><br />
+[05:47:35] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  follow5 --</span><br />
+[05:47:38] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  follows, putting the model away. --</span><br />
+[05:47:39] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  follows him like whee. --</span><br />
+[05:48:57] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  huh, the tunnel seemed longer before... anyway, they exit a stone observatory on a hill and wow look at that huge grass field --</span><br />
+[05:49:08] <span style="color:#0080ff">CFL: ...</span><br />
+[05:49:14] <span style="color:#0080ff">CFL: /grass/</span><br />
+[05:49:47] <span style="color:#0080ff">CFL: Alright, Take, we should use your money, after all, people are going to freak out if they see a talking dog.</span><br />
+[05:50:06] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  carefully makes herself stop being on fire. --</span><br />
+[05:50:14] <span style="color:#ee1e00">CCP: probably...</span><br />
+[05:50:27] <span style="color:#0080ff">CFL: Alright, so lets figure out our stories...</span><br />
+[05:50:39] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[05:51:13] <span style="color:#7ccfb2">CAG: Dimension traveller. Collector of magic. Not much else to say.</span><br />
+[05:51:16] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  forgot the obligatory bgm: <a href='http://www.youtube.com/watch?v=8yKG-Qu4WvM'>http://www.youtube.com/watch?v=8yKG-Qu4WvM</a> --</span><br />
+[05:51:17] <span style="color:#0080ff">CFL: We are a group of traveling entertainers who occasionally put on shows. We are simply passing through, and will be gone in the morning.</span><br />
+[05:51:36] <span style="color:#0080ff">CFL: ...Alanna, if we say that, people are going to think we are insane.</span><br />
+[05:51:52] <span style="color:#7ccfb2">CAG: Puppy, does your world have beings that look like me'n Edward?</span><br />
+[05:52:00] <span style="color:#7ccfb2">CAG: And are you guys familiar with other dimensions?</span><br />
+[05:52:36] <span style="color:#ee1e00">CCP: well, assuming you're /human/, then yeah. you guys would basically just be seen as foreigners... as for other dimensions, nope.</span><br />
+[05:52:48] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[05:52:48] <span style="color:#000000">CTT: [((aaaaa))]</span><br />
+[05:52:57] <span style="color:#000000">CTT: ((what happened?))</span><br />
+[05:53:20] <span style="color:#7ccfb2">CAG: Hm.</span><br />
+[05:53:24] <span style="color:#ee1e00">CCP: ((Ammy left for Sei-An City, and we went south to the very NOT-COLD Shinshu Field.))</span><br />
+[05:53:34] <span style="color:#000000">CTT: H...hm..</span><br />
+[05:53:36] <span style="color:#7ccfb2">CAG: Do you regularly have/do magic?</span><br />
+[05:53:50] <span style="color:#ee1e00">CCP: ((by the way, just wondering if anyone got what the refrance in that land-restoration sequence...?))</span><br />
+[05:54:18] <span style="color:#ee1e00">CCP: not really the kind of magic you're familiar with, no...</span><br />
+[05:54:31] <span style="color:#7ccfb2">CAG: Haha, I've seen a lot. What kind?</span><br />
+[05:55:41] <span style="color:#0080ff">CFL: ...Is it basically card tricks?</span><br />
+[05:55:48] <span style="color:#000000">CTT: w-w-would τhey freak ouτ over s-someone who can fly..?</span><br />
+[05:55:56] <span style="color:#ee1e00">CCP: well, mostly just fake, "traveling entertainer" magic as Edward put it. as far as real magic, just things like brush techniques and stuff</span><br />
+[05:55:59] <span style="color:#7ccfb2">CAG: /You can fly/?!</span><br />
+[05:56:15] <span style="color:#ee1e00">CCP: flying, maybe... wait, you can fly what</span><br />
+[05:56:23] <span style="color:#7ccfb2">CAG: Can you /teach me/?</span><br />
+[05:56:36] <span style="color:#0080ff">CFL: Alanna, I have a spell that does that.</span><br />
+[05:56:55] <span style="color:#0080ff">CFL: I'll teach you when we get back.</span><br />
+[05:57:02] <span style="color:#000000">CTT: well, τo be more accuraτe...floaτing...</span><br />
+[05:57:14] <span style="color:#000000">CTT: and i haven'τ done so in a while..</span><br />
+[05:57:19] <span style="color:#7ccfb2">CAG: Okay. And that's still neat, uh… you.</span><br />
+[05:57:23] <span style="color:#ee1e00">CCP: but yeah, as far as "real" magic, the only kind people around here are familiar with is brush abilities and other "Divine Interventions"...</span><br />
+[05:57:31] <span style="color:#7ccfb2">CAG: Puppy, what's DI?</span><br />
+[05:57:47] <span style="color:#7ccfb2">CAG: More specifically, can it be taught or studied by an outsider?</span><br />
+[05:58:04] <span style="color:#ee1e00">CCP: ...that's hard to explain without knowing the culture of this land...</span><br />
+[05:58:14] <span style="color:#0080ff">CFL: Magic cast by the gods themselves, way out of our league I presume.</span><br />
+[05:58:33] <span style="color:#ee1e00">CCP: basically yeah, though the Brush is technically a form of it.</span><br />
+[05:58:46] <span style="color:#7ccfb2">CAG: What's that? Your tail magic?</span><br />
+[05:58:48] <span style="color:#000000">CTT: τ...τhaτ will b..be a problem..</span><br />
+[05:59:05] <span style="color:#ee1e00">CCP: yeah</span><br />
+[05:59:13] <span style="color:#0080ff">CFL: Hmm?</span><br />
+[05:59:39] <span style="color:#7ccfb2">CAG: Does it specifically require a /tail/?</span><br />
+[05:59:53] <span style="color:#0080ff">CFL: We can't use it.</span><br />
+[06:00:09] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[06:00:18] <span style="color:#0080ff">CFL: So lets /not freak out the ones who reside on this plane/</span><br />
+[06:00:39] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit's <span style="color:#7ccfb2">[CAG'S]</span>  hair bursts into flame as she shoots FL a glare. --</span><br />
+[06:00:50] <span style="color:#000000">CTT: w-whaτ if w-we geτ aττacked..?</span><br />
+[06:01:36] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT messengerIda [CMI]</span> RIGHT NOW responded to memo.</span><br />
+[06:01:36] <span style="color:#d1cfcd">-- CURRENT messengerIda <span style="color:#000000">[CMI]</span>  a guy carrying some kinda mailbag runs up to them --</span><br />
+[06:01:53] <span style="color:#828fc3">CMI: Hey! I don't think I've seen you guys before. You like, foreigners or something?</span><br />
+[06:02:08] <span style="color:#7ccfb2">CAG: Yeah. Foreigners.</span><br />
+[06:02:13] <span style="color:#0080ff">CFL: Yes.</span><br />
+[06:02:19] <span style="color:#000000">CTT: M..mhm..</span><br />
+[06:02:40] <span style="color:#d1cfcd">-- CURRENT messengerIda <span style="color:#828fc3">[CMI]</span>  continues running in place as he looks them over, then shrugs --</span><br />
+[06:02:49] <span style="color:#0080ff">CFL: We are going to stop here for the night, as we need to continue traveling soon.</span><br />
+[06:03:08] <span style="color:#828fc3">CMI: Okay. If ya need a place to stay, Kamiki Village is right over thataway!</span><br />
+[06:03:22] <span style="color:#0080ff">CFL: ...Do you guys have an Inn?</span><br />
+[06:03:39] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  has already started walking "thataway". --</span><br />
+[06:03:45] <span style="color:#828fc3">CMI: Yeah, I think they built one a few months ago!</span><br />
+[06:04:05] <span style="color:#d1cfcd">-- CURRENT messengerIda <span style="color:#828fc3">[CMI]</span>  looks at Take --</span><br />
+[06:04:12] <span style="color:#828fc3">CMI: Interesting pet wolf ya got there!</span><br />
+[06:04:16] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[06:04:20] <span style="color:#000000">CTT: τ-τ-τhank you for τhe...τhe help..</span><br />
+[06:04:22] <span style="color:#828fc3">CMI: Anyway, I'm late on my deliveries, so see ya!</span><br />
+[06:04:23] <span style="color:#0080ff">CFL: Hes a good dog.</span><br />
+[06:04:37] <span style="color:#d1cfcd">-- CURRENT messengerIda <span style="color:#828fc3">[CMI]</span>  runs off on his infinite-loop delivery route again --</span><br />
+[06:05:14] <span style="color:#000000">CTT: l...leτ's go..</span><br />
+[06:05:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  watches him run off, before following the others "thataway" --</span><br />
+[06:05:23] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  wheee walking --</span><br />
+[06:06:08] <span style="color:#d1cfcd"><span style="color:#000000">CMI</span> ceased responding to memo.</span><br />
+[06:07:01] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls out a coin bag with about 50,000 yen inside, handing it to Edward --</span><br />
+[06:07:15] <span style="color:#ee1e00">CCP: this should be more than enough money for whatever we need for the night...</span><br />
+[06:07:33] <span style="color:#0080ff">CFL: Alright.</span><br />
+[06:07:47] <span style="color:#0080ff">CFL: Lets just find an inn that allows pets.</span><br />
+[06:09:01] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  continues walking toward the village --</span><br />
+[06:10:13] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is following. --</span><br />
+[06:13:35] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  it's a fairly short distance, and they quickly arrive at the village entrance --</span><br />
+[06:14:07] <span style="color:#000000">CTT: hm..</span><br />
+[06:14:11] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //map: <a href='http://okami.neoseeker.com/wiki/File:KamikiVillageMap.jpg'>http://okami.neoseeker.com/wiki/File:KamikiVillageMap.jpg</a> and obligatory bgm: <a href='http://www.youtube.com/watch?v=IMzmwWmZx2g'>http://www.youtube.com/watch?v=IMzmwWmZx2g</a> --</span><br />
+[06:15:01] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  there is one noticeable change from canon, though: an inn on that area of empty land by the river --</span><br />
+[06:15:55] <span style="color:#ee1e00">CCP: hmm. I think that's the place the guy was talking about, over there...</span><br />
+[06:16:12] <span style="color:#000000">CTT: o...okay..</span><br />
+[06:16:49] <span style="color:#0080ff">CFL: Alright.</span><br />
+[06:16:53] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks inside. --</span><br />
+[06:17:19] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows, remembering to keep his mouth shut --</span><br />
+[06:17:30] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is ignoring the inn in favour of looking around for any other interesting buildings. --</span><br />
+[06:18:16] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT kamikiInnkeeper [CKI]</span> RIGHT NOW responded to memo.</span><br />
+[06:18:16] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#000000">[CKI]</span>  the regular occupants of the village walk around, focused on the tasks of everyday life and not paying much attention to the newcomers... --</span><br />
+[06:18:24] <span style="color:#0080ff">CFL: Hey, we were passing through, do you guys have a room that allows pets?</span><br />
+[06:18:34] <span style="color:#0080ff">CFL: We would need three beds...</span><br />
+[06:18:44] <span style="color:#85765f">CKI: ((btw, is it normal to have to make this many one-off alt handles for an event?))</span><br />
+[06:18:49] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  cannot tell from the map what all is here. Is there a market or library or… what buildings are there? --</span><br />
+[06:19:22] <span style="color:#0080ff">CFL: (( maybe? ))</span><br />
+[06:19:27] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  just a bunch of homes, and a mill for making sake... that's about it --</span><br />
+[06:20:23] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is disappoint. --</span><br />
+[06:20:28] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  in the inn, a small explosion is heard, and a man comes out, covered in watermelon mush --</span><br />
+[06:21:06] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  it's the first area of the game Gambit, whatcha expect? I couldn't have you guys go ALL THE WAY TO SEI-AN without the ability to warp, could I? --</span><br />
+[06:21:54] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is perfectly willing to learn how to warp!!! --</span><br />
+[06:21:58] <span style="color:#85765f">CKI: Ugh... Never using melons that have been in Tama's house, ever again!</span><br />
+[06:22:21] <span style="color:#000000">CTT: ...wha...</span><br />
+[06:22:28] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  I meant, Take hasn't started relearning brush techniques yet so no Mist Warp --</span><br />
+[06:23:07] <span style="color:#85765f">CKI: Oh! Uh... Irasshaimase! Welcome to Kamiki Inn! Sorry about the mess, a bit of an accident in the back room! How can I help you?</span><br />
+[06:23:19] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  nuts -.- --</span><br />
+[06:23:24] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  fine goes into the in.. --</span><br />
+[06:24:02] <span style="color:#0080ff">CFL: I was hoping I could get a room for three, plus a pet.</span><br />
+[06:24:18] <span style="color:#7ccfb2">CAG: What? Why a room for /three/?</span><br />
+[06:25:03] <span style="color:#0080ff">CFL: Hey, are you saying you want to sleep on the floor?</span><br />
+[06:25:12] <span style="color:#0080ff">CFL: It will be cheaper this way.</span><br />
+[06:25:14] <span style="color:#85765f">CKI: Well, are there anyone else with you? I just see you, him, the shy girl, and the dog.</span><br />
+[06:25:26] <span style="color:#85765f">CKI: And yes, that's perfectly fine.</span><br />
+[06:25:34] <span style="color:#0080ff">CFL: How much?</span><br />
+[06:25:35] <span style="color:#85765f">CKI: How long are you staying?</span><br />
+[06:25:41] <span style="color:#0080ff">CFL: Just for tonight.</span><br />
+[06:26:03] <span style="color:#85765f">CKI: Okay. That will be... let's see, 850 yen.</span><br />
+[06:26:04] <span style="color:#7ccfb2">CAG: I was saying why am I sleeping with you people, ugh… fine.</span><br />
+[06:28:56] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  waits for FL to stop zoning out --</span><br />
+[06:29:15] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pays the innkeeper. --</span><br />
+[06:29:25] <span style="color:#0080ff">CFL: ...Actually, lets split it into two rooms.</span><br />
+[06:29:44] <span style="color:#0080ff">CFL: One for the ladies, and one for me and Take here.</span><br />
+[06:29:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  points at Take. --</span><br />
+[06:29:56] <span style="color:#0080ff">CFL: I'll pay extra.</span><br />
+[06:30:21] <span style="color:#85765f">CKI: Oh? I see... Well, the two rooms on the second floor are open... And no need, the charge is only per-person or animal.</span><br />
+[06:30:26] <span style="color:#0080ff">CFL: Alright.</span><br />
+[06:30:36] <span style="color:#85765f">CKI: ((sup SJ))</span><br />
+[06:30:47] <span style="color:#7ccfb2">CAG: Do you have fire/smoke detectors?</span><br />
+[06:30:52] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Shall we timeskip? --</span><br />
+[06:31:04] <span style="color:#85765f">CKI: ((you want we should say you were here the whole time? the party planewarped to Nippon...))</span><br />
+[06:31:09] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at Alanna and gives her a quick glare. --</span><br />
+[06:31:14] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  //// ToH is starting soon, innit? --</span><br />
+[06:31:20] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[06:31:20] <span style="color:#cb7de6">CSJ: ((sure))</span><br />
+[06:31:22] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  glares back at him. --</span><br />
+[06:31:29] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  stops zoning out --</span><br />
+[06:31:39] <span style="color:#cb7de6">CSJ: huhwhat, where are we??? ➜</span><br />
+[06:31:45] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks around --</span><br />
+[06:31:55] <span style="color:#85765f">CKI: [[((yes, it is. that's why I was thinking of ending the plot shortly so we can go to that.))]]</span><br />
+[06:32:13] <span style="color:#0080ff">CFL: Oh, forgot about her.</span><br />
+[06:32:25] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out more yen. --</span><br />
+[06:32:31] <span style="color:#85765f">CKI: Oh! Uh, I didn't see you there... Um... 250 yen more, please.</span><br />
+[06:32:40] <span style="color:#7ccfb2">CAG: … Can I just sleep on the roof or something.</span><br />
+[06:32:49] <span style="color:#85765f">CKI: ...</span><br />
+[06:33:00] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  stares at Alanna, confused as to why even --</span><br />
+[06:33:06] <span style="color:#85765f">CKI: Uh... Sure?</span><br />
+[06:33:10] <span style="color:#000000">CTT: h-huh..</span><br />
+[06:33:11] <span style="color:#7ccfb2">CAG: Sweet, thanks.</span><br />
+[06:33:31] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // TIMEEEE SKIIIIP --</span><br />
+[06:34:08] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  //okay, if you want to finish the event /at the hotel/, sure. --</span><br />
+[06:34:16] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  //one sec... --</span><br />
+[06:34:40] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  Is the roof flat? --</span><br />
+[06:35:15] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  yeah. and it's the next morning now. --</span><br />
+[06:35:46] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is asleep on the roof inside a circle of whitish-glowing runes. --</span><br />
+[06:36:06] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  thanks the inn keeper, and manages to lead the group to the outside of the town. --</span><br />
+[06:36:20] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  current bgm btw is <a href='http://www.youtube.com/watch?v=IMzmwWmZx2g'>http://www.youtube.com/watch?v=IMzmwWmZx2g</a> (@ SJ) --</span><br />
+[06:36:34] <span style="color:#d1cfcd">-- CURRENT kamikiInnkeeper <span style="color:#85765f">[CKI]</span>  waves as the travellers leave --</span><br />
+[06:36:52] <span style="color:#d1cfcd"><span style="color:#000000">CKI</span> ceased responding to memo.</span><br />
+[06:37:00] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  … stays asleep. --</span><br />
+[06:37:04] <span style="color:#000000">CTT: mmh..</span><br />
+[06:37:54] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  has barely managed to lead/drag the group to a more quiet secluded area, since they are /not/ leaving without Alanna. --</span><br />
+[06:38:03] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks around, wondering where the hell Alanna went --</span><br />
+[06:38:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  follows the group --</span><br />
+[06:38:56] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is on the roof. Duh. --</span><br />
+[06:39:03] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  // <a href='http://okami.neoseeker.com/wiki/File:KamikiVillageMap.jpg'>http://okami.neoseeker.com/wiki/File:KamikiVillageMap.jpg</a> the place near the bottom, marked as 7, that looks like a good spot --</span><br />
+[06:39:32] <span style="color:#ee1e00">CCP: so...</span><br />
+[06:39:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  had to carry Alanna apparently. --</span><br />
+[06:40:13] <span style="color:#ee1e00">CCP: I guess we're just waiting for Ammy to give us a thing, and then we can go...</span><br />
+[06:40:27] <span style="color:#0080ff">CFL: wait, shes giving us something?</span><br />
+[06:40:31] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  fiiine is with the party. --</span><br />
+[06:40:35] <span style="color:#7ccfb2">CAG: Weren't you listening?</span><br />
+[06:40:45] <span style="color:#0080ff">CFL: No, not really.</span><br />
+[06:40:53] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT okamiAmmy [COA]</span> RIGHT NOW responded to memo.</span><br />
+[06:40:53] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  as if on cue (totally was btw), she jumps down from the ledge above the waterfall --</span><br />
+[06:41:00] <span style="color:#ee1e00">COA: hello again.</span><br />
+[06:41:08] <span style="color:#0080ff">CFL: Ah, hello.</span><br />
+[06:41:16] <span style="color:#7ccfb2">CAG: Hello.</span><br />
+[06:41:30] <span style="color:#000000">CTT: DFgbfrdfvbgfbnfgτnb</span><br />
+[06:41:35] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  fall5 over --</span><br />
+[06:41:48] <span style="color:#ee1e00">COA: ...does she normally do that?</span><br />
+[06:41:57] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  looks at TT, concerned --</span><br />
+[06:42:02] <span style="color:#7ccfb2">CAG: No clue. I'm not even sure who she is.</span><br />
+[06:42:40] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[06:42:58] <span style="color:#ee1e00">COA: anyway, it took Gen quite a while to figure out, but he managed to create this.</span><br />
+[06:43:09] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  hands Take a large thing --</span><br />
+[06:43:18] <span style="color:#0080ff">CFL: ...Gen?</span><br />
+[06:43:20] <span style="color:#0080ff">CFL: who is gen?</span><br />
+[06:43:28] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  got the "Mirror Network Bridge Device"! --</span><br />
+[06:43:44] <span style="color:#ee1e00">COA: a famous inventor in Sei'an.</span><br />
+[06:44:05] <span style="color:#ee1e00">COA: to be honest, I'm not sure how half his things even work...</span><br />
+[06:44:16] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  crawl5 up --</span><br />
+[06:44:18] <span style="color:#000000">CTT: urgh.</span><br />
+[06:44:44] <span style="color:#ee1e00">COA: anyway, Take, you are familiar with Ultimate Origin Mirrors and the use of Mist Warp, correct?</span><br />
+[06:44:55] <span style="color:#ee1e00">CCP: uh, yeah...</span><br />
+[06:45:31] <span style="color:#ee1e00">COA: well, he created a special version of it, one that allows travel between planes.</span><br />
+[06:46:06] <span style="color:#ee1e00">CCP:  <span style="color:#005500">((ok fuck color-overlapping MYSELF &gt;_&gt;))</span></span><br />
+[06:47:17] <span style="color:#ee1e00">COA: basically, remember how you originally came to the plane of the Hotel? how you got redirected during a Mist Warp?</span><br />
+[06:47:34] <span style="color:#ee1e00">COA: this uses the same concept, but in a controlled manner.</span><br />
+[06:47:59] <span style="color:#7ccfb2">CAG: … It's a dimension-hopper.</span><br />
+[06:48:07] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[06:48:13] <span style="color:#ee1e00">COA: yes Alanna... sort of.</span><br />
+[06:48:30] <span style="color:#ee1e00">COA: more of a fixed teleporter, I suppose...</span><br />
+[06:48:38] <span style="color:#000000">CTT: h-huh..</span><br />
+[06:48:57] <span style="color:#0080ff">CFL: ...How much of a cooldown time does it have?</span><br />
+[06:49:29] <span style="color:#ee1e00">COA: since it works the same as a regular Ultimate Origin Mirror, not long.</span><br />
+[06:49:53] <span style="color:#ee1e00">COA: however, Take will have to re-learn Veil of Mist as well as Mist Warp before he can use it.</span><br />
+[06:50:05] <span style="color:#0080ff">CFL: ...relearn?</span><br />
+[06:50:09] <span style="color:#0080ff">CFL: He can relearn?</span><br />
+[06:50:22] <span style="color:#7ccfb2">CAG: Sweet! Puppy's still magic!</span><br />
+[06:50:22] <span style="color:#ee1e00">COA: there is one in Sei'an, and once you set that up in the Hotel, you will be able to come and go easily.</span><br />
+[06:50:32] <span style="color:#ee1e00">COA: and yes, he can re-learn the techniques.</span><br />
+[06:50:38] <span style="color:#ee1e00">COA: which reminds me...</span><br />
+[06:50:41] <span style="color:#0080ff">CFL: Oh, okay...</span><br />
+[06:50:49] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  gives Take a pile of scrolls --</span><br />
+[06:51:03] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  got "Abridged Traveller's Guide"! --</span><br />
+[06:51:47] <span style="color:#ee1e00">COA: that has the basic info and diagrams for all of the standard techniques. all you need to do is practice enough, and you will master them again.</span><br />
+[06:52:10] <span style="color:#7ccfb2">CAG: How do they /work/, exactly?</span><br />
+[06:52:24] <span style="color:#ee1e00">COA: ...also Alanna, while a tail is not mandatory to use brush abilities, it /is/ the normal form the Brush takes.</span><br />
+[06:52:54] <span style="color:#7ccfb2">CAG: Uh… huh… what exactly is "the Brush"?</span><br />
+[06:53:02] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  shrugs, not in an "I dunno" way but in a "why should I tell you that :P" way --</span><br />
+[06:53:07] <span style="color:#0080ff">CFL: ...(okay gods do /not forget things/ so there must be something terrifying that was told to Take that she didn't see fit to tell us... maybe something to do with the wolf I summoned...)</span><br />
+[06:53:11] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  (@ the line BEFORE that) --</span><br />
+[06:53:23] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is muttering to himself. --</span><br />
+[06:53:33] <span style="color:#ee1e00">COA: ...</span><br />
+[06:53:37] <span style="color:#ee1e00">CCP:  <span style="color:#005500">...</span></span><br />
+[06:53:50] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  just sorta stands there with the group, just kinda there --</span><br />
+[06:54:52] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  [muffled cricket noises in the distance] --</span><br />
+[06:55:08] <span style="color:#0080ff">CFL: ...So, you guys done?</span><br />
+[06:55:20] <span style="color:#0080ff">CFL: Can I use the Rod of Plane Shift now?</span><br />
+[06:55:38] <span style="color:#ee1e00">COA: yeah, I believe so. this is not the last time we shall meet, but we're done for now.</span><br />
+[06:55:58] <span style="color:#000000">CTT: o..okay..</span><br />
+[06:56:25] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  has her notebook out and is flipping through it. --</span><br />
+[06:56:27] <span style="color:#ee1e00">COA: ...and be careful on the other side, that "1,000 feet up" thing might not be such a good idea over there...</span><br />
+[06:56:41] <span style="color:#cb7de6">CSJ: ...what. ➜</span><br />
+[06:56:49] <span style="color:#000000">CTT: oh god...</span><br />
+[06:56:51] <span style="color:#0080ff">CFL: Alright, join hands, I promise I'll get us on the ground.</span><br />
+[06:56:57] <span style="color:#0080ff">CFL: /safely/</span><br />
+[06:57:04] <span style="color:#0080ff">CFL: /and not embedded in it/</span><br />
+[06:57:08] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  steps back a bit to give them room --</span><br />
+[06:57:22] <span style="color:#0080ff">CFL: Alright, form a ring like last time.</span><br />
+[06:57:28] <span style="color:#7ccfb2">CAG: Well /now/ I don't trust you.</span><br />
+[06:57:57] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  grabs Edward's right hand again, holding out his right paw for someone --</span><br />
+[06:58:31] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  yeah.. --</span><br />
+[06:58:34] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  grabs hold of puppy. --</span><br />
+[06:58:48] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  holds TT's hand --</span><br />
+[06:59:08] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  a random villager in the distance looks over at the party, confused --</span><br />
+[06:59:22] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  grabs hold of the villager. Er, TT's other hand. --</span><br />
+[06:59:26] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  slams down the rod --</span><br />
+[06:59:31] <span style="color:#0080ff">CFL: /PLANE SHIFT!/</span><br />
+[06:59:39] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  grabs onto SJ, and they warp. --</span><br />
+[06:59:40] <span style="color:#d1cfcd">-- CURRENT okamiAmmy <span style="color:#ee1e00">[COA]</span>  waves as they disappear --</span><br />
+[06:59:46] <span style="color:#d1cfcd"><span style="color:#000000">COA</span> ceased responding to memo.</span><br />
+[06:59:54] <span style="color:#cb7de6">CSJ: aaaaaaaaaaaaaaaaaa @ _@ ➜</span><br />
+[06:59:55] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#000000">[CTT]</span>  what --</span><br />
+[07:00:03] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  appears at the beach with the group. --</span><br />
+[07:00:14] <span style="color:#0080ff">CFL: ...Okay, not exact... is everyone alright?</span><br />
+[07:00:28] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks around --</span><br />
+[07:00:30] <span style="color:#7ccfb2">CAG: Oh hey! It's the ocean again!</span><br />
+[07:00:30] <span style="color:#ee1e00">CCP: ...think so...</span><br />
+[07:00:46] <span style="color:#000000">CTT: sτil...shaken...buτ alrighτ..</span><br />
+[07:00:47] <span style="color:#7ccfb2">CAG: Are we still rich?</span><br />
+[07:01:27] <span style="color:#0080ff">CFL: Still have plenty of Salt.</span><br />
+[07:01:31] <span style="color:#0080ff">CFL: and the yen.</span><br />
+[07:01:41] <span style="color:#000000">CTT: ...salτ?</span><br />
+[07:01:42] <span style="color:#ee1e00">CCP: ((SJ, remind me to dropbox the complete log to you so you can has recapping for the blog))</span><br />
+[07:01:52] <span style="color:#cb7de6">CSJ: ((okay. Thanks))</span><br />
+[07:02:26] <span style="color:#ee1e00">CCP: so... back to the hotel, then?</span><br />
+[07:02:36] <span style="color:#0080ff">CFL: Yeah... I should be able to teleport.</span><br />
+[07:02:42] <span style="color:#7ccfb2">CAG: Sweetness and light.</span><br />
+[07:02:46] <span style="color:#0080ff">CFL: Form a Chain.</span><br />
+[07:03:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  grabs on again --</span><br />
+[07:03:02] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  holds out his right hand, pulling out a mirror with his left. --</span><br />
+[07:03:12] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  is still hanging on to TT so just grabs puppy. --</span><br />
+[07:03:23] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  the thing again --</span><br />
+[07:03:42] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  teleports into the Hotel. --</span><br />
+[07:03:52] <span style="color:#0080ff">CFL: ...And here we all.</span><br />
+[07:03:55] <span style="color:#0080ff">CFL: are*</span><br />
+[07:04:03] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  lets go and steps away. --</span><br />
+[07:04:05] <span style="color:#ee1e00">CCP: yup.</span><br />
+[07:04:12] <span style="color:#7ccfb2">CAG: Puppy, are you going to be practising those brush techniques?</span><br />
+[07:04:21] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  lets go on her end too --</span><br />
+[07:04:30] <span style="color:#ee1e00">CCP: yeah, definitely.</span><br />
+[07:04:36] <span style="color:#7ccfb2">CAG: Can I watch?</span><br />
+[07:04:50] <span style="color:#ee1e00">CCP: if you want to, I guess.</span><br />
+[07:05:07] <span style="color:#ee1e00">CCP: ((during the off-camera section before we do hotel again, I assume?))</span><br />
+[07:05:08] <span style="color:#7ccfb2">CAG: Yay.</span><br />
+[07:05:17] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  pulls out his spell book and a blank sheet of paper, writing something down. --</span><br />
+[07:05:29] <span style="color:#7ccfb2">CAG: (( I'm going to be trying to learn brush techniques so yeah sure why not xP ))</span><br />
+[07:06:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gives the blank sheet of paper to Alanna, it having a copy of FL's Flying magic. --</span><br />
+[07:06:22] <span style="color:#d1cfcd">-- CURRENT apocalypseGambit <span style="color:#7ccfb2">[CAG]</span>  blinks and looks at it before sliding it into her notebooks. "Finally!" --</span><br />
+[07:06:29] <span style="color:#000000">CTT: huh..</span><br />
+[07:06:44] <span style="color:#7ccfb2">CAG: Uh… floaty girl, how do you do your thing?</span><br />
+[07:06:59] <span style="color:#0080ff">CFL: Its likely going to be different.</span><br />
+[07:07:05] <span style="color:#ee1e00">CCP: ((to clarify oocly what Ammy meant: brush techniques can be learned by anyone with the power of the Brush, but actually gaining that power to /begin with/ is a bit trickier...))</span><br />
+[07:07:09] <span style="color:#7ccfb2">CAG: That's okay!</span><br />
+[07:07:25] <span style="color:#7ccfb2">CAG: (( Epic quest unlocked. ))</span><br />
+[07:07:41] <span style="color:#000000">CTT: p...probably..</span><br />
+[07:08:27] <span style="color:#ee1e00">CCP: ((good luck with that :P who knows, Alanna may or may not spontaniously sprout a wolf tail in the process... guess I'll leave that up to you to decide.))</span><br />

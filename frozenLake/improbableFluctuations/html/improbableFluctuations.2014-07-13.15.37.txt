@@ -1,0 +1,4 @@
+[15:37:04] <span style="color:#d1cfcd">-- improbableFluctuations <span style="color:#424240">[IF]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 15:37 --</span><br />
+[15:37:06] <span style="color:#424240">IF: Anata no ai kono yarō QA o yobidasu ni wa kenri wanai</span><br />
+[15:38:30] <span style="color:#424240">IF: Anata wa yoriyoi watashi ni kotaeru</span><br />
+[15:38:30] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging improbableFluctuations <span style="color:#424240">[IF]</span> at 15:38 --</span><br />

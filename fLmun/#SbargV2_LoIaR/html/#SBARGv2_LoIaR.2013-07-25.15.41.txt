@@ -1,0 +1,670 @@
+[03:41:40] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[03:53:22] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[04:42:10] <span style="color:#d1cfcd"><span style="color:#000000">CLC</span> ceased responding to memo.</span><br />
+[04:42:54] <span style="color:#d1cfcd"><span style="color:#000000">CST</span> ceased responding to memo.</span><br />
+[05:23:34] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOIAR.</span><br />
+[05:23:35] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[05:23:35] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
+[05:23:44] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  exits out of the portal CP drew. --</span><br />
+[05:24:20] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[05:24:20] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  walks through and sits at a table, opening his scrolltop for stuff --</span><br />
+[05:25:22] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets some ramen from the food replicator. --</span><br />
+[05:26:27] <span style="color:#d1cfcd"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+[05:26:27] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks out of the Portal, gripping her fist tightly --</span><br />
+[05:26:58] <span style="color:#d1cfcd"><span style="color:#550000">CURRENT ashSprite [CAS]</span> RIGHT NOW responded to memo.</span><br />
+[05:26:58] <span style="color:#550000">CAS: You're okay~</span><br />
+[05:27:09] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  pats Ash on the head, as they float in --</span><br />
+[05:28:34] <span style="color:#0080ff">CFL: ...Ash, you want anything?</span><br />
+[05:28:53] <span style="color:#d1cfcd"><span style="color:#310050">CURRENT fierySwallow [CFS]</span> RIGHT NOW responded to memo.</span><br />
+[05:28:53] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#310050">[CFS]</span>  finally exits the portal into the bacafe --</span><br />
+[05:29:33] <span style="color:#a80000">CFA: (\ Iced tea, I guess, thanks /)</span><br />
+[05:31:05] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets a glass of Iced Tea from the replicatior and hands it to ash, before sitting down with his ramen. --</span><br />
+[05:31:35] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes it, smiling --</span><br />
+[05:31:39] <span style="color:#a80000">CFA: (\ Thanks /)</span><br />
+[05:33:40] <span style="color:#0080ff">CFL: You are welcome.</span><br />
+[05:45:01] <span style="color:#0080ff">CFL: (( why do microwaves and wireless connections not mix? ))</span><br />
+[05:45:51] <span style="color:#a80000">CFA: ((You are like the only one I know that has that problem))</span><br />
+[05:46:25] <span style="color:#ee1e00">CCP: ((yeah. how old is your router and/or microwave?))</span><br />
+[05:47:18] <span style="color:#0080ff">CFL: (( Let me check. ))</span><br />
+[05:48:49] <span style="color:#0080ff">CFL: (( Microwave was made in 1999... and The Router is likely 4-5 years old. ))</span><br />
+[05:49:06] <span style="color:#0080ff">CFL: (( and I'm at the border of the connection. ))</span><br />
+[05:49:57] <span style="color:#ee1e00">CCP: ((welltheresyourproblem.png))</span><br />
+[05:50:25] <span style="color:#ee1e00">CCP: ((but yeah, is there any way to move the router further from the microwave?))</span><br />
+[05:51:18] <span style="color:#0080ff">CFL: (( No, not really, I don't think my dad would let me... And I don't know where other cables might be. ))</span><br />
+[05:52:45] <span style="color:#ee1e00">CCP: ((and why do I suddenly feel like we've had this conversation before?))</span><br />
+[05:54:01] <span style="color:#0080ff">CFL: (( Thats because we did last week. ))</span><br />
+[05:54:22] <span style="color:#ee1e00">CCP: ((........))</span><br />
+[05:54:39] <span style="color:#ee1e00">CCP: (([15:54] .:+Pwootage|Work:. answer: wifi and microwaves use similar wavelength waves [15:54] .:+Pwootage|Work:. (although wifi is less than 1 watt, and microves are more like 1200-2000 watts) ))</span><br />
+[05:55:17] <span style="color:#ee1e00">CCP: ((anyway, time to finish that gif. I've got like ten frames to go on it...))</span><br />
+[06:01:36] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:01:36] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[06:05:06] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#310050">[CFS]</span>  sits down in a chair and attempts to rest while remaining awake --</span><br />
+[06:11:26] <span style="color:#d1cfcd"><span style="color:#55aa00">CURRENT suddenlyEchoes [CSE]</span> RIGHT NOW responded to memo.</span><br />
+[06:11:26] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hums as he enters the BaCafe and walks straight over to the Transportalizer, heading up to the Dojo. --</span><br />
+[06:14:06] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  blinks as she watches SE, following him up --</span><br />
+[06:14:53] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hums as he dragged some dummies out and began to look them over. Sighing he walked over to the command room and looked around, searching for USB ports. --</span><br />
+[06:15:19] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  blinks as she floats over closer to him --</span><br />
+[06:15:23] <span style="color:#550000">CAS: Whats up?</span><br />
+[06:15:38] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  lets out a small noise of victory as he plugged a USB cable in. --</span><br />
+[06:15:41] <span style="color:#55aa00">CSE: nothing much</span><br />
+[06:15:54] <span style="color:#550000">CAS: Whatcha dooooin'?</span><br />
+[06:15:54] <span style="color:#55aa00">CSE: doing... things.</span><br />
+[06:16:16] <span style="color:#55aa00">CSE: illegal things.</span><br />
+[06:16:21] <span style="color:#55aa00">CSE: i sell hardcore drugs.</span><br />
+[06:16:53] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  tapped his foot as he hummed some more then unplugged the cable from the command console. --</span><br />
+[06:18:53] <span style="color:#55aa00">CSE: so uh... you need something?</span><br />
+[06:26:01] <span style="color:#550000">CAS: No not really</span><br />
+[06:26:06] <span style="color:#550000">CAS: Just bored, and curious</span><br />
+[06:26:22] <span style="color:#550000">CAS: What did you just take off the console?</span><br />
+[06:26:52] <span style="color:#55aa00">CSE: a usb cable.</span><br />
+[06:27:00] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  held it up for an example. --</span><br />
+[06:27:06] <span style="color:#55aa00">CSE: why?</span><br />
+[06:27:17] <span style="color:#550000">CAS: Nooo I mean what did you use the USB cable to get?</span><br />
+[06:27:27] <span style="color:#550000">CAS: moreover what did you plug into it?</span><br />
+[06:27:34] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  tilts her head curiously --</span><br />
+[06:27:42] <span style="color:#55aa00">CSE: well i didn't get anything. though i may get some entertainment.</span><br />
+[06:27:49] <span style="color:#550000">CAS: Wha?</span><br />
+[06:27:52] <span style="color:#550000">CAS: ono</span><br />
+[06:27:57] <span style="color:#55aa00">CSE: and usb cables are use- ah</span><br />
+[06:28:00] <span style="color:#55aa00">CSE: here</span><br />
+[06:28:07] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  walked over and into the Dojo again. --</span><br />
+[06:28:14] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  follows him --</span><br />
+[06:29:00] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  glanced around, checking the dummies and the rest of his surroundings. He then raised his left hand and snapped his fingers. The Dojo door's closed as the VR began to initialized. --</span><br />
+[06:29:04] <span style="color:#55aa00">CSE: sweetness.</span><br />
+[06:29:36] <span style="color:#550000">CAS: Wha?! how'd you get access to that?</span><br />
+[06:29:48] <span style="color:#55aa00">CSE: you just watched me do it.</span><br />
+[06:29:52] <span style="color:#550000">CAS: D:</span><br />
+[06:30:08] <span style="color:#550000">CAS: And you did it right under Adams nose</span><br />
+[06:30:10] <span style="color:#550000">CAS: what</span><br />
+[06:30:24] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  let out a sigh as the Dojo was turned into what would seem to be a perfectly normal neighbourhood. --</span><br />
+[06:30:27] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  boggle vacantly at Hacking prowess --</span><br />
+[06:30:35] <span style="color:#d1cfcd"><span style="color:#ff0307">CURRENT retrospectiveSoul [CRS]</span> RIGHT NOW responded to memo.</span><br />
+[06:30:35] <span style="color:#d1cfcd">-- CURRENT retrospectiveSoul <span style="color:#ff0307">[CRS]</span>  appears in a swirl of pixel-y red, floating backward. --</span><br />
+[06:30:36] <span style="color:#55aa00">CSE: what can i say</span><br />
+[06:30:39] <span style="color:#55aa00">CSE: i'm good.</span><br />
+[06:30:47] <span style="color:#550000">CAS: Caaaawwww ono</span><br />
+[06:30:55] <span style="color:#d1cfcd"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+[06:30:55] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  sumps into the cafe --</span><br />
+[06:31:07] <span style="color:#6507ff">CTT: *slumps</span><br />
+[06:31:16] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  transportalizes up to the Dojo, looking over the shenanigans in the command room --</span><br />
+[06:31:29] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  looked over to where the dummies were standing. Now four, very well equiped, soldiers stood there. --</span><br />
+[06:31:30] <span style="color:#a80000">CFA: (\ ....Well /)</span><br />
+[06:31:33] <span style="color:#55aa00">CSE: oh hohoho</span><br />
+[06:31:45] <span style="color:#d1cfcd">-- CURRENT retrospectiveSoul <span style="color:#ff0307">[CRS]</span>  floating around the virtual dojo wheeeee --</span><br />
+[06:31:50] <span style="color:#ff0307">CRS: interesting.</span><br />
+[06:31:58] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  yelps, hiding behind SE, trapped in the VR room with him it seems --</span><br />
+[06:32:05] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  wanders around HQ --</span><br />
+[06:32:12] <span style="color:#55aa00">CSE: i dare say i am a genius.</span><br />
+[06:32:17] <span style="color:#ff0307">CRS: were those foes of your making? or are they perhaps some manner of firewall at your intrusion earlier?</span><br />
+[06:32:27] <span style="color:#55aa00">CSE: hm? oh! no</span><br />
+[06:32:30] <span style="color:#55aa00">CSE: that's me</span><br />
+[06:32:39] <span style="color:#ff0307">CRS: interestinger.</span><br />
+[06:32:53] <span style="color:#55aa00">CSE: well i said i wanted some entertainment out of this didn't i?</span><br />
+[06:33:03] <span style="color:#ff0307">CRS: this is true.</span><br />
+[06:33:06] <span style="color:#d1cfcd">-- CURRENT retrospectiveSoul <span style="color:#ff0307">[CRS]</span>  chuckles faintly. --</span><br />
+[06:33:33] <span style="color:#55aa00">CSE: and what better way than to introduce the notion of- *Let out a yelp and ducked as bullets flew over his head.*</span><br />
+[06:33:37] <span style="color:#55aa00">CSE: right</span><br />
+[06:34:02] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  quickly dashed off, pulling Ashsprite with him, and behind a house. --</span><br />
+[06:35:07] <span style="color:#550000">CAS: EEP!!</span><br />
+[06:36:02] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  now has a rifle of his own in his hands as he pressed his shoulder into the wall. He gazed out, past the trees and driveway, and then ducked back in as bullets passed on by. --</span><br />
+[06:36:57] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  covers her mouth, eyes wide as she tries to stay as silent as possible, having no real way to defend herself --</span><br />
+[06:38:17] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  tries to ignore the sounds from upstairs. --</span><br />
+[06:38:21] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  drops down low as he pokes his rifle out first before dropping down on one knee, rounding the corner, and firing bursts of energy at them. It was over as soon as it began. --</span><br />
+[06:38:36] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hummed again as the VR disengaged. --</span><br />
+[06:38:56] <span style="color:#d1cfcd">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  looks around quickly, blinking --</span><br />
+[06:38:58] <span style="color:#550000">CAS: Wow..</span><br />
+[06:39:05] <span style="color:#55aa00">CSE: hm?</span><br />
+[06:39:15] <span style="color:#550000">CAS: That was really cool!! ouo</span><br />
+[06:39:40] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled as the doors opened. He put his rifle away and looked over at the four dummies, completely unscathed. --</span><br />
+[06:40:01] <span style="color:#55aa00">CSE: thanks</span><br />
+[06:41:11] <span style="color:#55aa00">CSE: so yeah. that's what i did.</span><br />
+[06:41:17] <span style="color:#550000">CAS: Thats awesome ouo</span><br />
+[06:41:37] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  smiled at her and hummed again as he walked on out of the Dojo, back into the control room. --</span><br />
+[06:42:25] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  watches him come out, resting her hand on the console --</span><br />
+[06:42:35] <span style="color:#a80000">CFA: (\ Fancyy hacking there, Echo. /)</span><br />
+[06:42:44] <span style="color:#55aa00">CSE: hey it's like i said</span><br />
+[06:42:47] <span style="color:#55aa00">CSE: i'm good</span><br />
+[06:42:50] <span style="color:#a80000">CFA: (\ Got through all that Encryypted code and everyything /)</span><br />
+[06:43:07] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles and shakes her head --</span><br />
+[06:43:23] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  shrugged lightly as he smiled still. --</span><br />
+[06:43:26] <span style="color:#55aa00">CSE: wasn't that hard.</span><br />
+[06:43:41] <span style="color:#55aa00">CSE: make it sound like i travelled the world in seventy-nine days</span><br />
+[06:43:47] <span style="color:#a80000">CFA: (\ tch /)</span><br />
+[06:43:55] <span style="color:#a80000">CFA: (\ Nah, just means im gonna have to encryypt it more /)</span><br />
+[06:44:11] <span style="color:#a80000">CFA: (\ Too easilyy hackable at this point, it seems /)</span><br />
+[06:44:23] <span style="color:#55aa00">CSE: ouch! you saying i'm no good as a hacker!</span><br />
+[06:44:32] <span style="color:#a80000">CFA: (\ No, im sayying yyour too good /)</span><br />
+[06:44:37] <span style="color:#a80000">CFA: (\ Which means  have to get better /)</span><br />
+[06:44:42] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled again as he shook his head. --</span><br />
+[06:44:49] <span style="color:#55aa00">CSE: i can't hack ash</span><br />
+[06:45:15] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  smiles and shakes her head --</span><br />
+[06:45:29] <span style="color:#a80000">CFA: (\ Welp, had me fooled /)</span><br />
+[06:45:57] <span style="color:#55aa00">CSE: i can fool just about anyone.</span><br />
+[06:46:05] <span style="color:#55aa00">CSE: still. consider the patch a gift.</span><br />
+[06:46:13] <span style="color:#a80000">CFA: (\ Thanks. /)</span><br />
+[06:46:30] <span style="color:#a80000">CFA: (\ Im actuallyy working on a Modding API for it so people can modthe syystem to do what theyy want /)</span><br />
+[06:46:50] <span style="color:#a80000">CFA: (\ Taking a lot longer then i thought /)</span><br />
+[06:46:50] <span style="color:#55aa00">CSE: by that you mean adam's working on it?</span><br />
+[06:46:55] <span style="color:#a80000">CFA: (\ ...YYeah /)</span><br />
+[06:46:57] <span style="color:#a80000">CFA: (\ Tch /)</span><br />
+[06:47:07] <span style="color:#d1cfcd"><span style="color:#000050">CURRENT adaMai [CAM]</span> RIGHT NOW responded to memo.</span><br />
+[06:47:07] <span style="color:#000050">CAM: [ Bout time you gave credit where its due ]</span><br />
+[06:47:08] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled as he nodded, crossing his arms over. --</span><br />
+[06:47:14] <span style="color:#55aa00">CSE: thought so.</span><br />
+[06:48:01] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  finally gets up... and hands Ash a Flashdrive. --</span><br />
+[06:48:13] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks, when did Charles get up here? --</span><br />
+[06:48:38] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  got tired of having to hear the dojo noises from under it. --</span><br />
+[06:48:46] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  okay --</span><br />
+[06:48:51] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  takes the flash drive --</span><br />
+[06:48:54] <span style="color:#a80000">CFA: (\ Whats this, Charlie? /)</span><br />
+[06:48:59] <span style="color:#0080ff">CFL: scrolling.</span><br />
+[06:49:17] <span style="color:#a80000">CFA: (\ Ah! /)</span><br />
+[06:49:27] <span style="color:#55aa00">CSE: scrolling?</span><br />
+[06:49:32] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hurriedly plugs the Flash drive in --</span><br />
+[06:49:35] <span style="color:#a80000">CFA: (\ Like on a fghting game /)</span><br />
+[06:49:47] <span style="color:#55aa00">CSE: side scrolling?</span><br />
+[06:49:49] <span style="color:#a80000">CFA: (\ Right now the room is limited to COllision walls /)</span><br />
+[06:49:59] <span style="color:#a80000">CFA: (\ The collisions walls being where the normal Dojo's walls are /)</span><br />
+[06:49:59] <span style="color:#55aa00">CSE: okay</span><br />
+[06:50:10] <span style="color:#a80000">CFA: (\ This will allow horizontal scrolling /)</span><br />
+[06:50:18] <span style="color:#a80000">CFA: (\ So we can expand the room, per sayy /)</span><br />
+[06:50:28] <span style="color:#d1cfcd"><span style="color:#fe5816">CURRENT perpetuallyOptimistic [CPO]</span> RIGHT NOW responded to memo.</span><br />
+[06:50:28] <span style="color:#d1cfcd">-- CURRENT perpetuallyOptimistic <span style="color:#fe5816">[CPO]</span>  pchoooooooo!! --</span><br />
+[06:50:32] <span style="color:#a80000">CFA: (\ In all actualityy it'd just be the map moving /)</span><br />
+[06:50:37] <span style="color:#a80000">CFA: (\ like a sort of Treadmill /)</span><br />
+[06:50:37] <span style="color:#0080ff">CFL: Actually, it also scrolls vertically.</span><br />
+[06:50:43] <span style="color:#a80000">CFA: (\ Bitchin /)</span><br />
+[06:51:07] <span style="color:#d1cfcd">-- CURRENT perpetuallyOptimistic <span style="color:#fe5816">[CPO]</span>  flies in through the window --</span><br />
+[06:51:15] <span style="color:#0080ff">CFL: Still kinda have issues with areas over a cubic kilometer though...</span><br />
+[06:51:26] <span style="color:#fe5816">CPO: Hey guys.</span><br />
+[06:51:33] <span style="color:#0080ff">CFL: Well, 1024 meters.</span><br />
+[06:51:45] <span style="color:#0080ff">CFL: In each direction.</span><br />
+[06:51:57] <span style="color:#fe5816">CPO: What's going on?</span><br />
+[06:52:10] <span style="color:#a80000">CFA: (\ Well /)</span><br />
+[06:52:16] <span style="color:#a80000">CFA: (\ For now thats a good limit /)</span><br />
+[06:52:26] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[06:52:31] <span style="color:#a80000">CFA: (\ I mean holyy shit who's reallyy gonna run that far /)</span><br />
+[06:52:34] <span style="color:#55aa00">CSE: see. what i would do is instead simply have it change the user's perception. so that the terrain in front of them can always change but they're basically walking in a circle around the dojo. then whenever the players are fighting it can change it to adapt for closeness to the wall making them move away from it subconsciously.</span><br />
+[06:52:55] <span style="color:#a80000">CFA: (\ ....Damn Echo /)</span><br />
+[06:53:03] <span style="color:#a80000">CFA: (\ Thats actuallyy reallyy smart /)</span><br />
+[06:53:08] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  coughed a bit as he rubbed the back of his neck. --</span><br />
+[06:53:11] <span style="color:#55aa00">CSE: yeah well.</span><br />
+[06:53:24] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  just drops his hands and shrugged. --</span><br />
+[06:53:39] <span style="color:#fe5816">CPO: Don't underestimate Tony"</span><br />
+[06:53:59] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  let out a slightly embarrased chuckle. --</span><br />
+[06:54:00] <span style="color:#d1cfcd">-- CURRENT perpetuallyOptimistic <span style="color:#fe5816">[CPO]</span>  grins, clapping SE on the shoulder --</span><br />
+[06:54:29] <span style="color:#0080ff">CFL: Its actually more of an issue on how much terrain can actually be loaded.</span><br />
+[06:54:41] <span style="color:#55aa00">CSE: w-well it would obviously have it's flaws. you can get too close to it no matter what. the walls that is. but uh...</span><br />
+[06:54:42] <span style="color:#55aa00">CSE: yeah.</span><br />
+[06:54:48] <span style="color:#0080ff">CFL: Beyond that its invisible walls and blank void.</span><br />
+[06:55:06] <span style="color:#0080ff">CFL: Well, unless you manage to get a skybox working...</span><br />
+[06:55:07] <span style="color:#55aa00">CSE: well how much hard memory does this thing have?</span><br />
+[06:55:10] <span style="color:#55aa00">CSE: how much RAM?</span><br />
+[06:55:53] <span style="color:#a80000">CFA: (\ Hang on a second /)</span><br />
+[06:56:06] <span style="color:#000050">CAM: [ 1.5 Yottabyte harddrive ]</span><br />
+[06:56:33] <span style="color:#55aa00">CSE: more like shotabyte</span><br />
+[06:56:43] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled before he shook his head. --</span><br />
+[06:56:44] <span style="color:#55aa00">CSE: anyways.</span><br />
+[06:56:46] <span style="color:#55aa00">CSE: and the RAM?</span><br />
+[06:56:48] <span style="color:#000050">CAM: [ .5 yottabytes of ram ]</span><br />
+[06:56:52] <span style="color:#6507ff">CTT: did someone say shoτa</span><br />
+[06:56:59] <span style="color:#a80000">CFA: (\ oh myy god /)</span><br />
+[06:57:03] <span style="color:#55aa00">CSE: maybe</span><br />
+[06:58:25] <span style="color:#55aa00">CSE: so yeah. if you changed the parameters for what it views as the usable 'terrain' versus the loaded skybox then you'll essentially have an unlimited world to load and explore.</span><br />
+[06:58:26] <span style="color:#55aa00">CSE: i mean.</span><br />
+[06:59:09] <span style="color:#a80000">CFA: (\ Right... /)</span><br />
+[06:59:12] <span style="color:#55aa00">CSE: the loaded terrain should essentially be x times however many ways you can walk around across against or into the space that is the dojo.</span><br />
+[06:59:45] <span style="color:#55aa00">CSE: then you take that number and subtract how many ways are limited by the terrain of the simulation and there is you base algorithym for distance.</span><br />
+[06:59:47] <span style="color:#a80000">CFA: (\ YYeah /)</span><br />
+[06:59:50] <span style="color:#55aa00">CSE: distance and terrain loaded.</span><br />
+[07:00:50] <span style="color:#55aa00">CSE: but uh. on the same level of sidescrolling you could totally change a person's perspective to have it limited to only that of a mortal kombat sized space</span><br />
+[07:00:57] <span style="color:#55aa00">CSE: make watching a fight really interesting</span><br />
+[07:01:16] <span style="color:#a80000">CFA: (\ Thats what it was originallyy /)</span><br />
+[07:01:23] <span style="color:#a80000">CFA: (\ Except yyou couldnt move out of the box /)</span><br />
+[07:02:05] <span style="color:#55aa00">CSE: well yeah. only your box is a six foot long death match in front of Shao Khan or whatever his name is</span><br />
+[07:02:18] <span style="color:#a80000">CFA: (\ tch /)</span><br />
+[07:02:20] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled again. --</span><br />
+[07:02:25] <span style="color:#a80000">CFA: (\ Oh myy god /)</span><br />
+[07:02:56] <span style="color:#55aa00">CSE: in fact...</span><br />
+[07:03:04] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  let out a yawn and stretched his back --</span><br />
+[07:03:32] <span style="color:#a80000">CFA: (\ hm? /)</span><br />
+[07:03:45] <span style="color:#000050">CAM: [ Installation complete ]</span><br />
+[07:04:16] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  looked around and then just pulled a chair out of his sylladex. He set it down and sat in it before he plugged that same USB cable into the console. He leaned over onto the console and planted his head in his arms, using them as a pillow. --</span><br />
+[07:05:09] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+[07:05:17] <span style="color:#a80000">CFA: (\ YYou okayy? /)</span><br />
+[07:05:21] <span style="color:#55aa00">CSE: napping</span><br />
+[07:05:23] <span style="color:#a80000">CFA: ((THIS SEEMS FAMILIAR, TONY))</span><br />
+[07:05:31] <span style="color:#55aa00">CSE: [[HOW.]]</span><br />
+[07:05:41] <span style="color:#a80000">CFA: ((FA and Echo sitting at a console))</span><br />
+[07:05:48] <span style="color:#55aa00">CSE: [[Oh ha. ouo ]]</span><br />
+[07:05:53] <span style="color:#a80000">CFA: ((Pfft ouo))</span><br />
+[07:06:14] <span style="color:#a80000">CFA: (\ Napping? /)</span><br />
+[07:06:17] <span style="color:#a80000">CFA: (\ Whyy here? /)</span><br />
+[07:06:18] <span style="color:#55aa00">CSE: yeah</span><br />
+[07:06:24] <span style="color:#55aa00">CSE: cause i'm plugged in</span><br />
+[07:06:32] <span style="color:#a80000">CFA: (\ Pfft... /)</span><br />
+[07:06:42] <span style="color:#55aa00">CSE: well my computer is at least</span><br />
+[07:06:53] <span style="color:#a80000">CFA: (\ Would yyou like an Actual pillow instead? /)</span><br />
+[07:07:12] <span style="color:#55aa00">CSE: forget you. i survived on arm pillows throughout highschool</span><br />
+[07:07:18] <span style="color:#55aa00">CSE: i think i can manage on these</span><br />
+[07:07:22] <span style="color:#55aa00">CSE: thanks though</span><br />
+[07:07:39] <span style="color:#a80000">CFA: (\ I was gonna sayy It'd be a bit more comfortable, and im more then willing to go get yyou one /)</span><br />
+[07:07:47] <span style="color:#a80000">CFA: (\ But okayy /)</span><br />
+[07:07:57] <span style="color:#55aa00">CSE: nah. i'll be fine</span><br />
+[07:08:37] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  watches the console closely --</span><br />
+[07:10:31] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  breathed slowly and lightly as a number of new selections began to appear on the console, including but not limited too, a Mod Manager, a physics engine, a weapon simulator, a zombie simulator, and many more. --</span><br />
+[07:12:09] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks, frowning at the whole Zombie deal, but whatver, some people were into that shit --</span><br />
+[07:12:37] <span style="color:#0080ff">CFL: ...Oh, physics!</span><br />
+[07:12:54] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  lets out a muttered, "mhm" --</span><br />
+[07:12:56] <span style="color:#0080ff">CFL: Try and load a mario galaxy map!</span><br />
+[07:13:06] <span style="color:#a80000">CFA: (\ When its done running this process sure /)</span><br />
+[07:13:06] <span style="color:#55aa00">CSE: do it yerself</span><br />
+[07:13:15] <span style="color:#0080ff">CFL: ...Alright.</span><br />
+[07:13:23] <span style="color:#a80000">CFA: (\ YYeah theres a Mod manager now /)</span><br />
+[07:13:25] <span style="color:#0080ff">CFL: We gonna install the scrolling?</span><br />
+[07:13:29] <span style="color:#6507ff">CTT: ΘoooooΘooΘΘΘh~</span><br />
+[07:13:36] <span style="color:#55aa00">CSE: see previous statement</span><br />
+[07:13:45] <span style="color:#a80000">CFA: (\ Scrolling was alreadyy intalled /)</span><br />
+[07:13:47] <span style="color:#0080ff">CFL: :|</span><br />
+[07:13:54] <span style="color:#6507ff">CTT: ouo</span><br />
+[07:14:08] <span style="color:#a80000">CFA: (\ Seriouslyy though /)</span><br />
+[07:14:10] <span style="color:#a80000">CFA: (\ Damn Echo /)</span><br />
+[07:14:11] <span style="color:#0080ff">CFL: Well, looks like I can't pay attention today.</span><br />
+[07:14:18] <span style="color:#a80000">CFA: (\ This is a nice patch /)</span><br />
+[07:14:40] <span style="color:#55aa00">CSE: think like. g mod ten</span><br />
+[07:14:47] <span style="color:#55aa00">CSE: and whatever</span><br />
+[07:14:50] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  yawned again --</span><br />
+[07:14:51] <span style="color:#55aa00">CSE: i didn't do it</span><br />
+[07:15:26] <span style="color:#a80000">CFA: (\ Still /)</span><br />
+[07:15:46] <span style="color:#55aa00">CSE: yeah yeah.... you're welcome</span><br />
+[07:16:13] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  smiles softly at him and stands up --</span><br />
+[07:16:34] <span style="color:#0080ff">CFL: ...does that mean I can use the waterizer tool from GMod?</span><br />
+[07:16:43] <span style="color:#55aa00">CSE: sure</span><br />
+[07:16:46] <span style="color:#55aa00">CSE: why the fuck not</span><br />
+[07:16:53] <span style="color:#0080ff">CFL: ...Actually, that raises a good question...</span><br />
+[07:17:03] <span style="color:#0080ff">CFL: What happens to virtual food?</span><br />
+[07:17:26] <span style="color:#a80000">CFA: (\ YYou'd have to take some in there and find out? /)</span><br />
+[07:17:28] <span style="color:#a80000">CFA: (\ I dont know /)</span><br />
+[07:17:30] <span style="color:#55aa00">CSE: it makes you virtual not hungry</span><br />
+[07:19:54] <span style="color:#0080ff">CFL: No, I mean... after the simulation ends.</span><br />
+[07:20:08] <span style="color:#a80000">CFA: (\ ....good question? /)</span><br />
+[07:20:15] <span style="color:#a80000">CFA: (\ Lets test and see, I guess /)</span><br />
+[07:20:18] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[07:20:19] <span style="color:#55aa00">CSE: your body will realize there was no actual gain in nutrients and you will be hungry</span><br />
+[07:20:25] <span style="color:#55aa00">CSE: did no one take biology?</span><br />
+[07:20:42] <span style="color:#0080ff">CFL: No, see, its "real" as long as we are in the Dojo.</span><br />
+[07:20:48] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#310050">[CFS]</span>  has dozed off in the bacafe. oops. --</span><br />
+[07:20:49] <span style="color:#0080ff">CFL: But as soon as it shuts down...</span><br />
+[07:21:17] <span style="color:#55aa00">CSE: as soon as it shuts down your brain is no longer being told that it has sufficient proteins and nutrients and you will be hungry</span><br />
+[07:21:32] <span style="color:#55aa00">CSE: you don't have to eat to get the nutrients in most cases</span><br />
+[07:21:51] <span style="color:#55aa00">CSE: so long as your brain is being told that your stomach is gaining nutrients it will be content</span><br />
+[07:22:04] <span style="color:#55aa00">CSE: and no. that means no one else took biology.</span><br />
+[07:22:52] <span style="color:#0080ff">CFL: Yeah...</span><br />
+[07:23:05] <span style="color:#55aa00">CSE: go have fun with the physics engine or something</span><br />
+[07:23:08] <span style="color:#0080ff">CFL: but what happens... after your body i-</span><br />
+[07:23:11] <span style="color:#0080ff">CFL: Never mind.</span><br />
+[07:23:37] <span style="color:#0080ff">CFL: I just had a mental image of someone's hair and fingernails falling out.</span><br />
+[07:25:18] <span style="color:#a80000">CFA: (\ I figured thats what would have happened /)</span><br />
+[07:25:22] <span style="color:#a80000">CFA: (\ to be honest I was curious /)</span><br />
+[07:25:42] <span style="color:#0080ff">CFL: ...Yeah.</span><br />
+[07:25:59] <span style="color:#0080ff">CFL: But I don't really think it would be a good idea...</span><br />
+[07:26:50] <span style="color:#0080ff">CFL: ...Hold on, I think I could get some Perfectly Generic Objects and we could see how they react to the dojo crashing.</span><br />
+[07:27:02] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs to the basement --</span><br />
+[07:35:47] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  runs back up, holding a bunch of cubes. --</span><br />
+[07:36:04] <span style="color:#0080ff">CFL: ...I have no idea why DS had a problem with these.</span><br />
+[07:36:10] <span style="color:#0080ff">CFL: Watch.</span><br />
+[07:36:32] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  sets the PGOs down and looks in the other direction. --</span><br />
+[07:36:41] <span style="color:#0080ff">CFL: ...The PGOs are behind me.</span><br />
+[07:36:47] <span style="color:#0080ff">CFL: I am not forgetting that right now.</span><br />
+[07:36:58] <span style="color:#a80000">CFA: (\ tch /)</span><br />
+[07:38:26] <span style="color:#0080ff">CFL: ...Maybe Ornis found the bug and fixed it?</span><br />
+[07:38:29] <span style="color:#0080ff">CFL: I don't know.</span><br />
+[07:38:44] <span style="color:#a80000">CFA: (\ bug? /)</span><br />
+[07:39:24] <span style="color:#0080ff">CFL: Well, DS had problems remembering about the PGO's in his sylladex.</span><br />
+[07:39:30] <span style="color:#0080ff">CFL: That one time.</span><br />
+[07:42:10] <span style="color:#a80000">CFA: (\ oh... /)</span><br />
+[07:42:44] <span style="color:#0080ff">CFL: Apparently he was on the other end of a fourth wall though?</span><br />
+[07:42:55] <span style="color:#0080ff">CFL: I don't know what its like out there...</span><br />
+[07:45:14] <span style="color:#a80000">CFA: (\ ....DS is a man of total myysteryy /)</span><br />
+[07:45:59] <span style="color:#0080ff">CFL: A Riddle Wrapped In A Mystery Inside An Enigma?</span><br />
+[07:49:51] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  snrked and chuckled. --</span><br />
+[07:49:55] <span style="color:#0080ff">CFL: ...what is it with me and tropes?</span><br />
+[07:53:40] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  shrugs and pulls out a gameboy. --</span><br />
+[07:55:00] <span style="color:#a80000">CFA: (\ Heh... /)</span><br />
+[07:55:45] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  flopped his hand around on the console until he grabbed his USB cable and unplugged it. --</span><br />
+[07:55:48] <span style="color:#55aa00">CSE: i have recharged.</span><br />
+[07:56:08] <span style="color:#55aa00">CSE: robocock nine-thousand online.</span><br />
+[07:56:48] <span style="color:#a80000">CFA: (\ ....What /)</span><br />
+[07:56:53] <span style="color:#a80000">CFA: (\ Pfft /)</span><br />
+[07:57:01] <span style="color:#55aa00">CSE: you may never know.</span><br />
+[07:57:25] <span style="color:#a80000">CFA: (\ snrrk /)</span><br />
+[07:57:39] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  let out a sigh as he sat up and recaptchad his chair. --</span><br />
+[07:57:52] <span style="color:#55aa00">CSE: who wants to play a horde mode?</span><br />
+[07:58:03] <span style="color:#6507ff">CTT: ........whaτ is going on</span><br />
+[07:58:07] <span style="color:#a80000">CFA: (\ Sure, whyy not? /)</span><br />
+[07:58:20] <span style="color:#55aa00">CSE: i made her virtual reality a better reality</span><br />
+[07:58:22] <span style="color:#a80000">CFA: (\ Oh, kat, We're about to test out some of the new VR room features /)</span><br />
+[07:58:41] <span style="color:#6507ff">CTT: Θh</span><br />
+[07:58:44] <span style="color:#55aa00">CSE: yeah</span><br />
+[07:58:50] <span style="color:#55aa00">CSE: there's a horde mode on it.</span><br />
+[07:59:00] <span style="color:#55aa00">CSE: wanna go in with us?</span><br />
+[07:59:34] <span style="color:#6507ff">CTT: um..</span><br />
+[07:59:47] <span style="color:#0080ff">CFL: ...Is that waves of enemies?</span><br />
+[07:59:47] <span style="color:#55aa00">CSE: its a reeeely nice way to relieve stress</span><br />
+[07:59:51] <span style="color:#55aa00">CSE: yeah.</span><br />
+[07:59:54] <span style="color:#0080ff">CFL: I'm in.</span><br />
+[08:00:47] <span style="color:#0080ff">CFL: Lets just hope I'm not stuck in agony after I fall... assuming its endless waves... and have to wait for everyone else to as well. </span><br />
+[08:00:47] <span style="color:#6507ff">CTT: I guess..</span><br />
+[08:00:51] <span style="color:#55aa00">CSE: well. i mean the other best way that relieves stress that also happens to involve me.</span><br />
+[08:01:00] <span style="color:#55aa00">CSE: there's a bunch of settings.</span><br />
+[08:01:03] <span style="color:#6507ff">CTT: ..whaτ</span><br />
+[08:01:12] <span style="color:#55aa00">CSE: we can have player revives and the sort too.</span><br />
+[08:01:52] <span style="color:#a80000">CFA: (\ Nice /)</span><br />
+[08:02:10] <span style="color:#55aa00">CSE: so!</span><br />
+[08:02:22] <span style="color:#55aa00">CSE: who wants to play the game of stress relief with SE.</span><br />
+[08:02:27] <span style="color:#0080ff">CFL: ...Player revives at the end of each wave and endless waves?</span><br />
+[08:02:28] <span style="color:#a80000">CFA: (\ me /)</span><br />
+[08:02:33] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  chuckled as he lazily walked into the room. --</span><br />
+[08:02:34] <span style="color:#0080ff">CFL: With upping difficulty?</span><br />
+[08:02:46] <span style="color:#55aa00">CSE: depends.</span><br />
+[08:02:56] <span style="color:#55aa00">CSE: what do you guys want for the rules?</span><br />
+[08:02:58] <span style="color:#0080ff">CFL: Until the point where we have to fight Bec Noir clones?</span><br />
+[08:03:03] <span style="color:#a80000">CFA: (\ That feature has been in there from the start /)</span><br />
+[08:03:07] <span style="color:#a80000">CFA: (\ The Beowolf Scenario /)</span><br />
+[08:03:09] <span style="color:#0080ff">CFL: ...Not that we would get that far...</span><br />
+[08:03:27] <span style="color:#0080ff">CFL: Yeah, well, thats only one enemy I think.</span><br />
+[08:03:43] <span style="color:#0080ff">CFL: I want a more... varied challenge.</span><br />
+[08:03:59] <span style="color:#55aa00">CSE: think of difficult video game enemies.</span><br />
+[08:04:08] <span style="color:#55aa00">CSE: or just super powerful protaganists.</span><br />
+[08:04:38] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is downstairs really trying to make sure he finishes his 4m13d-since-entry post on 4m13d-since-entry, but he might play later... --</span><br />
+[08:05:12] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  walks into the Dojo itself, pulling out his sword. --</span><br />
+[08:05:32] <span style="color:#55aa00">CSE: so uh.</span><br />
+[08:05:49] <span style="color:#55aa00">CSE: revived at the end of the round. endless waves. progressing difficulty?</span><br />
+[08:05:59] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[08:06:18] <span style="color:#0080ff">CFL: Also have it so enemies avoid downed players.</span><br />
+[08:06:34] <span style="color:#55aa00">CSE: okay.</span><br />
+[08:06:39] <span style="color:#55aa00">CSE: want access to a store?</span><br />
+[08:06:40] <span style="color:#0080ff">CFL: So I don't get stabbed even after I hit zero hp.</span><br />
+[08:06:42] <span style="color:#0080ff">CFL: ...</span><br />
+[08:06:44] <span style="color:#0080ff">CFL: Naw.</span><br />
+[08:06:56] <span style="color:#55aa00">CSE: RPG style equipment?</span><br />
+[08:06:59] <span style="color:#0080ff">CFL: Unless other people want them.</span><br />
+[08:07:11] <span style="color:#55aa00">CSE: as in drops but your shit levels up regardlessly?</span><br />
+[08:07:18] <span style="color:#a80000">CFA: (\ hmm /)</span><br />
+[08:07:24] <span style="color:#a80000">CFA: (\ sounds useful /)</span><br />
+[08:07:29] <span style="color:#0080ff">CFL: I was thinking more like we use our existing weapons.</span><br />
+[08:07:35] <span style="color:#55aa00">CSE: okay</span><br />
+[08:07:50] <span style="color:#0080ff">CFL: If all players are downed the simulation ends?</span><br />
+[08:07:53] <span style="color:#55aa00">CSE: enemies have energy sheilds so no matter what you need to hits.</span><br />
+[08:07:56] <span style="color:#55aa00">CSE: yep.</span><br />
+[08:09:19] <span style="color:#d1cfcd">-- CURRENT perpetuallyOptimistic <span style="color:#fe5816">[CPO]</span>  sits on a couch --</span><br />
+[08:10:14] <span style="color:#a80000">CFA: (\ hmm /)</span><br />
+[08:10:29] <span style="color:#a80000">CFA: (\ Alright, cut the chatter and lets do this alreadyy /)</span><br />
+[08:11:55] <span style="color:#55aa00">CSE: well get on in!</span><br />
+[08:12:43] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks into the Dojo --</span><br />
+[08:13:06] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  hesitates, but floats in anyway --</span><br />
+[08:13:10] <span style="color:#0080ff">CFL: Maybe after this we could do Left 4 Dead with our weapons.</span><br />
+[08:13:20] <span style="color:#55aa00">CSE: oooh that'd be fun.</span><br />
+[08:13:39] <span style="color:#a80000">CFA: (\ Oh lord... /)</span><br />
+[08:13:51] <span style="color:#a80000">CFA: (\ Not a fan of the whole Zombie thing, Gonna have to pass on that one /)</span><br />
+[08:13:51] <span style="color:#6507ff">CTT: .n.</span><br />
+[08:13:59] <span style="color:#6507ff">CTT: same..</span><br />
+[08:14:37] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  snapped his fingers and the VR room closed, it now transforming into a burnt out set of ruins. It was clearly set in London, as Big Ben was in just over the horizon, while they were put in a somewhat futuristic setting, were it not for the desolation. --</span><br />
+[08:14:40] <span style="color:#55aa00">CSE: not that bad.</span><br />
+[08:14:49] <span style="color:#55aa00">CSE: my imps were practically zombies.</span><br />
+[08:15:28] <span style="color:#55aa00">CSE: ...</span><br />
+[08:15:33] <span style="color:#0080ff">CFL: ...Is a space ship going to crash into Big Ben?</span><br />
+[08:15:40] <span style="color:#6507ff">CTT: ..whar</span><br />
+[08:15:43] <span style="color:#6507ff">CTT: *whaτ</span><br />
+[08:15:47] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  muttered, "oh real clever" --</span><br />
+[08:15:49] <span style="color:#55aa00">CSE: uhm</span><br />
+[08:15:51] <span style="color:#55aa00">CSE: nope</span><br />
+[08:16:11] <span style="color:#d1cfcd">-- CURRENT fromAshes's <span style="color:#a80000">[CFA'S]</span>  knuckles whirr as she takes aim, Scaning the surroundings --</span><br />
+[08:16:19] <span style="color:#55aa00">CSE: anyone play mass effect?</span><br />
+[08:16:30] <span style="color:#a80000">CFA: (\ Mass effect 2, a little /)</span><br />
+[08:16:32] <span style="color:#0080ff">CFL: ...Sadly I haven't.</span><br />
+[08:16:35] <span style="color:#55aa00">CSE: okay.</span><br />
+[08:16:38] <span style="color:#0080ff">CFL: But I hear its good.</span><br />
+[08:16:40] <span style="color:#a80000">CFA: (\ Like right up to the Mini-Krogan thing /)</span><br />
+[08:16:41] <span style="color:#55aa00">CSE: well.</span><br />
+[08:16:48] <span style="color:#55aa00">CSE: uh.</span><br />
+[08:16:49] <span style="color:#55aa00">CSE: shit.</span><br />
+[08:16:52] <span style="color:#0080ff">CFL: And the main character is a Zombie.</span><br />
+[08:17:00] <span style="color:#a80000">CFA: (\ Soooo a zombie /)</span><br />
+[08:17:05] <span style="color:#55aa00">CSE: this is what london looks like during the third game.</span><br />
+[08:17:12] <span style="color:#a80000">CFA: (\ How the fuck did S/he survive that /)</span><br />
+[08:17:15] <span style="color:#a80000">CFA: (\ Ahh, okayy /)</span><br />
+[08:17:21] <span style="color:#55aa00">CSE: expect four kinds of enemies.</span><br />
+[08:17:33] <span style="color:#55aa00">CSE: reapers. collectors. cerberus. or geth.</span><br />
+[08:17:37] <span style="color:#55aa00">CSE: all have guns.</span><br />
+[08:17:41] <span style="color:#a80000">CFA: (\ Oh, goodyy /)</span><br />
+[08:17:41] <span style="color:#0080ff">CFL: ...okay then.</span><br />
+[08:17:49] <span style="color:#a80000">CFA: (\ Metal beings /)</span><br />
+[08:17:52] <span style="color:#55aa00">CSE: all have melee specialists.</span><br />
+[08:17:59] <span style="color:#0080ff">CFL: Are we going to have spaceships trying to ram us near the 50th wave?</span><br />
+[08:18:07] <span style="color:#55aa00">CSE: no</span><br />
+[08:18:12] <span style="color:#55aa00">CSE: more like mechs.</span><br />
+[08:18:16] <span style="color:#a80000">CFA: (\ No Husks? /)</span><br />
+[08:18:27] <span style="color:#55aa00">CSE: husks are reaper things.</span><br />
+[08:18:28] <span style="color:#55aa00">CSE: so maybe.</span><br />
+[08:18:33] <span style="color:#a80000">CFA: (\ okayy /)</span><br />
+[08:18:33] <span style="color:#0080ff">CFL: ...</span><br />
+[08:18:39] <span style="color:#a80000">CFA: (\ YYaaayy Plasma rifle /)</span><br />
+[08:18:53] <span style="color:#0080ff">CFL: When will we be having Spaceships crashing into us near the speed of light?</span><br />
+[08:19:02] <span style="color:#55aa00">CSE: probably never?</span><br />
+[08:19:09] <span style="color:#a80000">CFA: (\ oh myy god charlie /)</span><br />
+[08:19:26] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  stiffened a bit as he heard a metallic noise. --</span><br />
+[08:19:27] <span style="color:#55aa00">CSE: geth.</span><br />
+[08:19:28] <span style="color:#55aa00">CSE: okay.</span><br />
+[08:19:30] <span style="color:#55aa00">CSE: no melee.</span><br />
+[08:19:33] <span style="color:#55aa00">CSE: allllll guns.</span><br />
+[08:19:35] <span style="color:#55aa00">CSE: and plasma.</span><br />
+[08:19:40] <span style="color:#55aa00">CSE: and giant robots.</span><br />
+[08:19:41] <span style="color:#6507ff">CTT: .n.</span><br />
+[08:19:54] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  dashed forwards and slid into cover behind a bench. --</span><br />
+[08:20:01] <span style="color:#55aa00">CSE: some have flamethrowers!</span><br />
+[08:20:07] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  does not know what she has gotten herself into --</span><br />
+[08:20:19] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  begins to charge up his sword, raising it into the sky. --</span><br />
+[08:20:22] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  ducked behind a Downed car --</span><br />
+[08:21:16] <span style="color:#0080ff">CFL: BRING IT ON!</span><br />
+[08:21:28] <span style="color:#d1cfcd">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  just hides --</span><br />
+[08:21:59] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  has no fucking clue what hes getting himself into... Its the first wave, it can't be that hard... right? --</span><br />
+[08:22:05] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is so screwed. --</span><br />
+[08:22:45] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  gulped as more electronic noises sounded. Bipedal robots began to pour out of the sides of the burnt out buildings, firing on their respective positions. --</span><br />
+[08:23:26] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  pulses his wonder wing, reflecting the shots before dodging. --</span><br />
+[08:23:36] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  yelps and ducks her head behind her care, Poking her head out To fire off a plasma round at the enemies --</span><br />
+[08:23:45] <span style="color:#a80000">CFA: (\ car* /)</span><br />
+[08:24:09] <span style="color:#6507ff">CTT: *gulp*</span><br />
+[08:24:30] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  shuffles through his equipment until he has a bulkier rifle with a smoothed handle out. He ducks out and begins firing, large shocks of lightning striking the geth troopers. --</span><br />
+[08:24:34] <span style="color:#a80000">CFA: (\ Kat, Find cover and attack from behind it /)</span><br />
+[08:24:51] <span style="color:#6507ff">CTT: wiτh /whaτ/, τhough? .▲.</span><br />
+[08:25:28] <span style="color:#0080ff">CFL: Magic!</span><br />
+[08:25:32] <span style="color:#a80000">CFA: (\ Like a Car or a bench or somehting /)</span><br />
+[08:25:38] <span style="color:#a80000">CFA: (\ Come hide with me /)</span><br />
+[08:25:50] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  deflects a few bullets with a spin attack. --</span><br />
+[08:26:57] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  hums a small tune while rockets were unleashed from the small crowd of robots. --</span><br />
+[08:27:35] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  takes a large degree of hits. --</span><br />
+[08:27:55] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[08:27:55] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+[08:29:00] <span style="color:#55aa00">CSE: [[ KEEP DOING THE THING. I GOTTA GO DO ANOTHER THING. ]]</span><br />
+[08:29:08] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  growls and fires a scatter shot of Plasma into the wave, continuing to hide behind her car --</span><br />
+[08:29:47] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  picks up a trashcan and pulls out the bag, ducking inside of it. --</span><br />
+[08:57:10] <span style="color:#0080ff">CFL: (( ...are we honestly going to wait for SE? he told us to keep going... ))</span><br />
+[08:57:27] <span style="color:#a80000">CFA: ((We dont know what else to do))</span><br />
+[08:57:47] <span style="color:#0080ff">CFL: (( I know! SIGSEV! ))</span><br />
+[09:14:05] <span style="color:#0080ff">CFL: (( ...how about we agree that eventually we get our asses kicked, and FL gets KOed first on that wave. ))</span><br />
+[09:14:43] <span style="color:#a80000">CFA: ((FL gets his ass Kicked because he's sitting out in the open, everyone was hiding))</span><br />
+[09:15:13] <span style="color:#0080ff">CFL: (( Yeah. ))</span><br />
+[09:15:34] <span style="color:#0080ff">CFL: (( "Cover? I'm gonna fight these guys in the op-" ))</span><br />
+[09:16:13] <span style="color:#0080ff">CFL: (( And then he messes up the timing for the perfect shield and gets murderlized in the simulation. ))</span><br />
+[09:16:42] <span style="color:#0080ff">CFL: (( ...so, timeskip? Y/N ))</span><br />
+[09:20:26] <span style="color:#a80000">CFA: ((Yeah))</span><br />
+[09:22:14] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  finally stands up, in the normalized dojo. --</span><br />
+[09:22:19] <span style="color:#0080ff">CFL: ...well, That sucked.</span><br />
+[09:22:39] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hisses upon standing up, holding her shoulder, her body sore all over --</span><br />
+[09:24:53] <span style="color:#0080ff">CFL: ...Yeah, running in isn't aways the best idea...</span><br />
+[09:25:19] <span style="color:#0080ff">CFL: And neither is relying on the wonderwings to deflect bullets...</span><br />
+[09:31:26] <span style="color:#a80000">CFA: (\ Haha, no /)</span><br />
+[09:31:32] <span style="color:#a80000">CFA: (\ Welp, lesson learned for later... /)</span><br />
+[09:35:28] <span style="color:#0080ff">CFL: ...yeah.</span><br />
+[09:35:39] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  rubs his forehead. --</span><br />
+[09:35:47] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  walks ot of the Dojo --</span><br />
+[09:36:31] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  decides to head to the Bacafe... and recaptchas the perfectly generic objects in the hallway. --</span><br />
+[09:37:46] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  follows him, grabbing some water from the Fridge as she did --</span><br />
+[09:38:53] <span style="color:#0080ff">CFL: Also I need to wear a helmet.</span><br />
+[09:39:08] <span style="color:#a80000">CFA: (\ Ha /)</span><br />
+[09:39:09] <span style="color:#0080ff">CFL: Its like an uncovered knee.</span><br />
+[09:39:18] <span style="color:#a80000">CFA: (\ Ayye /)</span><br />
+[09:39:31] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  pats ehr chest, a small jangleing sound heard --</span><br />
+[09:39:42] <span style="color:#a80000">CFA: (\ One of the reasons whyy I wear Chainmail /)</span><br />
+[09:39:49] <span style="color:#0080ff">CFL: Yeah.</span><br />
+[09:40:29] <span style="color:#0080ff">CFL: Funny how all my clothing is bullet proof yet I neglect to wear a helmet in battle.</span><br />
+[09:40:59] <span style="color:#0080ff">CFL: ...Might as well make a Transparent Aluminum Helmet...</span><br />
+[09:41:06] <span style="color:#a80000">CFA: (\ Pfft /)</span><br />
+[09:41:09] <span style="color:#a80000">CFA: (\ Or just /)</span><br />
+[09:41:14] <span style="color:#a80000">CFA: (\ yy'know, protect yyer head /)</span><br />
+[09:41:24] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  ducks under the bar as an example --</span><br />
+[09:41:32] <span style="color:#0080ff">CFL: ...</span><br />
+[09:41:35] <span style="color:#0080ff">CFL: True.</span><br />
+[09:42:09] <span style="color:#ff0307">CRS: as my progenitor would say, and i by extension:</span><br />
+[09:42:27] <span style="color:#ff0307">CRS: lrn 2 cover, noob</span><br />
+[09:42:41] <span style="color:#0080ff">CFL: :|</span><br />
+[09:43:37] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles --</span><br />
+[09:44:29] <span style="color:#0080ff">CFL: ...</span><br />
+[09:44:33] <span style="color:#0080ff">CFL: Huh.</span><br />
+[09:45:42] <span style="color:#0080ff">CFL: Lets see if I can alchemize Ceramic Titanium and Transparent Aluminum into something I can use for a helmet...</span><br />
+[09:46:36] <span style="color:#0080ff">CFL: (( oh my god Transparent Aluminum is a real thing now. ))</span><br />
+[09:46:54] <span style="color:#a80000">CFA: (\ ...Hm /)</span><br />
+[09:46:59] <span style="color:#a80000">CFA: (\ Heyy, Charles, Been meaning to ask /)</span><br />
+[09:47:18] <span style="color:#a80000">CFA: (\ ...YYou forced yyour soul into myy bodyy earlier... what was it like in there? /)</span><br />
+[09:49:13] <span style="color:#0080ff">CFL: ...Kinda creepy.</span><br />
+[09:49:27] <span style="color:#0080ff">CFL: Then again, that might just be the not being in my own body part.</span><br />
+[09:49:46] <span style="color:#a80000">CFA: (\ Possible /)</span><br />
+[09:50:43] <span style="color:#0080ff">CFL: Lets just say it was rather... on fire.</span><br />
+[09:54:18] <span style="color:#0080ff">CFL: And leave it at that.</span><br />
+[09:59:51] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+[09:59:55] <span style="color:#a80000">CFA: (\ Nothing else? /)</span><br />
+[09:59:57] <span style="color:#a80000">CFA: (\ Just fire? /)</span><br />
+[10:00:19] <span style="color:#a80000">CFA: (\ Charlie yyou can tell me, It's myy soul after all /)</span><br />
+[10:01:39] <span style="color:#0080ff">CFL: ...Okay it was a destroyed version of your house, and you were cracked like pottery put in a freezer right after being made.</span><br />
+[10:02:34] <span style="color:#a80000">CFA: (\ .....Huh /)</span><br />
+[10:03:06] <span style="color:#a80000">CFA: (\ Wow, thats actuallyy kinda deep... /)</span><br />
+[10:08:29] <span style="color:#55aa00">CSE: [[ SORRY D: ]]</span><br />
+[10:08:52] <span style="color:#a80000">CFA: ((Its okaaaaay))</span><br />
+[10:09:05] <span style="color:#0080ff">CFL: (( Its fine. ))</span><br />
+[10:10:32] <span style="color:#55aa00">CSE: [[ Wweh ono; ]]</span><br />
+[10:12:04] <span style="color:#0080ff">CFL: (( ;θn- ))</span><br />
+[10:12:16] <span style="color:#55aa00">CSE: [[ It was le mum's birthday :U ]]</span><br />
+[10:12:49] <span style="color:#0080ff">CFL: (( WE UNDERSTAND. ))</span><br />
+[10:13:21] <span style="color:#55aa00">CSE: [[ :T ]]</span><br />
+[10:13:59] <span style="color:#a80000">CFA: ((Family first, yo))</span><br />
+[10:14:07] <span style="color:#0080ff">CFL: (( Exactly. ))</span><br />
+[10:14:21] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  just... sighs. --</span><br />
+[10:14:39] <span style="color:#d1cfcd">-- CURRENT suddenlyEchoes <span style="color:#55aa00">[CSE]</span>  drags himself out of the Dojo --</span><br />
+[10:19:38] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+[10:19:38] <span style="color:#d1cfcd"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+[10:25:30] <span style="color:#d1cfcd"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[10:25:30] <span style="color:#d1cfcd"><span style="color:#000000">CPO</span> ceased responding to memo.</span><br />
+[10:55:23] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  gets a bunch of crackers from the food replicator. --</span><br />
+[10:55:50] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  looks up from the table, rolling a bottle of Iced tea around on the counter --</span><br />
+[10:56:15] <span style="color:#a80000">CFA: ((On it*))</span><br />
+[10:56:51] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#310050">[CFS]</span>  bolts awake out of his chair --</span><br />
+[10:57:03] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sits up suddenly in response --</span><br />
+[10:57:07] <span style="color:#a80000">CFA: (\ YYoooo calm down there /)</span><br />
+[10:57:37] <span style="color:#d1cfcd">-- CURRENT fierySwallow <span style="color:#310050">[CFS]</span>  is breathing heavilly --</span><br />
+[10:58:00] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sighs in relief, he got the 4m13d v2journal post up just in time --</span><br />
+[10:58:38] <span style="color:#ee1e00">CCP: so... anything happening tomorrow? besides, uh...</span><br />
+[11:00:08] <span style="color:#a80000">CFA: (\ I dont know... /)</span><br />
+[11:00:16] <span style="color:#a80000">CFA: (\ I need to go talk with morrighan soon... /)</span><br />
+[11:00:18] <span style="color:#d1cfcd">-- CURRENT retrospectiveSoul <span style="color:#ff0307">[CRS]</span>  super cool --</span><br />
+[11:00:50] <span style="color:#0080ff">CFL: ...</span><br />
+[11:01:00] <span style="color:#0080ff">CFL: I see.</span><br />
+[11:01:57] <span style="color:#a80000">CFA: (\ ...I dont know if Im readyy, though /)</span><br />
+[11:02:09] <span style="color:#a80000">CFA: (\ YYou saw what happened the last time we were anyywhere near her presence /)</span><br />
+[11:02:55] <span style="color:#0080ff">CFL: ...What, Gambit being pecked or your powered being forcefully activated?</span><br />
+[11:02:59] <span style="color:#0080ff">CFL: powers*</span><br />
+[11:03:24] <span style="color:#a80000">CFA: (\ Gambit /)</span><br />
+[11:03:31] <span style="color:#a80000">CFA: (\ The powers thing was the work of the Siren /)</span><br />
+[11:04:17] <span style="color:#0080ff">CFL: ...Yeah.</span><br />
+[11:06:26] <span style="color:#a80000">CFA: (\ ....I mayy not think im readyy but... /)</span><br />
+[11:06:35] <span style="color:#0080ff">CFL: ...</span><br />
+[11:06:35] <span style="color:#a80000">CFA: (\ That mayy just be me hindering myyself... /)</span><br />
+[11:06:49] <span style="color:#0080ff">CFL: Ash, do you feel that you need to go by yourself?</span><br />
+[11:06:57] <span style="color:#a80000">CFA: (\ Wha? Ah.... /)</span><br />
+[11:07:04] <span style="color:#a80000">CFA: (\ I /should/ but... /)</span><br />
+[11:07:22] <span style="color:#a80000">CFA: (\ I reallyy dont think Im strong enough, yy'know? /)</span><br />
+[11:07:38] <span style="color:#a80000">CFA: (\ It's not a depression thing I just.... I'm not sure of myy own power /)</span><br />
+[11:07:58] <span style="color:#0080ff">CFL: ...I've you want me to, I'll come as backup.</span><br />
+[11:08:24] <span style="color:#0080ff">CFL: ...I take it your planing for this saturday?</span><br />
+[11:08:38] <span style="color:#0080ff">CFL: After all, the dreaded tea party is on friday...</span><br />
+[11:09:00] <span style="color:#0080ff">CFL: ...And I don't wanna be caught off guard.</span><br />
+[11:09:04] <span style="color:#a80000">CFA: (\ ...Iunno... /)</span><br />
+[11:09:09] <span style="color:#a80000">CFA: (\ SV said he wants to come... /)</span><br />
+[11:09:32] <span style="color:#0080ff">CFL: ...And are you going to bring Alex as well?</span><br />
+[11:10:06] <span style="color:#a80000">CFA: (\ ...YYes, of course /)</span><br />
+[11:10:12] <span style="color:#a80000">CFA: (\ And I want yyou to come along as well /)</span><br />
+[11:10:18] <span style="color:#0080ff">CFL: ...Yeah.</span><br />
+[11:10:46] <span style="color:#ee1e00">CCP: should I come too?</span><br />
+[11:10:56] <span style="color:#a80000">CFA: (\ Of course /)</span><br />
+[11:11:03] <span style="color:#0080ff">CFL: I'm just worried that everything will go to heck on friday and we are gonna be stuck while chronos and seth go nuts.</span><br />
+[11:11:16] <span style="color:#a80000">CFA: (\ ....So we prepare ourselves now /)</span><br />
+[11:11:21] <span style="color:#a80000">CFA: (\ Both phyysicallyy and Mentallyy /)</span><br />
+[11:11:27] <span style="color:#d1cfcd"><span style="color:#802020">CURRENT forgottenLord [CFL]</span> RIGHT NOW responded to memo.</span><br />
+[11:11:27] <span style="color:#d1cfcd">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  heads down to the BaCafe. --</span><br />
+[11:11:34] <span style="color:#a80000">CFA: (\ ....? /)</span><br />
+[11:11:45] <span style="color:#a80000">CFA: (\ (Whyy is HE here?) /)</span><br />
+[11:12:08] <span style="color:#d1cfcd">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  is walking over to the food replicator... and makes a couple tacos, before heading back torwards the transportalizer. --</span><br />
+[11:12:17] <span style="color:#ee1e00">CCP: that reminds me: fair warning Ash, I've said it before and I'm letting you know again, if shit happens at the tea party, you know what my escape route I'm sending everyone to is...</span><br />
+[11:12:28] <span style="color:#a80000">CFA: (\ ... /)</span><br />
+[11:12:31] <span style="color:#0080ff">CFL: I think he might live here now?</span><br />
+[11:12:32] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  deep breath, nodding --</span><br />
+[11:12:38] <span style="color:#a80000">CFA: (\ I'll control myy Spaceyy thing /)</span><br />
+[11:12:43] <span style="color:#802020">CFL: ...</span><br />
+[11:12:56] <span style="color:#802020">CFL: Its not nice to talk about someone behind their back.</span><br />
+[11:13:12] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[11:13:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  stops zoning out, how long has she been at that one table anyways? --</span><br />
+[11:13:18] <span style="color:#a80000">CFA: (\ Flord, We were not sayying anyything bad, I can promise yyou that /)</span><br />
+[11:13:25] <span style="color:#a80000">CFA: (\ Simplyy Discerning whyy yyou're here /)</span><br />
+[11:13:32] <span style="color:#cb7de6">CSJ: huhwhat</span><br />
+[11:13:34] <span style="color:#802020">CFL: ...Well, its like he said.</span><br />
+[11:13:38] <span style="color:#802020">CFL: I kinda live here.</span><br />
+[11:13:52] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks over at brown!FL --</span><br />
+[11:13:52] <span style="color:#0080ff">CFL: Worse. Neighbor. Ever.</span><br />
+[11:14:04] <span style="color:#cb7de6">CSJ: um... hi there?</span><br />
+[11:14:10] <span style="color:#802020">CFL: And you are one to talk.</span><br />
+[11:14:23] <span style="color:#802020">CFL: ...Ah, hello.</span><br />
+[11:14:26] <span style="color:#802020">CFL: ...Niki, was it?</span><br />
+[11:14:33] <span style="color:#cb7de6">CSJ: ...yeah.</span><br />
+[11:14:36] <span style="color:#d1cfcd">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  eyes him carefully --</span><br />
+[11:14:58] <span style="color:#cb7de6">CSJ: I'm guessing you're at least... mostly nice now or something?</span><br />
+[11:15:09] <span style="color:#802020">CFL: Eh.</span><br />
+[11:15:26] <span style="color:#802020">CFL: I'll see about watching at the fabled "tea party of death".</span><br />
+[11:15:53] <span style="color:#802020">CFL: I figure it might be a decent reunion.</span><br />
+[11:16:03] <span style="color:#ee1e00">CCP: ...reunion? wat</span><br />
+[11:16:26] <span style="color:#802020">CFL: ...Well technially we never met in person, sooo...</span><br />
+[11:16:39] <span style="color:#802020">CFL: I guess I'll be meeting Chronos for the first time?</span><br />
+[11:17:03] <span style="color:#cb7de6">CSJ: trust me, he is freaking creepy in person.</span><br />
+[11:17:09] <span style="color:#a80000">CFA: (\ ...This'll be the first Real Face-to-face I've had with him since... well... The battlefield in the Pre-scratch /)</span><br />
+[11:17:20] <span style="color:#0080ff">CFL: ...You in the mood to talk about Team Candy Red?</span><br />
+[11:17:27] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[11:17:27] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
+[11:17:31] <span style="color:#d1cfcd">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  glares at FLmun. --</span><br />
+[11:17:34] <span style="color:#802020">CFL: No.</span><br />
+[11:17:58] <span style="color:#d1cfcd">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  is walking torwards the transportalizer. --</span><br />
+[11:18:13] <span style="color:#ee1e00">CCP: ...</span><br />
+[11:18:15] <span style="color:#cb7de6">CSJ: ...</span><br />
+[11:18:24] <span style="color:#d1cfcd">-- CURRENT forgottenLord <span style="color:#802020">[CFL]</span>  warps the fuck out. --</span><br />
+[11:18:26] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[11:18:26] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+[11:18:30] <span style="color:#0080ff">CFL: ...</span><br />
+[11:18:31] <span style="color:#a80000">CFA: (\ ....Team Candyy red? /)</span><br />
+[11:18:52] <span style="color:#0080ff">CFL: It sounded familiar to me, so I asked him yesterday.</span><br />
+[11:19:09] <span style="color:#0080ff">CFL: But he didn't answer me so I asked again just now.</span><br />
+[11:19:54] <span style="color:#0080ff">CFL: ...oh gog look at the time.</span><br />
+[11:20:00] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  is looking at the second watch. --</span><br />
+[11:20:10] <span style="color:#0080ff">CFL: Its getting late.</span><br />
+[11:20:16] <span style="color:#0080ff">CFL: See you in the morning?</span><br />
+[11:20:30] <span style="color:#cb7de6">CSJ: try to get a good rest.</span><br />
+[11:20:30] <span style="color:#ee1e00">CCP: gnight then...</span><br />
+[11:20:59] <span style="color:#cb7de6">CSJ: tomorrow's going to be another long day...</span><br />
+[11:21:16] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  warps to the fourth floor. --</span><br />

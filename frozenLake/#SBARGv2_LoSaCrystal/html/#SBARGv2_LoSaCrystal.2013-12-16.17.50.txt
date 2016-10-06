@@ -1,0 +1,72 @@
+[05:50:53] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOSACRYSTAL.</span><br />
+[05:51:36] <span style="color:#d1cfcd"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+[05:51:36] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  flops out of the exit thing onto the ground, probably in snow --</span><br />
+[05:52:02] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  falls onto Kimura. --</span><br />
+[05:52:29] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[05:52:29] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is fallen on --</span><br />
+[05:52:46] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stands up, and looks around... they seem to be in an alley way. --</span><br />
+[05:57:05] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  gets up, adjusting her glassestop --</span><br />
+[05:57:53] <span style="color:#cb7de6">CSJ: yeah, I'm sure you guys remember the last mary-sue incident Nak ran into? ➜</span><br />
+[05:58:03] <span style="color:#ee1e00">CCP: not really?</span><br />
+[05:58:08] <span style="color:#ee1e00">CCP: ...oh.</span><br />
+[05:58:15] <span style="color:#cb7de6">CSJ: he started talking in chinese zalgo! ➜</span><br />
+[05:58:19] <span style="color:#ee1e00">CCP: the one on Skaia during the Burger King fight?</span><br />
+[05:58:26] <span style="color:#cb7de6">CSJ: yeah. ➜</span><br />
+[05:58:32] <span style="color:#ee1e00">CCP: poor guy...</span><br />
+[06:09:11] <span style="color:#0080ff">CFL: ...so, what now?</span><br />
+[06:09:37] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[06:09:46] <span style="color:#cb7de6">CSJ: maybe we should like... go inside or something? It's kinda cold out here. ➜</span><br />
+[06:10:04] <span style="color:#0080ff">CFL: Right.</span><br />
+[06:10:08] <span style="color:#ee1e00">CCP: ...we could maybe do another bit of SRB2?</span><br />
+[06:10:10] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  heads into the pizza place. --</span><br />
+[06:10:16] <span style="color:#0080ff">CFL: Pizza first.</span><br />
+[06:10:17] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  follows --</span><br />
+[06:10:20] <span style="color:#ee1e00">CCP: mmk</span><br />
+[06:10:23] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  follows the group --</span><br />
+[06:10:30] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  gets a pepperoni pizza. --</span><br />
+[06:11:25] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  orders pepperoni with bacon --</span><br />
+[06:11:56] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  orders whatever the daily special is supposed to be --</span><br />
+[06:12:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Gunpowder Pizza? *its not actually gunpowder, but it /is/ spicy.* --</span><br />
+[06:13:24] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //either that, or Space Food Pizza --</span><br />
+[06:13:46] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //let's go with spicy spacefood --</span><br />
+[06:14:08] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // So, Solar Nova Pizza --</span><br />
+[06:14:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Supernova* --</span><br />
+[06:14:34] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //sure --</span><br />
+[06:16:35] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits down with her pizza slice --</span><br />
+[06:16:48] <span style="color:#cb7de6">CSJ: ... ➜</span><br />
+[06:17:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  attempts to take a bite --</span><br />
+[06:17:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Is your mouth on fire? --</span><br />
+[06:18:02] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  //yes, yes it is. --</span><br />
+[06:18:09] <span style="color:#cb7de6">CSJ: ....... ➜</span><br />
+[06:18:20] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Might be the Ghost Peppers. --</span><br />
+[06:18:36] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  chugs a glass of water, ice cubes and all --</span><br />
+[06:18:48] <span style="color:#ee1e00">CCP: ...you okay there?</span><br />
+[06:18:50] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // OH GOD IT STILL BURNS --</span><br />
+[06:18:56] <span style="color:#cb7de6">CSJ: ..... ➜</span><br />
+[06:19:00] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // AND IT JUST MADE IT WORSE --</span><br />
+[06:19:03] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  munches on his much more benign pizza --</span><br />
+[06:19:04] <span style="color:#cb7de6">CSJ: AAAAAAAAAAAAAAAA ➜</span><br />
+[06:19:15] <span style="color:#ee1e00">CCP: uh... milk.</span><br />
+[06:19:16] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // A Bom-omb runs over with a glass of milk. --</span><br />
+[06:19:22] <span style="color:#ee1e00">CCP: water doesn't help with spicy.</span><br />
+[06:19:45] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  accepts the glass of milk, chugging it down way too fast --</span><br />
+[06:20:12] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  there's kind of a mess with the milk here --</span><br />
+[06:20:28] <span style="color:#cb7de6">CSJ: phew....... ➜</span><br />
+[06:21:30] <span style="color:#0080ff">CFL: ...I haven't seen any cows, have you?</span><br />
+[06:21:41] <span style="color:#0080ff">CFL: I havent seen cows /or/ pigs.</span><br />
+[06:21:50] <span style="color:#cb7de6">CSJ: man, what kinda hot peppers were those? ➜</span><br />
+[06:21:51] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  looks at his pizza. --</span><br />
+[06:22:20] <span style="color:#ee1e00">CCP: ...which begs the question of where the cheese came from...</span><br />
+[06:22:22] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  picks up a single piece of peperoni, examining it. --</span><br />
+[06:22:32] <span style="color:#0080ff">CFL: or the milk</span><br />
+[06:22:36] <span style="color:#0080ff">CFL: or the meat on the pizza.</span><br />
+[06:22:50] <span style="color:#ee1e00">CCP: ...oh wait now I remember, they have a food replicator in the back.</span><br />
+[06:23:05] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  eats his pizza. --</span><br />
+[06:23:23] <span style="color:#0080ff">CFL: Calm down Niki, its only the third hottest pepper without alchemy.</span><br />
+[06:23:25] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  resumes eating --</span><br />
+[06:27:35] <span style="color:#0080ff">CFL: ...</span><br />
+[06:27:54] <span style="color:#ee1e00">CCP: ...man, what is /wrong/ with AE, seriously</span><br />
+[06:28:15] <span style="color:#cb7de6">CSJ: probably just some weird drunk and horny teenager. ➜</span><br />
+[06:28:29] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  checks her sylladex for something --</span><br />
+[06:30:10] <span style="color:#d1cfcd">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  facetables from the horrible typo --</span><br />
+[06:30:56] <span style="color:#d1cfcd">-- CURRENT frozenLake's <span style="color:#0080ff">[CFL'S]</span>  mind is in the gutter. --</span><br />

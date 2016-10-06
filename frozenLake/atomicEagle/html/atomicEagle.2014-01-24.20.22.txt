@@ -1,0 +1,2 @@
+[08:22:39] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging atomicEagle <span style="color:#baba00">[AE]</span> at 20:22 --</span><br />
+[08:22:41] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging atomicEagle <span style="color:#baba00">[AE]</span> at 20:22 --</span><br />

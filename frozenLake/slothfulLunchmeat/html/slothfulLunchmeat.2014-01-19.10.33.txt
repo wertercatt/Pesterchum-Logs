@@ -1,0 +1,28 @@
+[10:33:56] <span style="color:#d1cfcd">-- slothfulLunchmeat <span style="color:#2d8a18">[SL]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 10:33 --</span><br />
+[10:33:56] <span style="color:#2d8a18">SL: what do you want</span><br />
+[10:34:21] <span style="color:#0080ff">FL: What, I can't say good morning or anything?</span><br />
+[10:34:35] <span style="color:#2d8a18">SL: well you never did it before</span><br />
+[10:34:44] <span style="color:#2d8a18">SL: ((is this an ic or ooc pester))</span><br />
+[10:34:48] <span style="color:#0080ff">FL: (( IC ))</span><br />
+[10:35:08] <span style="color:#2d8a18">SL: ((ok, needed to decide how rude i should be :p))</span><br />
+[10:35:19] <span style="color:#0080ff">FL: So uh, were you here when I was working on the clock project?</span><br />
+[10:35:28] <span style="color:#0080ff">FL: To measure time easily on this planet?</span><br />
+[10:35:29] <span style="color:#2d8a18">SL: clock project?</span><br />
+[10:35:33] <span style="color:#2d8a18">SL: oh, no</span><br />
+[10:35:54] <span style="color:#0080ff">FL: Yeah, 26 hour days kinda make things complicated... I guess we should blame DS for that.</span><br />
+[10:36:18] <span style="color:#2d8a18">SL: or we could keep using gmt like civilized fucking human beings</span><br />
+[10:36:22] <span style="color:#0080ff">FL: But I figure I could actually turn this into a setup for getting the time on /multiple planets/!</span><br />
+[10:36:28] <span style="color:#0080ff">FL: Well, its based on GMT.</span><br />
+[10:36:30] <span style="color:#0080ff">FL: Sorta.</span><br />
+[10:36:40] <span style="color:#2d8a18">SL: i dont really care</span><br />
+[10:36:42] <span style="color:#0080ff">FL:  <a href='http://flmun.tumblr.com/time'>http://flmun.tumblr.com/time</a></span><br />
+[10:37:00] <span style="color:#2d8a18">SL: so its just past midnight huh</span><br />
+[10:37:12] <span style="color:#0080ff">FL: Well, for /one part of the planet/</span><br />
+[10:37:31] <span style="color:#0080ff">FL: I haven't really done the timezone calculation yet.</span><br />
+[10:37:46] <span style="color:#2d8a18">SL: probably for the best</span><br />
+[10:38:54] <span style="color:#0080ff">FL: Yeah, had to account for the 414 day years and the 26 hour days.</span><br />
+[10:39:57] <span style="color:#2d8a18">SL: so thats what you were doing while my girlfriend was spending the night at my place</span><br />
+[10:40:01] <span style="color:#2d8a18">SL: about sums it up</span><br />
+[10:40:28] <span style="color:#0080ff">FL: Oh right, your girlfriend is over here at the bar right now!</span><br />
+[10:40:50] <span style="color:#2d8a18">SL: ...oh yeah, i was gonna spend more time over there</span><br />
+[10:44:12] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging slothfulLunchmeat <span style="color:#2d8a18">[SL]</span> at 10:44 --</span><br />

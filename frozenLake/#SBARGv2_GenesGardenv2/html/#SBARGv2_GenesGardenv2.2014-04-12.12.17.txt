@@ -1,0 +1,23 @@
+[12:17:33] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+[12:17:59] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[12:17:59] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is standing outside the beanbag cave, away from any furniture --</span><br />
+[12:18:18] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  // An azure flame appears in the air right above kimura, before darting away slightly and forming into FL. --</span><br />
+[12:18:40] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  seems to be panting from exaustion. --</span><br />
+[12:18:49] <span style="color:#0078f0">CFL: alright... it worked...</span><br />
+[12:18:50] <span style="color:#ee1e00">CCP: sup.</span><br />
+[12:20:21] <span style="color:#ee1e00">CCP: well, good to know.</span><br />
+[12:20:26] <span style="color:#0078f0">CFL: I'm sure it would get easier if I get more practice... But that was pretty exausting.</span><br />
+[12:20:44] <span style="color:#0078f0">CFL: I'm not going to be trying that again anytime soon.</span><br />
+[12:24:58] <span style="color:#0078f0">CFL: I don't think I'd be able to use it to go to Hannah, though.</span><br />
+[12:25:48] <span style="color:#ee1e00">CCP: yeah, probably not. this test was targeting a familiar person /at a known location/.</span><br />
+[12:26:40] <span style="color:#0078f0">CFL: ...True.</span><br />
+[12:27:27] <span style="color:#0078f0">CFL: I wasn't exactly focusing on the location though, So I guess trying that while you are at a random location on the planet would be a test of its own.</span><br />
+[12:27:41] <span style="color:#d1cfcd"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
+[12:28:57] <span style="color:#ee1e00">CCP: try again later, after you recover?</span><br />
+[12:29:18] <span style="color:#0078f0">CFL: Yeah.</span><br />
+[12:30:09] <span style="color:#d1cfcd"><span style="color:#225604">CURRENT crazedPyrotechnic [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[12:30:09] <span style="color:#d1cfcd">-- CURRENT crazedPyrotechnic <span style="color:#225604">[CCP]</span>  kicks in the door, walking in. --</span><br />
+[12:30:27] <span style="color:#225604">CCP: How're you crazy kids doin'?</span><br />
+[12:30:37] <span style="color:#d1cfcd">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  flinches. --</span><br />
+[12:30:51] <span style="color:#d1cfcd">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  shrugs --</span><br />
+[13:27:21] <span style="color:#d1cfcd"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />

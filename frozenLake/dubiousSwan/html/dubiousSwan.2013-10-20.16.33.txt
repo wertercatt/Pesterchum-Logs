@@ -1,0 +1,12 @@
+[04:33:10] <span style="color:#d1cfcd">-- dubiousSwan <span style="color:#000000">[DS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:33 --</span><br />
+[04:33:10] <span style="color:#000000">DS: DS: you afraid I'm gonna reverse engineer it and sell your secrets to gambit?</span><br />
+[04:33:20] <span style="color:#0080ff">FL: No.</span><br />
+[04:33:31] <span style="color:#0080ff">FL: I'm just not in the mood to be giving out that code.</span><br />
+[04:33:34] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging dubiousSwan <span style="color:#000000">[DS]</span> at 16:33 --</span><br />
+[04:33:40] <span style="color:#d1cfcd">-- dubiousSwan <span style="color:#000000">[DS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:33 --</span><br />
+[04:33:40] <span style="color:#000000">DS: DS: alright</span><br />
+[04:33:45] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging dubiousSwan <span style="color:#000000">[DS]</span> at 16:33 --</span><br />
+[04:33:47] <span style="color:#d1cfcd">-- dubiousSwan <span style="color:#000000">[DS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:33 --</span><br />
+[04:33:47] <span style="color:#000000">DS: DS: that's cool</span><br />
+[04:33:55] <span style="color:#0080ff">FL: STOP RESPONDING</span><br />
+[04:33:56] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging dubiousSwan <span style="color:#000000">[DS]</span> at 16:33 --</span><br />

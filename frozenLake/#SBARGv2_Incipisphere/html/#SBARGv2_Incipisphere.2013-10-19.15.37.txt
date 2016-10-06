@@ -1,0 +1,14 @@
+[03:37:36] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
+[03:37:37] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
+[03:37:37] <span style="color:#d1cfcd">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
+[03:37:50] <span style="color:#0080ff">CFL: okay turns out I don't have to do the project until later</span><br />
+[03:40:56] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+[03:40:56] <span style="color:#ee1e00">CCP: &gt;:?</span><br />
+[03:41:22] <span style="color:#0080ff">CFL: so um</span><br />
+[03:41:27] <span style="color:#0080ff">CFL: what do you think of my ship</span><br />
+[03:41:53] <span style="color:#ee1e00">CCP: haven't played with it yet, still trying to get used to the game...</span><br />
+[03:43:01] <span style="color:#0080ff">CFL: Alright.</span><br />
+[03:52:52] <span style="color:#ee1e00">CCP: where do I install the ship anyway? also I'll have to wait until I get back to my place and use the desktop, it's throwing just as large a fit on here as MC does...</span><br />
+[03:54:16] <span style="color:#0080ff">CFL: Open the starmade starter, then click start game to get to the options</span><br />
+[03:54:44] <span style="color:#0080ff">CFL: Then select Tools, Open Ship Catalog Manager</span><br />
+[03:55:02] <span style="color:#0080ff">CFL: Then import the ship</span><br />
