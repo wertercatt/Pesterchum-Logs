@@ -1,4 +1,5 @@
-1. Paste the following at the beginning of the log (to the next step):
+1. Copy the file pesterlog-viewer.css into the log's home directory.
+2. Paste the following at the beginning of the log (to the next step):
 <html>
 <head>
   <title>Memo log for 02/11/15, 22:59</title>
@@ -8,10 +9,10 @@
 <body>
 <h1>.:#SBARGv2_GenesGardenv2:.</h1>
 <div class=memolog>
-2. Change the memo name, datestamp, and timestamp
-3. Look for any smilies.
-3a. If there are, copy the "smilies" folder into the log's home directory.
-4. Paste the following at the end of the log:
+3. Change the memo name, datestamp, and timestamp
+4. Look for any smilies.
+4a. If there are, copy the "smilies" folder into the log's home directory.
+5. Paste the following at the end of the log:
 </div>
 </body>
 </html>
