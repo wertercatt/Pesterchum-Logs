@@ -1,8 +1,0 @@
-[07:53:18] <span style="color:#d1cfcd">-- astralGalvanism <span style="color:#000000">[AG]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 19:53 --</span><br />
-[07:53:23] <span style="color:#000000">AG: Did you know</span><br />
-[07:53:34] <span style="color:#000000">AG: your abbreviation is the same as a state</span><br />
-[07:53:46] <span style="color:#000000">AG: Florida.</span><br />
-[07:53:50] <span style="color:#0080ff">FL: did you know you are silver?</span><br />
-[07:54:02] <span style="color:#000000">AG: I'm worth a lot and nice to look at?</span><br />
-[07:54:27] <span style="color:#0080ff">FL: Also, I perfer Flerovium.</span><br />
-[07:54:29] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging astralGalvanism <span style="color:#000000">[AG]</span> at 19:54 --</span><br />

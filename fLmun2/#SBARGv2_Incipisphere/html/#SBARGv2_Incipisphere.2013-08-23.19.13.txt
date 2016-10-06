@@ -1,5 +1,0 @@
-[07:13:18] <span style="color:#646464">No external channel messages (#SBARGv2_Incipisphere)</span><br />
-[07:13:19] <span style="color:#646464"><span style="color:#000000">CEG</span> ceased responding to memo.</span><br />
-[07:13:21] <span style="color:#646464">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
-[07:13:33] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[07:13:41] <span style="color:#33cccc">CPP: the bacafe i think</span><br />

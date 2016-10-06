@@ -1,2 +1,0 @@
-[02:37] <span style="color:#d1cfcd">-- infernalPendulum <span style="color:#000000">[IP]</span> began messaging fLmun <span style="color:#0080ff">[FL]</span> at 14:37 --</span><br />
-[02:38] <span style="color:#d1cfcd">-- fLmun <span style="color:#0080ff">[FL]</span> stopped messaging infernalPendulum <span style="color:#000000">[IP]</span> at 14:38 --</span><br />

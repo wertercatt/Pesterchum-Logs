@@ -1,9 +1,0 @@
-[05:29:21] <span style="color:#646464">No external channel messages (#SBARGv2_Incipisphere)</span><br />
-[05:29:24] <span style="color:#646464">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
-[05:29:28] <span style="color:#000000">CFL: and netsplits</span><br />
-[05:29:29] <span style="color:#000000">CFL: FUN</span><br />
-[05:29:40] <span style="color:#000000">CFL: this will only take one moment</span><br />
-[05:29:46] <span style="color:#000000">CFL: of waiting</span><br />
-[05:29:53] <span style="color:#9d001f">CRS: Dude register your nick</span><br />
-[05:30:03] <span style="color:#000000">CFL: not sure how</span><br />
-[05:30:43] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

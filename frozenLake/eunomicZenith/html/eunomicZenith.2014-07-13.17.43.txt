@@ -1,7 +1,0 @@
-[17:43:38] <span style="color:#d1cfcd">-- eunomicZenith <span style="color:#53b4ff">[EZ]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 17:43 --</span><br />
-[17:43:40] <span style="color:#53b4ff">EZ: Done, sent.</span><br />
-[17:43:44] <span style="color:#0070e0">FL: okay</span><br />
-[17:43:46] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging eunomicZenith <span style="color:#53b4ff">[EZ]</span> at 17:43 --</span><br />
-[17:43:47] <span style="color:#d1cfcd">-- eunomicZenith <span style="color:#53b4ff">[EZ]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 17:43 --</span><br />
-[17:43:47] <span style="color:#53b4ff">EZ: Please ask her to check her messagebox.</span><br />
-[17:43:53] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging eunomicZenith <span style="color:#53b4ff">[EZ]</span> at 17:43 --</span><br />

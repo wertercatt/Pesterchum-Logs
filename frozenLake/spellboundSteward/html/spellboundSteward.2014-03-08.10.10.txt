@@ -1,4 +1,0 @@
-[10:10:26] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging spellboundSteward <span style="color:#000000">[SS]</span> at 10:10 --</span><br />
-[10:10:31] <span style="color:#000000">SS: <span style="color:#ef7c00">broo</span></span><br />
-[10:10:44] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span>  is in the corner of the bar, not visible to those who are still alive. --</span><br />
-[10:10:52] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging spellboundSteward <span style="color:#000000">[SS]</span> at 10:10 --</span><br />

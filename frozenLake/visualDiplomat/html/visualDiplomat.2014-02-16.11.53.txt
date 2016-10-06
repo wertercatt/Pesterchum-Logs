@@ -1,3 +1,0 @@
-[11:53:38] <span style="color:#d1cfcd">-- visualDiplomat <span style="color:#000000">[VD]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 11:53 --</span><br />
-[11:53:45] <span style="color:#000000">VD: hello.</span><br />
-[11:54:41] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging visualDiplomat <span style="color:#000000">[VD]</span> at 11:54 --</span><br />

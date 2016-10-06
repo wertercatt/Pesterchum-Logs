@@ -1,3 +1,0 @@
-[15:18:54] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> began messaging eunomicZenith <span style="color:#53b4ff">[EZ]</span> at 15:18 --</span><br />
-[15:18:55] <span style="color:#0070e0">FL: fRpqb5fa</span><br />
-[15:18:57] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging eunomicZenith <span style="color:#53b4ff">[EZ]</span> at 15:18 --</span><br />

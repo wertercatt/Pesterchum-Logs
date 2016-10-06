@@ -1,6 +1,0 @@
-[04:52:48] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[04:53:44] <span style="color:#ff1717">CDS: i need combat practice</span><br />
-[04:53:54] <span style="color:#ff1717">CDS: my rings dont work anymore</span><br />
-[04:57:56] <span style="color:#d1cfcd"><span style="color:#000000">CDS, PDS2, PDS1</span> ceased responding to memo.</span><br />
-[05:18:08] <span style="color:#d1cfcd">-- CURRENT fLmun <span style="color:#0080ff">[CFL]</span>  heads down to the Basement to make another Mini Alchemiter. --</span><br />
-[05:44:37] <span style="color:#d1cfcd"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />

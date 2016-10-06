@@ -1,3 +1,0 @@
-[08:13:21] <span style="color:#d1cfcd">-- sassyStormbringer <span style="color:#000000">[SS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 20:13 --</span><br />
-[08:13:24] <span style="color:#e20000">SS: hey</span><br />
-[08:14:46] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging sassyStormbringer <span style="color:#e20000">[SS]</span> at 20:14 --</span><br />

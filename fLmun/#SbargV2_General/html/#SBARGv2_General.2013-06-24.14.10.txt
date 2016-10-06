@@ -1,5 +1,0 @@
-<span style="color:#d1cfcd"><span style="color:#000000">CCS</span> ceased responding to memo.</span><br />
-<span style="color:#d1cfcd"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
-<span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
-<span style="color:#d1cfcd"><span style="color:#000000">CLL</span> ceased responding to memo.</span><br />
-<span style="color:#d1cfcd"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />

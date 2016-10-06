@@ -1,4 +1,0 @@
-[15:15:17] <span style="color:#646464">-- attackingDarkness <span style="color:#000000">[AD]</span> began trolling forgottenLord <span style="color:#802020">[FL]</span> at 15:15 --</span><br />
-[15:15:29] <span style="color:#646464">-- attackingDarkness <span style="color:#0a0011">[AD]</span>  the void is calling, do you answer it? --</span><br />
-[15:15:35] <span style="color:#646464">-- forgottenLord <span style="color:#802020">[FL]</span>  // NOPE --</span><br />
-[15:15:37] <span style="color:#646464">-- forgottenLord <span style="color:#802020">[FL]</span> gave up trolling attackingDarkness <span style="color:#0a0011">[AD]</span> at 15:15 --</span><br />

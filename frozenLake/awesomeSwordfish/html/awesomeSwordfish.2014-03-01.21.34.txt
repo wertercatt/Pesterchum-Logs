@@ -1,7 +1,0 @@
-[09:34:02] <span style="color:#d1cfcd">-- awesomeSwordfish <span style="color:#722881">[AS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 21:34 --</span><br />
-[09:34:02] <span style="color:#722881">AS: Damn,man, you make me sad.Can I at least get an asnwer for my last AI question?</span><br />
-[09:34:39] <span style="color:#0080ff">FL: ...Not really.</span><br />
-[09:35:04] <span style="color:#0080ff">FL: They all end up going mad in some way or another. Just like us humans, when faced with a longer lifespan.</span><br />
-[09:35:59] <span style="color:#722881">AS: Thank you. now if you really want, you can close the window</span><br />
-[09:36:00] <span style="color:#722881">AS: v.v</span><br />
-[10:00:34] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging awesomeSwordfish <span style="color:#722881">[AS]</span> at 22:00 --</span><br />

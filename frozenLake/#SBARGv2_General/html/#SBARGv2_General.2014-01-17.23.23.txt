@@ -1,2 +1,0 @@
-[11:23:37] <span style="color:#d1cfcd"><span style="color:#000000"></span> ceased responding to memo.</span><br />
-[11:48:46] <span style="color:#d1cfcd"><span style="color:#000000">CCN</span> ceased responding to memo.</span><br />

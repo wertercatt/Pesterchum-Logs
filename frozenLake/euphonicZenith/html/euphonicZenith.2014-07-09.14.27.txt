@@ -1,8 +1,0 @@
-[14:27:09] <span style="color:#d1cfcd">-- euphonicZenith <span style="color:#53b4ff">[EZ]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 14:27 --</span><br />
-[14:27:12] <span style="color:#53b4ff">EZ: Hi.</span><br />
-[14:27:33] <span style="color:#53b4ff">EZ: I'm via phone.</span><br />
-[14:29:21] <span style="color:#53b4ff">EZ: Hey</span><br />
-[14:29:31] <span style="color:#53b4ff">EZ: Are you here?</span><br />
-[14:30:31] <span style="color:#53b4ff">EZ: I'm going to read Fahrenheit 451 so I will not answer</span><br />
-[14:31:33] <span style="color:#53b4ff">EZ: If you have something to say,  say it.</span><br />
-[14:44:26] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging euphonicZenith <span style="color:#53b4ff">[EZ]</span> at 14:44 --</span><br />

@@ -1,6 +1,0 @@
-<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#550000">CURRENT ashSprite [CAS]</span> RIGHT NOW responded to memo.</span><br />
-<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  pops into the Bacafe, holding the completed dress, opting to go for a mix of Purple and black on the skirt --</span><br />
-<span style="color:#550000">CAS: Look look!</span><br />
-<span style="color:#646464">-- CURRENT ashSprite <span style="color:#550000">[CAS]</span>  gleefully presents it to the group --</span><br />
-<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

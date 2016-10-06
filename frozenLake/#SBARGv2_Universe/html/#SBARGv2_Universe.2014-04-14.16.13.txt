@@ -1,7 +1,0 @@
-[16:13:07] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 UNIVERSE.</span><br />
-[16:13:09] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[16:13:09] <span style="color:#d1cfcd">[#SBARGv2_Universe] ENTRYMSG V2 Aftermath IC memo. <a href='#SBARGv2_General'>#SBARGv2_General</a> (PLEASE REPOPULATE THIS) for OOC. <a href='http://kapowcreations.com/sbarginfo'>http://kapowcreations.com/sbarginfo</a> for info.</span><br />
-[16:13:09] <span style="color:#000000">CCC</span> took away <span style="color:#0078f0">FL</span>'s OP powers.<br />
-[19:22:05] <span style="color:#d1cfcd"><span style="color:#000000">CAA</span> ceased responding to memo.</span><br />
-[20:43:13] <span style="color:#d1cfcd"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
-[20:43:13] <span style="color:#ee1e00">CCP: night FL</span><br />

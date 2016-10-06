@@ -1,2 +1,0 @@
-[10:14:41] <span style="color:#d1cfcd">-- grimsawPuppet <span style="color:#000000">[GP]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 22:14 --</span><br />
-[10:14:44] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging grimsawPuppet <span style="color:#df1c36">[GP]</span> at 22:14 --</span><br />

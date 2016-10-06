@@ -1,3 +1,0 @@
-[06:44:09] <span style="color:#d1cfcd">-- justiceFist <span style="color:#000000">[JF]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:44 --</span><br />
-[06:44:13] <span style="color:#aa5500">JF: hey</span><br />
-[06:44:55] <span style="color:#d1cfcd">-- justiceFist <span style="color:#aa5500">[JF]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:44 --</span><br />

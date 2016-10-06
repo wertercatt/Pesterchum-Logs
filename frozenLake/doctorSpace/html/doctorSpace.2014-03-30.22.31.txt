@@ -1,4 +1,0 @@
-[22:31:28] <span style="color:#d1cfcd">-- doctorSpace <span style="color:#006d00">[DS]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 22:31 --</span><br />
-[22:31:50] <span style="color:#006d00">DS: I have back trased a Planet that DT may be on.</span><br />
-[22:32:07] <span style="color:#006d00">DS: Its probaebly a trap though</span><br />
-[22:34:13] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> stopped messaging doctorSpace <span style="color:#006d00">[DS]</span> at 22:34 --</span><br />

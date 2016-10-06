@@ -1,5 +1,0 @@
-[08:34:44] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> began messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 20:34 --</span><br />
-[08:34:58] <span style="color:#0080ff">FL: (( so should I have Crux join a memo? ))</span><br />
-[08:35:22] <span style="color:#ee1e00">CP: ((no, he's at CP's house with Issun and Kutone))</span><br />
-[08:35:28] <span style="color:#0080ff">FL: (( K ))</span><br />
-[08:35:31] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging creeperPuncher <span style="color:#ee1e00">[CP]</span> at 20:35 --</span><br />

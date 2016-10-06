@@ -1,6 +1,0 @@
-[05:40:35] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 LOSAC.</span><br />
-[05:40:48] <span style="color:#d1cfcd"><span style="color:#55557f">CURRENT glitchyPaw [CGP]</span> RIGHT NOW responded to memo.</span><br />
-[05:40:48] <span style="color:#55557f">CGP: ((which LoSaC is this? ))</span><br />
-[05:40:48] <span style="color:#0080ff">CFL: (( whos LoSaC is this ))</span><br />
-[05:41:04] <span style="color:#55557f">CGP: (( CA IS THIS LOSAC YOURS ))</span><br />
-[05:42:48] <span style="color:#d1cfcd"><span style="color:#000000">CGP</span> ceased responding to memo.</span><br />

@@ -1,3 +1,0 @@
-[07:51:10] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-[07:51:22] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-[07:52:37] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />

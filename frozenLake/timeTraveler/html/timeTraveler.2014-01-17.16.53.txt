@@ -1,3 +1,0 @@
-[04:53:22] <span style="color:#d1cfcd">-- timeTraveler <span style="color:#aa5500">[TT]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:53 --</span><br />
-[04:53:27] <span style="color:#aa5500">TT: hallѳ</span><br />
-[04:56:24] <span style="color:#d1cfcd">-- timeTraveler <span style="color:#aa5500">[TT]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:56 --</span><br />

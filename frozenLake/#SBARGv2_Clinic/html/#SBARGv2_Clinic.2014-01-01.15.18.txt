@@ -1,5 +1,0 @@
-[03:18:49] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[04:40:12] <span style="color:#d1cfcd"><span style="color:#000000">CDH</span> ceased responding to memo.</span><br />
-[04:40:29] <span style="color:#d1cfcd"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
-[07:18:30] <span style="color:#d1cfcd"><span style="color:#000000">CNK</span> ceased responding to memo.</span><br />
-[07:33:20] <span style="color:#d1cfcd"><span style="color:#000000">CSB</span> ceased responding to memo.</span><br />

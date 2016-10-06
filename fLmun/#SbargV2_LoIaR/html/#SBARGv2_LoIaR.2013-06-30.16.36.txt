@@ -1,2 +1,0 @@
-<span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
-<span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />

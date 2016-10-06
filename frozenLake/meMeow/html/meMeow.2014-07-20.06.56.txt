@@ -1,2 +1,0 @@
-[06:56:32] <span style="color:#d1cfcd">-- meMeow <span style="color:#000000">[MM]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 06:56 --</span><br />
-[06:56:34] <span style="color:#d1cfcd">-- meMeow <span style="color:#000000">[MM]</span> stopped messaging frozenLake <span style="color:#0070e0">[FL]</span> at 06:56 --</span><br />

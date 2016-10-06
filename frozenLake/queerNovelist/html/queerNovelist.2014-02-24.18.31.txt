@@ -1,5 +1,0 @@
-[06:31:49] <span style="color:#d1cfcd">-- queerNovelist <span style="color:#000000">[QN]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:31 --</span><br />
-[06:31:58] <span style="color:#0000aa">QN: Hello there</span><br />
-[06:32:03] <span style="color:#0080ff">FL: ello</span><br />
-[06:32:15] <span style="color:#0000aa">QN: How are you?</span><br />
-[06:37:53] <span style="color:#d1cfcd">-- queerNovelist <span style="color:#0000aa">[QN]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 18:37 --</span><br />

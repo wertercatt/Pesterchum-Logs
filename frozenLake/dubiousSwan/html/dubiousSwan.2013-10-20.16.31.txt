@@ -1,7 +1,0 @@
-[04:31:22] <span style="color:#d1cfcd">-- dubiousSwan <span style="color:#000000">[DS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:31 --</span><br />
-[04:31:22] <span style="color:#000000">DS: DS: yo</span><br />
-[04:31:34] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging dubiousSwan <span style="color:#000000">[DS]</span> at 16:31 --</span><br />
-[04:31:49] <span style="color:#d1cfcd">-- dubiousSwan <span style="color:#000000">[DS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:31 --</span><br />
-[04:31:49] <span style="color:#000000">DS: DS: do you mind sending me the code for that void blade</span><br />
-[04:31:58] <span style="color:#0080ff">FL: Yes I mind.</span><br />
-[04:32:00] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging dubiousSwan <span style="color:#000000">[DS]</span> at 16:32 --</span><br />

@@ -1,3 +1,0 @@
-[10:49:58] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 THEFLEET.</span><br />
-[10:49:58] <span style="color:#d1cfcd"><span style="color:#555500">CURRENT powerKitten [CPK]</span> RIGHT NOW responded to memo.</span><br />
-[10:49:58] <span style="color:#d1cfcd">-- CURRENT powerKitten <span style="color:#555500">[CPK]</span>  runs out, picks up FF, and runs back to the Chopper --</span><br />

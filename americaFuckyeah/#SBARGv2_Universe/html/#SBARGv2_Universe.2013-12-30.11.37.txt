@@ -1,4 +1,0 @@
-[11:37:50] <span style="color:#646464"><span style="color:#ff0000">CAF</span> RIGHT NOW opened memo on board SBARGV2 UNIVERSE.</span><br />
-[11:37:50] <span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[11:37:50] <span style="color:#646464">[#SBARGv2_Universe] <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC.</span><br />
-[11:37:53] <span style="color:#ff0000">CAF: WILDCATS</span><br />

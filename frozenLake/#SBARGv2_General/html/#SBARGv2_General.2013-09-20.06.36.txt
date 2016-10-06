@@ -1,4 +1,0 @@
-[06:36:37] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
-[06:36:38] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[06:36:38] <span style="color:#d1cfcd">[#SBARGv2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. DISCUSSING NSFW IS AN INSTANT KICK.</span><br />
-[07:07:41] <span style="color:#d1cfcd"><span style="color:#000000">CDD</span> ceased responding to memo.</span><br />

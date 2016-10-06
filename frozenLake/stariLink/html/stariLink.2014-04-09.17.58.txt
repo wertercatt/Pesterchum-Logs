@@ -1,4 +1,0 @@
-[17:58:22] <span style="color:#d1cfcd">-- stariLink <span style="color:#000000">[SL]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 17:58 --</span><br />
-[17:58:34] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0078f0">[FL]</span> is now an idle chum! --</span><br />
-[17:58:34] <span style="color:#000000">SL: Hello c:</span><br />
-[18:01:47] <span style="color:#d1cfcd">-- stariLink <span style="color:#748eff">[SL]</span> stopped messaging frozenLake <span style="color:#0078f0">[FL]</span> at 18:01 --</span><br />

@@ -1,2 +1,0 @@
-[07:13:28] <span style="color:#aaaa7f">CFF: <span style="color:#00ff00">...</span></span><br />
-[07:13:33] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

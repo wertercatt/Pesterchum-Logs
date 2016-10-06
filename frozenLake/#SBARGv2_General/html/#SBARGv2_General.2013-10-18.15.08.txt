@@ -1,3 +1,0 @@
-[03:08:26] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[04:04:45] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />
-[07:14:01] <span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />

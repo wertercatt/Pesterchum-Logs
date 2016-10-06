@@ -1,6 +1,0 @@
-[05:55:40] <span style="color:#d1cfcd">-- thePsionic <span style="color:#000000">[TP]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:55 --</span><br />
-[05:55:48] <span style="color:#bfbf00">TP: Hello.</span><br />
-[05:56:01] <span style="color:#0080ff">FL: (( shouldn't that have two I's? ))</span><br />
-[05:56:31] <span style="color:#bfbf00">TP: (( Idc. XD ))</span><br />
-[05:56:47] <span style="color:#0080ff">FL: (( ...well, I'm kinda busy, so bye. ))</span><br />
-[05:56:49] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging thePsionic <span style="color:#bfbf00">[TP]</span> at 17:56 --</span><br />

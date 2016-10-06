@@ -1,3 +1,0 @@
-[07:54:50] <span style="color:#646464"><span style="color:#ffc080">CDJ</span> RIGHT NOW opened memo on board SBARGV2 NOTMUTEDOVERHERE.</span><br />
-[07:54:58] <span style="color:#000000">CFL</span> banned <span style="color:#000000">CFL</span> from responding to memo.<br />
-[07:55:12] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

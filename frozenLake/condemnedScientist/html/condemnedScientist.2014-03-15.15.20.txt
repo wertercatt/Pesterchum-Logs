@@ -1,2 +1,0 @@
-[03:20:34] <span style="color:#d1cfcd">-- condemnedScientist <span style="color:#ff0000">[CS]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 15:20 --</span><br />
-[03:20:36] <span style="color:#d1cfcd">-- condemnedScientist <span style="color:#ff0000">[CS]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 15:20 --</span><br />

@@ -1,7 +1,0 @@
-[20:26:00] <span style="color:#d1cfcd"><span style="color:#0078f0">CFL</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
-[20:26:01] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[20:26:01] <span style="color:#d1cfcd">[#SBARGv2_General] V2 aftermath OOC memo. <a href='#SBARGv2_Universe'>#SBARGv2_Universe</a> for IC. http:/​/​kapowcreations.com/​sbarginfo for info.</span><br />
-[20:26:01] <span style="color:#000000">CCC</span> took away <span style="color:#0078f0">FL</span>'s OP powers.<br />
-[20:28:08] <span style="color:#000000">CCC</span> made <span style="color:#000000">NN</span> an OP.<br />
-[20:37:35] <span style="color:#000000">CNN</span> made <span style="color:#0078f0">FL</span> an OP.<br />
-[21:07:07] <span style="color:#d1cfcd"><span style="color:#000000">CNN</span> ceased responding to memo.</span><br />

@@ -1,4 +1,0 @@
-<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CAP</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CGA</span> ceased responding to memo.</span><br />

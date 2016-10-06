@@ -1,2 +1,0 @@
-[06:53:54] <span style="color:#d1cfcd">-- harmoniousArtist <span style="color:#18447a">[HA]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 06:53 --</span><br />
-[06:53:56] <span style="color:#d1cfcd">-- harmoniousArtist <span style="color:#18447a">[HA]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 06:53 --</span><br />

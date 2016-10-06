@@ -1,3 +1,0 @@
-[08:02] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[08:15] <span style="color:#d1cfcd"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
-[08:57] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />

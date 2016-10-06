@@ -1,2 +1,0 @@
-[04:06:56] <span style="color:#d1cfcd">-- existentialPenguin <span style="color:#133295">[EP]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 16:06 --</span><br />
-[04:08:36] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0080ff">[FL]</span> stopped messaging existentialPenguin <span style="color:#133295">[EP]</span> at 16:08 --</span><br />

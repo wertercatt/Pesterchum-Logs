@@ -1,2 +1,0 @@
-[03:26:01] <span style="color:#d1cfcd">-- silentTrickster <span style="color:#000000">[ST]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 15:26 --</span><br />
-[03:26:03] <span style="color:#d1cfcd">-- silentTrickster <span style="color:#260055">[ST]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 15:26 --</span><br />

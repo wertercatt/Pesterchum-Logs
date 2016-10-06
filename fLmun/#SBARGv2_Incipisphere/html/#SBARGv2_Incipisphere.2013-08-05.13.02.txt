@@ -1,5 +1,0 @@
-[01:02:33] <span style="color:#d1cfcd"><span style="color:#0080ff">CFL</span> RIGHT NOW opened memo on board SBARGV2 INCIPISPHERE.</span><br />
-[01:02:33] <span style="color:#d1cfcd"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[01:02:33] <span style="color:#d1cfcd">[#SBARGv2_Incipisphere] <a href='#SBARGv2_General'>#SBARGv2_General</a> for OOC; <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
-[01:02:53] <span style="color:#0080ff">CFL: (( need to restart pchum, links hate me</span><br />
-[01:02:55] <span style="color:#0080ff">CFL: ))</span><br />

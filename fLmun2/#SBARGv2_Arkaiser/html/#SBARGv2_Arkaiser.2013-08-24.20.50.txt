@@ -1,4 +1,0 @@
-[08:50:25] <span style="color:#000000">CFL: (( hold on ))</span><br />
-[08:50:38] <span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
-[08:50:38] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[08:50:43] <span style="color:#fe6a27">CPO: Jeez, how many orbs are on those things?</span><br />

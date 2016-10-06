@@ -1,6 +1,0 @@
-[12:11:36] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[12:13:04] <span style="color:#d1cfcd"><span style="color:#000000">CDP</span> ceased responding to memo.</span><br />
-[01:56:13] <span style="color:#d1cfcd"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
-[03:18:22] <span style="color:#d1cfcd"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
-[04:26:04] <span style="color:#d1cfcd"><span style="color:#000000">CSA</span> ceased responding to memo.</span><br />
-[04:42:42] <span style="color:#d1cfcd"><span style="color:#000000">CLL</span> ceased responding to memo.</span><br />

@@ -1,3 +1,0 @@
-[18:34:12] <span style="color:#d1cfcd">-- violetticMirage <span style="color:#000000">[VM]</span> began messaging frozenLake <span style="color:#0078f0">[FL]</span> at 18:34 --</span><br />
-[18:34:18] <span style="color:#55007f">VM: H3ll0</span><br />
-[18:36:55] <span style="color:#d1cfcd">-- violetticMirage <span style="color:#55007f">[VM]</span> stopped messaging frozenLake <span style="color:#0078f0">[FL]</span> at 18:36 --</span><br />

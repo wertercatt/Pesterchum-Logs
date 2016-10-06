@@ -1,4 +1,0 @@
-[05:10:25] <span style="color:#d1cfcd">-- shinyJiggly <span style="color:#cb7de6">[SJ]</span> began messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:10 --</span><br />
-[05:10:29] <span style="color:#d1cfcd">-- shinyJiggly <span style="color:#cb7de6">[SJ]</span>  a message appears on your note "I'm sorry about slapping you so hard." --</span><br />
-[05:11:13] <span style="color:#d1cfcd">-- shinyJiggly <span style="color:#cb7de6">[SJ]</span>  the message lingers until you read it and then disapears --</span><br />
-[05:11:16] <span style="color:#d1cfcd">-- shinyJiggly <span style="color:#cb7de6">[SJ]</span> stopped messaging frozenLake <span style="color:#0080ff">[FL]</span> at 17:11 --</span><br />

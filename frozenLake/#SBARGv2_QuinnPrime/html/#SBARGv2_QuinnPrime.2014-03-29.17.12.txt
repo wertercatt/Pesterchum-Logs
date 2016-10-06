@@ -1,3 +1,0 @@
-[17:12:27] <span style="color:#d1cfcd"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-[17:51:23] <span style="color:#d1cfcd"><span style="color:#000000">CWD</span> ceased responding to memo.</span><br />
-[22:42:17] <span style="color:#d1cfcd"><span style="color:#000000">CWG</span> ceased responding to memo.</span><br />

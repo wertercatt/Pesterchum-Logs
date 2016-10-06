@@ -1,3 +1,0 @@
-[10:42:33] <span style="color:#d1cfcd">-- powerKitten <span style="color:#03bf00">[PK]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 10:42 --</span><br />
-[10:42:50] <span style="color:#0070e0">FL: (( <a href='#SBARGv2_GenesGardenv2'>#SBARGv2_GenesGardenv2</a> ))</span><br />
-[10:42:52] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging powerKitten <span style="color:#007200">[PK]</span> at 10:42 --</span><br />

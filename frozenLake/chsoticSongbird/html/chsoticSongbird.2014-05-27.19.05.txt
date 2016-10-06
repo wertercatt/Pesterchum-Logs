@@ -1,3 +1,0 @@
-[19:05:37] <span style="color:#d1cfcd">-- chsoticSongbird <span style="color:#000000">[CS]</span> began messaging frozenLake <span style="color:#0070e0">[FL]</span> at 19:05 --</span><br />
-[19:05:40] <span style="color:#ff00ff">CS: shello</span><br />
-[19:05:48] <span style="color:#d1cfcd">-- frozenLake <span style="color:#0070e0">[FL]</span> stopped messaging chsoticSongbird <span style="color:#ff00ff">[CS]</span> at 19:05 --</span><br />

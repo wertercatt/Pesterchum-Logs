@@ -1,3 +1,0 @@
-<span style="color:#646464">-- alternateVermin <span style="color:#e12d00">[AV]</span> began pestering forgottenLord <span style="color:#802020">[FL]</span> at 17:03 --</span><br />
-<span style="color:#e12d00">AV: Excellent. We shall converse again soon.</span><br />
-<span style="color:#646464">-- alternateVermin <span style="color:#e12d00">[AV]</span> ceased pestering forgottenLord <span style="color:#802020">[FL]</span> at 17:03 --</span><br />
