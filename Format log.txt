@@ -9,10 +9,9 @@
 <h1>.:#SBARGv2_GenesGardenv2:.</h1>
 <div class=memolog>
 2. Change the memo name, datestamp, and timestamp
-3. Run "Memo Spacer" macro, start at the first <span style>
-4. Look for any smilies.
-4a. If there are, copy the "smilies" folder into the log's home directory.
-5. Paste the following at the end of the log:
+3. Look for any smilies.
+3a. If there are, copy the "smilies" folder into the log's home directory.
+4. Paste the following at the end of the log:
 </div>
 </body>
 </html>
