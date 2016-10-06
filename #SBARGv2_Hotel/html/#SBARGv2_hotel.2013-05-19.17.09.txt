@@ -1,7 +1,0 @@
-<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CEP</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CFS</span> ceased responding to memo.</span><br />

@@ -1,0 +1,817 @@
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CSL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  walks into a bar --</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#008400">CDS: Speeking of presents did you get yours from under the tree?</span><br />
+<span style="color:#008400">CDS: Ash.</span><br />
+<span style="color:#646464"><span style="color:#a80000">CURRENT fromAshes [CFA]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#a80000">CFA: (\ Kimura just brought me one /)</span><br />
+<span style="color:#646464"><span style="color:#b5b500">CURRENT atomicEagle [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#b5b500">CAE: Ash! You. I owe you... a thing. </span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  wolf whistles --</span><br />
+<span style="color:#a80000">CFA: (\ Can I sit down first please? /)</span><br />
+<span style="color:#a80000">CFA: (\ Feet are starting to hurt /)</span><br />
+<span style="color:#008400">CDS: no I mean the one from Santa.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  reaches into his captchalogue rather dramatically and pulls out a dreamcatcher made with raven feathers --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  chuckles nervously before sitting in a nearby chair --</span><br />
+<span style="color:#b5b500">CAE: Figured I'd make use of all those feathers I plucked.</span><br />
+<span style="color:#a80000">CFA: (\ ....wat /)</span><br />
+<span style="color:#a80000">CFA: (\ Brad oh myy god /)</span><br />
+<span style="color:#2d8a18">CSL: ...you plucked her feathers?</span><br />
+<span style="color:#b5b500">CAE: We plucked each others.</span><br />
+<span style="color:#a80000">CFA: (\ I pluck his too /)</span><br />
+<span style="color:#2d8a18">CSL: um</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  blinks --</span><br />
+<span style="color:#008400">CDS: ...</span><br />
+<span style="color:#a80000">CFA: (\ No SL /)</span><br />
+<span style="color:#2d8a18">CSL: what</span><br />
+<span style="color:#a80000">CFA: (\ Its a sort of friendlyy teasing /)</span><br />
+<span style="color:#b5b500">CAE: I have too many fucking bald spots I swear to god.</span><br />
+<span style="color:#a80000">CFA: (\ that we do to eachother /)</span><br />
+<span style="color:#2d8a18">CSL: oh i thought it was like</span><br />
+<span style="color:#2d8a18">CSL: grooming</span><br />
+<span style="color:#a80000">CFA: (\ just causes a little pain /)</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  ports back with Ash's Present from Santa. --</span><br />
+<span style="color:#a80000">CFA: (\ No thats Preening /)</span><br />
+<span style="color:#646464"><span style="color:#6507ff">CURRENT timeTravlur [CTT]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  wa5 here the whole time --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  heads on into the bar... just when the topic is preening okay. --</span><br />
+<span style="color:#2d8a18">CSL: alright</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  hands it to Ash. --</span><br />
+<span style="color:#2d8a18">CSL: lets stop talking about your freaky bird sex for now</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  tilts her head and takes the present --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  al5o chronoplu5h carrie5 a bowl of 5oup --</span><br />
+<span style="color:#008400">CDS: There are presents from Santa under the tree</span><br />
+<span style="color:#a80000">CFA: (\ ....Freakyy what? /)</span><br />
+<span style="color:#008400">CDS: ((contence is up to you))</span><br />
+<span style="color:#2d8a18">CSL: i dunno</span><br />
+<span style="color:#008400">CDS: theres one for evryone.</span><br />
+<span style="color:#2806ea">CEQ: -And lets not go into that topic, shall we?</span><br />
+<span style="color:#a80000">CFA: (\ Theres no... sex involved its... literallyy us pulling bad feathers /)</span><br />
+<span style="color:#a80000">CFA: (\ yyeah /)</span><br />
+<span style="color:#b5b500">CAE: For one.</span><br />
+<span style="color:#b5b500">CAE: What Ash said.</span><br />
+<span style="color:#b5b500">CAE: For two.</span><br />
+<span style="color:#2d8a18">CSL: and eating mites?</span><br />
+<span style="color:#b5b500">CAE: Bird sex is not fucking creepy.</span><br />
+<span style="color:#008400">CDS: SL got all the games to compleate his celection.</span><br />
+<span style="color:#b5b500">CAE: Freaky</span><br />
+<span style="color:#b5b500">CAE: Whatever</span><br />
+<span style="color:#2d8a18">CSL: lets not</span><br />
+<span style="color:#a80000">CFA: (\ No mites /)</span><br />
+<span style="color:#a80000">CFA: (\ No nothing /)</span><br />
+<span style="color:#2806ea">CEQ: Lets please not.</span><br />
+<span style="color:#2d8a18">CSL: shoulda prototyped with a chimp</span><br />
+<span style="color:#2d8a18">CSL: just sayin</span><br />
+<span style="color:#a80000">CFA: (\ just pulling ba feathers and re-adjusting the good ones /)</span><br />
+<span style="color:#b5b500">CAE: Simple.</span><br />
+<span style="color:#008400">CDS: Any way open the present.</span><br />
+<span style="color:#a80000">CFA: (\ SL im going to punch yyou /)</span><br />
+<span style="color:#a80000">CFA: (\ anyywayy /)</span><br />
+<span style="color:#b5b500">CAE: No insertion of anything anywhere.</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#ee1e00">CCP: S_L</span><br />
+<span style="color:#6507ff">CTT: why are we τalking abouτ *SNEEZE* bird sex</span><br />
+<span style="color:#6507ff">CTT: *sniffle*</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  starts opening the gift --</span><br />
+<span style="color:#2806ea">CEQ: No idea.... and TT, you okay there?</span><br />
+<span style="color:#008400">CDS: Kat did you get your present from Santa?</span><br />
+<span style="color:#6507ff">CTT: I have a cold :C</span><br />
+<span style="color:#b5b500">CAE: Ash, I figured a personal gift would mean more seeing as we can spawn anything the fuck in these days.</span><br />
+<span style="color:#2806ea">CEQ: You sound a little sick- awwwww....</span><br />
+<span style="color:#b5b500">CAE: ((Or my laptop could be slow as shit, that's cool too.))</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  places the thingy on the table then voids behind the bar again, pulling out a bottle of vodka --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  hugs Kat --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  the chronoplu5h 5et5 the bowl of 5oup on kat'5 table and re5ume5 to it'5 wri5top hijacking bu5ine55 --</span><br />
+<span style="color:#6507ff">CTT: don'τhugmeyoumighτgeτiττoo</span><br />
+<span style="color:#2d8a18">CSL: im a life player</span><br />
+<span style="color:#2d8a18">CSL: i dont really get sick</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  awkward 5tare --</span><br />
+<span style="color:#2806ea">CEQ: ... pffft.</span><br />
+<span style="color:#b5b500">CAE: Yeah sure, I'm a void player and I never get emptiness in my life.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  smiles to himself --</span><br />
+<span style="color:#b5b500">CAE: WELL.</span><br />
+<span style="color:#b5b500">CAE: Not anymore.</span><br />
+<span style="color:#2806ea">CEQ: -Just like how I'm a mind player and thusly never have stupid moments.</span><br />
+<span style="color:#2d8a18">CSL: im /made/ of life dumbasses</span><br />
+<span style="color:#a80000">CFA: (\ Brad /)</span><br />
+<span style="color:#a80000">CFA: (\ YYour gift is beautiful /)</span><br />
+<span style="color:#b5b500">CAE: Sup.</span><br />
+<span style="color:#b5b500">CAE: :D</span><br />
+<span style="color:#a80000">CFA: (\ Just having trouble with this wrapping paper /)</span><br />
+<span style="color:#a80000">CFA: (\ jklhfgfg' /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  is meticulously trying to open it without damaging the paper much --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids the paper off and totally isn't abusing his powers at all --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  BLINKS --</span><br />
+<span style="color:#2d8a18">CSL: why do you need the paper in one piece anyway</span><br />
+<span style="color:#008400">CDS: ((whitch present? the Sanat one?))</span><br />
+<span style="color:#a80000">CFA: ((Yeah))</span><br />
+<span style="color:#a80000">CFA: (\ Because its such prettyy paper and I wanted it... /)</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  is holding it --</span><br />
+<span style="color:#b5b500">CAE: S'here.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  frowns at SL then turns to brad and takes the paper --</span><br />
+<span style="color:#a80000">CFA: (\ Thanks /)</span><br />
+<span style="color:#ee1e00">CCP: yeah, saving the paper or at least trying to was a tradition in my family too...</span><br />
+<span style="color:#008400">CDS: so whats in the box?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  mutters "SL, you making the plushie think about the wrong sort of things...." --</span><br />
+<span style="color:#008400">CDS: um Kat your thing is shouting in the memo.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  opens the box and blinks, pulling out a small plush Frog made with special material that changed colors dependent on how the light hit it --</span><br />
+<span style="color:#6507ff">CTT: huhwha</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  stairs in stuned silence. --</span><br />
+<span style="color:#2d8a18">CSL: ...i got star fox 2</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  stares dumbly --</span><br />
+<span style="color:#a80000">CFA: (\ ... /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  just... hugs the plush --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  happy noises --</span><br />
+<span style="color:#2806ea">CEQ: Dawww...</span><br />
+<span style="color:#2d8a18">CSL: that is a nice plushie</span><br />
+<span style="color:#008400">CDS: dawwww</span><br />
+<span style="color:#008400">CDS: Santa realy knows his stuff.</span><br />
+<span style="color:#a80000">CFA: (\ H-heh... /)</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  higs FA. --</span><br />
+<span style="color:#008400">CDS: ((Hugs* because she is not a boson lol))</span><br />
+<span style="color:#2d8a18">CSL: ...gonna put that in owain's room?</span><br />
+<span style="color:#2d8a18">CSL: ((m. boson))</span><br />
+<span style="color:#2d8a18">CSL: ((CAME EXPECTING A PARTICLE, BUT FOUND A GOD?))</span><br />
+<span style="color:#008400">CDS: ((lol))</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000"> *squeak*</span></span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  hugs DS back --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  goes back to eating. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls out a 3DS for a bit of playing --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  look5 at her plu5h while eating 5oup --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT lookswithNaivete [CLN]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#000000">[CLN]</span>  is Dressed In a Blue Star Fleet uniform the rank braid indicates his rank is Lieutnant. --</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#000000">[CLN]</span>  enters. --</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#000000">[CLN]</span>  oh and is a Wolf. --</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#000000">[CLN]</span>  walks up to the bar. --</span><br />
+<span style="color:#0000ff">CLN: I heard this place has the Best stakes around.</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000"> *squeak*</span></span><br />
+<span style="color:#2806ea">CEQ: Uh...?</span><br />
+<span style="color:#a80000">CFA: (\ ....? /)</span><br />
+<span style="color:#2d8a18">CSL: ...who the fuck is this gary stu asshole</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#008400">CDS: who?</span><br />
+<span style="color:#0000ff">CLN: um Service please</span><br />
+<span style="color:#a80000">CFA: (\ who the.... /)</span><br />
+<span style="color:#2806ea">CEQ: 'consort, pretty sure. Or... someone made talking wolves.</span><br />
+<span style="color:#008400">CDS: hmm? oh him?</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  glances at SL and CP. --</span><br />
+<span style="color:#008400">CDS: Yes hes one of my consorts</span><br />
+<span style="color:#ee1e00">CCP: yeah, some of DS' crewmades have been visiting here today...</span><br />
+<span style="color:#2806ea">CEQ: Ah, okay.</span><br />
+<span style="color:#2d8a18">CSL: ok good</span><br />
+<span style="color:#0000ff">CLN: Does any one know where the bar Keep is?</span><br />
+<span style="color:#ee1e00">CCP: ((*crewmates))</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  sees DS. --</span><br />
+<span style="color:#0000ff">CLN: Captain!</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  snaps to attention. --</span><br />
+<span style="color:#2d8a18">CSL: i was about to say if this universe had fucking furries</span><br />
+<span style="color:#008400">CDS: At ease Lieutnant.</span><br />
+<span style="color:#008400">CDS: We are off duty.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  relaxes. --</span><br />
+<span style="color:#008400">CDS: And what is wrong with furrys?</span><br />
+<span style="color:#2d8a18">CSL: everything</span><br />
+<span style="color:#008400">CDS: ...</span><br />
+<span style="color:#0000ff">CLN:  a compeling argument.</span><br />
+<span style="color:#0000ff">CLN: ((crap sorry))</span><br />
+<span style="color:#2806ea">CEQ: ... You say, when there is literally two wolves in this very room, SL.</span><br />
+<span style="color:#008400">CDS: oh what a compeling argument.</span><br />
+<span style="color:#2d8a18">CSL: cp has earned my respect</span><br />
+<span style="color:#0000ff">CLN: ....</span><br />
+<span style="color:#2806ea">CEQ: Hm, fair enough.</span><br />
+<span style="color:#2d8a18">CSL: and this new jackass cannot be held responsible for the circumstances of his birth</span><br />
+<span style="color:#0000ff">CLN: Exusem me?</span><br />
+<span style="color:#646464"><span style="color:#78a0ba">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  snaps back awake at the bar. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  looks around and rubs her head. --</span><br />
+<span style="color:#0000ff">CLN: I have hierd some good things about this place from my crew mates but when I come theres no service and I get insulted like Im not here!</span><br />
+<span style="color:#008400">CDS: He has a Point SL</span><br />
+<span style="color:#2d8a18">CSL: ...</span><br />
+<span style="color:#2d8a18">CSL: sorry, i was out of line</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  snaps upright and hops to LN. "Terribly sorry, welcome. What can I get you?" --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  fell asleep on the job. --</span><br />
+<span style="color:#0000ff">CLN: Thank you for your apology.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  turns to IB --</span><br />
+<span style="color:#0000ff">CLN: Yes I would like a stake medium raw and some watter please.</span><br />
+<span style="color:#0000ff">CLN: ((yes I am a wolf from the Republic))</span><br />
+<span style="color:#2d8a18">CSL: steak, now this im okay with</span><br />
+<span style="color:#2d8a18">CSL: youre alright by me</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  takes his food and sits down. --</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  starts eating a astoundingly civil matter. --</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  manner* --</span><br />
+<span style="color:#646464"><span style="color:#78a0ba">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#78a0ba">CIB: (( ok my internet is pissing me off ))</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />
+<span style="color:#008400">CDS: Any way.</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000"> *squeeeaaaaaaaaaaak*</span></span><br />
+<span style="color:#008400">CDS: How has your day been going?</span><br />
+<span style="color:#008400">CDS: Ash.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#a80000">CFA: (\ Oh /)</span><br />
+<span style="color:#a80000">CFA: (\ well, I suppose /)</span><br />
+<span style="color:#a80000">CFA: (\ Kinda of exciting since SL came and ran a diagnostic on me earlier /)</span><br />
+<span style="color:#a80000">CFA: (\ kind* /)</span><br />
+<span style="color:#2d8a18">CSL: youre welcome for that by the way</span><br />
+<span style="color:#008400">CDS: so how long?</span><br />
+<span style="color:#2d8a18">CSL: in theory 3 months</span><br />
+<span style="color:#a80000">CFA: (\ Well... with God status its... kind of accelerated so yyeah /)</span><br />
+<span style="color:#a80000">CFA: (\ About 3-4 months along /)</span><br />
+<span style="color:#2d8a18">CSL: ((*5 i forgot how to numbers))</span><br />
+<span style="color:#2d8a18">CSL: given this weird time thing? who knows</span><br />
+<span style="color:#a80000">CFA: (\ All i know is Im showing /)</span><br />
+<span style="color:#a80000">CFA: (\ so /)</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT scotishEngineer [CSE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#000000">[CSE]</span>  is a Wolf wharing a red Uniform his sleve makes him a LT Commander. --</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#000000">[CSE]</span>  enters and goes strait to the bar. --</span><br />
+<span style="color:#e10000">CSE: I understand that this place makes the best Stake and Scotch around.</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  is speeking in a Scotish acsent. --</span><br />
+<span style="color:#e10000">CSE: ((I cant type acsents that well))</span><br />
+<span style="color:#008400">CDS: (( AE are you even here?))</span><br />
+<span style="color:#a80000">CFA: (\ Ayye laddie /)</span><br />
+<span style="color:#a80000">CFA: (\ apparentlyy so /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  waves at the new arrival --</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  looks over at the group. --</span><br />
+<span style="color:#e10000">CSE: Captain!</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  waves --</span><br />
+<span style="color:#008400">CDS: Guys this is Hits with Wrentch evryone calles him Scotty.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  blinks at Ash's accent --</span><br />
+<span style="color:#008400">CDS: He is my Chief Engineer.</span><br />
+<span style="color:#e10000">CSE: Aye And the best one in the fleet.</span><br />
+<span style="color:#a80000">CFA: (\ Interesting... /)</span><br />
+<span style="color:#646464"><span style="color:#0080ff">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks in. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Has gone back to her standard Dublin Accent --</span><br />
+<span style="color:#ee1e00">CCP: sup FL, feeling any better?</span><br />
+<span style="color:#008400">CDS: Hay Charlie.</span><br />
+<span style="color:#0080ff">CFL: next time don't follow me.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  zones in --</span><br />
+<span style="color:#b5b500">CAE: Wait what? Ash is up the duff?</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  turns back to the bar then walks behind it and serves himself. --</span><br />
+<span style="color:#a80000">CFA: (\ .... /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#a80000">CFA: (\ In uh... Blatant terms, YYes /)</span><br />
+<span style="color:#b5b500">CAE: Wow, well congrats!</span><br />
+<span style="color:#a80000">CFA: (\ yyes /)</span><br />
+<span style="color:#e10000">CSE: ...</span><br />
+<span style="color:#a80000">CFA: ((whoops omit that))</span><br />
+<span style="color:#008400">CDS: ......</span><br />
+<span style="color:#a80000">CFA: (\ haha, thanks /)</span><br />
+<span style="color:#b5b500">CAE: ithinkyoumeantlaymanstermsbytheway</span><br />
+<span style="color:#a80000">CFA: (\ Nah /)</span><br />
+<span style="color:#a80000">CFA: (\ But thats another wayy to put it yyes /)</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  walks back from behind the bar and sits on a stool and bvegins eating. --</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  and drinking. --</span><br />
+<span style="color:#b5b500">CAE: Wow, helpin' yourself. Rude.</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#e10000">CSE: well you were asleep on the Job. Now if this was Scotland you would have been robed blind.</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  is speeking in a Scotish acsent. --</span><br />
+<span style="color:#ee1e00">CCP: ...ha.</span><br />
+<span style="color:#a80000">CFA: (\ Laddie yyou've obviouslyy never been to scotland /)</span><br />
+<span style="color:#a80000">CFA: (\ thems somma the kindest folk yye'll ever meet /)</span><br />
+<span style="color:#a80000">CFA: (\ Cross 'em, though /)</span><br />
+<span style="color:#a80000">CFA: (\ and theres hell ta payy /)</span><br />
+<span style="color:#e10000">CSE: Well ofcorse Ive never been When would I have had the chance?</span><br />
+<span style="color:#a80000">CFA: (\ clearlyy /)</span><br />
+<span style="color:#a80000">CFA: (\ yye have been if yyer talkin' like that /)</span><br />
+<span style="color:#a80000">CFA: (\ "if this was scotland" Mah ass /)</span><br />
+<span style="color:#008400">CDS: ((ok ok Can we stop it was my bad))</span><br />
+<span style="color:#a80000">CFA: ((Pfffttt))</span><br />
+<span style="color:#ee1e00">CCP: ((aw, it was getting funny! :P))</span><br />
+<span style="color:#a80000">CFA: (\ Now /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  has notably flipped to a british accent --</span><br />
+<span style="color:#a80000">CFA: (\ if yyou were to sayy "if this was London" /)</span><br />
+<span style="color:#a80000">CFA: (\ yyou'd be right /)</span><br />
+<span style="color:#2d8a18">CSL: can you do a southern accent</span><br />
+<span style="color:#a80000">CFA: (\ well sure I can /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  doesnt miss a beat --</span><br />
+<span style="color:#b5b500">CAE: Oh snap.</span><br />
+<span style="color:#2d8a18">CSL: alright, now that</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  snrks --</span><br />
+<span style="color:#2d8a18">CSL: 's what I'm lookin' for</span><br />
+<span style="color:#2d8a18">CSL: ((FUCKING ENTER KEY))</span><br />
+<span style="color:#008400">CDS: ((Um guys I have no Idea what thease sound like.))</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  has also switched to a southern accent --</span><br />
+<span style="color:#a80000">CFA: (\ Dependin' on what yya want me ta sayy, sugarcube /)</span><br />
+<span style="color:#b5b500">CAE: HA.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  Snrks at Shuger cube. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  Grins at AE --</span><br />
+<span style="color:#2d8a18">CSL: now y'all best not have just learned it from mah lil' pony there</span><br />
+<span style="color:#a80000">CFA: (\ Boyy yyer talkin' to a girl who grew up showin' horses and workin' in a barn since she was able ta walk /)</span><br />
+<span style="color:#008400">CDS: Intresting.</span><br />
+<span style="color:#a80000">CFA: (\ if ANYYTHIN' /)</span><br />
+<span style="color:#a80000">CFA: (\ Ah learned it from all the countryy tunes /)</span><br />
+<span style="color:#2d8a18">CSL: now, i thought y'all said ya grew up in scotland</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  is watching with some amusement. --</span><br />
+<span style="color:#a80000">CFA: (\ 'aint never said that /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is trying really hard not to start laughing --</span><br />
+<span style="color:#a80000">CFA: (\ BEEN Ta scotland, yyeah /)</span><br />
+<span style="color:#a80000">CFA: (\ Been ta ireland too /)</span><br />
+<span style="color:#a80000">CFA: (\ Also been ta London but we don't talk 'bout that /)</span><br />
+<span style="color:#2d8a18">CSL: well, hate ta say it, but i spent all my life right down in good ol' nc</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  turns back to eating muttering something about the Doctor any your next Physical. --</span><br />
+<span style="color:#b5b500">CAE: Un'ess da's frum Sheffield da weint be abel to undahstand mah accent.</span><br />
+<span style="color:#e10000">CSE: ((and your*))</span><br />
+<span style="color:#a80000">CFA: (\ And I grew up north of the mississippi /)</span><br />
+<span style="color:#a80000">CFA: (\ ....SL /)</span><br />
+<span style="color:#a80000">CFA: (\ get mah rope /)</span><br />
+<span style="color:#2d8a18">CSL: Whazzat?</span><br />
+<span style="color:#008400">CDS: I wish I could of when anywhare but where I lived.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  waves it off and instead force pushes AE with Space --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  fails to hold it in any longer and laughs at shenanigans --</span><br />
+<span style="color:#2d8a18">CSL: Seriously, what's that rope thing about?</span><br />
+<span style="color:#2d8a18">CSL: ...are you goin' for a lynchin' joke?</span><br />
+<span style="color:#008400">CDS: Are you imitating the acsent thats beond her range of hearing?</span><br />
+<span style="color:#a80000">CFA: (\ it was an Ponyy refrance boyy and yya missed it /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  DIES LAUGHING --</span><br />
+<span style="color:#a80000">CFA: (\ OH GOD /)</span><br />
+<span style="color:#a80000">CFA: (\ WHEATLYY /)</span><br />
+<span style="color:#2d8a18">CSL: did i mention i hated furries</span><br />
+<span style="color:#008400">CDS: Yep it was</span><br />
+<span style="color:#ee1e00">CCP: pfft wheatley</span><br />
+<span style="color:#646464"><span style="color:#0055ff">CURRENT imbacillicCore [CIC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#0055ff">CIC: I AM NOT A MORON!</span><br />
+<span style="color:#646464"><span style="color:#000000">CIC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIC</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#b5b500">CAE: Ha.</span><br />
+<span style="color:#ee1e00">CCP: okay, Space Core /and/ Moron Core in the same day?</span><br />
+<span style="color:#2d8a18">CSL: ...any of y'all know what just happened?</span><br />
+<span style="color:#ee1e00">CCP: FL, you sure that Alchemiter Cult guy hasn't gotten into your stuff again?</span><br />
+<span style="color:#008400">CDS: That was just me playing a sound bite.</span><br />
+<span style="color:#a80000">CFA: (\ ....Space? /)</span><br />
+<span style="color:#008400">CDS: I think.</span><br />
+<span style="color:#008400">CDS: Yes</span><br />
+<span style="color:#a80000">CFA: (\ SPACE?! /)</span><br />
+<span style="color:#008400">CDS: Ash Dont</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  GLARES --</span><br />
+<span style="color:#0080ff">CFL: Pretty sure</span><br />
+<span style="color:#008400">CDS: Sereusly you will summon it.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  whispers --</span><br />
+<span style="color:#a80000">CFA: (\ spaaaaaaaaaaaaaaaaaaaaaaaaaaaaaace /)</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#2d8a18">CSL: SPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACE</span><br />
+<span style="color:#008400">CDS: pfffft</span><br />
+<span style="color:#0080ff">CFL: Oh fuck, how could I have forgotten about that major issue</span><br />
+<span style="color:#a80000">CFA: (\ Dad, im in Space /)</span><br />
+<span style="color:#646464"><span style="color:#e0c904">CURRENT spacearificCore [CSC]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#e0c904">CSC: SPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACE!!!!!!!!!!!</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000">*HIGH PITCHED SQUE▲KING*</span></span><br />
+<span style="color:#646464"><span style="color:#000000">CSC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSC</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSC</span> ceased responding to memo.</span><br />
+<span style="color:#b5b500">CAE: Oh my fucking christ.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  "!" bubble --</span><br />
+<span style="color:#ee1e00">CCP: it's back!</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  giggles --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  [MUFFLED STAR FOX IN THE DISTANCE] --</span><br />
+<span style="color:#a80000">CFA: (\ Who alchemized those? /)</span><br />
+<span style="color:#008400">CDS: no Idea</span><br />
+<span style="color:#a80000">CFA: (\ Theyy're wonderful /)</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  looks at LN and SE, his face basically saying "I swear, we're usually saner than this!" --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  smiles and shakes her head --</span><br />
+<span style="color:#a80000">CFA: (\ Ah, well /)</span><br />
+<span style="color:#008400">CDS: Indeed they are loveable charecters.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  nods in understanding. --</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  is facing the oposet direction. --</span><br />
+<span style="color:#008400">CDS: Oh guys I found the Stanly Parable the other day.</span><br />
+<span style="color:#008400">CDS: I havent played it yet though.</span><br />
+<span style="color:#0080ff">CFL: I need a drink.</span><br />
+<span style="color:#0080ff">CFL: ...though maybe I should stay away from the booze</span><br />
+<span style="color:#ee1e00">CCP: I still need to get that game...</span><br />
+<span style="color:#ee1e00">CCP: ((dammit steam sale put it back on daily/flash sale so I can actually afford it))</span><br />
+<span style="color:#008400">CDS: I here theres 14 endings and one depends on puching a buttion for 4 hours strait.</span><br />
+<span style="color:#008400">CDS: I mean who would want to do that?</span><br />
+<span style="color:#ee1e00">CCP: never doubt the persistence of achievement hunters.</span><br />
+<span style="color:#008400">CDS: true</span><br />
+<span style="color:#008400">CDS: I bet the ruster people will.</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  fineshes eating. --</span><br />
+<span style="color:#0000ff">CLN: Bye!</span><br />
+<span style="color:#008400">CDS: Good night Lieutnant!</span><br />
+<span style="color:#646464">-- CURRENT lookswithNaivete <span style="color:#0000ff">[CLN]</span>  leaves so he can get some sleep before his next shift. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CLN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CLN</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CLN</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: (( <a href='http://plug.dj/ed91b7fc/'>http://plug.dj/ed91b7fc/</a> for music I guessv))</span><br />
+<span style="color:#0080ff">CFL: (( since we can't use the sbargv2 one ))</span><br />
+<span style="color:#0080ff">CFL: (( but I understand the reasoning ))</span><br />
+<span style="color:#008400">CDS: ((?))</span><br />
+<span style="color:#ee1e00">CCP: ((sigh... booting chrome up again then &gt;_&gt;))</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  puts on some music --</span><br />
+<span style="color:#0080ff">CFL: And there we go.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  is rocking out --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  is currently unable to hear it... --</span><br />
+<span style="color:#2d8a18">CSL: your music suckth, beavith</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#008400">CDS: ((no sound))</span><br />
+<span style="color:#0080ff">CFL: (( DS, if you have issues, use Chrome ))</span><br />
+<span style="color:#ee1e00">CCP: ((DS, plug.dj only works in Chrome. the youtube embedder is broken in firefox))</span><br />
+<span style="color:#008400">CDS: (9fixed))</span><br />
+<span style="color:#2d8a18">CSL: ((works fine for me...))</span><br />
+<span style="color:#0080ff">CFL: (( even though it works perfectly in firefox for me for some weird reason... ))</span><br />
+<span style="color:#008400">CDS: ((working now Now script was blocking it.</span><br />
+<span style="color:#008400">CDS: ))</span><br />
+<span style="color:#008400">CDS: ((no*))</span><br />
+<span style="color:#0080ff">CFL: (( not sure who to make bouncers... ))</span><br />
+<span style="color:#646464">-- CURRENT scotishEngineer <span style="color:#e10000">[CSE]</span>  gets up an leaves. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSE</span> ceased responding to memo.</span><br />
+<span style="color:#008400">CDS: ((I have to get going night guys))</span><br />
+<span style="color:#ee1e00">CCP: ((gnight DS))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  is no longer here. --</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
+<span style="color:#b5b500">CAE: Son of a donkey.</span><br />
+<span style="color:#ee1e00">CCP: what happened?</span><br />
+<span style="color:#b5b500">CAE: Hm?</span><br />
+<span style="color:#0080ff">CFL: (( AE, who would you like as bouncers on plug.dj other than yourself? Also, can we register this memo? ))</span><br />
+<span style="color:#646464"><span style="color:#78a0ba">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  sits at the bar counter --</span><br />
+<span style="color:#b5b500">CAE: ((Er... I have no preference. andwhatdoyoumeanbyregister?))</span><br />
+<span style="color:#0080ff">CFL: (( So chanserv gives you op here. ))</span><br />
+<span style="color:#b5b500">CAE: ((Oh, sure.))</span><br />
+<span style="color:#0080ff">CFL: (( and then maybe we could put the "jukebox" in the chanserv message? ))</span><br />
+<span style="color:#b5b500">CAE: ((Uh, sure thing. So long as IB is cool with all this.))</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  is stood behind the bar --</span><br />
+<span style="color:#b5b500">CAE: Yo.</span><br />
+<span style="color:#78a0ba">CIB: (( go ahead. ))</span><br />
+<span style="color:#78a0ba">CIB: (( The Bar is paperworked under AE ))</span><br />
+<span style="color:#78a0ba">CIB: (( at least it was on Prospit ))</span><br />
+<span style="color:#b5b500">CAE: ((Oh yeah XD))</span><br />
+<span style="color:#0080ff">CFL: oh man, this is my jam!</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#0080ff">CFL: Its from Sonic After the Sequel.</span><br />
+<span style="color:#0080ff">CFL: Its the final boss theme.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  cringes at the horrible accordi-- oh phew --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  the plu5h glare5 at 2L --</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000">*squeak.*</span></span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  head-bobbing to the beat --</span><br />
+<span style="color:#0080ff">CFL: (( is there a site I can look up music thats on my computer under a different name ))</span><br />
+<span style="color:#b5b500">CAE: ((Google the lyrics.))</span><br />
+<span style="color:#ee1e00">CCP: ((you mean like Google Reverse Image Search, but for music?))</span><br />
+<span style="color:#0080ff">CFL: (( but it has no lyrics ))</span><br />
+<span style="color:#ee1e00">CCP: ((well, there's Shazam, but it's a phone-only app))</span><br />
+<span style="color:#0080ff">CFL: (( I'm trying to look up music rips from Sonic Chrono Adventure ))</span><br />
+<span style="color:#b5b500">CAE: ((I can't even run that shit on this laptop.))</span><br />
+<span style="color:#6507ff">CTT: ((can't you like 5earch utube))</span><br />
+<span style="color:#b5b500">CAE: ((Nope.))</span><br />
+<span style="color:#b5b500">CAE: ((I literally had to pull this bastard apart today, I doubt it'll be working right for a few days.))</span><br />
+<span style="color:#6507ff">CTT: ((ouch))</span><br />
+<span style="color:#ee1e00">CCP: ((yikes))</span><br />
+<span style="color:#0080ff">CFL: Brad, do you have any sparkling grape juice?</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  finally enters the bar shrug bluh --</span><br />
+<span style="color:#cb7de6">CSJ: hi guys. ➜</span><br />
+<span style="color:#78a0ba">CIB: Welcome.</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000">*squeaky*</span></span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  sits down somewhere --</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  chronoplu5h wave5 hello with it'5 noodly arm --</span><br />
+<span style="color:#cb7de6">CSJ: um, hi. ➜</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  noodly appendage --</span><br />
+<span style="color:#ee1e00">CCP: sup SJ</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  also waves at SJ --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pops a vidwindow open and taps a few commands on it; it eventually shows a minecraft server console --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  waves at CP and SL --</span><br />
+<span style="color:#6507ff">CTT: Hi-*sNEEZLE* SJ...</span><br />
+<span style="color:#cb7de6">CSJ: ..Kat, are you okay? ➜</span><br />
+<span style="color:#2d8a18">CSL: kat you should go home and get some sleep</span><br />
+<span style="color:#2d8a18">CSL: shes got a cold but shes sitting around here like a damn fool</span><br />
+<span style="color:#6507ff">CTT: I didn'τ really find a place τo sτay *sniffle*</span><br />
+<span style="color:#a80000">CFA: (\ Heyy Niki /)</span><br />
+<span style="color:#6507ff">CTT: Elsey and I jusτ wander around..</span><br />
+<span style="color:#2d8a18">CSL: ...you can crash at my place if you want</span><br />
+<span style="color:#6507ff">CTT: Eeeh...</span><br />
+<span style="color:#2d8a18">CSL: seriously, its made for military platoons</span><br />
+<span style="color:#2d8a18">CSL: i got room</span><br />
+<span style="color:#2d8a18">CSL: sj's bro slept over last night so</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  suddenly looking over CP's shoulder --</span><br />
+<span style="color:#78a0ba">CIB: MC tiem?</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  time ports away and is now at a booth --</span><br />
+<span style="color:#2d8a18">CSL: dis my jam</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  headbops --</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
+<span style="color:#0080ff">CFL: ...brad?</span><br />
+<span style="color:#b5b500">CAE: Sup.</span><br />
+<span style="color:#0080ff">CFL: Did you hear my question, or did you pass out right before?</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // shots fired. --</span><br />
+<span style="color:#2d8a18">CSL: OOOOOOOOOOOOOO</span><br />
+<span style="color:#b5b500">CAE: I did naht.</span><br />
+<span style="color:#ee1e00">CCP: &gt;:?</span><br />
+<span style="color:#0080ff">CFL: alright, allow me to play it back with my shades.</span><br />
+<span style="color:#b5b500">CAE: Sorry, I kind of zoned out.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // Message play back. --</span><br />
+<span style="color:#b5b500">CAE: Thinking about shit.</span><br />
+<span style="color:#0080ff">CFL: "Brad, do you have any sparkling grape juice?"</span><br />
+<span style="color:#b5b500">CAE: We do.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids in a glass --</span><br />
+<span style="color:#b5b500">CAE: There.</span><br />
+<span style="color:#0080ff">CFL: Thank you.</span><br />
+<span style="color:#b5b500">CAE: Fresh from the void.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  sips it. --</span><br />
+<span style="color:#ee1e00">CCP: ooh, can I get some too please?</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids another glass in and slides it over to CP --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  takes it and starts drinking --</span><br />
+<span style="color:#646464"><span style="color:#78a0ba">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  time gets a rootbeer and drinks that while enjoying a peaceful game of digmaker --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  means minecraft --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  presses a hand to her ear, lipping the words to "Miss Jackson" by P!ATD --</span><br />
+<span style="color:#b5b500">CAE: Poppycock.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  yawns --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  steps into the bathroom to change shirts. --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  comes back out with a white shirt... with a target on his back. --</span><br />
+<span style="color:#6507ff">CTT:  <span style="color:#000000">*squeak*</span></span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  blinks at FL --</span><br />
+<span style="color:#a80000">CFA: (\ ...yyo what're yyou doi  /)</span><br />
+<span style="color:#a80000">CFA: (\ doin*? /)</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  blushes at memo --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just sits on a barstool with his back facing ash. --</span><br />
+<span style="color:#0080ff">CFL: i misread that as runs</span><br />
+<span style="color:#0080ff">CFL: ...oop, I said that outloud instead on the memo, didn't I?</span><br />
+<span style="color:#646464"><span style="color:#a2a280">CURRENT foolishFool [CFF]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  enters, looking arond. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  sitting at the bar, listening to music --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  waves at FA, sitting next to her at the bar. --</span><br />
+<span style="color:#a2a280">CFF: ...First time here.</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  grins and sits up --</span><br />
+<span style="color:#a80000">CFA: (\ heh, same /)</span><br />
+<span style="color:#a80000">CFA: (\ Shame I cant reallyy enjoyy it to its fullest potential yyet /)</span><br />
+<span style="color:#a2a280">CFF: True...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  looks at her belly before grinning at her. --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  just grins and shakes her head --</span><br />
+<span style="color:#2d8a18">CSL: ...im avoiding the fullest potential actually</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  sips dr. pepper --</span><br />
+<span style="color:#a80000">CFA: (\ yyou can touch if yyou want /)</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  shrugs --</span><br />
+<span style="color:#a2a280">CFF: ...Thanks.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  gently touchs her stomach --</span><br />
+<span style="color:#646464">-- CURRENT fromAshes <span style="color:#a80000">[CFA]</span>  laughs softly --</span><br />
+<span style="color:#a2a280">CFF: ...?</span><br />
+<span style="color:#a80000">CFA: (\ ah it kinda tickles /)</span><br />
+<span style="color:#a2a280">CFF: Really?</span><br />
+<span style="color:#a80000">CFA: (\ yyeah /)</span><br />
+<span style="color:#a2a280">CFF: Heh...</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  rubs her belly. --</span><br />
+<span style="color:#a80000">CFA: (\ heh, havent been able to feel 'im moving yyet, sadlyy /)</span><br />
+<span style="color:#a80000">CFA: (\ hopefullyy soon /)</span><br />
+<span style="color:#a2a280">CFF: Good...</span><br />
+<span style="color:#646464"><span style="color:#b5b500">CURRENT atomicEagle [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids in, having voided out earlier apparently --</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  // AE, you notice that FL is wearing a shirt with a target on the back. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  just kind of leaves it alone because fuck that --</span><br />
+<span style="color:#a2a280">CFF: Heh...</span><br />
+<span style="color:#a2a280">CFF: So uh... whens the B-date?</span><br />
+<span style="color:#646464"><span style="color:#aa557f">CURRENT secretMisery [CSM]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  plops down at the bar and hums softly. --</span><br />
+<span style="color:#a2a280">CFF: ...Uh... hello.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  smiles and looks at SM "What can I get ya?" --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  grins widely. "Whiskey on the rocks~!" --</span><br />
+<span style="color:#a2a280">CFF: I haven't seen you before.</span><br />
+<span style="color:#a2a280">CFF: You are?</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  looks over at SM, what does this person/thing look like? --</span><br />
+<span style="color:#b5b500">CAE: That was a trick question, you can't drink anything, remember.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  scowls at him and sighs, laying her head on the bar. "Daaamn" --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  laughs, looking over at FF --</span><br />
+<span style="color:#b5b500">CAE: Yo she's cool don't worry.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  looks like: <a href='http://i44.tinypic.com/f36mfq.png'>http://i44.tinypic.com/f36mfq.png</a> --</span><br />
+<span style="color:#a2a280">CFF: ...I'm Asking her name, is all.</span><br />
+<span style="color:#aa557f">CSM: My name's Kimy.</span><br />
+<span style="color:#a2a280">CFF: Nice to meet yo, kimmy.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  takes another look, wait, is that a sylph of doom???? --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  nods. "It's nice to meet you too, dude." --</span><br />
+<span style="color:#a2a280">CFF: Jovin's my name.</span><br />
+<span style="color:#aa557f">CSM: Jovin? Cool name.</span><br />
+<span style="color:#a2a280">CFF: Thanks!</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  just... stands up. --</span><br />
+<span style="color:#0080ff">CFL: ...Well, I'm going to work.</span><br />
+<span style="color:#b5b500">CAE: At 4am?</span><br />
+<span style="color:#0080ff">CFL: Yes.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  smiles brightly before looking at AE. "Have you seen my glasses?" --</span><br />
+<span style="color:#0080ff">CFL: Yes I am.</span><br />
+<span style="color:#0080ff">CFL: And its only 10pm.</span><br />
+<span style="color:#0080ff">CFL: ...</span><br />
+<span style="color:#0080ff">CFL: Actually I have no idea</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  looks back. "You weren't wearing them when you came in this afternoon, and no, I didn't void them off." He smirks --</span><br />
+<span style="color:#b5b500">CAE: It's 4am by my time dude.</span><br />
+<span style="color:#0080ff">CFL: I know the sun is down, thats all.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  sighs and nods again. "Figures. I lost them then." --</span><br />
+<span style="color:#b5b500">CAE: Just make a new pair, thought you couldn't see that wel without them. You were pretty well coordinated earlier. Haha.</span><br />
+<span style="color:#b5b500">CAE: well*</span><br />
+<span style="color:#ee1e00">CCP: wat</span><br />
+<span style="color:#a2a280">CFF: ...?</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  snorts and blushes brightly. "No. I can't see without my glasses and that's totally different! you know that!" --</span><br />
+<span style="color:#a2a280">CFF: So anyways... haven't seen you around before, SM.</span><br />
+<span style="color:#a2a280">CFF: ...So you and AE got /busy/?</span><br />
+<span style="color:#aa557f">CSM: OHMYGOD!!</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  hides her face. --</span><br />
+<span style="color:#b5b500">CAE: Oh yeah, like six times.</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  chokes a bit. --</span><br />
+<span style="color:#aa557f">CSM: Oh my god. Floor, please open up and swallow me whole!</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pats SM's back. --</span><br />
+<span style="color:#a80000">CFA: (\ ........ /)</span><br />
+<span style="color:#ee1e00">CCP: uh... you okay?</span><br />
+<span style="color:#a80000">CFA: (\ Whodawha /)</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  snickers and looks up at AE. "Can I at least have a soda?" --</span><br />
+<span style="color:#a2a280">CFF: I dunno. What I'm asking her.</span><br />
+<span style="color:#b5b500">CAE: Sure thing.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  pulls a soda out of his sleeve and plonks it down in front of her. --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  takes the soda and snickers. "Well aren't you mr. magician." Snorts. --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  pokes FA's belly. --</span><br />
+<span style="color:#b5b500">CAE: That is /not/ the weirdest thing I've done with my void powers.</span><br />
+<span style="color:#aa557f">CSM: SHOOSH.</span><br />
+<span style="color:#b5b500">CAE: I...</span><br />
+<span style="color:#b5b500">CAE: wasn't evn</span><br />
+<span style="color:#b5b500">CAE: okay</span><br />
+<span style="color:#a2a280">CFF: ...huh. Kinky.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  quietly taps away on her computer in the corner --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#646464"><span style="color:#0dc7ca">CURRENT phantomEclipse [CPE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  strolls in --</span><br />
+<span style="color:#0dc7ca">CPE: ~ heyo</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  snickers loudly and hides behind her soda. --</span><br />
+<span style="color:#ee1e00">CCP: uh... sup PE.</span><br />
+<span style="color:#a2a280">CFF: So uh... whats ya title, SM?</span><br />
+<span style="color:#0dc7ca">CPE: ~ so uh, what was charle's present?</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  points at her god-tier outfit --</span><br />
+<span style="color:#aa557f">CSM: My title? Oh! My tier? Sylph of Doom.</span><br />
+<span style="color:#b5b500">CAE: It's uh</span><br />
+<span style="color:#b5b500">CAE: p obvious</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  stares blankly at PE. --</span><br />
+<span style="color:#a2a280">CFF: Heya PE!</span><br />
+<span style="color:#b5b500">CAE: I bet it was a dildo.</span><br />
+<span style="color:#0dc7ca">CPE: ~ hey FF</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  chokes on her drink. --</span><br />
+<span style="color:#0dc7ca">CPE: ~ i had assumed it was a cof piece</span><br />
+<span style="color:#0dc7ca">CPE: ~ cod*</span><br />
+<span style="color:#b5b500">CAE: Oh those cof piecs.</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  spits out his drink --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  facepaws --</span><br />
+<span style="color:#b5b500">CAE: FUCK.</span><br />
+<span style="color:#0dc7ca">CPE: ~ hehe</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  forgets how to breathe. --</span><br />
+<span style="color:#a2a280">CFF: Page of Doom, at your service. Not wearing the outfit because frankly, wearing no pants are better then wearing those short shorts. or the Cod piece.</span><br />
+<span style="color:#0dc7ca">CPE: ~ FF</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  2HUDDER2 --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  mutters a couple things but is mostly silent --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  forgets how to breathe once again. --</span><br />
+<span style="color:#ee1e00">CCP: FF wat</span><br />
+<span style="color:#0dc7ca">CPE: ~ i could have sworn you were a rage player</span><br />
+<span style="color:#b5b500">CAE: Sure thing Jovin just don't step too close. </span><br />
+<span style="color:#6507ff">CTT: FF, I τhoughτ you were rage</span><br />
+<span style="color:#0dc7ca">CPE: ~ I AM THE ONLY DOOM PLAYER</span><br />
+<span style="color:#0dc7ca">CPE: ~ so yeah</span><br />
+<span style="color:#aa557f">CSM: Uhh...</span><br />
+<span style="color:#0dc7ca">CPE: ~ i erm sperciarl</span><br />
+<span style="color:#a2a280">CFF: ...I mean page of Doom.</span><br />
+<span style="color:#b5b500">CAE: No... no you're not PE.</span><br />
+<span style="color:#a2a280">CFF: Rage!</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  raises her hand. "Doom player. Right here." --</span><br />
+<span style="color:#a2a280">CFF: Page of bloody rage!</span><br />
+<span style="color:#a2a280">CFF: Sorry.</span><br />
+<span style="color:#a2a280">CFF: Got confused.</span><br />
+<span style="color:#0dc7ca">CPE: ~ well, i like to think of myself as thus</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  headbars. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  paps FF's face --</span><br />
+<span style="color:#0dc7ca">CPE: ~ since well, i have been it for some time</span><br />
+<span style="color:#b5b500">CAE: That's not how it works.</span><br />
+<span style="color:#a2a280">CFF: My brain malfunctioned. Sorry.</span><br />
+<span style="color:#0dc7ca">CPE: ~ can't a guy make himself some pride</span><br />
+<span style="color:#0dc7ca">CPE: ~ yeesh</span><br />
+<span style="color:#aa557f">CSM: It's okay, FF. Mine malfunctions on a daily basis.</span><br />
+<span style="color:#a2a280">CFF: ...We Fucking Hate those pants, okay?</span><br />
+<span style="color:#6507ff">CTT: sylph of....bluh...</span><br />
+<span style="color:#a2a280">CFF: And seriously? What kind of malfunction?</span><br />
+<span style="color:#aa557f">CSM: ...Uh...Meaning I forget large chunks of information and end up sounding like a horse's ass.</span><br />
+<span style="color:#a2a280">CFF: Ah... Okay.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  leans forward "In Kimy's defence she looks good in no pants." --</span><br />
+<span style="color:#ee1e00">CCP: ((ok, I think I know what was making me bluh. nonstop music.))</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  screeches and falls off of her stool. "DAMNIT, AE!" --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  leans backward to avoid facial bruises --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  catchs SM --</span><br />
+<span style="color:#ee1e00">CCP: ........</span><br />
+<span style="color:#a2a280">CFF: Whoa!</span><br />
+<span style="color:#646464">-- CURRENT frozenLake <span style="color:#0080ff">[CFL]</span>  walks out --</span><br />
+<span style="color:#0080ff">CFL: Well on that note, I go.</span><br />
+<span style="color:#0dc7ca">CPE: ~ dont worry dude, if she was gonna die, im sure she would have known</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
+<span style="color:#0dc7ca">CPE: ~ hehe</span><br />
+<span style="color:#a2a280">CFF: And AE, I wouldn't doubt that, but I bet you woulnd't look too bad in the same state. :P</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  is just kind of laughing, voiding over to help SM onto her feet --</span><br />
+<span style="color:#0dc7ca">CPE: ~ hey man, i look fucking amazing in pants</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  is trying to remember how to breathe. "OHMYGOD." Cackles. --</span><br />
+<span style="color:#b5b500">CAE: No, I bet I wouldn't, but unfortunately Kimy here is the only one who can vouch for that.</span><br />
+<span style="color:#ee1e00">CCP: ok, I am completely sober but I feel like I have a drinking headache now.</span><br />
+<span style="color:#aa557f">CSM: I'm not allowed to drink anymore.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  shoots a playful glare at AE. --</span><br />
+<span style="color:#b5b500">CAE: No, no you are not.</span><br />
+<span style="color:#a2a280">CFF: ...Well, there is one way to prove that, but I don't think anyof us are drunk enought or other things for that.</span><br />
+<span style="color:#0dc7ca">CPE: ((so i bought FF V and Bastion for iOS))</span><br />
+<span style="color:#b5b500">CAE: That and I'm a faithful guy.</span><br />
+<span style="color:#0dc7ca">CPE: ((it's fun))</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  scrambles back up onto her seat. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  was already under the impression he was helping her stand but okay XD --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  is so confused by freakin' everything. xD --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  sits up on the bar --</span><br />
+<span style="color:#646464">-- CURRENT foolishFool <span style="color:#a2a280">[CFF]</span>  drinks a coke. --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  leans against the bar and hums. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  rests his arms around SM's neck. "Oh well, since you're not allowed to drink, I will take the dreadful oath and not drink either." --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  blinks and looks up at him. "My god, you're a saint." --</span><br />
+<span style="color:#a2a280">CFF: ...or you both drink and wake up wondering were your clothes are.</span><br />
+<span style="color:#b5b500">CAE: Nah, I always void them off beforehand to avoid that.</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  chokes and slaps his chest. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  laughs --</span><br />
+<span style="color:#b5b500">CAE: Hey whoa.</span><br />
+<span style="color:#ee1e00">CCP: ...</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  pulls out his phone and starts playing Bastion --</span><br />
+<span style="color:#2d8a18">CSL: yo... what was your name again?</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  looking at SM --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  snorts softly. "It's Kimy." --</span><br />
+<span style="color:#2d8a18">CSL: ((ff5 is a great choice pe))</span><br />
+<span style="color:#2d8a18">CSL: i see you arent drinking either huh</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  holds up dr. pepper --</span><br />
+<span style="color:#aa557f">CSM: I'm not allowed to.</span><br />
+<span style="color:#2d8a18">CSL: heres to the wagon, eh?</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  holds up her Sprite. --</span><br />
+<span style="color:#aa557f">CSM: Totally.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  sips drank --</span><br />
+<span style="color:#ee1e00">CCP: I'm almost tempted to, but I already have a headache so I probably won't... I'll just get some orange soda instead...</span><br />
+<span style="color:#2d8a18">CSL: ...i had a hell of a family recipe</span><br />
+<span style="color:#ee1e00">CCP: probably also a burger.</span><br />
+<span style="color:#b5b500">CAE: Apparently I just signed up to not drink either so.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  You notice SL's southern accent breaking in on that sentence --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  chuckles and leans on the bar. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  moves down onto a stool next to SM "How're you feeling?" --</span><br />
+<span style="color:#646464">-- CURRENT secretMisery <span style="color:#aa557f">[CSM]</span>  looks at him. "Honestly? Still shocked." --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  nods --</span><br />
+<span style="color:#b5b500">CAE: Aye, that's to be expected I suppose.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pulls out 3DS while waiting on order --</span><br />
+<span style="color:#aa557f">CSM: Oh yeah. I know.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  looks at AE --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids in CP's food and drink. He didn't forget haha nope. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  looks back at computer. --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  obtains soda and starts drinking --</span><br />
+<span style="color:#646464"><span style="color:#000000">CSM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSM</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CSM</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  New Leaf's "8PM" theme is faintly audible from the 3DS --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  [MUFFLED ACNL IN THE DISTANCE] --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  precisely :P --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  has headphones on and listening to Starbound's purely thereputic music --</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  loves starbound --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  loves it too --</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CAE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT timeTravlur <span style="color:#6507ff">[CTT]</span>  WI2HE2 2HE COULD PLAY IT GODDAMN 2HITTY COMPUTER --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  wishes he had the money for it --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  if wishes were trees the trees would be fallin' --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  if wishes were trees the trees would be Follin --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  [MUFFLED ARCADE'S REVENGE IN THE DISTANCE] --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  wow that was really obscure even for me --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  //probably --</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#0dc7ca">CPE: ~ well</span><br />
+<span style="color:#0dc7ca">CPE: ~ nuthin to do here</span><br />
+<span style="color:#646464">-- CURRENT phantomEclipse <span style="color:#0dc7ca">[CPE]</span>  absconds --</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CPE</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  sighs --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  lays head down on laptop --</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000"></span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#000000">CTT</span> ceased responding to memo.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  drinks more rootbeer --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#78a0ba">[CIB]</span>  mumbles something about how she is an idiot and contiunes to drink the rootbeer --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  finishes the now-warm soda and now-cold burger, still distacted by ACNL --</span><br />

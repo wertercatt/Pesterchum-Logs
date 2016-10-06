@@ -1,4 +1,0 @@
-[02:45] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
-[05:42] <span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
-[08:16] <span style="color:#646464"><span style="color:#000000">CFF</span> ceased responding to memo.</span><br />
-[09:28] <span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />

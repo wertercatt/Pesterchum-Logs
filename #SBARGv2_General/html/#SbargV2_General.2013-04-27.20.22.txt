@@ -1,5 +1,0 @@
-<span style="color:#646464"><span style="color:#005500">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
-<span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-<span style="color:#646464">[#SbargV2_General] <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC. <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info.</span><br />
-<span style="color:#005500">CCP: so, gate 3 is a per-player return command. guess that makes sense.</span><br />
-<span style="color:#646464"><span style="color:#005500">CCP</span> ceased responding to memo.</span><br />

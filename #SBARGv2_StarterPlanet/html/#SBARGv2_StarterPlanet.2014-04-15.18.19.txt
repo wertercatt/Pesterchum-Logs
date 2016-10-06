@@ -1,5 +1,0 @@
-[06:19] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 STARTERPLANET.</span><br />
-[06:20] <span style="color:#646464"><span style="color:#0078f0">CURRENT frozenLake [CFL]</span> RIGHT NOW responded to memo.</span><br />
-[06:20] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  is flying away from the village... --</span><br />
-[06:26] <span style="color:#646464">-- CURRENT frozenLake <span style="color:#0078f0">[CFL]</span>  hits mach one. --</span><br />
-[06:40] <span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

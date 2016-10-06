@@ -1,9 +1,0 @@
-<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CSJ</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
-<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  fineshes diging to from his house to the tunnel net work. --</span><br />
-<span style="color:#646464"><span style="color:#000000">CIB</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CDS</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CEQ</span> ceased responding to memo.</span><br />

@@ -1,0 +1,181 @@
+<span style="color:#646464"><span style="color:#000000">CSL</span> ceased responding to memo.</span><br />
+<span style="color:#646464"><span style="color:#2d8a18">CSL</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  enters, yawning --</span><br />
+<span style="color:#646464"><span style="color:#72a0c1">CURRENT imagineBreaker [CIB]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#72a0c1">CIB: Welcome back.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  sidles up to the bar --</span><br />
+<span style="color:#2d8a18">CSL: get me a...</span><br />
+<span style="color:#2d8a18">CSL: ill have a dr. pepper.</span><br />
+<span style="color:#646464"><span style="color:#b5b500">CURRENT atomicEagle [CAE]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#b5b500">CAE: Done.</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  voids in a Dr. Pepper flavoured Vodka. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  slides it over to him --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  stops the drink --</span><br />
+<span style="color:#b5b500">CAE: Fiiiiine.</span><br />
+<span style="color:#2d8a18">CSL: ...no</span><br />
+<span style="color:#2d8a18">CSL: just a dr. pepper</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  takes out an icy can of real DR. Pepper and hands it to SL. --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  sighs and voids in a regular one, you boring, boring people --</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  Oh okay --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  takes them, smiling --</span><br />
+<span style="color:#2d8a18">CSL: ...i think its time to go dry</span><br />
+<span style="color:#b5b500">CAE: On the rocks?</span><br />
+<span style="color:#646464">-- CURRENT atomicEagle <span style="color:#b5b500">[CAE]</span>  :3 --</span><br />
+<span style="color:#646464"><span style="color:#2806ea">CURRENT enderQuestral [CEQ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  heads back into the bar, taking a seat once again. --</span><br />
+<span style="color:#2d8a18">CSL: no i mean...</span><br />
+<span style="color:#2d8a18">CSL: ive spent so much of my life hiding in bottles you know</span><br />
+<span style="color:#72a0c1">CIB: No more booze?</span><br />
+<span style="color:#2d8a18">CSL: no more booze.</span><br />
+<span style="color:#b5b500">CAE: Wow, man.</span><br />
+<span style="color:#b5b500">CAE: That's a hard decision to make.</span><br />
+<span style="color:#72a0c1">CIB: Alright, Brad, make sure to respect the choice here of this fine person.</span><br />
+<span style="color:#b5b500">CAE: What made you come to it?</span><br />
+<span style="color:#72a0c1">CIB: No slipping booze into peoples drinks.</span><br />
+<span style="color:#2d8a18">CSL: ...not really sure to be honest</span><br />
+<span style="color:#646464"><span style="color:#ee1e00">CURRENT creeperPuncher [CCP]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  sits back down, half-noticing his Thunder Brew was spontaniously replaced with orange mountain dew but shrugging and drinking it anyway --</span><br />
+<span style="color:#b5b500">CAE: What the fuck kinda guy do you take me for? If these guys don't take booze then that means more for me,</span><br />
+<span style="color:#2d8a18">CSL: i... i guess im just tired of hiding, you know?</span><br />
+<span style="color:#72a0c1">CIB: Brad you literally just tried to.</span><br />
+<span style="color:#2d8a18">CSL: he thought i was still trying to pull that shit</span><br />
+<span style="color:#b5b500">CAE: I did not try to slip booze into his drink, the bottle is clearly labeled vodka. Ben is a drinking man so I simply misunderstood his request.</span><br />
+<span style="color:#b5b500">CAE: Er, was a drinking man.</span><br />
+<span style="color:#b5b500">CAE: Whatever.</span><br />
+<span style="color:#72a0c1">CIB: Only get people what they order.</span><br />
+<span style="color:#2d8a18">CSL: no, hes fine</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  calms a bit. --</span><br />
+<span style="color:#2d8a18">CSL: it was a reasonable assumption</span><br />
+<span style="color:#2d8a18">CSL: i was trying not to call attention to my... decision</span><br />
+<span style="color:#b5b500">CAE: Proud of ya man, I wish I had the courage you do.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  nods --</span><br />
+<span style="color:#b5b500">CAE: So, do you want us to like, refuse to serve you booze here or what?</span><br />
+<span style="color:#72a0c1">CIB: It's up to him.</span><br />
+<span style="color:#2d8a18">CSL: ...i guess so, yeah</span><br />
+<span style="color:#72a0c1">CIB: but I would personally just not give him any unless he is like, pleading.</span><br />
+<span style="color:#b5b500">CAE: Shit, dude. If you're sure.</span><br />
+<span style="color:#2d8a18">CSL: ...or what ib said</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  is cold. --</span><br />
+<span style="color:#b5b500">CAE: An addiction can often have you pleading, Mike.</span><br />
+<span style="color:#72a0c1">CIB: Yes.</span><br />
+<span style="color:#72a0c1">CIB: It's just, as long as he stays strong, he might not have to plead.</span><br />
+<span style="color:#b5b500">CAE: I don't think that's how addiction works but, if you're sure.</span><br />
+<span style="color:#72a0c1">CIB: I believe in SL.</span><br />
+<span style="color:#72a0c1">CIB: He will overcome this</span><br />
+<span style="color:#2d8a18">CSL: ...i hope i dont let you down</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  pats his shoulder. "Don' worry. Can I get you something to eat though?" --</span><br />
+<span style="color:#2d8a18">CSL: ...im in the mood for some ribs, yeah</span><br />
+<span style="color:#72a0c1">CIB: Ill be right back.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  suddenly holds a plate of ribs and sets it down in front of SL. --</span><br />
+<span style="color:#72a0c1">CIB: Enjoy.</span><br />
+<span style="color:#2d8a18">CSL: thanks</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  gets to work on the meat --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  gets herself a sandwich --</span><br />
+<span style="color:#646464"><span style="color:#000000">CURRENT flightlessIcarus [CFI]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT flightlessIcarus <span style="color:#000000">[CFI]</span>  re-enters the bαr, escαping from the sαntα theory hour hαppening outside --</span><br />
+<span style="color:#72a0c1">CIB: Welcome back.</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  says as she comes back out of the kitchen --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  waves to Seth, a plate of ribs and can of Dr. Pepper before him --</span><br />
+<span style="color:#ee1e00">CCP: I think I'm still a bit hungry... could I get some fries please?</span><br />
+<span style="color:#646464"><span style="color:#008400">CURRENT doctorSpace [CDS]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  re enters. --</span><br />
+<span style="color:#646464"><span style="color:#cb7de6">CURRENT shinyJiggly [CSJ]</span> RIGHT NOW responded to memo.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  walks in --</span><br />
+<span style="color:#cb7de6">CSJ: hey guys! ➜</span><br />
+<span style="color:#2806ea">CEQ: Well, lotsa people- Heya SJ!</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  walks up to the bar. --</span><br />
+<span style="color:#ee1e00">CCP: sup guys</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  waves, a plate of ribs and can of Dr. Pepper before him --</span><br />
+<span style="color:#008400">CDS: Indeed EQ</span><br />
+<span style="color:#008400">CDS: Hay SL</span><br />
+<span style="color:#2d8a18">CSL: yo</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  nods and instantly brings a plate of fries to CP --</span><br />
+<span style="color:#72a0c1">CIB: Welcome.</span><br />
+<span style="color:#008400">CDS: umm... Vinella Soda and a Pulled pork Sandwitch plase.</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  sips Dr. Pepper, leaning back --</span><br />
+<span style="color:#72a0c1">CIB: You got it.</span><br />
+<span style="color:#008400">CDS: Thank you</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  finds a spot to sit down --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  flinches and suddenly carrying the order and gives it to DS --</span><br />
+<span style="color:#ee1e00">CCP: did you guys figure out where the tree came from?</span><br />
+<span style="color:#b5b500">CAE: Baby jesus.</span><br />
+<span style="color:#cb7de6">CSJ: not yet. ➜</span><br />
+<span style="color:#008400">CDS: We have a theory though.</span><br />
+<span style="color:#2d8a18">CSL: ...yeah, this is gonna be a good transition period</span><br />
+<span style="color:#2806ea">CEQ: Woooo....</span><br />
+<span style="color:#cb7de6">CSJ: we're thinking a time player is probably behind it, and it probably came from some time in the relative future. ➜</span><br />
+<span style="color:#cb7de6">CSJ: probably. ➜</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  takes his order to a seat by the others. --</span><br />
+<span style="color:#b5b500">CAE: I bet it's Matt.</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  shrugs --</span><br />
+<span style="color:#72a0c1">CIB: Doctor Who did it</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  snrk --</span><br />
+<span style="color:#cb7de6">CSJ: so, Katie? ➜</span><br />
+<span style="color:#72a0c1">CIB: Time Lords man</span><br />
+<span style="color:#008400">CDS: In her case Time Ladies</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  begins eating. --</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  throws a Thumbs up at IB. --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  smiles. --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  finishes his can of Dr. Pepper, gesturing for another --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  spawns another for SL --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  alternates between munching fries and drinking soda --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  uncaptchas her spiral notebook and a pencil --</span><br />
+<span style="color:#2d8a18">CSL: thanks, bud</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  begins scrawling something --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  raises eyebrow at SJ --</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  it appears to be some kinda diagram thing --</span><br />
+<span style="color:#2d8a18">CSL: ...whatcha drawin' there?</span><br />
+<span style="color:#cb7de6">CSJ: trying to sort this stuff out about this mystery tree. ➜</span><br />
+<span style="color:#2d8a18">CSL: ...maybe its a life player</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  there's a sloppily drawn timeline with a tree drawn on it --</span><br />
+<span style="color:#2d8a18">CSL: ((im guessing theres a plan here but if not im more than happy to be the one behind it))</span><br />
+<span style="color:#2d8a18">CSL: ...why do you think time is involved?</span><br />
+<span style="color:#cb7de6">CSJ: ((technically the plan's pretty open still))</span><br />
+<span style="color:#cb7de6">CSJ: because it pretty much poofed out of nowhere, and it came with a note. ➜</span><br />
+<span style="color:#2d8a18">CSL: ((then yeah sl could totally life-magic a christmas tree))</span><br />
+<span style="color:#2d8a18">CSL: note?</span><br />
+<span style="color:#cb7de6">CSJ: shon, do you still have the note that came with it? ➜</span><br />
+<span style="color:#2d8a18">CSL: ...did anyone see it when it showed up?</span><br />
+<span style="color:#008400">CDS: /ep</span><br />
+<span style="color:#008400">CDS: ((yep*))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  passes to SJ. --</span><br />
+<span style="color:#2d8a18">CSL: like, saw it poof into existence</span><br />
+<span style="color:#008400">CDS: no</span><br />
+<span style="color:#008400">CDS: I was walking twards the barr and it just apered</span><br />
+<span style="color:#2d8a18">CSL: then how do you know someone didnt put it there when no one was looking?</span><br />
+<span style="color:#2d8a18">CSL: not everything is timey-wimey</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  hass the note now, I'm guessing the typoes are still a thing on it? --</span><br />
+<span style="color:#008400">CDS: ((typos?))</span><br />
+<span style="color:#72a0c1">CIB: (( conradulation and marry )</span><br />
+<span style="color:#008400">CDS: ((no typos))</span><br />
+<span style="color:#008400">CDS: ((and its hand writen in pen))</span><br />
+<span style="color:#008400">CDS: ((or it may be a quill and an ink pot you cant tell))</span><br />
+<span style="color:#72a0c1">CIB: (( actually that is possible ))</span><br />
+<span style="color:#72a0c1">CIB: ( pen from quill i mean ))</span><br />
+<span style="color:#72a0c1">CIB: (( unless you are REALLY careful))</span><br />
+<span style="color:#72a0c1">CIB: (( IB: be the kill joy))</span><br />
+<span style="color:#646464">-- CURRENT shinyJiggly <span style="color:#cb7de6">[CSJ]</span>  examines the handwriting, does it look familiar to anyone here? --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  finishes dr pepper and waves for another --</span><br />
+<span style="color:#2d8a18">CSL: last one for the night</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  nope? Have you actualy seen any ones hand righting? --</span><br />
+<span style="color:#646464">-- CURRENT imagineBreaker <span style="color:#72a0c1">[CIB]</span>  gets SL another DP. --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  the hadnrighting is................ QINNS --</span><br />
+<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  chugs the last of the orange-flavored Alpine Hue --</span><br />
+<span style="color:#72a0c1">CIB: (( dun dun duunnn??? ))</span><br />
+<span style="color:#646464">-- CURRENT enderQuestral <span style="color:#2806ea">[CEQ]</span>  gasp plot-twist --</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  not really --</span><br />
+<span style="color:#008400">CDS: ((whos?))</span><br />
+<span style="color:#646464">-- CURRENT doctorSpace <span style="color:#008400">[CDS]</span>  lol --</span><br />
+<span style="color:#2d8a18">CSL: ((sls dead girlfriend quinn))</span><br />
+<span style="color:#72a0c1">CIB: (( :U ))</span><br />
+<span style="color:#008400">CDS: ((Sorry bad with names))</span><br />
+<span style="color:#2d8a18">CSL: ...yeah, dont know what to make of this</span><br />
+<span style="color:#2d8a18">CSL: and its about bedtime for me so</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  stands --</span><br />
+<span style="color:#72a0c1">CIB: Take care.</span><br />
+<span style="color:#008400">CDS: Night SL</span><br />
+<span style="color:#2d8a18">CSL: just, dont assume its a time thing, alright? anybody can put up a tree when no one is looking</span><br />
+<span style="color:#ee1e00">CCP: gnight SL, take care</span><br />
+<span style="color:#cb7de6">CSJ: seeya! ➜</span><br />
+<span style="color:#008400">CDS: SL I was looking I saw the top of the tree just appere</span><br />
+<span style="color:#646464">-- CURRENT slothfulLunchmeat <span style="color:#2d8a18">[CSL]</span>  waves as he leaves --</span><br />

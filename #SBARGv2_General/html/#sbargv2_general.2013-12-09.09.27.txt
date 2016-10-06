@@ -1,9 +1,0 @@
-<span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
-<span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-<span style="color:#646464">[#sbargv2_general] OOC memo for SBARGv2. <a href='http://kapowcreations.com/?action=sbarginfo'>http://kapowcreations.com/?action=sbarginfo</a> for info. <a href='#SBARGv2_Incipisphere'>#SBARGv2_Incipisphere</a> for IC.</span><br />
-<span style="color:#646464"><span style="color:#ff0000">CURRENT avidCurator [CAC]</span> RIGHT NOW responded to memo.</span><br />
-is this still empty?<br />
-<span style="color:#ee1e00">CCP: AC, leave the memo so I can reopen it with proper caps</span><br />
-<span style="color:#646464">-- CURRENT creeperPuncher <span style="color:#ee1e00">[CCP]</span>  pokes AC --</span><br />
-<span style="color:#ee1e00">CCP: (hello? avidCurator? *poke poke*)</span><br />
-<span style="color:#646464"><span style="color:#000000">CAC</span> ceased responding to memo.</span><br />

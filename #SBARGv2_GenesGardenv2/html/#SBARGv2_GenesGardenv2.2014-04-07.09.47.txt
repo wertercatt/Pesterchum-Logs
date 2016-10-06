@@ -1,6 +1,0 @@
-[09:47] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENESGARDENV2.</span><br />
-[10:37] <span style="color:#646464"><span style="color:#000000">CSS</span> ceased responding to memo.</span><br />
-[02:17] <span style="color:#646464"><span style="color:#000000">CPK</span> ceased responding to memo.</span><br />
-[02:41] <span style="color:#646464"><span style="color:#a518aa">CURRENT vilifiedExalt [CVE]</span> RIGHT NOW responded to memo.</span><br />
-[02:41] <span style="color:#646464">-- CURRENT vilifiedExalt <span style="color:#a518aa">[CVE]</span>  yup, sure enough, a plaid streak goes across the sky --</span><br />
-[06:42] <span style="color:#646464"><span style="color:#000000">CVE</span> ceased responding to memo.</span><br />

@@ -1,7 +1,0 @@
-<span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CDT</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CRS</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CFA</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CAM</span> ceased responding to memo.</span><br />
-<span style="color:#646464"><span style="color:#000000">CFL</span> ceased responding to memo.</span><br />

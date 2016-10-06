@@ -1,9 +1,0 @@
-[09:38] <span style="color:#646464"><span style="color:#ee1e00">CCP</span> RIGHT NOW opened memo on board SBARGV2 GENERAL.</span><br />
-[09:38] <span style="color:#646464"><span style="color:#000000">CURRENT ChanServ [CCC]</span> RIGHT NOW responded to memo.</span><br />
-[09:38] <span style="color:#646464">[#SBARGv2_General] <a href='http://kapowcreations.com/sbarginfo/'>http://kapowcreations.com/sbarginfo/</a> for information. <a href='#SBARGv2_Universe'>#SBARGv2_Universe</a> for IC.</span><br />
-[10:21] <span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
-[10:22] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-[10:22] <span style="color:#646464"><span style="color:#000000">CPC</span> ceased responding to memo.</span><br />
-[10:41] <span style="color:#646464"><span style="color:#000000">CCP</span> ceased responding to memo.</span><br />
-[10:46] <span style="color:#ee1e00">CCP: someone tell NN the roll20 char creation thing's gonna be delayed, I'm being dragged away for another "family day" thing and I'm not sure how long I'll be gone.</span><br />
-[10:47] <span style="color:#ee1e00">CCP: or... I dunno. just whatever. I'll be back in the afternoon hopefully.</span><br />
