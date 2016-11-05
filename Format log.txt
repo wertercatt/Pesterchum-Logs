@@ -2,12 +2,12 @@
 2. Paste the following at the beginning of the log (to the next step):
 <html>
 <head>
-  <title>Memo log for 02/11/15, 22:59</title>
+  <title>#Memo_Name | Log for YYYY-MM-DD</title>
   <link rel="stylesheet" href="pesterlog-viewer.css">
   <meta charset="UTF-8">
 </head>
 <body>
-<h1>.:#SBARGv2_GenesGardenv2:.</h1>
+<h1>#Memo_Name | Log for YYYY-MM-DD</h1>
 <div class=memolog>
 3. Change the memo name, datestamp, and timestamp
 4. Look for any smilies.
