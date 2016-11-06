@@ -18,3 +18,13 @@ to
 </div>
 </body>
 </html>
+
+<html>
+<head>
+  <title>#SBARGv2_Incipisphere | Log for 2013-12-07</title>
+  <link rel="stylesheet" href="pesterlog-viewer.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>#SBARGv2_Incipisphere | Log for 2013-12-07</h1>
+<div class=memolog>
