@@ -25,3 +25,17 @@ color: #FFFFFF;
 	overflow: scroll;
     margin-right: auto;
 }
+
+.participants {
+    text-align: left;
+    background-color: #FFFFFF;
+    border: 5px solid #3F4472;
+    height: 500px;
+    width: 325px;
+    padding: 5px;
+    margin-left: auto;
+	overflow: scroll;
+    margin-right: auto;
+	float: right;
+	white-space: nowrap
+}

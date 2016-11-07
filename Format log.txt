@@ -1,20 +1,19 @@
-1. Copy the file pesterlog-viewer.css into the log's home directory.
-2. Paste the following at the beginning of the log (to the next step):
+1. Paste the following at the beginning of the log (to the next step):
 <html>
 <head>
   <title>#Memo_Name | Log for YYYY-MM-DD</title>
-  <link rel="stylesheet" href="pesterlog-viewer.css">
+  <link rel="stylesheet" href="..\pesterlog-viewer.css">
   <meta charset="UTF-8">
 </head>
 <body>
 <h1>#Memo_Name | Log for YYYY-MM-DD</h1>
 <div class=memolog>
-3. Change the memo name and date to the correct one
-4. Find and replace all
+2. Change the memo name and date to the correct one
+3. Find and replace all
 <img src='smilies
 to
 <img src='../smilies
-5. Paste the following at the end of the log:
+4. Paste the following at the end of the log:
 </div>
 </body>
 </html>
