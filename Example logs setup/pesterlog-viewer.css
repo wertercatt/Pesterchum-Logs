@@ -19,11 +19,12 @@ color: #FFFFFF;
     background-color: #FFFFFF;
     border: 5px solid #3F4472;
     height: 500px;
-    width: 800px;
+    width: 48%;
     padding: 5px;
     margin-left: auto;
 	overflow: scroll;
     margin-right: auto;
+	float: center;
 }
 
 .participants {
@@ -31,7 +32,7 @@ color: #FFFFFF;
     background-color: #FFFFFF;
     border: 5px solid #3F4472;
     height: 500px;
-    width: 325px;
+    width: 23%;
     padding: 5px;
     margin-left: auto;
 	overflow: scroll;
@@ -44,11 +45,12 @@ color: #FFFFFF;
     text-align: left;
     background-color: #FFFFFF;
     border: 5px solid #3F4472;
-    height: 35px;
-    width: 500px;
+    height: 500px;
+    width: 23%;
     padding: 5px;
     margin-left: auto;
 	overflow: scroll;
     margin-right: auto;
-	white-space: nowrap
+	white-space: nowrap;
+	float: left;
 }
