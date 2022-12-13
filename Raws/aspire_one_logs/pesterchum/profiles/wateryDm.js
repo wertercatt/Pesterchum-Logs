@@ -1,0 +1,1 @@
+{"handle": "wateryDm", "color": "#28007a", "lastmood": 7, "theme": "trollian2.5", "randoms": false, "mentions": ["\\b(WD|wD|Wd)\\b"], "quirks": []}

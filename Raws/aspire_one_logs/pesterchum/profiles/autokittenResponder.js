@@ -1,0 +1,1 @@
+{"handle": "autokittenResponder", "color": "#dd1073", "lastmood": 0, "theme": "squiddlechum", "randoms": false, "mentions": ["\\b(AR|aR|Ar)\\b"], "quirks": []}

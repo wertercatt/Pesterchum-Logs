@@ -1,0 +1,1 @@
+{"color": "#000000", "lastmood": 0, "theme": "pesterchum", "quirks": [], "handle": "localDugeonmaster"}

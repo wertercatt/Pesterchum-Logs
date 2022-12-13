@@ -1,0 +1,1 @@
+{"handle": "pKatelynn", "color": "#aa557f", "lastmood": 0, "theme": "pesterchum", "randoms": false, "mentions": ["\\b(PK|pK|Pk)\\b"], "quirks": []}

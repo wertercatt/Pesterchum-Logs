@@ -1,0 +1,1 @@
+{"handle": "rebeliousWander", "color": "#00ff00", "lastmood": 0, "randoms": false, "theme": "pesterchum", "quirks": [], "mentions": ["\\b(RW|rW|Rw)\\b"]}

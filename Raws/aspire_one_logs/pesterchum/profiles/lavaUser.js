@@ -1,0 +1,1 @@
+{"handle": "lavaUser", "color": "#55007f", "lastmood": 0, "randoms": false, "theme": "pesterchum", "quirks": [], "mentions": ["\\b(LU|lU|Lu)\\b"]}

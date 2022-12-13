@@ -1,0 +1,1 @@
+{"handle": "hopelovingSpirite", "quirks": [], "color": "#1c3a0d", "lastmood": 0, "theme": "pesterchum", "randoms": false, "mentions": ["\\b(HS|hS|Hs)\\b"]}

@@ -1,0 +1,1 @@
+{"color": "#00aa00", "lastmood": 0, "theme": "pesterchum", "quirks": [], "handle": "wolftasticDoomedsprite"}

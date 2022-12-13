@@ -1,0 +1,1 @@
+{"handle": "powerKitten", "color": "#555500", "lastmood": 6, "theme": "pesterchum", "randoms": false, "mentions": ["\\b(PK|pK|Pk)\\b"], "quirks": []}

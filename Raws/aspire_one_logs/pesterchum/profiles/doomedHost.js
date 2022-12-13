@@ -1,0 +1,1 @@
+{"handle": "doomedHost", "quirks": [], "color": "#ffaa00", "lastmood": 0, "theme": "pesterchum", "randoms": false, "mentions": ["\\b(DH|dH|Dh)\\b"]}

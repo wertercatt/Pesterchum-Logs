@@ -1,0 +1,1 @@
+{"handle": "rebeliousWanderer", "color": "#00ff00", "lastmood": 7, "randoms": false, "theme": "trollian2.5", "quirks": [{"on": true, "from": "s", "type": "replace", "group": "Miscellaneous", "to": "z"}, {"on": true, "from": "e", "type": "replace", "group": "Miscellaneous", "to": "3"}], "mentions": ["\\b(RW|rW|Rw)\\b"]}

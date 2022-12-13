@@ -1,0 +1,1 @@
+{"color": "#ff0000", "lastmood": 18, "theme": "typewriter", "quirks": [], "handle": "transuniversialOfficer"}

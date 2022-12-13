@@ -1,0 +1,1 @@
+{"handle": "formChange", "color": "#000000", "lastmood": 3, "randoms": false, "theme": "MSChum", "quirks": [], "mentions": ["\\b(FC|fC|Fc)\\b"]}

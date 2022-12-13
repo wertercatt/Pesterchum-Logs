@@ -1,0 +1,1 @@
+{"color": "#ff0000", "lastmood": 0, "theme": "pesterchum", "quirks": [], "handle": "sapphireJuggernaut"}

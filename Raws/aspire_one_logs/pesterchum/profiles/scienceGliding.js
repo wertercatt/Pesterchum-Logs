@@ -1,0 +1,1 @@
+{"handle": "scienceGliding", "color": "#52a683", "lastmood": 0, "randoms": false, "theme": "pesterchum", "quirks": [], "mentions": ["\\b(SG|sG|Sg)\\b"]}

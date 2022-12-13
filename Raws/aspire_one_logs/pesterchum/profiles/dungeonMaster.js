@@ -1,0 +1,1 @@
+{"handle": "dungeonMaster", "color": "#000000", "lastmood": 16, "theme": "strifekind", "randoms": false, "mentions": ["\\b(DM|dM|Dm)\\b"], "quirks": []}

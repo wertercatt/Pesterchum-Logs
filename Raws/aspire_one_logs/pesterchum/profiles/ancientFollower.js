@@ -1,0 +1,1 @@
+{"color": "#aaaa00", "lastmood": 0, "theme": "pesterchum2.5", "quirks": [], "handle": "ancientFollower"}

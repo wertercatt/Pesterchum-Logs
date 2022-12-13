@@ -1,0 +1,1 @@
+{"handle": "scienificRoman", "quirks": [], "color": "#00ffff", "lastmood": 1, "theme": "paperchum", "randoms": false, "mentions": ["\\b(SR|sR|Sr)\\b"]}

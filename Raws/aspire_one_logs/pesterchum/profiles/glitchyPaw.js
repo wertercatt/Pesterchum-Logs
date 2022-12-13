@@ -1,0 +1,1 @@
+{"handle": "glitchyPaw", "color": "#55557f", "lastmood": 0, "theme": "pesterchum", "randoms": false, "mentions": ["\\b(GP|gP|Gp)\\b"], "quirks": []}
